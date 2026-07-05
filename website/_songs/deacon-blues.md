@@ -1,0 +1,20 @@
+---
+layout: song
+title: "Deacon Blues"
+composer: ""
+style: ""
+play_count: 6
+---
+
+# Deacon Blues
+
+Played **6** times in the live shows.
+
+| Date | Episode | Tempo | Notes |
+| --- | --- | --- | --- |
+| [11/27/2020](https://youtu.be/8W4XQTLdajk?t=2380) | #37 | 111 |  |
+| 3/1/2024 | #200 |  |  |
+| 8/2/2024 | #219 |  |  |
+| 1/31/2025 | #244 |  |  |
+| 8/1/2025 | #266 |  |  |
+| 2/6/2026 | #288 |  |  |

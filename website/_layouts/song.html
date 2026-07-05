@@ -1,0 +1,116 @@
+---
+layout: default
+---
+<style>
+  .song-header {
+    margin-bottom: 2.5rem;
+  }
+  
+  .song-title {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 800;
+    font-size: 2.8rem;
+    margin: 0 0 0.75rem 0;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+  }
+  
+  .song-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .meta-badge {
+    background-color: rgba(255, 255, 255, 0.05);
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    border: 1px solid var(--border-color);
+  }
+  
+  .meta-badge.count {
+    background: var(--accent-gradient);
+    color: white;
+    font-weight: 600;
+    border: none;
+  }
+  
+  .performance-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
+  
+  .performance-card h1, .performance-card h2, .performance-card p {
+    display: none; /* Hide double titles rendered by markdown */
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+  }
+  
+  th {
+    text-align: left;
+    color: var(--text-secondary);
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 1rem;
+    border-bottom: 2px solid var(--border-color);
+  }
+  
+  td {
+    padding: 1.1rem 1rem;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 0.95rem;
+  }
+  
+  tr:last-child td {
+    border-bottom: none;
+  }
+  
+  tr:hover td {
+    background-color: rgba(255, 255, 255, 0.015);
+  }
+  
+  td a {
+    color: var(--accent-hover);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.15s ease;
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  td a:hover {
+    color: var(--text-primary);
+    text-decoration: underline;
+  }
+</style>
+
+<div class="song-header">
+  <h1 class="song-title">{{ page.title }}</h1>
+  <div class="song-meta">
+    {% if page.composer and page.composer != "" %}
+      <span class="meta-badge">Composer: {{ page.composer }}</span>
+    {% endif %}
+    {% if page.style and page.style != "" %}
+      <span class="meta-badge">Style: {{ page.style }}</span>
+    {% endif %}
+    <span class="meta-badge count">Played {{ page.play_count }} times</span>
+  </div>
+</div>
+
+<div class="performance-card">
+  {{ content }}
+</div>

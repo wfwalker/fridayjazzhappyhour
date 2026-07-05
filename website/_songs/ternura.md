@@ -1,0 +1,20 @@
+---
+layout: song
+title: "Ternura"
+composer: ""
+style: ""
+play_count: 6
+---
+
+# Ternura
+
+Played **6** times in the live shows.
+
+| Date | Episode | Tempo | Notes |
+| --- | --- | --- | --- |
+| 11/17/2023 | #187 |  |  |
+| 4/19/2024 | #205 |  |  |
+| 9/13/2024 | #224 |  |  |
+| 1/24/2025 | #243 |  |  |
+| 5/30/2025 | #258 |  |  |
+| 8/22/2025 | #269 |  |  |

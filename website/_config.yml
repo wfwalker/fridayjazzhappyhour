@@ -1,0 +1,6 @@
+title: "FJHH Live Stream Archive"
+description: "Chronological log and search index of songs performed during Bill Walker's live stream improvisations."
+collections:
+  songs:
+    output: true
+    permalink: /songs/:path/

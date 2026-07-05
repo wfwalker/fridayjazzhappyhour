@@ -1,0 +1,16 @@
+---
+layout: song
+title: "Some other time"
+composer: ""
+style: ""
+play_count: 2
+---
+
+# Some other time
+
+Played **2** times in the live shows.
+
+| Date | Episode | Tempo | Notes |
+| --- | --- | --- | --- |
+| [7/21/2023](https://youtube.com/live/ElbkjWw665s?t=2662) | #172 |  |  |
+| 8/8/2025 | #267 |  |  |
