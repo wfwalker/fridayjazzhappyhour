@@ -1,0 +1,31 @@
+---
+layout: episode
+title: "Show (9/29/2023)"
+episode_number: ""
+date_string: "9/29/2023"
+date: 2023-09-29
+song_count: 15
+youtube_url: ""
+---
+
+# Show (9/29/2023)
+
+### Set List
+
+| # | Song | Time | Style | Notes |
+| --- | --- | --- | --- | --- |
+| 1 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) |  |  |  |
+| 2 | [Give me the Night]({{ '/songs/' | relative_url }}give-me-the-night/) |  |  |  |
+| 3 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) |  |  |  |
+| 4 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) |  |  |  |
+| 5 | [Axel F]({{ '/songs/' | relative_url }}axel-f/) |  |  |  |
+| 6 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) |  |  |  |
+| 7 | [Sing Sing Sing]({{ '/songs/' | relative_url }}sing-sing-sing/) |  |  |  |
+| 8 | [Zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) |  |  |  |
+| 9 | [Jean Pierre in Egypt]({{ '/songs/' | relative_url }}jean-pierre-in-egypt/) |  |  |  |
+| 10 | [Some Other Funk]({{ '/songs/' | relative_url }}some-other-funk/) |  |  |  |
+| 11 | [Rise]({{ '/songs/' | relative_url }}rise/) |  |  |  |
+| 12 | [Root Down (and Get it)]({{ '/songs/' | relative_url }}root-down-and-get-it/) |  |  |  |
+| 13 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) |  |  |  |
+| 14 | [Impressions]({{ '/songs/' | relative_url }}impressions/) |  |  |  |
+| 15 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) |  |  |  |

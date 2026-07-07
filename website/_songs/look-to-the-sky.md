@@ -12,19 +12,19 @@ Played **16** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| [3/19/2021](https://youtu.be/ZgfrgSTJNSo?t=205) | #53 | 138 |  |
-| [6/25/2021](https://youtu.be/BVJuigptxSA?t=2087) | #67 |  |  |
-| [8/20/2021](https://youtu.be/wIeo7pq_84U?t=3270) | #75 |  | spontaneous arrangement ideas, nice |
-| [10/15/2021](https://youtu.be/txLo5jOwNGU?t=750) | #83 |  | like the dub echoes |
-| [12/17/2021](https://youtu.be/-MgcGR7PIMg?t=594) | #92 |  |  |
-| [3/25/2022](https://youtu.be/-yO13Zr2O50?t=73) | #106 |  |  |
-| [7/22/2022](https://youtu.be/D42v7I8kocA?t=108) | #123 |  |  |
-| [9/30/2022](https://youtu.be/B3o-4sC6Z6w?t=1720) | #133 |  |  |
-| [2/17/2023](https://youtube.com/live/Lfke1fj6Wh0?t=268) | #150 |  |  |
-| [8/18/2023](https://youtu.be/MIwLmoFc8Dk?t=715) | #176 |  |  |
-| 1/19/2024 | #196 |  |  |
-| 7/19/2024 | #150 |  |  |
-| [8/23/2024](https://youtu.be/wIeo7pq_84U?t=3270) | #75 |  | spontaneous arrangement ideas, nice |
-| 2/28/2025 | #248 |  |  |
-| 8/8/2025 | #267 |  |  |
-| 4/17/2026 | #295 |  |  |
+| [3/19/2021](https://youtu.be/ZgfrgSTJNSo?t=205) | [#53]({{ '/episodes/' | relative_url }}episode-53/) | 138 |  |
+| [6/25/2021](https://youtu.be/BVJuigptxSA?t=2087) | [#67]({{ '/episodes/' | relative_url }}episode-67/) |  |  |
+| [8/20/2021](https://youtu.be/wIeo7pq_84U?t=3270) | [#75]({{ '/episodes/' | relative_url }}episode-75/) |  | spontaneous arrangement ideas, nice |
+| [10/15/2021](https://youtu.be/txLo5jOwNGU?t=750) | [#83]({{ '/episodes/' | relative_url }}episode-83/) |  | like the dub echoes |
+| [12/17/2021](https://youtu.be/-MgcGR7PIMg?t=594) | [#92]({{ '/episodes/' | relative_url }}episode-92/) |  |  |
+| [3/25/2022](https://youtu.be/-yO13Zr2O50?t=73) | [#106]({{ '/episodes/' | relative_url }}episode-106/) |  |  |
+| [7/22/2022](https://youtu.be/D42v7I8kocA?t=108) | [#123]({{ '/episodes/' | relative_url }}episode-123/) |  |  |
+| [9/30/2022](https://youtu.be/B3o-4sC6Z6w?t=1720) | [#133]({{ '/episodes/' | relative_url }}episode-133/) |  |  |
+| [2/17/2023](https://youtube.com/live/Lfke1fj6Wh0?t=268) | [#150]({{ '/episodes/' | relative_url }}episode-150/) |  |  |
+| [8/18/2023](https://youtu.be/MIwLmoFc8Dk?t=715) | [#176]({{ '/episodes/' | relative_url }}episode-176/) |  |  |
+| 1/19/2024 | [#196]({{ '/episodes/' | relative_url }}episode-196/) |  |  |
+| 7/19/2024 | [#150]({{ '/episodes/' | relative_url }}episode-150-rerun-7192024/) |  |  |
+| [8/23/2024](https://youtu.be/wIeo7pq_84U?t=3270) | [#75]({{ '/episodes/' | relative_url }}episode-75-rerun-8232024/) |  | spontaneous arrangement ideas, nice |
+| 2/28/2025 | [#248]({{ '/episodes/' | relative_url }}episode-248/) |  |  |
+| 8/8/2025 | [#267]({{ '/episodes/' | relative_url }}episode-267/) |  |  |
+| 4/17/2026 | [#295]({{ '/episodes/' | relative_url }}episode-295/) |  |  |

@@ -12,9 +12,9 @@ Played **6** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| [5/29/2020](https://youtu.be/4UMdp7mQUrM?t=1554) | #11 |  |  |
-| 7/5/2024 | #216 |  |  |
-| 3/14/2025 | #249 |  |  |
-| 6/27/2025 | #262 |  |  |
-| 11/21/2025 | #278 |  |  |
-| 5/15/2026 | #298 |  |  |
+| [5/29/2020](https://youtu.be/4UMdp7mQUrM?t=1554) | [#11]({{ '/episodes/' | relative_url }}episode-11/) |  |  |
+| 7/5/2024 | [#216]({{ '/episodes/' | relative_url }}episode-216/) |  |  |
+| 3/14/2025 | [#249]({{ '/episodes/' | relative_url }}episode-249/) |  |  |
+| 6/27/2025 | [#262]({{ '/episodes/' | relative_url }}episode-262/) |  |  |
+| 11/21/2025 | [#278]({{ '/episodes/' | relative_url }}episode-278/) |  |  |
+| 5/15/2026 | [#298]({{ '/episodes/' | relative_url }}episode-298/) |  |  |

@@ -1,0 +1,27 @@
+---
+layout: episode
+title: "Episode 172 (7/21/2023)"
+episode_number: "172"
+date_string: "7/21/2023"
+date: 2023-07-21
+song_count: 9
+youtube_url: "https://youtube.com/live/ElbkjWw665s"
+---
+
+# Episode 172 (7/21/2023)
+
+[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/ElbkjWw665s)
+
+### Set List
+
+| # | Song | Time | Style | Notes |
+| --- | --- | --- | --- | --- |
+| 1 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) | [04:28](https://youtube.com/live/ElbkjWw665s?t=268) |  |  |
+| 2 | [Well You Needn’t]({{ '/songs/' | relative_url }}well-you-neednt/) | [11:55](https://youtube.com/live/ElbkjWw665s?t=715) |  |  |
+| 3 | [Very Early]({{ '/songs/' | relative_url }}very-early/) | [19:18](https://youtube.com/live/ElbkjWw665s?t=1158) |  |  |
+| 4 | [Morning]({{ '/songs/' | relative_url }}morning/) | [25:33](https://youtube.com/live/ElbkjWw665s?t=1533) |  |  |
+| 5 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) | [30:59](https://youtube.com/live/ElbkjWw665s?t=1859) |  |  |
+| 6 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) | [37:20](https://youtube.com/live/ElbkjWw665s?t=2240) |  |  |
+| 7 | [Some other time]({{ '/songs/' | relative_url }}some-other-time/) | [44:22](https://youtube.com/live/ElbkjWw665s?t=2662) |  |  |
+| 8 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [50:23](https://youtube.com/live/ElbkjWw665s?t=3023) |  |  |
+| 9 | [CQ]({{ '/songs/' | relative_url }}cq/) |  |  |  |

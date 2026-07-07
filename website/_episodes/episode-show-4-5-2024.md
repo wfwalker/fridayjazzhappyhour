@@ -1,0 +1,27 @@
+---
+layout: episode
+title: "Show (4/5/2024)"
+episode_number: ""
+date_string: "4/5/2024"
+date: 2024-04-05
+song_count: 11
+youtube_url: ""
+---
+
+# Show (4/5/2024)
+
+### Set List
+
+| # | Song | Time | Style | Notes |
+| --- | --- | --- | --- | --- |
+| 1 | [Time After Time]({{ '/songs/' | relative_url }}time-after-time/) |  |  |  |
+| 2 | [With or Without You]({{ '/songs/' | relative_url }}with-or-without-you/) |  |  |  |
+| 3 | [Coming Home]({{ '/songs/' | relative_url }}coming-home/) |  |  |  |
+| 4 | [Solsbury Hill]({{ '/songs/' | relative_url }}solsbury-hill/) |  |  |  |
+| 5 | [Umbrella]({{ '/songs/' | relative_url }}umbrella/) |  |  |  |
+| 6 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) |  |  |  |
+| 7 | [Hi-Lili, Hi-Lo]({{ '/songs/' | relative_url }}hi-lili-hi-lo/) |  |  |  |
+| 8 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) |  |  |  |
+| 9 | [Lovesong]({{ '/songs/' | relative_url }}lovesong/) |  |  |  |
+| 10 | [Take Me To the River]({{ '/songs/' | relative_url }}take-me-to-the-river/) |  |  |  |
+| 11 | [Pinnacles (Abscission Day)]({{ '/one-offs.html' | relative_url }}#pinnacles-abscission-day) |  |  |  |

@@ -1,0 +1,17 @@
+---
+layout: episode
+title: "Show (3/20/2026)"
+episode_number: ""
+date_string: "3/20/2026"
+date: 2026-03-20
+song_count: 1
+youtube_url: ""
+---
+
+# Show (3/20/2026)
+
+### Set List
+
+| # | Song | Time | Style | Notes |
+| --- | --- | --- | --- | --- |
+| 7 | [Euclidian Dub Techno]({{ '/one-offs.html' | relative_url }}#euclidian-dub-techno) |  |  |  |

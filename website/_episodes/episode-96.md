@@ -1,0 +1,26 @@
+---
+layout: episode
+title: "Episode 96 (1/14/2022)"
+episode_number: "96"
+date_string: "1/14/2022"
+date: 2022-01-14
+song_count: 8
+youtube_url: "https://youtu.be/VAUYw5v0RiQ"
+---
+
+# Episode 96 (1/14/2022)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/VAUYw5v0RiQ)
+
+### Set List
+
+| # | Song | Time | Style | Notes |
+| --- | --- | --- | --- | --- |
+| 1 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [04:10](https://youtu.be/VAUYw5v0RiQ?t=250) |  |  |
+| 2 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) | [10:16](https://youtu.be/VAUYw5v0RiQ?t=616) |  |  |
+| 3 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) | [16:37](https://youtu.be/VAUYw5v0RiQ?t=997) |  |  |
+| 4 | [Sugar]({{ '/songs/' | relative_url }}sugar/) | [26:20](https://youtu.be/VAUYw5v0RiQ?t=1580) |  |  |
+| 5 | [Dindi]({{ '/songs/' | relative_url }}dindi/) | [32:21](https://youtu.be/VAUYw5v0RiQ?t=1941) |  | change sounds at bridge! |
+| 6 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) | [39:55](https://youtu.be/VAUYw5v0RiQ?t=2395) |  | less is more! |
+| 7 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) | [46:15](https://youtu.be/VAUYw5v0RiQ?t=2775) |  |  |
+| 8 | [VCV Ambient]({{ '/songs/' | relative_url }}vcv-ambient/) | [56:45](https://youtu.be/VAUYw5v0RiQ?t=3405) |  |  |

@@ -1,0 +1,24 @@
+---
+layout: episode
+title: "Episode 246 (2/14/2025)"
+episode_number: "246"
+date_string: "2/14/2025"
+date: 2025-02-14
+song_count: 8
+youtube_url: ""
+---
+
+# Episode 246 (2/14/2025)
+
+### Set List
+
+| # | Song | Time | Style | Notes |
+| --- | --- | --- | --- | --- |
+| 1 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) |  |  |  |
+| 2 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) |  |  |  |
+| 3 | [Au Privave]({{ '/songs/' | relative_url }}au-privave/) |  |  |  |
+| 4 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) |  |  |  |
+| 5 | [Time Remembered]({{ '/songs/' | relative_url }}time-remembered/) |  |  |  |
+| 6 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) |  |  |  |
+| 7 | [Sing Sing Sing]({{ '/songs/' | relative_url }}sing-sing-sing/) |  |  |  |
+| 8 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) |  |  |  |

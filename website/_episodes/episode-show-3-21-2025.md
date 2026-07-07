@@ -1,0 +1,27 @@
+---
+layout: episode
+title: "Show (3/21/2025)"
+episode_number: ""
+date_string: "3/21/2025"
+date: 2025-03-21
+song_count: 11
+youtube_url: ""
+---
+
+# Show (3/21/2025)
+
+### Set List
+
+| # | Song | Time | Style | Notes |
+| --- | --- | --- | --- | --- |
+| 1 | [A Foggy Day (in London Town)]({{ '/songs/' | relative_url }}a-foggy-day-in-london-town/) |  |  |  |
+| 2 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) |  |  |  |
+| 3 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) |  |  |  |
+| 4 | [Caravan]({{ '/songs/' | relative_url }}caravan/) |  |  |  |
+| 5 | [Desafinado]({{ '/songs/' | relative_url }}desafinado/) |  |  |  |
+| 6 | [Footprints]({{ '/songs/' | relative_url }}footprints/) |  |  |  |
+| 7 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) |  |  |  |
+| 8 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) |  |  |  |
+| 9 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) |  |  |  |
+| 10 | [Isn't it Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) |  |  |  |
+| 11 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) |  |  |  |

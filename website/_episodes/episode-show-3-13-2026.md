@@ -1,0 +1,17 @@
+---
+layout: episode
+title: "Show (3/13/2026)"
+episode_number: ""
+date_string: "3/13/2026"
+date: 2026-03-13
+song_count: 1
+youtube_url: ""
+---
+
+# Show (3/13/2026)
+
+### Set List
+
+| # | Song | Time | Style | Notes |
+| --- | --- | --- | --- | --- |
+| 6 | [Arpeggios for Lent, meditation on "Wilderness"]({{ '/one-offs.html' | relative_url }}#arpeggios-for-lent-meditation-on-wilderness) |  |  |  |

@@ -4,3 +4,6 @@ collections:
   songs:
     output: true
     permalink: /songs/:path/
+  episodes:
+    output: true
+    permalink: /episodes/:path/

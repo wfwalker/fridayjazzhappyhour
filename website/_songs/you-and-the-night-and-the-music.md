@@ -12,10 +12,10 @@ Played **7** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| [10/23/2020](https://youtu.be/fk8JSTyNEfM?t=1790) | #32 | 143 |  |
-| [9/3/2021](https://youtu.be/Rg_ZLaPOj64?t=3307) | #77 |  |  |
-| [11/12/2021](https://youtu.be/BLyftIJ9xhI?t=3162) | #87 |  |  |
-| [4/29/2022](https://youtu.be/leI4x1fedrQ?t=3225) | #111 |  | nice |
-| [8/12/2022](https://youtu.be/-mLt1LbOZ8Y?t=3200) | #126 |  |  |
-| 11/1/2024 | #231 |  |  |
-| 9/19/2025 | #272 |  |  |
+| [10/23/2020](https://youtu.be/fk8JSTyNEfM?t=1790) | [#32]({{ '/episodes/' | relative_url }}episode-32/) | 143 |  |
+| [9/3/2021](https://youtu.be/Rg_ZLaPOj64?t=3307) | [#77]({{ '/episodes/' | relative_url }}episode-77/) |  |  |
+| [11/12/2021](https://youtu.be/BLyftIJ9xhI?t=3162) | [#87]({{ '/episodes/' | relative_url }}episode-87/) |  |  |
+| [4/29/2022](https://youtu.be/leI4x1fedrQ?t=3225) | [#111]({{ '/episodes/' | relative_url }}episode-111/) |  | nice |
+| [8/12/2022](https://youtu.be/-mLt1LbOZ8Y?t=3200) | [#126]({{ '/episodes/' | relative_url }}episode-126/) |  |  |
+| 11/1/2024 | [#231]({{ '/episodes/' | relative_url }}episode-231/) |  |  |
+| 9/19/2025 | [#272]({{ '/episodes/' | relative_url }}episode-272/) |  |  |

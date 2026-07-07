@@ -1,0 +1,18 @@
+---
+layout: episode
+title: "Show (10/3/2025)"
+episode_number: ""
+date_string: "10/3/2025"
+date: 2025-10-03
+song_count: 2
+youtube_url: ""
+---
+
+# Show (10/3/2025)
+
+### Set List
+
+| # | Song | Time | Style | Notes |
+| --- | --- | --- | --- | --- |
+| 1 | [Modular Impov: Allegro]({{ '/one-offs.html' | relative_url }}#modular-impov-allegro) |  |  |  |
+| 10 | [Modular Impov: Lento]({{ '/one-offs.html' | relative_url }}#modular-impov-lento) |  |  |  |
