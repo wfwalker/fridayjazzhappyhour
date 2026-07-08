@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Let It Snow"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # Let It Snow

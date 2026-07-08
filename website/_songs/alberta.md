@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Alberta"
 composer: "Bill Walker"
 style: "pop"
-play_count: 15
+play_count: "15"
 ---
 
 # Alberta

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Mambo Inn"
 composer: ""
 style: ""
-play_count: 13
+play_count: "13"
 ---
 
 # Mambo Inn

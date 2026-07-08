@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Summertime"
 composer: ""
 style: "Funk"
-play_count: 12
+play_count: "12"
 ---
 
 # Summertime

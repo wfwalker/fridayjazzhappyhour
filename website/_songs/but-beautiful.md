@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "But Beautiful"
 composer: "Jimmy Van Heusen"
 style: "ballad"
-play_count: 2
+play_count: "2"
 ---
 
 # But Beautiful

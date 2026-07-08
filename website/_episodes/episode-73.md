@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 73 (8/6/2021)"
 episode_number: "73"
 date_string: "8/6/2021"
-date: 2021-08-06
-song_count: 9
+date: "2021-08-06"
+song_count: "9"
 rerun: false
 youtube_url: "https://youtu.be/WOvFSmKeHH4"
+image: "/assets/images/title-slides/episode-73.jpg"
 ---
 
 # Episode 73 (8/6/2021)

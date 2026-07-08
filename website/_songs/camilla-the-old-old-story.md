@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Camilla (the Old, Old story)"
 composer: "Art of Noise"
 style: "pop"
-play_count: 17
+play_count: "17"
 ---
 
 # Camilla (the Old, Old story)

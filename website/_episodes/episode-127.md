@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 127 (8/19/2022)"
 episode_number: "127"
 date_string: "8/19/2022"
-date: 2022-08-19
-song_count: 8
+date: "2022-08-19"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/VXmjfiJz2ZM"
+image: "/assets/images/title-slides/episode-127.jpg"
 ---
 
 # Episode 127 (8/19/2022)

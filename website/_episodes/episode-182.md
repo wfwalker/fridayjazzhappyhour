@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 182 (10/13/2023)"
 episode_number: "182"
 date_string: "10/13/2023"
-date: 2023-10-13
-song_count: 8
+date: "2023-10-13"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/3gn7cZOMOqA"
+image: "/assets/images/title-slides/episode-182.jpg"
 ---
 
 # Episode 182 (10/13/2023)

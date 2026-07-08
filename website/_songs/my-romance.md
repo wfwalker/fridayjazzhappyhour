@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "My Romance"
 composer: ""
 style: ""
-play_count: 12
+play_count: "12"
 ---
 
 # My Romance

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "De Volta Ao Samba"
 composer: ""
 style: ""
-play_count: 10
+play_count: "10"
 ---
 
 # De Volta Ao Samba

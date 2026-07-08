@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 274 (10/10/2025)"
 episode_number: "274"
 date_string: "10/10/2025"
-date: 2025-10-10
-song_count: 8
+date: "2025-10-10"
+song_count: "8"
 rerun: false
 youtube_url: ""
+image: "/assets/images/title-slides/episode-274.jpg"
 ---
 
 # Episode 274 (10/10/2025)

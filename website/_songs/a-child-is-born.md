@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "A Child is Born"
 composer: ""
 style: "ballad"
-play_count: 11
+play_count: "11"
 ---
 
 # A Child is Born

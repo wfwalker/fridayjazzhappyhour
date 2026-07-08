@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Nana"
 composer: ""
 style: ""
-play_count: 3
+play_count: "3"
 ---
 
 # Nana

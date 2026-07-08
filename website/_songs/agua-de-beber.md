@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Agua de Beber"
 composer: "Jobim"
 style: "bossa"
-play_count: 8
+play_count: "8"
 ---
 
 # Agua de Beber

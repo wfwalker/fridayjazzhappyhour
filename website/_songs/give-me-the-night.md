@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Give me the Night"
 composer: ""
 style: ""
-play_count: 9
+play_count: "9"
 ---
 
 # Give me the Night

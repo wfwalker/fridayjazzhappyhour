@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 52 (3/12/2021)"
 episode_number: "52"
 date_string: "3/12/2021"
-date: 2021-03-12
-song_count: 8
+date: "2021-03-12"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/lrD9RxOWutM"
+image: "/assets/images/title-slides/episode-52.jpg"
 ---
 
 # Episode 52 (3/12/2021)

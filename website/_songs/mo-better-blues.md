@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Mo Better Blues"
 composer: ""
 style: ""
-play_count: 12
+play_count: "12"
 ---
 
 # Mo Better Blues

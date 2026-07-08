@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 136 (10/21/2022)"
 episode_number: "136"
 date_string: "10/21/2022"
-date: 2022-10-21
-song_count: 8
+date: "2022-10-21"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/EjTzhzPyVGo"
+image: "/assets/images/title-slides/episode-136.jpg"
 ---
 
 # Episode 136 (10/21/2022)

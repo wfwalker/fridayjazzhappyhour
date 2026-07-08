@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 109 (4/15/2022)"
 episode_number: "109"
 date_string: "4/15/2022"
-date: 2022-04-15
-song_count: 7
+date: "2022-04-15"
+song_count: "7"
 rerun: false
 youtube_url: "https://youtu.be/ie-BmPj4-rQ"
+image: "/assets/images/title-slides/episode-109.jpg"
 ---
 
 # Episode 109 (4/15/2022)

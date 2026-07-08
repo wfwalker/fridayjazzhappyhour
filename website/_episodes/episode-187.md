@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 187 (11/17/2023)"
 episode_number: "187"
 date_string: "11/17/2023"
-date: 2023-11-17
-song_count: 8
+date: "2023-11-17"
+song_count: "8"
 rerun: false
 youtube_url: ""
+image: "/assets/images/title-slides/episode-187.jpg"
 ---
 
 # Episode 187 (11/17/2023)

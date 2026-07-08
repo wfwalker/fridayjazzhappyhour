@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Gee Baby, Ain’t I Good to You"
 composer: "Andy Razaf"
 style: ""
-play_count: 8
+play_count: "8"
 ---
 
 # Gee Baby, Ain’t I Good to You

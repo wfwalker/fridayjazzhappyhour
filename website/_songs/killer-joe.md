@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Killer Joe"
 composer: "Benny Golson"
 style: "swing"
-play_count: 4
+play_count: "4"
 ---
 
 # Killer Joe

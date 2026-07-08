@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Mercy, Mercy, Mercy"
 composer: ""
 style: "Funk"
-play_count: 15
+play_count: "15"
 ---
 
 # Mercy, Mercy, Mercy

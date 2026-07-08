@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Seven Steps to Heaven"
 composer: ""
 style: "Reggae"
-play_count: 8
+play_count: "8"
 ---
 
 # Seven Steps to Heaven

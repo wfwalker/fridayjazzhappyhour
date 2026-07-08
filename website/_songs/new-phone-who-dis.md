@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "New Phone Who Dis"
 composer: "Bill Walker"
 style: "techno"
-play_count: 10
+play_count: "10"
 ---
 
 # New Phone Who Dis

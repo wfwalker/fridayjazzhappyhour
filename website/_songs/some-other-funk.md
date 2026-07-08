@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Some Other Funk"
 composer: ""
 style: ""
-play_count: 12
+play_count: "12"
 ---
 
 # Some Other Funk

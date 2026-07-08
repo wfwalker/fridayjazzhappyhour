@@ -1,10 +1,10 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 183 (10/20/2023)"
 episode_number: "183"
 date_string: "10/20/2023"
-date: 2023-10-20
-song_count: 8
+date: "2023-10-20"
+song_count: "8"
 rerun: false
 youtube_url: ""
 ---

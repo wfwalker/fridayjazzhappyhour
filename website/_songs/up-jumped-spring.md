@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Up Jumped Spring"
 composer: "Freddie Hubbard"
 style: "swing"
-play_count: 6
+play_count: "6"
 ---
 
 # Up Jumped Spring

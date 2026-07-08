@@ -1,12 +1,12 @@
 ---
-layout: song
-title: "With or without you"
+layout: "song"
+title: "With or Without you"
 composer: "U2"
 style: "pop"
-play_count: 5
+play_count: "5"
 ---
 
-# With or without you
+# With or Without you
 
 Played **5** times in the live shows.
 

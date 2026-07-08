@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "NovembeRain"
 composer: "Bill Walker"
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # NovembeRain

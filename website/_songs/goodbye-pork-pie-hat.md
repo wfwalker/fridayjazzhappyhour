@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Goodbye Pork Pie Hat"
 composer: ""
 style: ""
-play_count: 7
+play_count: "7"
 ---
 
 # Goodbye Pork Pie Hat

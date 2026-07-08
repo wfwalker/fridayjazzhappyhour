@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 86 (11/5/2021)"
 episode_number: "86"
 date_string: "11/5/2021"
-date: 2021-11-05
-song_count: 8
+date: "2021-11-05"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/iRH85IdbcpY"
+image: "/assets/images/title-slides/episode-86.jpg"
 ---
 
 # Episode 86 (11/5/2021)

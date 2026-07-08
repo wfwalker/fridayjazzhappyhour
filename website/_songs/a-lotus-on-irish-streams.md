@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "A Lotus on Irish Streams"
 composer: "John McLaughlin"
 style: "ballad"
-play_count: 7
+play_count: "7"
 ---
 
 # A Lotus on Irish Streams

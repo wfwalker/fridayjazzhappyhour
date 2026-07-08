@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Have yourself a Merry Little Christmas"
 composer: ""
 style: ""
-play_count: 5
+play_count: "5"
 ---
 
 # Have yourself a Merry Little Christmas

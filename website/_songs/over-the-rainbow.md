@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Over the Rainbow"
 composer: "Harold Arlen"
 style: "ballad"
-play_count: 9
+play_count: "9"
 ---
 
 # Over the Rainbow

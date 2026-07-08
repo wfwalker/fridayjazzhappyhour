@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 129 (9/8/2023) (Rerun)"
 episode_number: "129"
 date_string: "9/8/2023"
-date: 2023-09-08
-song_count: 8
+date: "2023-09-08"
+song_count: "8"
 rerun: true
 youtube_url: "https://youtu.be/bIdPZtsIf-M"
+image: "/assets/images/title-slides/episode-129-rerun-982023.jpg"
 ---
 
 # Episode 129 (9/8/2023) (Rerun)

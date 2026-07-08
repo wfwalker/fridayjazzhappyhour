@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "I could write a book"
 composer: "Rogers and Hart"
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # I could write a book

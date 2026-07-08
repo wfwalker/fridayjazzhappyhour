@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Stella by Starlight"
 composer: ""
 style: ""
-play_count: 12
+play_count: "12"
 ---
 
 # Stella by Starlight

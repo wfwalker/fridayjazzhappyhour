@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Beat 70"
 composer: ""
 style: ""
-play_count: 8
+play_count: "8"
 ---
 
 # Beat 70

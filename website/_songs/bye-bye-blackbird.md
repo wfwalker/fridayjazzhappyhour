@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Bye Bye Blackbird"
 composer: ""
 style: ""
-play_count: 12
+play_count: "12"
 ---
 
 # Bye Bye Blackbird

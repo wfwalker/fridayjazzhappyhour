@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Look of Love"
 composer: ""
 style: ""
-play_count: 7
+play_count: "7"
 ---
 
 # Look of Love

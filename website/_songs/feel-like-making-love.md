@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Feel Like Making Love"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # Feel Like Making Love

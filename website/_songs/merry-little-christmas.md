@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Merry Little Christmas"
 composer: ""
 style: ""
-play_count: 4
+play_count: "4"
 ---
 
 # Merry Little Christmas

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Crystal Silence"
 composer: "Chick Corea"
 style: "ballad"
-play_count: 3
+play_count: "3"
 ---
 
 # Crystal Silence

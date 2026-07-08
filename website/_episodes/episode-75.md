@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 75 (8/20/2021)"
 episode_number: "75"
 date_string: "8/20/2021"
-date: 2021-08-20
-song_count: 8
+date: "2021-08-20"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/wIeo7pq_84U"
+image: "/assets/images/title-slides/episode-75.jpg"
 ---
 
 # Episode 75 (8/20/2021)

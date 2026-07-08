@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 41 (12/25/2020)"
 episode_number: "41"
 date_string: "12/25/2020"
-date: 2020-12-25
-song_count: 10
+date: "2020-12-25"
+song_count: "10"
 rerun: false
 youtube_url: "https://youtu.be/G-HJYWxotdo"
+image: "/assets/images/title-slides/episode-41.jpg"
 ---
 
 # Episode 41 (12/25/2020)

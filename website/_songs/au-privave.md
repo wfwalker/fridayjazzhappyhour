@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Au Privave"
 composer: ""
 style: "Swing"
-play_count: 10
+play_count: "10"
 ---
 
 # Au Privave

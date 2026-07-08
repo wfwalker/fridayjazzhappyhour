@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Emotional Weather Report"
 composer: "Tom Waits"
 style: "swing"
-play_count: 2
+play_count: "2"
 ---
 
 # Emotional Weather Report

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Sister Sadie"
 composer: "Horace Silver"
 style: "swing"
-play_count: 8
+play_count: "8"
 ---
 
 # Sister Sadie

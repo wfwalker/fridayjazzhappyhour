@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 75 (8/23/2024) (Rerun)"
 episode_number: "75"
 date_string: "8/23/2024"
-date: 2024-08-23
-song_count: 8
+date: "2024-08-23"
+song_count: "8"
 rerun: true
 youtube_url: "https://youtu.be/wIeo7pq_84U"
+image: "/assets/images/title-slides/episode-75-rerun-8232024.jpg"
 ---
 
 # Episode 75 (8/23/2024) (Rerun)

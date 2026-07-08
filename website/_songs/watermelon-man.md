@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Watermelon Man"
 composer: "Herbie Hancock"
 style: "latin"
-play_count: 13
+play_count: "13"
 ---
 
 # Watermelon Man

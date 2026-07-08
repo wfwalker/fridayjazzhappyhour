@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Deacon Blues"
 composer: ""
 style: ""
-play_count: 6
+play_count: "6"
 ---
 
 # Deacon Blues

@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 59 (4/30/2021)"
 episode_number: "59"
 date_string: "4/30/2021"
-date: 2021-04-30
-song_count: 8
+date: "2021-04-30"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/ItLGYec3rkE"
+image: "/assets/images/title-slides/episode-59.jpg"
 ---
 
 # Episode 59 (4/30/2021)

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Black Orpheus (Manha de Carnaval)"
 composer: "Luiz Bonfa"
 style: "bossa"
-play_count: 14
+play_count: "14"
 ---
 
 # Black Orpheus (Manha de Carnaval)

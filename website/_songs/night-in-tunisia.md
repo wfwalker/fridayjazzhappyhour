@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Night in Tunisia"
 composer: "Dizzy Gillespie"
 style: "Latin"
-play_count: 15
+play_count: "15"
 ---
 
 # Night in Tunisia

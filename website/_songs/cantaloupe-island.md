@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Cantaloupe Island"
 composer: "Herbie Hancock"
 style: "funk"
-play_count: 13
+play_count: "13"
 ---
 
 # Cantaloupe Island

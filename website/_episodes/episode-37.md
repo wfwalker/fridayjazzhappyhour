@@ -1,10 +1,10 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 37 (11/27/2020)"
 episode_number: "37"
 date_string: "11/27/2020"
-date: 2020-11-27
-song_count: 9
+date: "2020-11-27"
+song_count: "9"
 rerun: false
 youtube_url: "https://youtu.be/8W4XQTLdajk"
 ---

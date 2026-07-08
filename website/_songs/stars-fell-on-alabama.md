@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Stars Fell on Alabama"
 composer: ""
 style: "swing"
-play_count: 12
+play_count: "12"
 ---
 
 # Stars Fell on Alabama

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Road Song"
 composer: "Wes Montgomery"
 style: "funk"
-play_count: 13
+play_count: "13"
 ---
 
 # Road Song

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "My Funny Valentine"
 composer: "Rogers and Hart"
 style: ""
-play_count: 15
+play_count: "15"
 ---
 
 # My Funny Valentine

@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 162 (5/12/2023)"
 episode_number: "162"
 date_string: "5/12/2023"
-date: 2023-05-12
-song_count: 8
+date: "2023-05-12"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/GGa7s8I0Gzc"
+image: "/assets/images/title-slides/episode-162.jpg"
 ---
 
 # Episode 162 (5/12/2023)

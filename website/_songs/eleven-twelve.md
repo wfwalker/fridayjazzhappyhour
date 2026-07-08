@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Eleven Twelve"
 composer: ""
 style: "Funk"
-play_count: 16
+play_count: "16"
 ---
 
 # Eleven Twelve

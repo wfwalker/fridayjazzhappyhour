@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "God Rest Ye Merry Gentlemen"
 composer: ""
 style: ""
-play_count: 4
+play_count: "4"
 ---
 
 # God Rest Ye Merry Gentlemen

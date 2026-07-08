@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 113 (5/13/2022)"
 episode_number: "113"
 date_string: "5/13/2022"
-date: 2022-05-13
-song_count: 8
+date: "2022-05-13"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/nAFvdIaHBQc"
+image: "/assets/images/title-slides/episode-113.jpg"
 ---
 
 # Episode 113 (5/13/2022)

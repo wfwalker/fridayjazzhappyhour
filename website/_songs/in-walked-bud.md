@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "In walked Bud"
 composer: "Thelonius Monk"
 style: "funk"
-play_count: 2
+play_count: "2"
 ---
 
 # In walked Bud

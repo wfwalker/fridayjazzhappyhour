@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "So Danco Samba"
 composer: ""
 style: ""
-play_count: 11
+play_count: "11"
 ---
 
 # So Danco Samba

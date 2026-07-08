@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Pendulums"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # Pendulums

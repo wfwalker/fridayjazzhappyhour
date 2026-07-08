@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Swim Shebang"
 composer: "Bill Walker"
 style: "Funk"
-play_count: 15
+play_count: "15"
 ---
 
 # Swim Shebang

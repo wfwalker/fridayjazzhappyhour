@@ -1,10 +1,10 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 267 (8/8/2025)"
 episode_number: "267"
 date_string: "8/8/2025"
-date: 2025-08-08
-song_count: 9
+date: "2025-08-08"
+song_count: "9"
 rerun: false
 youtube_url: ""
 ---

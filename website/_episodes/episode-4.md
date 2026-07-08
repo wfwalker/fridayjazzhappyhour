@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 4 (4/10/2020)"
 episode_number: "4"
 date_string: "4/10/2020"
-date: 2020-04-10
-song_count: 6
+date: "2020-04-10"
+song_count: "6"
 rerun: false
 youtube_url: "https://youtu.be/a4UEJSQN9Zw"
+image: "/assets/images/title-slides/episode-4.png"
 ---
 
 # Episode 4 (4/10/2020)

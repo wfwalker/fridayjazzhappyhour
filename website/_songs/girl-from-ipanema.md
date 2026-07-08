@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Girl from Ipanema"
 composer: ""
 style: ""
-play_count: 6
+play_count: "6"
 ---
 
 # Girl from Ipanema

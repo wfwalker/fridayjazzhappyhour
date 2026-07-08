@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 248 (2/28/2025)"
 episode_number: "248"
 date_string: "2/28/2025"
-date: 2025-02-28
-song_count: 8
+date: "2025-02-28"
+song_count: "8"
 rerun: false
 youtube_url: ""
+image: "/assets/images/title-slides/episode-248.jpg"
 ---
 
 # Episode 248 (2/28/2025)

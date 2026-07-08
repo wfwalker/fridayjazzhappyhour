@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Fly me to the moon"
 composer: "Bart Howard"
 style: ""
-play_count: 15
+play_count: "15"
 ---
 
 # Fly me to the moon

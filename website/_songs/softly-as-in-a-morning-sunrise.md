@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Softly as in a Morning Sunrise"
 composer: "Hammerstein"
 style: "electrotango"
-play_count: 14
+play_count: "14"
 ---
 
 # Softly as in a Morning Sunrise

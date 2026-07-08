@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Blue in Green"
 composer: "Miles Davis"
 style: "Ballad"
-play_count: 14
+play_count: "14"
 ---
 
 # Blue in Green

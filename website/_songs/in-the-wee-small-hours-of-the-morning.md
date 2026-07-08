@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "In the wee small hours of the morning"
 composer: ""
 style: "ballad"
-play_count: 2
+play_count: "2"
 ---
 
 # In the wee small hours of the morning

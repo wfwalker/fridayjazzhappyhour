@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "If you never come to me"
 composer: ""
 style: ""
-play_count: 3
+play_count: "3"
 ---
 
 # If you never come to me

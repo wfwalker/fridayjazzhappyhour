@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Simplismente"
 composer: ""
 style: "Bossa"
-play_count: 7
+play_count: "7"
 ---
 
 # Simplismente

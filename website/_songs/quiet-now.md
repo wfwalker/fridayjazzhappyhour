@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Quiet Now"
 composer: "Denny Zeitlin"
 style: "ballad"
-play_count: 2
+play_count: "2"
 ---
 
 # Quiet Now

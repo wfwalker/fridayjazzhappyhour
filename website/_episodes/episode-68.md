@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 68 (7/2/2021)"
 episode_number: "68"
 date_string: "7/2/2021"
-date: 2021-07-02
-song_count: 9
+date: "2021-07-02"
+song_count: "9"
 rerun: false
 youtube_url: "https://youtu.be/eJgSZO-IkTg"
+image: "/assets/images/title-slides/episode-68.jpg"
 ---
 
 # Episode 68 (7/2/2021)

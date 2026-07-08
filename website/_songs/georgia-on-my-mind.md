@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Georgia on my Mind"
 composer: "Hoagy Carmichael"
 style: "ballad"
-play_count: 9
+play_count: "9"
 ---
 
 # Georgia on my Mind

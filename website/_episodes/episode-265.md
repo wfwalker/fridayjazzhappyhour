@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 265 (7/25/2025)"
 episode_number: "265"
 date_string: "7/25/2025"
-date: 2025-07-25
-song_count: 8
+date: "2025-07-25"
+song_count: "8"
 rerun: false
 youtube_url: ""
+image: "/assets/images/title-slides/episode-265.jpg"
 ---
 
 # Episode 265 (7/25/2025)

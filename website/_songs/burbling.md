@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Burbling"
 composer: ""
 style: "Techno"
-play_count: 8
+play_count: "8"
 ---
 
 # Burbling

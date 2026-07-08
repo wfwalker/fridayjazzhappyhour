@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 14 (6/19/2020)"
 episode_number: "14"
 date_string: "6/19/2020"
-date: 2020-06-19
-song_count: 8
+date: "2020-06-19"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/JFFsTahEkzg"
+image: "/assets/images/title-slides/episode-14.png"
 ---
 
 # Episode 14 (6/19/2020)

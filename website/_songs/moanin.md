@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Moanin"
 composer: ""
 style: ""
-play_count: 14
+play_count: "14"
 ---
 
 # Moanin

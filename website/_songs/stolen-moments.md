@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Stolen Moments"
 composer: "Oliver Nelson"
 style: "swing"
-play_count: 15
+play_count: "15"
 ---
 
 # Stolen Moments

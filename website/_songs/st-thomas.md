@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "St. Thomas"
 composer: "Sonny Rollins"
 style: "organ latin"
-play_count: 12
+play_count: "12"
 ---
 
 # St. Thomas

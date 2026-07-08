@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Saga of Harrison Crabfeathers"
 composer: ""
 style: "Waltz"
-play_count: 11
+play_count: "11"
 ---
 
 # Saga of Harrison Crabfeathers

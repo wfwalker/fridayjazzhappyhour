@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "How Deep is the Ocean"
 composer: ""
 style: "Ballad"
-play_count: 14
+play_count: "14"
 ---
 
 # How Deep is the Ocean

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Were You There"
 composer: "Spiritual"
 style: ""
-play_count: 3
+play_count: "3"
 ---
 
 # Were You There

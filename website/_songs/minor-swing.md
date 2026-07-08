@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Minor Swing"
 composer: "Django Reinhart"
 style: "swing"
-play_count: 9
+play_count: "9"
 ---
 
 # Minor Swing

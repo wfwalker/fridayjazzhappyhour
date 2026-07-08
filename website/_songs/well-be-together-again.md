@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "We’ll Be Together Again"
 composer: "Carl Fischer"
 style: "ballad"
-play_count: 6
+play_count: "6"
 ---
 
 # We’ll Be Together Again

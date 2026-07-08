@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 141 (12/16/2022)"
 episode_number: "141"
 date_string: "12/16/2022"
-date: 2022-12-16
-song_count: 8
+date: "2022-12-16"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtube.com/live/676nV2NzygY"
+image: "/assets/images/title-slides/episode-141.jpg"
 ---
 
 # Episode 141 (12/16/2022)

@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 96 (1/14/2022)"
 episode_number: "96"
 date_string: "1/14/2022"
-date: 2022-01-14
-song_count: 8
+date: "2022-01-14"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/VAUYw5v0RiQ"
+image: "/assets/images/title-slides/episode-96.jpg"
 ---
 
 # Episode 96 (1/14/2022)

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Cissy Strut"
 composer: "The Meters"
 style: "funk"
-play_count: 14
+play_count: "14"
 ---
 
 # Cissy Strut

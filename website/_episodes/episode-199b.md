@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 199b (10/3/2025)"
 episode_number: "199b"
 date_string: "10/3/2025"
-date: 2025-10-03
-song_count: 8
+date: "2025-10-03"
+song_count: "8"
 rerun: false
 youtube_url: ""
+image: "/assets/images/title-slides/episode-199b.jpg"
 ---
 
 # Episode 199b (10/3/2025)

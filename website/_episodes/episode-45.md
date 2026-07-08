@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 45 (1/22/2021)"
 episode_number: "45"
 date_string: "1/22/2021"
-date: 2021-01-22
-song_count: 8
+date: "2021-01-22"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/9MPZ7yfdE6o"
+image: "/assets/images/title-slides/episode-45.jpg"
 ---
 
 # Episode 45 (1/22/2021)

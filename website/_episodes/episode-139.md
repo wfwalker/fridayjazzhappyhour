@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 139 (12/2/2022)"
 episode_number: "139"
 date_string: "12/2/2022"
-date: 2022-12-02
-song_count: 8
+date: "2022-12-02"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtube.com/live/ezlBzx7DvTU"
+image: "/assets/images/title-slides/episode-139.jpg"
 ---
 
 # Episode 139 (12/2/2022)

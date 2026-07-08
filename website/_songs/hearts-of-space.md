@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Hearts of Space"
 composer: "Bill Walker"
 style: "ambient"
-play_count: 4
+play_count: "4"
 ---
 
 # Hearts of Space

@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 134 (10/7/2022)"
 episode_number: "134"
 date_string: "10/7/2022"
-date: 2022-10-07
-song_count: 8
+date: "2022-10-07"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/i_sLaxvBK_E"
+image: "/assets/images/title-slides/episode-134.jpg"
 ---
 
 # Episode 134 (10/7/2022)

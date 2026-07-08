@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "What is this thing called love"
 composer: "Cole Porter"
 style: ""
-play_count: 14
+play_count: "14"
 ---
 
 # What is this thing called love

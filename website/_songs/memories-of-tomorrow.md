@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Memories of Tomorrow"
 composer: "Keith Jarrett"
 style: "bossa"
-play_count: 13
+play_count: "13"
 ---
 
 # Memories of Tomorrow

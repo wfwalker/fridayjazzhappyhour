@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Here's that Rainy Day"
 composer: ""
 style: ""
-play_count: 6
+play_count: "6"
 ---
 
 # Here's that Rainy Day

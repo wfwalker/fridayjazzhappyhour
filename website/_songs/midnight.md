@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Midnight"
 composer: "Bill Walker"
 style: "pop"
-play_count: 10
+play_count: "10"
 ---
 
 # Midnight

@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 70 (7/16/2021)"
 episode_number: "70"
 date_string: "7/16/2021"
-date: 2021-07-16
-song_count: 6
+date: "2021-07-16"
+song_count: "6"
 rerun: false
 youtube_url: "https://youtu.be/yaLXVIw0nxE"
+image: "/assets/images/title-slides/episode-70.jpg"
 ---
 
 # Episode 70 (7/16/2021)

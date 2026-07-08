@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 132 (9/23/2022)"
 episode_number: "132"
 date_string: "9/23/2022"
-date: 2022-09-23
-song_count: 8
+date: "2022-09-23"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/ngSqqLNxvgo"
+image: "/assets/images/title-slides/episode-132.jpg"
 ---
 
 # Episode 132 (9/23/2022)

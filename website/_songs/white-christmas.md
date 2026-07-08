@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "White Christmas"
 composer: ""
 style: ""
-play_count: 7
+play_count: "7"
 ---
 
 # White Christmas

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Second Time Around"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # Second Time Around

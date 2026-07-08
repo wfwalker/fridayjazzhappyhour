@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Baby Elephant Walk"
 composer: ""
 style: "Pop"
-play_count: 5
+play_count: "5"
 ---
 
 # Baby Elephant Walk

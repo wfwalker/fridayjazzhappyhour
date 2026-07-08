@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 184 (10/27/2023)"
 episode_number: "184"
 date_string: "10/27/2023"
-date: 2023-10-27
-song_count: 8
+date: "2023-10-27"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtube.com/live/3TUXOsOjp-U"
+image: "/assets/images/title-slides/episode-184.jpg"
 ---
 
 # Episode 184 (10/27/2023)

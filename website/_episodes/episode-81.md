@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 81 (10/1/2021)"
 episode_number: "81"
 date_string: "10/1/2021"
-date: 2021-10-01
-song_count: 8
+date: "2021-10-01"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/xQLCSsoW8d8"
+image: "/assets/images/title-slides/episode-81.jpg"
 ---
 
 # Episode 81 (10/1/2021)

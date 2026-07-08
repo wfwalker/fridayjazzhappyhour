@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Blue Bossa"
 composer: "Kenny Dorham"
 style: "bossa"
-play_count: 3
+play_count: "3"
 ---
 
 # Blue Bossa

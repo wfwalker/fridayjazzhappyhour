@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Blades"
 composer: ""
 style: "Pop"
-play_count: 11
+play_count: "11"
 ---
 
 # Blades

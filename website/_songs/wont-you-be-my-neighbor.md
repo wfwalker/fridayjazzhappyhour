@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Won't you be my neighbor?"
 composer: ""
 style: ""
-play_count: 4
+play_count: "4"
 ---
 
 # Won't you be my neighbor?

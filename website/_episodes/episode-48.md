@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 48 (2/12/2021)"
 episode_number: "48"
 date_string: "2/12/2021"
-date: 2021-02-12
-song_count: 8
+date: "2021-02-12"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/qK4QPjXbR7g"
+image: "/assets/images/title-slides/episode-48.jpg"
 ---
 
 # Episode 48 (2/12/2021)

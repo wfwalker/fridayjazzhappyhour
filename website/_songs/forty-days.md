@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Forty Days"
 composer: ""
 style: "Swing"
-play_count: 2
+play_count: "2"
 ---
 
 # Forty Days

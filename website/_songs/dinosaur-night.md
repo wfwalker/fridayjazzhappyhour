@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Dinosaur Night"
 composer: "Bill Walker"
 style: "accordion"
-play_count: 3
+play_count: "3"
 ---
 
 # Dinosaur Night

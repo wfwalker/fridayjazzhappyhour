@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 156 (3/31/2023)"
 episode_number: "156"
 date_string: "3/31/2023"
-date: 2023-03-31
-song_count: 8
+date: "2023-03-31"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtube.com/live/3OS8YSyy7IE"
+image: "/assets/images/title-slides/episode-156.jpg"
 ---
 
 # Episode 156 (3/31/2023)

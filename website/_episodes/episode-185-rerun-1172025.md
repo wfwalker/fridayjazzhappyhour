@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 185 (11/7/2025) (Rerun)"
 episode_number: "185"
 date_string: "11/7/2025"
-date: 2025-11-07
-song_count: 8
+date: "2025-11-07"
+song_count: "8"
 rerun: true
 youtube_url: ""
+image: "/assets/images/title-slides/episode-185-rerun-1172025.jpg"
 ---
 
 # Episode 185 (11/7/2025) (Rerun)

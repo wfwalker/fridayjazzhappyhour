@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Inch Worm"
 composer: ""
 style: "Ballad"
-play_count: 12
+play_count: "12"
 ---
 
 # Inch Worm

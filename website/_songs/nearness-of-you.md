@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Nearness of you"
 composer: "Hoagy Carmichael"
 style: "Bossa"
-play_count: 15
+play_count: "15"
 ---
 
 # Nearness of you

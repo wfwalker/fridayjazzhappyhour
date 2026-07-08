@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Some day my Prince will Come"
 composer: ""
 style: ""
-play_count: 9
+play_count: "9"
 ---
 
 # Some day my Prince will Come

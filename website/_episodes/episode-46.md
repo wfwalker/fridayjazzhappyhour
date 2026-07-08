@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 46 (1/29/2021)"
 episode_number: "46"
 date_string: "1/29/2021"
-date: 2021-01-29
-song_count: 8
+date: "2021-01-29"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/oVtkuUaMHU8"
+image: "/assets/images/title-slides/episode-46.jpg"
 ---
 
 # Episode 46 (1/29/2021)

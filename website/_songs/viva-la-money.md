@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Viva La Money"
 composer: ""
 style: ""
-play_count: 4
+play_count: "4"
 ---
 
 # Viva La Money

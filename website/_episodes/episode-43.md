@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 43 (1/8/2021)"
 episode_number: "43"
 date_string: "1/8/2021"
-date: 2021-01-08
-song_count: 8
+date: "2021-01-08"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/PcZFKARMaQo"
+image: "/assets/images/title-slides/episode-43.jpg"
 ---
 
 # Episode 43 (1/8/2021)

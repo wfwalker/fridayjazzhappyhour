@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "My Foolish Heart"
 composer: ""
 style: "ballad"
-play_count: 3
+play_count: "3"
 ---
 
 # My Foolish Heart

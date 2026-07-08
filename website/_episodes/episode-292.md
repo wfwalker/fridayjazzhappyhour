@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 292 (3/27/2026)"
 episode_number: "292"
 date_string: "3/27/2026"
-date: 2026-03-27
-song_count: 8
+date: "2026-03-27"
+song_count: "8"
 rerun: false
 youtube_url: ""
+image: "/assets/images/title-slides/episode-292.jpg"
 ---
 
 # Episode 292 (3/27/2026)

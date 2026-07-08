@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 108 (4/8/2022)"
 episode_number: "108"
 date_string: "4/8/2022"
-date: 2022-04-08
-song_count: 8
+date: "2022-04-08"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/47KbvV1znH8"
+image: "/assets/images/title-slides/episode-108.jpg"
 ---
 
 # Episode 108 (4/8/2022)

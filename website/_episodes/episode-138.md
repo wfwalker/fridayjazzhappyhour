@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 138 (11/4/2022)"
 episode_number: "138"
 date_string: "11/4/2022"
-date: 2022-11-04
-song_count: 8
+date: "2022-11-04"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/8XM8B7y4T_Q"
+image: "/assets/images/title-slides/episode-138.jpg"
 ---
 
 # Episode 138 (11/4/2022)

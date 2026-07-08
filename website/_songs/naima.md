@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Naima"
 composer: ""
 style: "techno"
-play_count: 16
+play_count: "16"
 ---
 
 # Naima

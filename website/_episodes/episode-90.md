@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 90 (12/3/2021)"
 episode_number: "90"
 date_string: "12/3/2021"
-date: 2021-12-03
-song_count: 8
+date: "2021-12-03"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/cwkUkcDyfaw"
+image: "/assets/images/title-slides/episode-90.jpg"
 ---
 
 # Episode 90 (12/3/2021)

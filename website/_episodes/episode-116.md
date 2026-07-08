@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 116 (6/3/2022)"
 episode_number: "116"
 date_string: "6/3/2022"
-date: 2022-06-03
-song_count: 8
+date: "2022-06-03"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/58cVCBMx1oI"
+image: "/assets/images/title-slides/episode-116.jpg"
 ---
 
 # Episode 116 (6/3/2022)

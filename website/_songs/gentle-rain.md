@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Gentle Rain"
 composer: "Luiz Bonfa"
 style: "bossa"
-play_count: 13
+play_count: "13"
 ---
 
 # Gentle Rain

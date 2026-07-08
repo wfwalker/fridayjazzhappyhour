@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Little Samba"
 composer: "Bill Walker"
 style: "samba"
-play_count: 3
+play_count: "3"
 ---
 
 # Little Samba

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Footprints"
 composer: ""
 style: "Techno"
-play_count: 13
+play_count: "13"
 ---
 
 # Footprints

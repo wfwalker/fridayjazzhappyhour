@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Freedom Jazz Dance"
 composer: "Eddie Harris"
 style: "funk"
-play_count: 11
+play_count: "11"
 ---
 
 # Freedom Jazz Dance

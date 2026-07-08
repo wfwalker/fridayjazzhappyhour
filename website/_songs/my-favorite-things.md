@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "My Favorite Things"
 composer: ""
 style: ""
-play_count: 8
+play_count: "8"
 ---
 
 # My Favorite Things

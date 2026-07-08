@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Sing Sing Sing"
 composer: "Louis Prima"
 style: "swing techno"
-play_count: 8
+play_count: "8"
 ---
 
 # Sing Sing Sing

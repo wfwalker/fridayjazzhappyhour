@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Hullo, Bolinas"
 composer: "Steve Swallow"
 style: ""
-play_count: 3
+play_count: "3"
 ---
 
 # Hullo, Bolinas

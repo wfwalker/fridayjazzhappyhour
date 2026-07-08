@@ -1,12 +1,12 @@
 ---
-layout: song
-title: "Santa Claus is Coming to Town"
+layout: "song"
+title: "Santa Claus is Coming to town"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
-# Santa Claus is Coming to Town
+# Santa Claus is Coming to town
 
 Played **2** times in the live shows.
 

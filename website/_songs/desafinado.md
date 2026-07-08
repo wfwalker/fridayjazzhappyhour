@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Desafinado"
 composer: "Jobim"
 style: "bossa"
-play_count: 8
+play_count: "8"
 ---
 
 # Desafinado

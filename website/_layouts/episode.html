@@ -101,6 +101,24 @@ layout: default
     color: var(--text-primary);
     text-decoration: underline;
   }
+
+  .title-slide-container {
+    margin-bottom: 2.5rem;
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+    max-width: 100%;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
+  
+  .title-slide-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+  }
 </style>
 
 <div class="episode-header">
@@ -118,6 +136,12 @@ layout: default
     {% endif %}
   </div>
 </div>
+
+{% if page.image %}
+  <div class="title-slide-container">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }} Title Slide" class="title-slide-img" />
+  </div>
+{% endif %}
 
 <div class="setlist-card">
   {{ content }}

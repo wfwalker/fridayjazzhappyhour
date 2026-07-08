@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Them Funky Changes"
 composer: ""
 style: ""
-play_count: 11
+play_count: "11"
 ---
 
 # Them Funky Changes

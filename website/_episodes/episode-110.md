@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 110 (4/22/2022)"
 episode_number: "110"
 date_string: "4/22/2022"
-date: 2022-04-22
-song_count: 8
+date: "2022-04-22"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/BLBnVY8iUBg"
+image: "/assets/images/title-slides/episode-110.jpg"
 ---
 
 # Episode 110 (4/22/2022)

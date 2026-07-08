@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Zero-Nineteen"
 composer: "Bill Walker"
 style: "techno"
-play_count: 13
+play_count: "13"
 ---
 
 # Zero-Nineteen

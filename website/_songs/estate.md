@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Estate"
 composer: "Bruno Martino"
 style: "Bossa"
-play_count: 11
+play_count: "11"
 ---
 
 # Estate

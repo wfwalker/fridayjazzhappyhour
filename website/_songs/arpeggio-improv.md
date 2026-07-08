@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Arpeggio Improv"
 composer: ""
 style: "Techno"
-play_count: 3
+play_count: "3"
 ---
 
 # Arpeggio Improv

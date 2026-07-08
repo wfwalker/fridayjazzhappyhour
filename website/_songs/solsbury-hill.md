@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Solsbury Hill"
 composer: ""
 style: ""
-play_count: 4
+play_count: "4"
 ---
 
 # Solsbury Hill

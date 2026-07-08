@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 63 (5/28/2021)"
 episode_number: "63"
 date_string: "5/28/2021"
-date: 2021-05-28
-song_count: 8
+date: "2021-05-28"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/m7hZS9rLGO0"
+image: "/assets/images/title-slides/episode-63.jpg"
 ---
 
 # Episode 63 (5/28/2021)

@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 178 (9/1/2023)"
 episode_number: "178"
 date_string: "9/1/2023"
-date: 2023-09-01
-song_count: 8
+date: "2023-09-01"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/zxhyx-uWlJQ"
+image: "/assets/images/title-slides/episode-178.jpg"
 ---
 
 # Episode 178 (9/1/2023)

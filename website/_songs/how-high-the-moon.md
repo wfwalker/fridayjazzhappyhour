@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "How High the Moon"
 composer: ""
 style: ""
-play_count: 12
+play_count: "12"
 ---
 
 # How High the Moon

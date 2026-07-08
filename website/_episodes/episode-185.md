@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 185 (11/3/2023)"
 episode_number: "185"
 date_string: "11/3/2023"
-date: 2023-11-03
-song_count: 8
+date: "2023-11-03"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtube.com/live/vpg-dYDIFj0"
+image: "/assets/images/title-slides/episode-185.jpg"
 ---
 
 # Episode 185 (11/3/2023)

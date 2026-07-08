@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Closer July 15"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # Closer July 15

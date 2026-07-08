@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Rise"
 composer: ""
 style: ""
-play_count: 11
+play_count: "11"
 ---
 
 # Rise

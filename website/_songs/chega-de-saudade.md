@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Chega de Saudade"
 composer: ""
 style: ""
-play_count: 7
+play_count: "7"
 ---
 
 # Chega de Saudade

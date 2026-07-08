@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "So Nice"
 composer: ""
 style: ""
-play_count: 13
+play_count: "13"
 ---
 
 # So Nice

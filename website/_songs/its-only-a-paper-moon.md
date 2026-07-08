@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "It's only a paper moon"
 composer: ""
 style: ""
-play_count: 8
+play_count: "8"
 ---
 
 # It's only a paper moon

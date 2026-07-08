@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 122 (3/13/2026) (Rerun)"
 episode_number: "122"
 date_string: "3/13/2026"
-date: 2026-03-13
-song_count: 6
+date: "2026-03-13"
+song_count: "6"
 rerun: true
 youtube_url: ""
+image: "/assets/images/title-slides/episode-122-rerun-3132026.jpg"
 ---
 
 # Episode 122 (3/13/2026) (Rerun)

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Avalon"
 composer: ""
 style: ""
-play_count: 10
+play_count: "10"
 ---
 
 # Avalon

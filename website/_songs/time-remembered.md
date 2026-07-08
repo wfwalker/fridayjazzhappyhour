@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Time Remembered"
 composer: "Bill Evans"
 style: "swing"
-play_count: 12
+play_count: "12"
 ---
 
 # Time Remembered

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Piano Improv"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # Piano Improv

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Little Sunflower"
 composer: ""
 style: "techno"
-play_count: 18
+play_count: "18"
 ---
 
 # Little Sunflower

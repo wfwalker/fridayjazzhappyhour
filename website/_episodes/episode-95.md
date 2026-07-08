@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 95 (1/7/2022)"
 episode_number: "95"
 date_string: "1/7/2022"
-date: 2022-01-07
-song_count: 8
+date: "2022-01-07"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/lnzNHv36_sI"
+image: "/assets/images/title-slides/episode-95.jpg"
 ---
 
 # Episode 95 (1/7/2022)

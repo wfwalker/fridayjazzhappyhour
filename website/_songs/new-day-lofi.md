@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "New Day LoFi"
 composer: "Bill Walker"
 style: ""
-play_count: 10
+play_count: "10"
 ---
 
 # New Day LoFi

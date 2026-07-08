@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 65 (6/11/2021)"
 episode_number: "65"
 date_string: "6/11/2021"
-date: 2021-06-11
-song_count: 8
+date: "2021-06-11"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/ZnlVVoHkbCE"
+image: "/assets/images/title-slides/episode-65.jpg"
 ---
 
 # Episode 65 (6/11/2021)

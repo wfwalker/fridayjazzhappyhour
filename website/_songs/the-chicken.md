@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "The Chicken"
 composer: "Pee Wee Ellis"
 style: "funk"
-play_count: 14
+play_count: "14"
 ---
 
 # The Chicken

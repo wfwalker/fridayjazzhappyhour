@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Skating in Central Park"
 composer: ""
 style: "Waltz"
-play_count: 3
+play_count: "3"
 ---
 
 # Skating in Central Park

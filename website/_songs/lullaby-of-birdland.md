@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Lullaby of Birdland"
 composer: ""
 style: ""
-play_count: 11
+play_count: "11"
 ---
 
 # Lullaby of Birdland

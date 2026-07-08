@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 34 (11/6/2020)"
 episode_number: "34"
 date_string: "11/6/2020"
-date: 2020-11-06
-song_count: 9
+date: "2020-11-06"
+song_count: "9"
 rerun: false
 youtube_url: "https://youtu.be/EKJT69DCOnA"
+image: "/assets/images/title-slides/episode-34.jpg"
 ---
 
 # Episode 34 (11/6/2020)

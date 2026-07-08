@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Mad World"
 composer: ""
 style: ""
-play_count: 8
+play_count: "8"
 ---
 
 # Mad World

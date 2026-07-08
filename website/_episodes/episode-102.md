@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 102 (2/25/2022)"
 episode_number: "102"
 date_string: "2/25/2022"
-date: 2022-02-25
-song_count: 8
+date: "2022-02-25"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/f8SEdxjiIMM"
+image: "/assets/images/title-slides/episode-102.jpg"
 ---
 
 # Episode 102 (2/25/2022)

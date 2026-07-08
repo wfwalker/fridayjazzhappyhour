@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Peace Piece"
 composer: "Bill Evans"
 style: "ballad"
-play_count: 8
+play_count: "8"
 ---
 
 # Peace Piece

@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 273 (9/26/2025)"
 episode_number: "273"
 date_string: "9/26/2025"
-date: 2025-09-26
-song_count: 8
+date: "2025-09-26"
+song_count: "8"
 rerun: false
 youtube_url: ""
+image: "/assets/images/title-slides/episode-273.jpg"
 ---
 
 # Episode 273 (9/26/2025)

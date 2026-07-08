@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "This Masquerade"
 composer: ""
 style: "funk"
-play_count: 12
+play_count: "12"
 ---
 
 # This Masquerade

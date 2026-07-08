@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 114 (5/22/2026) (Rerun)"
 episode_number: "114"
 date_string: "5/22/2026"
-date: 2026-05-22
-song_count: 8
+date: "2026-05-22"
+song_count: "8"
 rerun: true
 youtube_url: ""
+image: "/assets/images/title-slides/episode-114-rerun-5222026.jpg"
 ---
 
 # Episode 114 (5/22/2026) (Rerun)

@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 119 (6/24/2022)"
 episode_number: "119"
 date_string: "6/24/2022"
-date: 2022-06-24
-song_count: 8
+date: "2022-06-24"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/XiFXST5UZ0E"
+image: "/assets/images/title-slides/episode-119.jpg"
 ---
 
 # Episode 119 (6/24/2022)

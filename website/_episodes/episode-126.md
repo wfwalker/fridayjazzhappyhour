@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 126 (8/12/2022)"
 episode_number: "126"
 date_string: "8/12/2022"
-date: 2022-08-12
-song_count: 8
+date: "2022-08-12"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/-mLt1LbOZ8Y"
+image: "/assets/images/title-slides/episode-126.jpg"
 ---
 
 # Episode 126 (8/12/2022)

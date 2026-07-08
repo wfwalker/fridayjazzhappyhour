@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Manteca"
 composer: ""
 style: ""
-play_count: 12
+play_count: "12"
 ---
 
 # Manteca

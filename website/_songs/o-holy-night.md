@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "O Holy Night"
 composer: ""
 style: ""
-play_count: 3
+play_count: "3"
 ---
 
 # O Holy Night

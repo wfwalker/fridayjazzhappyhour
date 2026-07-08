@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "O Come O Come Emmanuel"
 composer: ""
 style: ""
-play_count: 6
+play_count: "6"
 ---
 
 # O Come O Come Emmanuel

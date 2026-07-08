@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 121 (7/8/2022)"
 episode_number: "121"
 date_string: "7/8/2022"
-date: 2022-07-08
-song_count: 8
+date: "2022-07-08"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/yr0e-0JaG4U"
+image: "/assets/images/title-slides/episode-121.jpg"
 ---
 
 # Episode 121 (7/8/2022)

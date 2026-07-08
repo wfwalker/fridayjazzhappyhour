@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "People get Ready"
 composer: ""
 style: "pop"
-play_count: 3
+play_count: "3"
 ---
 
 # People get Ready

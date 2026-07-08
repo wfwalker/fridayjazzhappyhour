@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Amphibious"
 composer: ""
 style: ""
-play_count: 9
+play_count: "9"
 ---
 
 # Amphibious

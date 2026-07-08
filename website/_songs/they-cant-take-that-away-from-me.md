@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "They Can't Take that away from me"
 composer: "George Gerswin"
 style: ""
-play_count: 12
+play_count: "12"
 ---
 
 # They Can't Take that away from me

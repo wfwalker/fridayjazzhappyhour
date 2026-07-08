@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 137 (10/28/2022)"
 episode_number: "137"
 date_string: "10/28/2022"
-date: 2022-10-28
-song_count: 8
+date: "2022-10-28"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/Vyo_oTHKhUY"
+image: "/assets/images/title-slides/episode-137.jpg"
 ---
 
 # Episode 137 (10/28/2022)

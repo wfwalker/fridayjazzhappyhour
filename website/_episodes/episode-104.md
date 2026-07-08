@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 104 (3/11/2022)"
 episode_number: "104"
 date_string: "3/11/2022"
-date: 2022-03-11
-song_count: 8
+date: "2022-03-11"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/9YCarBEto_w"
+image: "/assets/images/title-slides/episode-104.jpg"
 ---
 
 # Episode 104 (3/11/2022)

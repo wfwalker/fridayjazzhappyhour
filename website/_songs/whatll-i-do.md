@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "What'll I Do?"
 composer: ""
 style: ""
-play_count: 3
+play_count: "3"
 ---
 
 # What'll I Do?

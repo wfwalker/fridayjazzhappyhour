@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Limehouse Blues"
 composer: ""
 style: ""
-play_count: 5
+play_count: "5"
 ---
 
 # Limehouse Blues

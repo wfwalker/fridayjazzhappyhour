@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Poinciana"
 composer: ""
 style: "pop"
-play_count: 17
+play_count: "17"
 ---
 
 # Poinciana

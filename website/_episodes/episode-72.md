@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 72 (7/30/2021)"
 episode_number: "72"
 date_string: "7/30/2021"
-date: 2021-07-30
-song_count: 8
+date: "2021-07-30"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/SFHGArSt8qo"
+image: "/assets/images/title-slides/episode-72.jpg"
 ---
 
 # Episode 72 (7/30/2021)

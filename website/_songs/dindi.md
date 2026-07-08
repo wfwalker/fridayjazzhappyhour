@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Dindi"
 composer: ""
 style: "bossa"
-play_count: 13
+play_count: "13"
 ---
 
 # Dindi

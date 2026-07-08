@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Bemsha Swing"
 composer: "Thelonius Monk"
 style: "funk"
-play_count: 3
+play_count: "3"
 ---
 
 # Bemsha Swing

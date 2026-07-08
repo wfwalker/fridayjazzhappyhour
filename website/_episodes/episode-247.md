@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 247 (2/21/2025)"
 episode_number: "247"
 date_string: "2/21/2025"
-date: 2025-02-21
-song_count: 8
+date: "2025-02-21"
+song_count: "8"
 rerun: false
 youtube_url: ""
+image: "/assets/images/title-slides/episode-247.jpg"
 ---
 
 # Episode 247 (2/21/2025)

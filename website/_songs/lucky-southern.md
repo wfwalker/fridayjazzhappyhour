@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Lucky Southern"
 composer: "Keith Jarrett"
 style: "bossa"
-play_count: 10
+play_count: "10"
 ---
 
 # Lucky Southern

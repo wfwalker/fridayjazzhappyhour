@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "VCV wobbly chords closer"
 composer: ""
 style: ""
-play_count: 3
+play_count: "3"
 ---
 
 # VCV wobbly chords closer

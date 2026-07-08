@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Scrapple from the Apple"
 composer: ""
 style: ""
-play_count: 4
+play_count: "4"
 ---
 
 # Scrapple from the Apple

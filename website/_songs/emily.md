@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Emily"
 composer: "Johnny Mandel"
 style: "Waltz"
-play_count: 13
+play_count: "13"
 ---
 
 # Emily

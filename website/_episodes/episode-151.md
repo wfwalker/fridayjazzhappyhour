@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 151 (2/24/2023)"
 episode_number: "151"
 date_string: "2/24/2023"
-date: 2023-02-24
-song_count: 8
+date: "2023-02-24"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtube.com/live/Ob4J0wJZpyI"
+image: "/assets/images/title-slides/episode-151.jpg"
 ---
 
 # Episode 151 (2/24/2023)

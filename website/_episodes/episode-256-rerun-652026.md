@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 256 (6/5/2026) (Rerun)"
 episode_number: "256"
 date_string: "6/5/2026"
-date: 2026-06-05
-song_count: 8
+date: "2026-06-05"
+song_count: "8"
 rerun: true
 youtube_url: ""
+image: "/assets/images/title-slides/episode-256-rerun-652026.jpg"
 ---
 
 # Episode 256 (6/5/2026) (Rerun)

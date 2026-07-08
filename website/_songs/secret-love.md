@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Secret Love"
 composer: "Sammy Fein"
 style: "pop"
-play_count: 3
+play_count: "3"
 ---
 
 # Secret Love

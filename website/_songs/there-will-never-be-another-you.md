@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "There will never be another you"
 composer: ""
 style: "Swing"
-play_count: 15
+play_count: "15"
 ---
 
 # There will never be another you

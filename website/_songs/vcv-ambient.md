@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "VCV Ambient"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # VCV Ambient

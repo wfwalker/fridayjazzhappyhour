@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Sunny"
 composer: "Bobby Hebb"
 style: "Funk"
-play_count: 15
+play_count: "15"
 ---
 
 # Sunny

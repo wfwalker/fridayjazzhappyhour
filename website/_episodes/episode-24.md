@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 24 (8/28/2020)"
 episode_number: "24"
 date_string: "8/28/2020"
-date: 2020-08-28
-song_count: 8
+date: "2020-08-28"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/oLyXU2T1ZuA"
+image: "/assets/images/title-slides/episode-24.jpg"
 ---
 
 # Episode 24 (8/28/2020)

@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 51 (3/5/2021)"
 episode_number: "51"
 date_string: "3/5/2021"
-date: 2021-03-05
-song_count: 8
+date: "2021-03-05"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/Wxw626FLkDw"
+image: "/assets/images/title-slides/episode-51.jpg"
 ---
 
 # Episode 51 (3/5/2021)

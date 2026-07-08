@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Christmas is Coming"
 composer: ""
 style: ""
-play_count: 8
+play_count: "8"
 ---
 
 # Christmas is Coming

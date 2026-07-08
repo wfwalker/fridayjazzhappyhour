@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 131 (9/16/2022)"
 episode_number: "131"
 date_string: "9/16/2022"
-date: 2022-09-16
-song_count: 8
+date: "2022-09-16"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/2NNZE3aK5FA"
+image: "/assets/images/title-slides/episode-131.jpg"
 ---
 
 # Episode 131 (9/16/2022)

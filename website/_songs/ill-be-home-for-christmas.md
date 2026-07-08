@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "I'll be home for Christmas"
 composer: ""
 style: ""
-play_count: 5
+play_count: "5"
 ---
 
 # I'll be home for Christmas

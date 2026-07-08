@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "O Barquinho"
 composer: ""
 style: "Bossa"
-play_count: 12
+play_count: "12"
 ---
 
 # O Barquinho

@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 98 (1/28/2022)"
 episode_number: "98"
 date_string: "1/28/2022"
-date: 2022-01-28
-song_count: 8
+date: "2022-01-28"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/zEpV0UCl2es"
+image: "/assets/images/title-slides/episode-98.jpg"
 ---
 
 # Episode 98 (1/28/2022)

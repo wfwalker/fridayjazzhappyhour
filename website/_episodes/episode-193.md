@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 193 (12/29/2023)"
 episode_number: "193"
 date_string: "12/29/2023"
-date: 2023-12-29
-song_count: 8
+date: "2023-12-29"
+song_count: "8"
 rerun: false
 youtube_url: ""
+image: "/assets/images/title-slides/episode-193.jpg"
 ---
 
 # Episode 193 (12/29/2023)

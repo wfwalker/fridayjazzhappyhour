@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 127 (4/4/2025) (Rerun)"
 episode_number: "127"
 date_string: "4/4/2025"
-date: 2025-04-04
-song_count: 8
+date: "2025-04-04"
+song_count: "8"
 rerun: true
 youtube_url: ""
+image: "/assets/images/title-slides/episode-127-rerun-442025.jpg"
 ---
 
 # Episode 127 (4/4/2025) (Rerun)

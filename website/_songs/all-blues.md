@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "All Blues"
 composer: "Miles Davis"
 style: "swing"
-play_count: 15
+play_count: "15"
 ---
 
 # All Blues

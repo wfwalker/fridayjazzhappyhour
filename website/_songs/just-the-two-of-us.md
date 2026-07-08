@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Just the Two of Us"
 composer: ""
 style: "Pop"
-play_count: 5
+play_count: "5"
 ---
 
 # Just the Two of Us

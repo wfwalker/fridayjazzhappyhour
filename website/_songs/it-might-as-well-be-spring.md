@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "It Might as Well be Spring"
 composer: ""
 style: ""
-play_count: 9
+play_count: "9"
 ---
 
 # It Might as Well be Spring

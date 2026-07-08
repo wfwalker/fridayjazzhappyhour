@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Soul Sauce"
 composer: ""
 style: ""
-play_count: 8
+play_count: "8"
 ---
 
 # Soul Sauce

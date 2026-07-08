@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Desde"
 composer: ""
 style: "bossa"
-play_count: 15
+play_count: "15"
 ---
 
 # Desde

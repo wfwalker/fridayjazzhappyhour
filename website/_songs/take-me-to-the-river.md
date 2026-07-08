@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Take me to the River"
 composer: ""
 style: ""
-play_count: 4
+play_count: "4"
 ---
 
 # Take me to the River

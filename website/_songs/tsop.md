@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "TSOP"
 composer: ""
 style: ""
-play_count: 5
+play_count: "5"
 ---
 
 # TSOP

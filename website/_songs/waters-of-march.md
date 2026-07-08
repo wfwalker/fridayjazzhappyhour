@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Waters of March"
 composer: "Jobim"
 style: "bossa"
-play_count: 9
+play_count: "9"
 ---
 
 # Waters of March

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Corcovado"
 composer: "Jobim"
 style: "bossa"
-play_count: 14
+play_count: "14"
 ---
 
 # Corcovado

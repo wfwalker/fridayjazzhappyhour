@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 221 (8/16/2024)"
 episode_number: "221"
 date_string: "8/16/2024"
-date: 2024-08-16
-song_count: 9
+date: "2024-08-16"
+song_count: "9"
 rerun: false
 youtube_url: ""
+image: "/assets/images/title-slides/episode-221.jpg"
 ---
 
 # Episode 221 (8/16/2024)

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Time After Time"
 composer: "Cyndi Lauper"
 style: "pop"
-play_count: 6
+play_count: "6"
 ---
 
 # Time After Time

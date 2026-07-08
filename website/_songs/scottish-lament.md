@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Scottish Lament"
 composer: "Bill Walker"
 style: "techno"
-play_count: 6
+play_count: "6"
 ---
 
 # Scottish Lament

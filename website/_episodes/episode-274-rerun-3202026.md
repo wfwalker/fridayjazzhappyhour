@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 274 (3/20/2026) (Rerun)"
 episode_number: "274"
 date_string: "3/20/2026"
-date: 2026-03-20
-song_count: 7
+date: "2026-03-20"
+song_count: "7"
 rerun: true
 youtube_url: ""
+image: "/assets/images/title-slides/episode-274-rerun-3202026.jpg"
 ---
 
 # Episode 274 (3/20/2026) (Rerun)

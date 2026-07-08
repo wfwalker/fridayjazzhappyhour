@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Days of Wine and Roses"
 composer: ""
 style: ""
-play_count: 11
+play_count: "11"
 ---
 
 # Days of Wine and Roses

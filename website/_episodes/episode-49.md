@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 49 (2/19/2021)"
 episode_number: "49"
 date_string: "2/19/2021"
-date: 2021-02-19
-song_count: 8
+date: "2021-02-19"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/3ihtctEf-r8"
+image: "/assets/images/title-slides/episode-49.jpg"
 ---
 
 # Episode 49 (2/19/2021)

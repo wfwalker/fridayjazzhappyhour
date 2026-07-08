@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "God Bless the Child"
 composer: ""
 style: ""
-play_count: 11
+play_count: "11"
 ---
 
 # God Bless the Child

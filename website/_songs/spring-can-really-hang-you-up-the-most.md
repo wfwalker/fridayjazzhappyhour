@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Spring can really hang you up the most"
 composer: "Tommy Wolf"
 style: "ballad"
-play_count: 2
+play_count: "2"
 ---
 
 # Spring can really hang you up the most

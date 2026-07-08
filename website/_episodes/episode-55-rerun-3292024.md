@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 55 (3/29/2024) (Rerun)"
 episode_number: "55"
 date_string: "3/29/2024"
-date: 2024-03-29
-song_count: 8
+date: "2024-03-29"
+song_count: "8"
 rerun: true
 youtube_url: "https://youtu.be/brtK3KrZ6Io"
+image: "/assets/images/title-slides/episode-55-rerun-3292024.jpg"
 ---
 
 # Episode 55 (3/29/2024) (Rerun)

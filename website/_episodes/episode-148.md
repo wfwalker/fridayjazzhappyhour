@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 148 (2/3/2023)"
 episode_number: "148"
 date_string: "2/3/2023"
-date: 2023-02-03
-song_count: 8
+date: "2023-02-03"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtube.com/live/kyx5vcS24Tk"
+image: "/assets/images/title-slides/episode-148.jpg"
 ---
 
 # Episode 148 (2/3/2023)

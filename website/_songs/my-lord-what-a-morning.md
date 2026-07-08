@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "My Lord, What a Morning"
 composer: ""
 style: "Swing"
-play_count: 3
+play_count: "3"
 ---
 
 # My Lord, What a Morning

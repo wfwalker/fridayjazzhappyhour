@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 169 (6/30/2023)"
 episode_number: "169"
 date_string: "6/30/2023"
-date: 2023-06-30
-song_count: 9
+date: "2023-06-30"
+song_count: "9"
 rerun: false
 youtube_url: "https://youtube.com/live/mIqp0kq__Ck"
+image: "/assets/images/title-slides/episode-169.jpg"
 ---
 
 # Episode 169 (6/30/2023)

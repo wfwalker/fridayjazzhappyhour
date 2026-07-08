@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Axel F"
 composer: ""
 style: ""
-play_count: 12
+play_count: "12"
 ---
 
 # Axel F

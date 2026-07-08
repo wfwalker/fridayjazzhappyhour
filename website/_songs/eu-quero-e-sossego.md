@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Eu Quero E Sossego"
 composer: ""
 style: "Accordion"
-play_count: 9
+play_count: "9"
 ---
 
 # Eu Quero E Sossego

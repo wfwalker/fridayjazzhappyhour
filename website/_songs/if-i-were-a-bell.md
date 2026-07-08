@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "If I were a bell"
 composer: ""
 style: "Swing"
-play_count: 15
+play_count: "15"
 ---
 
 # If I were a bell

@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 94 (12/31/2021)"
 episode_number: "94"
 date_string: "12/31/2021"
-date: 2021-12-31
-song_count: 9
+date: "2021-12-31"
+song_count: "9"
 rerun: false
 youtube_url: "https://youtu.be/Rcivz__GFo4"
+image: "/assets/images/title-slides/episode-94.jpg"
 ---
 
 # Episode 94 (12/31/2021)

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Nightingale Sang in Berkeley Square"
 composer: "Eric Maschwitz"
 style: "ballad"
-play_count: 8
+play_count: "8"
 ---
 
 # Nightingale Sang in Berkeley Square

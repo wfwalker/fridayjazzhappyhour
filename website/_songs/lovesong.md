@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Lovesong"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # Lovesong

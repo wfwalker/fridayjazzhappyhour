@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 58 (4/23/2021)"
 episode_number: "58"
 date_string: "4/23/2021"
-date: 2021-04-23
-song_count: 7
+date: "2021-04-23"
+song_count: "7"
 rerun: false
 youtube_url: "https://youtu.be/yYYl7DQc0K0"
+image: "/assets/images/title-slides/episode-58.jpg"
 ---
 
 # Episode 58 (4/23/2021)

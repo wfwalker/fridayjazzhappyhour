@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Jean Pierre in Egypt"
 composer: ""
 style: "funk"
-play_count: 11
+play_count: "11"
 ---
 
 # Jean Pierre in Egypt

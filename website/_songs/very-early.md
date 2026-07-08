@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Very Early"
 composer: "Bill Evans"
 style: "swing"
-play_count: 13
+play_count: "13"
 ---
 
 # Very Early

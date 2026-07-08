@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "La Fiesta"
 composer: ""
 style: "Latin"
-play_count: 12
+play_count: "12"
 ---
 
 # La Fiesta

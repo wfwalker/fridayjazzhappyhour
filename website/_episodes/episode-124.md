@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 124 (7/29/2022)"
 episode_number: "124"
 date_string: "7/29/2022"
-date: 2022-07-29
-song_count: 7
+date: "2022-07-29"
+song_count: "7"
 rerun: false
 youtube_url: "https://youtu.be/ym09Bs8Bj2g"
+image: "/assets/images/title-slides/episode-124.jpg"
 ---
 
 # Episode 124 (7/29/2022)

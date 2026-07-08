@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Girl Talk"
 composer: ""
 style: ""
-play_count: 8
+play_count: "8"
 ---
 
 # Girl Talk

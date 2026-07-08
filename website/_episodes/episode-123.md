@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 123 (7/22/2022)"
 episode_number: "123"
 date_string: "7/22/2022"
-date: 2022-07-22
-song_count: 8
+date: "2022-07-22"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/D42v7I8kocA"
+image: "/assets/images/title-slides/episode-123.jpg"
 ---
 
 # Episode 123 (7/22/2022)

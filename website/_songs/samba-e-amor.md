@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Samba e Amor"
 composer: ""
 style: "Bossa"
-play_count: 15
+play_count: "15"
 ---
 
 # Samba e Amor

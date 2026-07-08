@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Autumn Leaves"
 composer: ""
 style: "swing"
-play_count: 16
+play_count: "16"
 ---
 
 # Autumn Leaves

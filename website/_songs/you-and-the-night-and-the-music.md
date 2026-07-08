@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "You and the Night and the Music"
 composer: ""
 style: "tango"
-play_count: 7
+play_count: "7"
 ---
 
 # You and the Night and the Music

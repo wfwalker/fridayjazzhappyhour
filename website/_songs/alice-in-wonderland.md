@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Alice in Wonderland"
 composer: ""
 style: ""
-play_count: 15
+play_count: "15"
 ---
 
 # Alice in Wonderland

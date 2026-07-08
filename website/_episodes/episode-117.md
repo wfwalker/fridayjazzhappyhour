@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 117 (6/10/2022)"
 episode_number: "117"
 date_string: "6/10/2022"
-date: 2022-06-10
-song_count: 9
+date: "2022-06-10"
+song_count: "9"
 rerun: false
 youtube_url: "https://youtu.be/Um0wMxG_j1k"
+image: "/assets/images/title-slides/episode-117.jpg"
 ---
 
 # Episode 117 (6/10/2022)

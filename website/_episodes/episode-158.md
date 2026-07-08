@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 158 (4/14/2023)"
 episode_number: "158"
 date_string: "4/14/2023"
-date: 2023-04-14
-song_count: 8
+date: "2023-04-14"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtube.com/live/dXjYvp477_M"
+image: "/assets/images/title-slides/episode-158.jpg"
 ---
 
 # Episode 158 (4/14/2023)

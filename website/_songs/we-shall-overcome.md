@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "We Shall Overcome"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # We Shall Overcome

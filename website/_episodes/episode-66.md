@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 66 (6/18/2021)"
 episode_number: "66"
 date_string: "6/18/2021"
-date: 2021-06-18
-song_count: 9
+date: "2021-06-18"
+song_count: "9"
 rerun: false
 youtube_url: "https://youtu.be/OptqncNOQyA"
+image: "/assets/images/title-slides/episode-66.jpg"
 ---
 
 # Episode 66 (6/18/2021)

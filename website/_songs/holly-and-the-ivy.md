@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Holly and the Ivy"
 composer: ""
 style: ""
-play_count: 3
+play_count: "3"
 ---
 
 # Holly and the Ivy

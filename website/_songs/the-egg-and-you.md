@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "The Egg and You"
 composer: "Seatbelts"
 style: "piano trio"
-play_count: 14
+play_count: "14"
 ---
 
 # The Egg and You

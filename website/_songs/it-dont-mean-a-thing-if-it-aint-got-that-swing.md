@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "It Don’t Mean a Thing (If It Ain't Got That Swing)"
 composer: "Duke Ellington"
 style: "swing"
-play_count: 8
+play_count: "8"
 ---
 
 # It Don’t Mean a Thing (If It Ain't Got That Swing)

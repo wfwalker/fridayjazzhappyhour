@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 97 (1/21/2022)"
 episode_number: "97"
 date_string: "1/21/2022"
-date: 2022-01-21
-song_count: 8
+date: "2022-01-21"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/vFJFp1oRZE8"
+image: "/assets/images/title-slides/episode-97.jpg"
 ---
 
 # Episode 97 (1/21/2022)

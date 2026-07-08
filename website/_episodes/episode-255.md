@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 255 (5/9/2025)"
 episode_number: "255"
 date_string: "5/9/2025"
-date: 2025-05-09
-song_count: 10
+date: "2025-05-09"
+song_count: "10"
 rerun: false
 youtube_url: ""
+image: "/assets/images/title-slides/episode-255.jpg"
 ---
 
 # Episode 255 (5/9/2025)

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Hi Lili, Hi Lo"
 composer: ""
 style: "ballad"
-play_count: 8
+play_count: "8"
 ---
 
 # Hi Lili, Hi Lo

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Maiden Voyage"
 composer: "Herbie Hancock"
 style: "techno"
-play_count: 17
+play_count: "17"
 ---
 
 # Maiden Voyage

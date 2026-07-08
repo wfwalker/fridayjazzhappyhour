@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Look to the Sky"
 composer: ""
 style: "Bossa"
-play_count: 16
+play_count: "16"
 ---
 
 # Look to the Sky

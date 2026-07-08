@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "I Love Paris"
 composer: ""
 style: "Techno"
-play_count: 11
+play_count: "11"
 ---
 
 # I Love Paris

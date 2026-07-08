@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Cold Duck Time"
 composer: "Eddie Harris"
 style: "organ funk"
-play_count: 16
+play_count: "16"
 ---
 
 # Cold Duck Time

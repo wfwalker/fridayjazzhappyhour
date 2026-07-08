@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 177 (8/25/2023)"
 episode_number: "177"
 date_string: "8/25/2023"
-date: 2023-08-25
-song_count: 8
+date: "2023-08-25"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtube.com/live/jdMrvP3YOOo"
+image: "/assets/images/title-slides/episode-177.jpg"
 ---
 
 # Episode 177 (8/25/2023)

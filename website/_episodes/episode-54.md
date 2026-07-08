@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 54 (3/26/2021)"
 episode_number: "54"
 date_string: "3/26/2021"
-date: 2021-03-26
-song_count: 8
+date: "2021-03-26"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/L9jDIlX7bjs"
+image: "/assets/images/title-slides/episode-54.jpg"
 ---
 
 # Episode 54 (3/26/2021)

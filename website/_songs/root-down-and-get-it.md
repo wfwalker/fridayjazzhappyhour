@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Root Down (and Get it)"
 composer: ""
 style: ""
-play_count: 10
+play_count: "10"
 ---
 
 # Root Down (and Get it)

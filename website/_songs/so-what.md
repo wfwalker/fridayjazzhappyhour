@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "So What"
 composer: "Miles Davis"
 style: "funk"
-play_count: 14
+play_count: "14"
 ---
 
 # So What

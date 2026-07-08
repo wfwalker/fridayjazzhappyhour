@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "A Foggy Day (in London town)"
 composer: "George Gerswin"
 style: "ballad"
-play_count: 13
+play_count: "13"
 ---
 
 # A Foggy Day (in London town)

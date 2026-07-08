@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 150 (7/19/2024) (Rerun)"
 episode_number: "150"
 date_string: "7/19/2024"
-date: 2024-07-19
-song_count: 9
+date: "2024-07-19"
+song_count: "9"
 rerun: true
 youtube_url: ""
+image: "/assets/images/title-slides/episode-150-rerun-7192024.jpg"
 ---
 
 # Episode 150 (7/19/2024) (Rerun)

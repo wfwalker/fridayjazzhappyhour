@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Take Five (King Tubby)"
 composer: ""
 style: "Reggae"
-play_count: 10
+play_count: "10"
 ---
 
 # Take Five (King Tubby)

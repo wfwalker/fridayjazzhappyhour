@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "If you want me to stay"
 composer: ""
 style: ""
-play_count: 11
+play_count: "11"
 ---
 
 # If you want me to stay

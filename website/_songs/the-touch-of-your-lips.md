@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "The Touch of your Lips"
 composer: ""
 style: ""
-play_count: 11
+play_count: "11"
 ---
 
 # The Touch of your Lips

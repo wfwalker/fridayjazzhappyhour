@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 129 (9/2/2022)"
 episode_number: "129"
 date_string: "9/2/2022"
-date: 2022-09-02
-song_count: 8
+date: "2022-09-02"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/bIdPZtsIf-M"
+image: "/assets/images/title-slides/episode-129.jpg"
 ---
 
 # Episode 129 (9/2/2022)

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "When I Fall in Love"
 composer: "Victor Young"
 style: "ballad"
-play_count: 8
+play_count: "8"
 ---
 
 # When I Fall in Love

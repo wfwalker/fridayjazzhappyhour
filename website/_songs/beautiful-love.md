@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Beautiful Love"
 composer: "Wayne King"
 style: "bossa"
-play_count: 14
+play_count: "14"
 ---
 
 # Beautiful Love

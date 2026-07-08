@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 299D (6/26/2026)"
 episode_number: "299D"
 date_string: "6/26/2026"
-date: 2026-06-26
-song_count: 8
+date: "2026-06-26"
+song_count: "8"
 rerun: false
 youtube_url: ""
+image: "/assets/images/title-slides/episode-299d.jpg"
 ---
 
 # Episode 299D (6/26/2026)

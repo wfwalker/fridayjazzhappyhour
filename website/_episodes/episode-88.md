@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 88 (11/19/2021)"
 episode_number: "88"
 date_string: "11/19/2021"
-date: 2021-11-19
-song_count: 8
+date: "2021-11-19"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/mrX0hOrHI2A"
+image: "/assets/images/title-slides/episode-88.jpg"
 ---
 
 # Episode 88 (11/19/2021)

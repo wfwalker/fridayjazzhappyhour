@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Is you is or is you ain't my baby?"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # Is you is or is you ain't my baby?

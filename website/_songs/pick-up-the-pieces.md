@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Pick up the Pieces"
 composer: "Average White Band"
 style: "funk"
-play_count: 13
+play_count: "13"
 ---
 
 # Pick up the Pieces

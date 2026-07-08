@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 10 (5/22/2020)"
 episode_number: "10"
 date_string: "5/22/2020"
-date: 2020-05-22
-song_count: 8
+date: "2020-05-22"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/Wa5KVG0iCKM"
+image: "/assets/images/title-slides/episode-10.png"
 ---
 
 # Episode 10 (5/22/2020)

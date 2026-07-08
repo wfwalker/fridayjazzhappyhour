@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Four on Six"
 composer: "Wes Montgomery"
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # Four on Six

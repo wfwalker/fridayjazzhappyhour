@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Close your eyes"
 composer: "Berenice Petkere"
 style: "pop"
-play_count: 10
+play_count: "10"
 ---
 
 # Close your eyes

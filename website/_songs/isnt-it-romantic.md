@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Isn't It Romantic"
 composer: ""
 style: "Swing"
-play_count: 15
+play_count: "15"
 ---
 
 # Isn't It Romantic

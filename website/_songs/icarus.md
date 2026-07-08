@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Icarus"
 composer: ""
 style: "bossa"
-play_count: 13
+play_count: "13"
 ---
 
 # Icarus

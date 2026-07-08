@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Canto de Osshana"
 composer: ""
 style: ""
-play_count: 9
+play_count: "9"
 ---
 
 # Canto de Osshana

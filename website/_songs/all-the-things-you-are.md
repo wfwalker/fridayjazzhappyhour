@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "All the things you are"
 composer: "Hammerstein and Kern"
 style: "swing"
-play_count: 17
+play_count: "17"
 ---
 
 # All the things you are

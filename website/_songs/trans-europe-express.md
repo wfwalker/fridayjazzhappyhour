@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Trans Europe Express"
 composer: ""
 style: "Techno"
-play_count: 10
+play_count: "10"
 ---
 
 # Trans Europe Express

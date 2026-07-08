@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "What are you doing New Year's Eve?"
 composer: ""
 style: ""
-play_count: 4
+play_count: "4"
 ---
 
 # What are you doing New Year's Eve?

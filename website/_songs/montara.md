@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Montara"
 composer: "Bobby Hutcherson"
 style: "Techno"
-play_count: 16
+play_count: "16"
 ---
 
 # Montara

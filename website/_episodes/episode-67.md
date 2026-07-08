@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 67 (6/25/2021)"
 episode_number: "67"
 date_string: "6/25/2021"
-date: 2021-06-25
-song_count: 8
+date: "2021-06-25"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtu.be/BVJuigptxSA"
+image: "/assets/images/title-slides/episode-67.jpg"
 ---
 
 # Episode 67 (6/25/2021)

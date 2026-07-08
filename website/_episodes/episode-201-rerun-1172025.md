@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 201 (1/17/2025) (Rerun)"
 episode_number: "201"
 date_string: "1/17/2025"
-date: 2025-01-17
-song_count: 8
+date: "2025-01-17"
+song_count: "8"
 rerun: true
 youtube_url: ""
+image: "/assets/images/title-slides/episode-201-rerun-1172025.jpg"
 ---
 
 # Episode 201 (1/17/2025) (Rerun)

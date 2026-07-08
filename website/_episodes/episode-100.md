@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 100 (2/11/2022)"
 episode_number: "100"
 date_string: "2/11/2022"
-date: 2022-02-11
-song_count: 9
+date: "2022-02-11"
+song_count: "9"
 rerun: false
 youtube_url: "https://youtu.be/6Wlh1-UXkrs"
+image: "/assets/images/title-slides/episode-100.jpg"
 ---
 
 # Episode 100 (2/11/2022)

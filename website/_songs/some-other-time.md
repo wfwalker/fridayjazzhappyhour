@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Some Other time"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # Some Other time

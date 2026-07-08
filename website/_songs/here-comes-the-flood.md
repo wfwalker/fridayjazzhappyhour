@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Here Comes the Flood"
 composer: "Peter Gabriel"
 style: "pop"
-play_count: 4
+play_count: "4"
 ---
 
 # Here Comes the Flood

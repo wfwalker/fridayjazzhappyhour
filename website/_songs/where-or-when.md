@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Where or When"
 composer: "Rogers and Hart"
 style: ""
-play_count: 5
+play_count: "5"
 ---
 
 # Where or When

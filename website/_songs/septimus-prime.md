@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Septimus Prime"
 composer: "Bill Walker"
 style: "funk"
-play_count: 13
+play_count: "13"
 ---
 
 # Septimus Prime

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "This Can't Be Love"
 composer: ""
 style: ""
-play_count: 13
+play_count: "13"
 ---
 
 # This Can't Be Love

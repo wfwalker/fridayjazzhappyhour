@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "The Christmas Song"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # The Christmas Song

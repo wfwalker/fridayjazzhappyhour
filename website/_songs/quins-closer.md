@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Quin's Closer"
 composer: ""
 style: ""
-play_count: 5
+play_count: "5"
 ---
 
 # Quin's Closer

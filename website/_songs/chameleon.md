@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Chameleon"
 composer: "Herbie Hancock"
 style: "funk"
-play_count: 17
+play_count: "17"
 ---
 
 # Chameleon

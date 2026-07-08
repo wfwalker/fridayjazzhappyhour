@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Sugar"
 composer: "Stanley Turrentine"
 style: "Swing"
-play_count: 12
+play_count: "12"
 ---
 
 # Sugar

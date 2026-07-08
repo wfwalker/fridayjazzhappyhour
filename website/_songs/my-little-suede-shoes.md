@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "My Little Suede Shoes"
 composer: ""
 style: "Bossa"
-play_count: 17
+play_count: "17"
 ---
 
 # My Little Suede Shoes

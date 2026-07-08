@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "accordion ambient closer"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # accordion ambient closer

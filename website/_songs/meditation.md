@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Meditation"
 composer: ""
 style: "solo"
-play_count: 9
+play_count: "9"
 ---
 
 # Meditation

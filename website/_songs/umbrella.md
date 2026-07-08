@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Umbrella"
 composer: ""
 style: ""
-play_count: 6
+play_count: "6"
 ---
 
 # Umbrella

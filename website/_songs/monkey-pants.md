@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Monkey Pants"
 composer: "Bill Walker"
 style: "funk"
-play_count: 12
+play_count: "12"
 ---
 
 # Monkey Pants

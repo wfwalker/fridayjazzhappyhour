@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Go Tell it on the Mountain"
 composer: ""
 style: ""
-play_count: 5
+play_count: "5"
 ---
 
 # Go Tell it on the Mountain

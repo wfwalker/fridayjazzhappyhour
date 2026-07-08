@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Brazil"
 composer: ""
 style: "Samba"
-play_count: 10
+play_count: "10"
 ---
 
 # Brazil

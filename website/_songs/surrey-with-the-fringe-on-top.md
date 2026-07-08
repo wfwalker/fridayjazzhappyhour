@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Surrey with the Fringe on Top"
 composer: "Hammerstein"
 style: "swing"
-play_count: 3
+play_count: "3"
 ---
 
 # Surrey with the Fringe on Top

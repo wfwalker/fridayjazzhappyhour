@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Coming Home"
 composer: "Erik Turkman"
 style: "swing"
-play_count: 13
+play_count: "13"
 ---
 
 # Coming Home

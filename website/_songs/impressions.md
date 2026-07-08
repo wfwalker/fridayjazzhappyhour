@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Impressions"
 composer: "John Coltrane"
 style: "Techno"
-play_count: 16
+play_count: "16"
 ---
 
 # Impressions

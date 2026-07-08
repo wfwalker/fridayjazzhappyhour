@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Angel Eyes"
 composer: "Matt Dennis"
 style: "Swing"
-play_count: 14
+play_count: "14"
 ---
 
 # Angel Eyes

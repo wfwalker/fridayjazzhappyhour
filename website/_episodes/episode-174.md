@@ -1,12 +1,13 @@
 ---
-layout: episode
+layout: "episode"
 title: "Episode 174 (8/4/2023)"
 episode_number: "174"
 date_string: "8/4/2023"
-date: 2023-08-04
-song_count: 8
+date: "2023-08-04"
+song_count: "8"
 rerun: false
 youtube_url: "https://youtube.com/live/aCkWiRbNVbM"
+image: "/assets/images/title-slides/episode-174.jpg"
 ---
 
 # Episode 174 (8/4/2023)

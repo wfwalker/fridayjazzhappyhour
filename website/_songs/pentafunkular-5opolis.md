@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Pentafunkular 5opolis"
 composer: "Bill Walker"
 style: "funk"
-play_count: 6
+play_count: "6"
 ---
 
 # Pentafunkular 5opolis

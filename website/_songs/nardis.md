@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Nardis"
 composer: ""
 style: "Techno"
-play_count: 17
+play_count: "17"
 ---
 
 # Nardis

@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Feel like going home"
 composer: ""
 style: ""
-play_count: 8
+play_count: "8"
 ---
 
 # Feel like going home

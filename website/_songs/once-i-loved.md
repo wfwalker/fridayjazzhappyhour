@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Once I Loved"
 composer: ""
 style: ""
-play_count: 6
+play_count: "6"
 ---
 
 # Once I Loved

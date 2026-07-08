@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "Goodbye Look"
 composer: ""
 style: "pop"
-play_count: 10
+play_count: "10"
 ---
 
 # Goodbye Look

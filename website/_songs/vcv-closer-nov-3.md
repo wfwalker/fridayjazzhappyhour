@@ -1,9 +1,9 @@
 ---
-layout: song
+layout: "song"
 title: "VCV Closer Nov 3"
 composer: ""
 style: ""
-play_count: 2
+play_count: "2"
 ---
 
 # VCV Closer Nov 3
