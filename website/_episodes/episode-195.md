@@ -24,4 +24,4 @@ youtube_url: "https://youtube.com/live/dkMgQ_pHYNk"
 | 5 | [Emily]({{ '/songs/' | relative_url }}emily/) | [30:59](https://youtube.com/live/dkMgQ_pHYNk?t=1859) |  |  |
 | 6 | [A Foggy Day (in London Town)]({{ '/songs/' | relative_url }}a-foggy-day-in-london-town/) | [37:20](https://youtube.com/live/dkMgQ_pHYNk?t=2240) |  |  |
 | 7 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) | [44:22](https://youtube.com/live/dkMgQ_pHYNk?t=2662) |  |  |
-| 8 | [Melodica looper and VCV]({{ '/one-offs.html' | relative_url }}#melodica-looper-and-vcv) | [55:39](https://youtube.com/live/dkMgQ_pHYNk?t=3339) |  |  |
+| 8 | [Melodica looper and VCV]({{ '/one-off-songs.html' | relative_url }}#melodica-looper-and-vcv) | [55:39](https://youtube.com/live/dkMgQ_pHYNk?t=3339) |  |  |

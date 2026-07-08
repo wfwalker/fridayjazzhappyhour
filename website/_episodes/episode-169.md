@@ -25,4 +25,4 @@ youtube_url: "https://youtube.com/live/mIqp0kq__Ck"
 | 6 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [37:20](https://youtube.com/live/mIqp0kq__Ck?t=2240) |  |  |
 | 7 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [44:22](https://youtube.com/live/mIqp0kq__Ck?t=2662) |  |  |
 | 8 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) | [50:23](https://youtube.com/live/mIqp0kq__Ck?t=3023) |  |  |
-| 9 | [Ode to Missing Sustain Pedal]({{ '/one-offs.html' | relative_url }}#ode-to-missing-sustain-pedal) |  |  |  |
+| 9 | [Ode to Missing Sustain Pedal]({{ '/one-off-songs.html' | relative_url }}#ode-to-missing-sustain-pedal) |  |  |  |

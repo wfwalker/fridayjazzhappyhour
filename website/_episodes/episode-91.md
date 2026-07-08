@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/vr3lHzT6u9s"
 | 5 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [25:50](https://youtu.be/vr3lHzT6u9s?t=1550) |  | retro sax! |
 | 6 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) | [31:43](https://youtu.be/vr3lHzT6u9s?t=1903) |  |  |
 | 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) | [36:10](https://youtu.be/vr3lHzT6u9s?t=2170) |  |  |
-| 8 | [Closer Dec 10]({{ '/one-offs.html' | relative_url }}#closer-dec-10) | [42:25](https://youtu.be/vr3lHzT6u9s?t=2545) |  |  |
+| 8 | [Closer Dec 10]({{ '/one-off-songs.html' | relative_url }}#closer-dec-10) | [42:25](https://youtu.be/vr3lHzT6u9s?t=2545) |  |  |

@@ -19,7 +19,7 @@ youtube_url: ""
 | 2 | [This Can't Be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) |  |  |  |
 | 3 | [Look of Love]({{ '/songs/' | relative_url }}look-of-love/) |  |  |  |
 | 4 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) |  |  |  |
-| 5 | [The Bay]({{ '/one-offs.html' | relative_url }}#the-bay) |  |  |  |
-| 6 | [Wood and Grassland]({{ '/one-offs.html' | relative_url }}#wood-and-grassland) |  |  |  |
-| 7 | [The City]({{ '/one-offs.html' | relative_url }}#the-city) |  |  |  |
-| 8 | [The Ocean]({{ '/one-offs.html' | relative_url }}#the-ocean) |  |  |  |
+| 5 | [The Bay]({{ '/one-off-songs.html' | relative_url }}#the-bay) |  |  |  |
+| 6 | [Wood and Grassland]({{ '/one-off-songs.html' | relative_url }}#wood-and-grassland) |  |  |  |
+| 7 | [The City]({{ '/one-off-songs.html' | relative_url }}#the-city) |  |  |  |
+| 8 | [The Ocean]({{ '/one-off-songs.html' | relative_url }}#the-ocean) |  |  |  |

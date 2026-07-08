@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/9YCarBEto_w"
 | 5 | [Naima]({{ '/songs/' | relative_url }}naima/) | [31:10](https://youtu.be/9YCarBEto_w?t=1870) |  | needs more wow |
 | 6 | [Icarus]({{ '/songs/' | relative_url }}icarus/) | [38:50](https://youtu.be/9YCarBEto_w?t=2330) |  | acoustic gtr! nice coda and ending |
 | 7 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [45:24](https://youtu.be/9YCarBEto_w?t=2724) |  |  |
-| 8 | [Closer March 11 (inchworm)]({{ '/one-offs.html' | relative_url }}#closer-march-11-inchworm) | [53:00](https://youtu.be/9YCarBEto_w?t=3180) |  | one of the best closers |
+| 8 | [Closer March 11 (inchworm)]({{ '/one-off-songs.html' | relative_url }}#closer-march-11-inchworm) | [53:00](https://youtu.be/9YCarBEto_w?t=3180) |  | one of the best closers |

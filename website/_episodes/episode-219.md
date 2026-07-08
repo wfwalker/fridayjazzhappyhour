@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Deacon Blues]({{ '/songs/' | relative_url }}deacon-blues/) |  |  |  |
 | 6 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) |  |  |  |
 | 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  |  |  |
-| 8 | [ambient accordion closer Aug 2]({{ '/one-offs.html' | relative_url }}#ambient-accordion-closer-aug-2) |  |  |  |
+| 8 | [ambient accordion closer Aug 2]({{ '/one-off-songs.html' | relative_url }}#ambient-accordion-closer-aug-2) |  |  |  |

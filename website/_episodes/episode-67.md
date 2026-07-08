@@ -18,7 +18,7 @@ youtube_url: "https://youtu.be/BVJuigptxSA"
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
 | 1 | [I Love Paris]({{ '/songs/' | relative_url }}i-love-paris/) | [04:00](https://youtu.be/BVJuigptxSA?t=240) | Techno |  |
-| 2 | [Relembrando]({{ '/one-offs.html' | relative_url }}#relembrando) | [13:57](https://youtu.be/BVJuigptxSA?t=837) | Accordion |  |
+| 2 | [Relembrando]({{ '/one-off-songs.html' | relative_url }}#relembrando) | [13:57](https://youtu.be/BVJuigptxSA?t=837) | Accordion |  |
 | 3 | [Seven Steps to Heaven]({{ '/songs/' | relative_url }}seven-steps-to-heaven/) | [21:10](https://youtu.be/BVJuigptxSA?t=1270) | Reggae |  |
 | 4 | [Jean Pierre in Egypt]({{ '/songs/' | relative_url }}jean-pierre-in-egypt/) | [27:28](https://youtu.be/BVJuigptxSA?t=1648) | Funk |  |
 | 5 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) | [34:47](https://youtu.be/BVJuigptxSA?t=2087) | Bossa |  |

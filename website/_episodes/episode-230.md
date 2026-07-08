@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) |  |  |  |
 | 6 | [Triste]({{ '/songs/' | relative_url }}triste/) |  |  |  |
 | 7 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) |  |  |  |
-| 8 | [Moon River]({{ '/one-offs.html' | relative_url }}#moon-river) |  |  |  |
+| 8 | [Moon River]({{ '/one-off-songs.html' | relative_url }}#moon-river) |  |  |  |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [I Can't get started]({{ '/songs/' | relative_url }}i-cant-get-started/) |  |  |  |
 | 6 | [Morning]({{ '/songs/' | relative_url }}morning/) |  |  |  |
 | 7 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) |  |  |  |
-| 8 | [closer dec 13]({{ '/one-offs.html' | relative_url }}#closer-dec-13) |  |  |  |
+| 8 | [closer dec 13]({{ '/one-off-songs.html' | relative_url }}#closer-dec-13) |  |  |  |

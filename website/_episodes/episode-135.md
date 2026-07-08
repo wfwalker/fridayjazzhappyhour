@@ -25,4 +25,4 @@ youtube_url: "https://youtu.be/hs2qWsSLfxY"
 | 6 | [The Touch of your Lips]({{ '/songs/' | relative_url }}the-touch-of-your-lips/) | [38:02](https://youtu.be/hs2qWsSLfxY?t=2282) |  |  |
 | 7 | [how high the Moon]({{ '/songs/' | relative_url }}how-high-the-moon/) | [43:42](https://youtu.be/hs2qWsSLfxY?t=2622) |  |  |
 | 8 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) | [50:52](https://youtu.be/hs2qWsSLfxY?t=3052) |  |  |
-| 9 | [Closer Oct 14]({{ '/one-offs.html' | relative_url }}#closer-oct-14) | [58:03](https://youtu.be/hs2qWsSLfxY?t=3483) |  | jarrett esque |
+| 9 | [Closer Oct 14]({{ '/one-off-songs.html' | relative_url }}#closer-oct-14) | [58:03](https://youtu.be/hs2qWsSLfxY?t=3483) |  | jarrett esque |

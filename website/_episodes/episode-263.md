@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Beat 70]({{ '/songs/' | relative_url }}beat-70/) |  |  |  |
 | 6 | [A Lotus on Irish Streams]({{ '/songs/' | relative_url }}a-lotus-on-irish-streams/) |  |  |  |
 | 7 | [Jean Pierre in Egypt]({{ '/songs/' | relative_url }}jean-pierre-in-egypt/) |  |  |  |
-| 8 | [Tuvan robot closer]({{ '/one-offs.html' | relative_url }}#tuvan-robot-closer) |  |  |  |
+| 8 | [Tuvan robot closer]({{ '/one-off-songs.html' | relative_url }}#tuvan-robot-closer) |  |  |  |

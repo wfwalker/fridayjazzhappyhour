@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Nightingale Sang in Berkeley Square]({{ '/songs/' | relative_url }}nightingale-sang-in-berkeley-square/) |  |  |  |
 | 6 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) |  |  |  |
 | 7 | [People get Ready]({{ '/songs/' | relative_url }}people-get-ready/) |  |  |  |
-| 8 | [Dub Techno Arpeggios]({{ '/one-offs.html' | relative_url }}#dub-techno-arpeggios) |  |  |  |
+| 8 | [Dub Techno Arpeggios]({{ '/one-off-songs.html' | relative_url }}#dub-techno-arpeggios) |  |  |  |

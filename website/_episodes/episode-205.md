@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Some day My Prince will Come]({{ '/songs/' | relative_url }}some-day-my-prince-will-come/) |  |  |  |
 | 6 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) |  |  |  |
 | 7 | [Here Comes the Flood]({{ '/songs/' | relative_url }}here-comes-the-flood/) |  |  |  |
-| 8 | [Frisell VCV closer April 19]({{ '/one-offs.html' | relative_url }}#frisell-vcv-closer-april-19) |  |  |  |
+| 8 | [Frisell VCV closer April 19]({{ '/one-off-songs.html' | relative_url }}#frisell-vcv-closer-april-19) |  |  |  |

@@ -23,5 +23,5 @@ youtube_url: ""
 | 6 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) |  |  |  |
 | 7 | [Caravan]({{ '/songs/' | relative_url }}caravan/) |  |  |  |
 | 8 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) |  |  |  |
-| 9 | [VCV arpeggio wash]({{ '/one-offs.html' | relative_url }}#vcv-arpeggio-wash) |  |  |  |
+| 9 | [VCV arpeggio wash]({{ '/one-off-songs.html' | relative_url }}#vcv-arpeggio-wash) |  |  |  |
 | 10 | [Sacto closer]({{ '/songs/' | relative_url }}sacto-closer/) |  |  |  |

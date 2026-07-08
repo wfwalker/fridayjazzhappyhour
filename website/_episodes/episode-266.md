@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [It Don’t Mean a Thing (If It Ain't Got That Swing)]({{ '/songs/' | relative_url }}it-dont-mean-a-thing-if-it-aint-got-that-swing/) |  |  |  |
 | 6 | [Deacon Blues]({{ '/songs/' | relative_url }}deacon-blues/) |  |  |  |
 | 7 | [Sermonette]({{ '/songs/' | relative_url }}sermonette/) |  |  |  |
-| 8 | [epiano closer aug 1]({{ '/one-offs.html' | relative_url }}#epiano-closer-aug-1) |  |  |  |
+| 8 | [epiano closer aug 1]({{ '/one-off-songs.html' | relative_url }}#epiano-closer-aug-1) |  |  |  |

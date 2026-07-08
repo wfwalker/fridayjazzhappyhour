@@ -23,4 +23,4 @@ youtube_url: ""
 | 6 | [Softly as in a morning Sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) |  |  |  |
 | 7 | [It Don’t Mean a Thing (If It Ain't Got That Swing)]({{ '/songs/' | relative_url }}it-dont-mean-a-thing-if-it-aint-got-that-swing/) |  |  |  |
 | 8 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) |  |  |  |
-| 9 | [Closer Aug 16]({{ '/one-offs.html' | relative_url }}#closer-aug-16) |  |  |  |
+| 9 | [Closer Aug 16]({{ '/one-off-songs.html' | relative_url }}#closer-aug-16) |  |  |  |

@@ -19,8 +19,8 @@ youtube_url: "https://youtube.com/live/iD4kGZuXLYA"
 | --- | --- | --- | --- | --- |
 | 1 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) | [04:28](https://youtube.com/live/iD4kGZuXLYA?t=268) |  |  |
 | 2 | [Agua de Beber]({{ '/songs/' | relative_url }}agua-de-beber/) | [11:55](https://youtube.com/live/iD4kGZuXLYA?t=715) |  |  |
-| 3 | [A night in Tunisia]({{ '/one-offs.html' | relative_url }}#a-night-in-tunisia) | [19:18](https://youtube.com/live/iD4kGZuXLYA?t=1158) |  |  |
-| 4 | [Bad Reputation]({{ '/one-offs.html' | relative_url }}#bad-reputation) | [25:33](https://youtube.com/live/iD4kGZuXLYA?t=1533) |  |  |
+| 3 | [A night in Tunisia]({{ '/one-off-songs.html' | relative_url }}#a-night-in-tunisia) | [19:18](https://youtube.com/live/iD4kGZuXLYA?t=1158) |  |  |
+| 4 | [Bad Reputation]({{ '/one-off-songs.html' | relative_url }}#bad-reputation) | [25:33](https://youtube.com/live/iD4kGZuXLYA?t=1533) |  |  |
 | 5 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) | [30:59](https://youtube.com/live/iD4kGZuXLYA?t=1859) |  |  |
 | 6 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [37:20](https://youtube.com/live/iD4kGZuXLYA?t=2240) |  |  |
 | 7 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) | [44:22](https://youtube.com/live/iD4kGZuXLYA?t=2662) |  |  |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Eu Quero e Sossego]({{ '/songs/' | relative_url }}eu-quero-e-sossego/) |  |  |  |
 | 6 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) |  |  |  |
 | 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) |  |  |  |
-| 8 | [closer may 3]({{ '/one-offs.html' | relative_url }}#closer-may-3) |  |  |  |
+| 8 | [closer may 3]({{ '/one-off-songs.html' | relative_url }}#closer-may-3) |  |  |  |

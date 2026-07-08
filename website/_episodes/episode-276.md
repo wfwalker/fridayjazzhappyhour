@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) |  |  |  |
 | 6 | [A Foggy Day (in London town)]({{ '/songs/' | relative_url }}a-foggy-day-in-london-town/) |  |  |  |
 | 7 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) |  |  |  |
-| 8 | [Closer]({{ '/one-offs.html' | relative_url }}#closer) |  |  |  |
+| 8 | [Closer]({{ '/one-off-songs.html' | relative_url }}#closer) |  |  |  |

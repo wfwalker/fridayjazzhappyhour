@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/txLo5jOwNGU"
 | 5 | [Brazil]({{ '/songs/' | relative_url }}brazil/) | [28:47](https://youtu.be/txLo5jOwNGU?t=1727) |  | gtr too loud; practice! |
 | 6 | [Hearts of Space]({{ '/songs/' | relative_url }}hearts-of-space/) | [34:25](https://youtu.be/txLo5jOwNGU?t=2065) |  |  |
 | 7 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) | [40:50](https://youtu.be/txLo5jOwNGU?t=2450) |  |  |
-| 8 | [Closer Improv Oct 15]({{ '/one-offs.html' | relative_url }}#closer-improv-oct-15) | [47:50](https://youtu.be/txLo5jOwNGU?t=2870) |  |  |
+| 8 | [Closer Improv Oct 15]({{ '/one-off-songs.html' | relative_url }}#closer-improv-oct-15) | [47:50](https://youtu.be/txLo5jOwNGU?t=2870) |  |  |

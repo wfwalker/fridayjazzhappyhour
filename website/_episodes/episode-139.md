@@ -24,4 +24,4 @@ youtube_url: "https://youtube.com/live/ezlBzx7DvTU"
 | 5 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [31:20](https://youtube.com/live/ezlBzx7DvTU?t=1880) |  | Done |
 | 6 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) | [38:25](https://youtube.com/live/ezlBzx7DvTU?t=2305) |  |  |
 | 7 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [45:20](https://youtube.com/live/ezlBzx7DvTU?t=2720) |  |  |
-| 8 | [Snow Petrels Closer]({{ '/one-offs.html' | relative_url }}#snow-petrels-closer) | [51:28](https://youtube.com/live/ezlBzx7DvTU?t=3088) |  |  |
+| 8 | [Snow Petrels Closer]({{ '/one-off-songs.html' | relative_url }}#snow-petrels-closer) | [51:28](https://youtube.com/live/ezlBzx7DvTU?t=3088) |  |  |

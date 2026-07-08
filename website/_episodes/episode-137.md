@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/Vyo_oTHKhUY"
 | 5 | [Morning]({{ '/songs/' | relative_url }}morning/) | [28:56](https://youtu.be/Vyo_oTHKhUY?t=1736) |  |  |
 | 6 | [My Funny Valentine]({{ '/songs/' | relative_url }}my-funny-valentine/) | [35:30](https://youtu.be/Vyo_oTHKhUY?t=2130) |  |  |
 | 7 | [Rise]({{ '/songs/' | relative_url }}rise/) | [44:27](https://youtu.be/Vyo_oTHKhUY?t=2667) |  |  |
-| 8 | [Simply the Best]({{ '/one-offs.html' | relative_url }}#simply-the-best) | [51:10](https://youtu.be/Vyo_oTHKhUY?t=3070) |  |  |
+| 8 | [Simply the Best]({{ '/one-off-songs.html' | relative_url }}#simply-the-best) | [51:10](https://youtu.be/Vyo_oTHKhUY?t=3070) |  |  |

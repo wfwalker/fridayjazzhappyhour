@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) |  |  |  |
 | 6 | [These Foolish Things remind me of you]({{ '/songs/' | relative_url }}these-foolish-things-remind-me-of-you/) |  |  |  |
 | 7 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) |  |  |  |
-| 8 | [closer april 26]({{ '/one-offs.html' | relative_url }}#closer-april-26) |  |  |  |
+| 8 | [closer april 26]({{ '/one-off-songs.html' | relative_url }}#closer-april-26) |  |  |  |

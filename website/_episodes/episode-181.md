@@ -24,4 +24,4 @@ youtube_url: "https://youtube.com/live/72lHM0ID4_8"
 | 5 | [Memories of Tomorrow]({{ '/songs/' | relative_url }}memories-of-tomorrow/) | [30:59](https://youtube.com/live/72lHM0ID4_8?t=1859) |  |  |
 | 6 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) | [37:20](https://youtube.com/live/72lHM0ID4_8?t=2240) |  |  |
 | 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) | [44:22](https://youtube.com/live/72lHM0ID4_8?t=2662) |  |  |
-| 8 | [variations on inchworm]({{ '/one-offs.html' | relative_url }}#variations-on-inchworm) | [50:23](https://youtube.com/live/72lHM0ID4_8?t=3023) |  |  |
+| 8 | [variations on inchworm]({{ '/one-off-songs.html' | relative_url }}#variations-on-inchworm) | [50:23](https://youtube.com/live/72lHM0ID4_8?t=3023) |  |  |

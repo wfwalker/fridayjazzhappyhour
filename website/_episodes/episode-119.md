@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/XiFXST5UZ0E"
 | 5 | [This Can't Be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) | [30:42](https://youtu.be/XiFXST5UZ0E?t=1842) |  | nice groove |
 | 6 | [Brazil]({{ '/songs/' | relative_url }}brazil/) | [34:27](https://youtu.be/XiFXST5UZ0E?t=2067) |  | melodica is the right move |
 | 7 | [Summertime]({{ '/songs/' | relative_url }}summertime/) | [40:55](https://youtu.be/XiFXST5UZ0E?t=2455) |  |  |
-| 8 | [Closer June 24]({{ '/one-offs.html' | relative_url }}#closer-june-24) | [50:15](https://youtu.be/XiFXST5UZ0E?t=3015) |  |  |
+| 8 | [Closer June 24]({{ '/one-off-songs.html' | relative_url }}#closer-june-24) | [50:15](https://youtu.be/XiFXST5UZ0E?t=3015) |  |  |

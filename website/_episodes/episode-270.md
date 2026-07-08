@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) |  |  |  |
 | 6 | [What'll I do?]({{ '/songs/' | relative_url }}whatll-i-do/) |  |  |  |
 | 7 | [Forrozinho em Cazadero]({{ '/songs/' | relative_url }}forrozinho-em-cazadero/) |  |  |  |
-| 8 | [How Insensitive closer]({{ '/one-offs.html' | relative_url }}#how-insensitive-closer) |  |  |  |
+| 8 | [How Insensitive closer]({{ '/one-off-songs.html' | relative_url }}#how-insensitive-closer) |  |  |  |

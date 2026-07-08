@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/58cVCBMx1oI"
 | 5 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [35:06](https://youtu.be/58cVCBMx1oI?t=2106) |  | bass solo! |
 | 6 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [41:36](https://youtu.be/58cVCBMx1oI?t=2496) |  |  |
 | 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) | [47:35](https://youtu.be/58cVCBMx1oI?t=2855) |  |  |
-| 8 | [Closer June 3]({{ '/one-offs.html' | relative_url }}#closer-june-3) | [54:55](https://youtu.be/58cVCBMx1oI?t=3295) |  | keeper, add to collection |
+| 8 | [Closer June 3]({{ '/one-off-songs.html' | relative_url }}#closer-june-3) | [54:55](https://youtu.be/58cVCBMx1oI?t=3295) |  | keeper, add to collection |

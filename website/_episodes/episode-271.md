@@ -21,4 +21,4 @@ youtube_url: ""
 | 4 | [It Might as well be Spring]({{ '/songs/' | relative_url }}it-might-as-well-be-spring/) |  |  |  |
 | 5 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) |  |  |  |
 | 6 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) |  |  |  |
-| 7 | [DAWless closer]({{ '/one-offs.html' | relative_url }}#dawless-closer) |  |  |  |
+| 7 | [DAWless closer]({{ '/one-off-songs.html' | relative_url }}#dawless-closer) |  |  |  |

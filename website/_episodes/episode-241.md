@@ -21,4 +21,4 @@ youtube_url: ""
 | 4 | [Georgia on my Mind]({{ '/songs/' | relative_url }}georgia-on-my-mind/) |  |  |  |
 | 5 | [Very Early]({{ '/songs/' | relative_url }}very-early/) |  |  |  |
 | 6 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) |  |  |  |
-| 7 | [Birding Down Under Soundtrack]({{ '/one-offs.html' | relative_url }}#birding-down-under-soundtrack) |  |  |  |
+| 7 | [Birding Down Under Soundtrack]({{ '/one-off-songs.html' | relative_url }}#birding-down-under-soundtrack) |  |  |  |

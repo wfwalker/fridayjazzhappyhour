@@ -21,4 +21,4 @@ youtube_url: ""
 | 4 | [Frog]({{ '/songs/' | relative_url }}frog/) |  |  |  |
 | 5 | [Summertime]({{ '/songs/' | relative_url }}summertime/) |  |  |  |
 | 6 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) |  |  |  |
-| 7 | [Girl on Fire]({{ '/one-offs.html' | relative_url }}#girl-on-fire) |  |  |  |
+| 7 | [Girl on Fire]({{ '/one-off-songs.html' | relative_url }}#girl-on-fire) |  |  |  |

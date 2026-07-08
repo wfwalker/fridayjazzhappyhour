@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [A Child is Born]({{ '/songs/' | relative_url }}a-child-is-born/) |  |  |  |
 | 6 | [The Touch of your Lips]({{ '/songs/' | relative_url }}the-touch-of-your-lips/) |  |  |  |
 | 7 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) |  |  |  |
-| 8 | [VCV closer sept 27]({{ '/one-offs.html' | relative_url }}#vcv-closer-sept-27) |  |  |  |
+| 8 | [VCV closer sept 27]({{ '/one-off-songs.html' | relative_url }}#vcv-closer-sept-27) |  |  |  |

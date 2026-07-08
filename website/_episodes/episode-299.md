@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) |  |  |  |
 | 6 | [De Volta Ao Samba]({{ '/songs/' | relative_url }}de-volta-ao-samba/) |  |  |  |
 | 7 | [Canto de Osshana]({{ '/songs/' | relative_url }}canto-de-osshana/) |  |  |  |
-| 8 | [rhodes closer may 29]({{ '/one-offs.html' | relative_url }}#rhodes-closer-may-29) |  |  |  |
+| 8 | [rhodes closer may 29]({{ '/one-off-songs.html' | relative_url }}#rhodes-closer-may-29) |  |  |  |

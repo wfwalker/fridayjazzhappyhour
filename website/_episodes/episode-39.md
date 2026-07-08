@@ -23,7 +23,7 @@ youtube_url: "https://youtu.be/hfljJ87kgbs"
 | 2 | [Cast your fate to the Wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) | [10:12](https://youtu.be/hfljJ87kgbs?t=612) |  |  |
 | 3 | [Samba De Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [17:15](https://youtu.be/hfljJ87kgbs?t=1035) |  |  |
 | 3 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [17:20](https://youtu.be/hfljJ87kgbs?t=1040) |  |  |
-| 4 | [The Christmas Song (Chestnuts...)]({{ '/one-offs.html' | relative_url }}#the-christmas-song-chestnuts) | [27:14](https://youtu.be/hfljJ87kgbs?t=1634) |  |  |
+| 4 | [The Christmas Song (Chestnuts...)]({{ '/one-off-songs.html' | relative_url }}#the-christmas-song-chestnuts) | [27:14](https://youtu.be/hfljJ87kgbs?t=1634) |  |  |
 | 4 | [The Christmas Song]({{ '/songs/' | relative_url }}the-christmas-song/) | [27:05](https://youtu.be/hfljJ87kgbs?t=1625) |  |  |
 | 5 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [32:36](https://youtu.be/hfljJ87kgbs?t=1956) |  |  |
 | 5 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [32:34](https://youtu.be/hfljJ87kgbs?t=1954) |  |  |

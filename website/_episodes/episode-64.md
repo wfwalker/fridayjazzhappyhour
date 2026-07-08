@@ -20,7 +20,7 @@ youtube_url: "https://youtu.be/S_oefge4qcQ"
 | 1 | [Blades]({{ '/songs/' | relative_url }}blades/) | [04:06](https://youtu.be/S_oefge4qcQ?t=246) |  |  |
 | 2 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [10:50](https://youtu.be/S_oefge4qcQ?t=650) | Latin |  |
 | 3 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [18:48](https://youtu.be/S_oefge4qcQ?t=1128) | Swing |  |
-| 4 | [free improv (captain's log)]({{ '/one-offs.html' | relative_url }}#free-improv-captains-log) | [26:21](https://youtu.be/S_oefge4qcQ?t=1581) | Techno |  |
+| 4 | [free improv (captain's log)]({{ '/one-off-songs.html' | relative_url }}#free-improv-captains-log) | [26:21](https://youtu.be/S_oefge4qcQ?t=1581) | Techno |  |
 | 5 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [33:51](https://youtu.be/S_oefge4qcQ?t=2031) |  |  |
 | 6 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [42:48](https://youtu.be/S_oefge4qcQ?t=2568) |  |  |
 | 7 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [50:11](https://youtu.be/S_oefge4qcQ?t=3011) |  |  |

@@ -212,8 +212,8 @@ Played **{count}** times in the live shows.
     # Sort one-offs alphabetically by song title
     one_offs.sort(key=lambda s: s["title"].lower())
     
-    # 2. Generate website/one-offs.md
-    one_offs_path = "/Users/walker/Dropbox/youtube-chapters/website/one-offs.md"
+    # 2. Generate website/one-off-songs.md
+    one_offs_path = "/Users/walker/Dropbox/youtube-chapters/website/one-off-songs.md"
     one_offs_md = f"""---
 layout: default
 title: "One-Off Songs"
@@ -253,7 +253,7 @@ These are the songs that have been performed exactly once during the live stream
             f.write(f"  style: \"{style_esc}\"\n")
             
     print(f"Generated {multi_play_count} individual song pages.")
-    print(f"Consolidated {len(one_offs)} one-offs into website/one-offs.md and website/_data/one_offs.yml.")
+    print(f"Consolidated {len(one_offs)} one-offs into website/one-off-songs.md and website/_data/one_offs.yml.")
 
 if __name__ == "__main__":
     songs_data, rerun_keys, canonical_dates = parse_csv(csv_path)

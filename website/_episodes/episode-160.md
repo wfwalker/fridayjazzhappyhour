@@ -24,4 +24,4 @@ youtube_url: "https://youtube.com/live/McHbN0vAbMA"
 | 5 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [29:53](https://youtube.com/live/McHbN0vAbMA?t=1793) |  | ship it. done. |
 | 6 | [If i were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) | [37:00](https://youtube.com/live/McHbN0vAbMA?t=2220) |  | why tmpt too quiet? |
 | 7 | [Lovely Day]({{ '/songs/' | relative_url }}lovely-day/) | [41:42](https://youtube.com/live/McHbN0vAbMA?t=2502) |  |  |
-| 8 | [VCV Closer April 28]({{ '/one-offs.html' | relative_url }}#vcv-closer-april-28) | [48:12](https://youtube.com/live/McHbN0vAbMA?t=2892) |  |  |
+| 8 | [VCV Closer April 28]({{ '/one-off-songs.html' | relative_url }}#vcv-closer-april-28) | [48:12](https://youtube.com/live/McHbN0vAbMA?t=2892) |  |  |

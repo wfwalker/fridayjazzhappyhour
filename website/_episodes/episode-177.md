@@ -24,4 +24,4 @@ youtube_url: "https://youtube.com/live/jdMrvP3YOOo"
 | 5 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [30:59](https://youtube.com/live/jdMrvP3YOOo?t=1859) |  |  |
 | 6 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) | [37:20](https://youtube.com/live/jdMrvP3YOOo?t=2240) |  |  |
 | 7 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) | [44:22](https://youtube.com/live/jdMrvP3YOOo?t=2662) |  |  |
-| 8 | [Closer Aug 25]({{ '/one-offs.html' | relative_url }}#closer-aug-25) | [50:23](https://youtube.com/live/jdMrvP3YOOo?t=3023) |  |  |
+| 8 | [Closer Aug 25]({{ '/one-off-songs.html' | relative_url }}#closer-aug-25) | [50:23](https://youtube.com/live/jdMrvP3YOOo?t=3023) |  |  |

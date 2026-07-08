@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [I mean you]({{ '/songs/' | relative_url }}i-mean-you/) |  |  |  |
 | 6 | [So What]({{ '/songs/' | relative_url }}so-what/) |  |  |  |
 | 7 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) |  |  |  |
-| 8 | [SNFC ambient one]({{ '/one-offs.html' | relative_url }}#snfc-ambient-one) |  |  |  |
+| 8 | [SNFC ambient one]({{ '/one-off-songs.html' | relative_url }}#snfc-ambient-one) |  |  |  |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Au Privave]({{ '/songs/' | relative_url }}au-privave/) |  |  |  |
 | 6 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) |  |  |  |
 | 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  |  |  |
-| 8 | [improv closer apr 12]({{ '/one-offs.html' | relative_url }}#improv-closer-apr-12) |  |  |  |
+| 8 | [improv closer apr 12]({{ '/one-off-songs.html' | relative_url }}#improv-closer-apr-12) |  |  |  |

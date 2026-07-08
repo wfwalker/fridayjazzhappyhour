@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/xQLCSsoW8d8"
 | 5 | [Moanin]({{ '/songs/' | relative_url }}moanin/) | [32:33](https://youtu.be/xQLCSsoW8d8?t=1953) |  | buildup loop is LAME; try singing; fills before transitions |
 | 6 | [Simplismente]({{ '/songs/' | relative_url }}simplismente/) | [40:08](https://youtu.be/xQLCSsoW8d8?t=2408) |  | nice tracks, needs practice |
 | 7 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [47:05](https://youtu.be/xQLCSsoW8d8?t=2825) |  | chill; clav rocks |
-| 8 | [Closer Improv Oct 1]({{ '/one-offs.html' | relative_url }}#closer-improv-oct-1) | [54:45](https://youtu.be/xQLCSsoW8d8?t=3285) |  |  |
+| 8 | [Closer Improv Oct 1]({{ '/one-off-songs.html' | relative_url }}#closer-improv-oct-1) | [54:45](https://youtu.be/xQLCSsoW8d8?t=3285) |  |  |

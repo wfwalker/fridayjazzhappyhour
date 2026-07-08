@@ -25,4 +25,4 @@ youtube_url: "https://youtu.be/NuXghDNajFw"
 | 6 | [Zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) | [40:35](https://youtu.be/NuXghDNajFw?t=2435) |  | needs bridge |
 | 7 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) | [47:08](https://youtu.be/NuXghDNajFw?t=2828) |  |  |
 | 8 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) | [54:45](https://youtu.be/NuXghDNajFw?t=3285) |  | DUB |
-| 9 | [Closing Improv]({{ '/one-offs.html' | relative_url }}#closing-improv) | [01:00:18](https://youtu.be/NuXghDNajFw?t=3618) |  |  |
+| 9 | [Closing Improv]({{ '/one-off-songs.html' | relative_url }}#closing-improv) | [01:00:18](https://youtu.be/NuXghDNajFw?t=3618) |  |  |

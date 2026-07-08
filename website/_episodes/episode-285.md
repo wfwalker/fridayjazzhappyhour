@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Song for my Father]({{ '/songs/' | relative_url }}song-for-my-father/) |  |  |  |
 | 6 | [Icarus]({{ '/songs/' | relative_url }}icarus/) |  |  |  |
 | 7 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) |  |  |  |
-| 8 | [closer jan 9]({{ '/one-offs.html' | relative_url }}#closer-jan-9) |  |  |  |
+| 8 | [closer jan 9]({{ '/one-off-songs.html' | relative_url }}#closer-jan-9) |  |  |  |

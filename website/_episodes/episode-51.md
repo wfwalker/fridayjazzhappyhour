@@ -22,6 +22,6 @@ youtube_url: "https://youtu.be/Wxw626FLkDw"
 | 3 | [In Walked Bud]({{ '/songs/' | relative_url }}in-walked-bud/) | [20:30](https://youtu.be/Wxw626FLkDw?t=1230) |  | v messy, organ too loud |
 | 4 | [Scrapple from the Apple]({{ '/songs/' | relative_url }}scrapple-from-the-apple/) | [28:23](https://youtu.be/Wxw626FLkDw?t=1703) |  |  |
 | 5 | [Secret Love]({{ '/songs/' | relative_url }}secret-love/) | [36:57](https://youtu.be/Wxw626FLkDw?t=2217) |  |  |
-| 6 | [Waltz for Debby]({{ '/one-offs.html' | relative_url }}#waltz-for-debby) | [44:20](https://youtu.be/Wxw626FLkDw?t=2660) |  |  |
+| 6 | [Waltz for Debby]({{ '/one-off-songs.html' | relative_url }}#waltz-for-debby) | [44:20](https://youtu.be/Wxw626FLkDw?t=2660) |  |  |
 | 7 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [49:55](https://youtu.be/Wxw626FLkDw?t=2995) |  | organ too loud; organ + sax = crazy delicious |
 | 8 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) | [58:50](https://youtu.be/Wxw626FLkDw?t=3530) |  |  |

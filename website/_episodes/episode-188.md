@@ -22,5 +22,5 @@ youtube_url: ""
 | 5 | [Minor Swing]({{ '/songs/' | relative_url }}minor-swing/) |  |  |  |
 | 6 | [These Foolish Things remind me of you]({{ '/songs/' | relative_url }}these-foolish-things-remind-me-of-you/) |  |  |  |
 | 7 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) |  |  |  |
-| 8 | [VCV neutrinode mellowness Nov 24]({{ '/one-offs.html' | relative_url }}#vcv-neutrinode-mellowness-nov-24) |  |  | VERY GOOD! fan fave |
+| 8 | [VCV neutrinode mellowness Nov 24]({{ '/one-off-songs.html' | relative_url }}#vcv-neutrinode-mellowness-nov-24) |  |  | VERY GOOD! fan fave |
 | 9 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) |  |  |  |

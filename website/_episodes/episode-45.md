@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/9MPZ7yfdE6o"
 | 5 | [Blue Bossa]({{ '/songs/' | relative_url }}blue-bossa/) | [29:10](https://youtu.be/9MPZ7yfdE6o?t=1750) |  | needs drum fills and comping? proper horns? |
 | 6 | [A Child is Born]({{ '/songs/' | relative_url }}a-child-is-born/) | [35:12](https://youtu.be/9MPZ7yfdE6o?t=2112) |  |  |
 | 7 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) | [44:12](https://youtu.be/9MPZ7yfdE6o?t=2652) |  |  |
-| 8 | [Always]({{ '/one-offs.html' | relative_url }}#always) | [52:57](https://youtu.be/9MPZ7yfdE6o?t=3177) |  |  |
+| 8 | [Always]({{ '/one-off-songs.html' | relative_url }}#always) | [52:57](https://youtu.be/9MPZ7yfdE6o?t=3177) |  |  |

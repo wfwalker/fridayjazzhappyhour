@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Bonita]({{ '/songs/' | relative_url }}bonita/) |  |  |  |
 | 6 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) |  |  |  |
 | 7 | [Pentafunkular 5opolis]({{ '/songs/' | relative_url }}pentafunkular-5opolis/) |  |  |  |
-| 8 | [Closer June 7]({{ '/one-offs.html' | relative_url }}#closer-june-7) |  |  |  |
+| 8 | [Closer June 7]({{ '/one-off-songs.html' | relative_url }}#closer-june-7) |  |  |  |

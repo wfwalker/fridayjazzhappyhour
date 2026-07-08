@@ -15,9 +15,9 @@ youtube_url: ""
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [Albatross at Night]({{ '/one-offs.html' | relative_url }}#albatross-at-night) |  |  |  |
-| 2 | [Ocean Signals]({{ '/one-offs.html' | relative_url }}#ocean-signals) |  |  |  |
-| 3 | [Homage to Eno]({{ '/one-offs.html' | relative_url }}#homage-to-eno) |  |  |  |
-| 4 | [In the Meadow]({{ '/one-offs.html' | relative_url }}#in-the-meadow) |  |  |  |
-| 5 | [Night Rhodes]({{ '/one-offs.html' | relative_url }}#night-rhodes) |  |  |  |
-| 6 | [Köpenicker Straße]({{ '/one-offs.html' | relative_url }}#kpenicker-strae) |  |  |  |
+| 1 | [Albatross at Night]({{ '/one-off-songs.html' | relative_url }}#albatross-at-night) |  |  |  |
+| 2 | [Ocean Signals]({{ '/one-off-songs.html' | relative_url }}#ocean-signals) |  |  |  |
+| 3 | [Homage to Eno]({{ '/one-off-songs.html' | relative_url }}#homage-to-eno) |  |  |  |
+| 4 | [In the Meadow]({{ '/one-off-songs.html' | relative_url }}#in-the-meadow) |  |  |  |
+| 5 | [Night Rhodes]({{ '/one-off-songs.html' | relative_url }}#night-rhodes) |  |  |  |
+| 6 | [Köpenicker Straße]({{ '/one-off-songs.html' | relative_url }}#kpenicker-strae) |  |  |  |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Look of Love]({{ '/songs/' | relative_url }}look-of-love/) |  |  |  |
 | 6 | [Eu Quero E Sossego]({{ '/songs/' | relative_url }}eu-quero-e-sossego/) |  |  |  |
 | 7 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) |  |  |  |
-| 8 | [Shipping News Closer]({{ '/one-offs.html' | relative_url }}#shipping-news-closer) |  |  |  |
+| 8 | [Shipping News Closer]({{ '/one-off-songs.html' | relative_url }}#shipping-news-closer) |  |  |  |

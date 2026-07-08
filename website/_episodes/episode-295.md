@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Killer Joe]({{ '/songs/' | relative_url }}killer-joe/) |  |  |  |
 | 6 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) |  |  |  |
 | 7 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) |  |  |  |
-| 8 | [Re: Take Five]({{ '/one-offs.html' | relative_url }}#re-take-five) |  |  |  |
+| 8 | [Re: Take Five]({{ '/one-off-songs.html' | relative_url }}#re-take-five) |  |  |  |

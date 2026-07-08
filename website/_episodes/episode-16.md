@@ -17,7 +17,7 @@ youtube_url: "https://youtu.be/pX-E6ZVGrpA"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [There is no greater love]({{ '/one-offs.html' | relative_url }}#there-is-no-greater-love) | [03:44](https://youtu.be/pX-E6ZVGrpA?t=224) | swing<br><small style='color:var(--text-secondary);'>by Isham Jones</small> | drums too loud |
+| 1 | [There is no greater love]({{ '/one-off-songs.html' | relative_url }}#there-is-no-greater-love) | [03:44](https://youtu.be/pX-E6ZVGrpA?t=224) | swing<br><small style='color:var(--text-secondary);'>by Isham Jones</small> | drums too loud |
 | 2 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) | [25:15](https://youtu.be/pX-E6ZVGrpA?t=1515) | <br><small style='color:var(--text-secondary);'>by Cole Porter</small> |  |
 | 3 | [But Beautiful]({{ '/songs/' | relative_url }}but-beautiful/) | [55:14](https://youtu.be/pX-E6ZVGrpA?t=3314) | ballad<br><small style='color:var(--text-secondary);'>by Jimmy Van Heusen</small> |  |
 | 4 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) | [17:38](https://youtu.be/pX-E6ZVGrpA?t=1058) | bossa<br><small style='color:var(--text-secondary);'>by Dori Caymmi</small> | lame drums; pad too loud |

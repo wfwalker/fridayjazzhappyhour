@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [God Rest Ye Merry Gentlemen]({{ '/songs/' | relative_url }}god-rest-ye-merry-gentlemen/) |  |  |  |
 | 6 | [Skating]({{ '/songs/' | relative_url }}skating/) |  |  |  |
 | 7 | [O Come O Come Emmanuel]({{ '/songs/' | relative_url }}o-come-o-come-emmanuel/) |  |  |  |
-| 8 | [Some Children Him]({{ '/one-offs.html' | relative_url }}#some-children-him) |  |  |  |
+| 8 | [Some Children Him]({{ '/one-off-songs.html' | relative_url }}#some-children-him) |  |  |  |

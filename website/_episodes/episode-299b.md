@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Once I loved]({{ '/songs/' | relative_url }}once-i-loved/) |  |  |  |
 | 6 | [All the Things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) |  |  |  |
 | 7 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) |  |  |  |
-| 8 | [Rhodes and Euro closer]({{ '/one-offs.html' | relative_url }}#rhodes-and-euro-closer) |  |  |  |
+| 8 | [Rhodes and Euro closer]({{ '/one-off-songs.html' | relative_url }}#rhodes-and-euro-closer) |  |  |  |

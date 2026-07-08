@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Road Song]({{ '/songs/' | relative_url }}road-song/) |  |  |  |
 | 6 | [Naima]({{ '/songs/' | relative_url }}naima/) |  |  |  |
 | 7 | [Rise]({{ '/songs/' | relative_url }}rise/) |  |  |  |
-| 8 | [Sonic Circuits practice april 10]({{ '/one-offs.html' | relative_url }}#sonic-circuits-practice-april-10) |  |  |  |
+| 8 | [Sonic Circuits practice april 10]({{ '/one-off-songs.html' | relative_url }}#sonic-circuits-practice-april-10) |  |  |  |

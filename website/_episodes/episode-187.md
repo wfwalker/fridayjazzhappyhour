@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Ternura]({{ '/songs/' | relative_url }}ternura/) |  |  |  |
 | 6 | [Lovely Day]({{ '/songs/' | relative_url }}lovely-day/) |  |  |  |
 | 7 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) |  |  |  |
-| 8 | [Closer Nov 17]({{ '/one-offs.html' | relative_url }}#closer-nov-17) |  |  |  |
+| 8 | [Closer Nov 17]({{ '/one-off-songs.html' | relative_url }}#closer-nov-17) |  |  |  |

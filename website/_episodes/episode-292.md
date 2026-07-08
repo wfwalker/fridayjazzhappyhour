@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Feel like Going Home]({{ '/songs/' | relative_url }}feel-like-going-home/) |  |  |  |
 | 6 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) |  |  |  |
 | 7 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) |  |  |  |
-| 8 | [Closer March 27]({{ '/one-offs.html' | relative_url }}#closer-march-27) |  |  |  |
+| 8 | [Closer March 27]({{ '/one-off-songs.html' | relative_url }}#closer-march-27) |  |  |  |

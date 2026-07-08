@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Midnight]({{ '/songs/' | relative_url }}midnight/) |  |  |  |
 | 6 | [Lullaby of Birdland]({{ '/songs/' | relative_url }}lullaby-of-birdland/) |  |  |  |
 | 7 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) |  |  |  |
-| 8 | [Heather closer]({{ '/one-offs.html' | relative_url }}#heather-closer) |  |  |  |
+| 8 | [Heather closer]({{ '/one-off-songs.html' | relative_url }}#heather-closer) |  |  |  |

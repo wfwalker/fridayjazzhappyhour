@@ -23,4 +23,4 @@ youtube_url: ""
 | 6 | [Just the Two of Us]({{ '/songs/' | relative_url }}just-the-two-of-us/) |  |  |  |
 | 7 | [Solsbury Hill]({{ '/songs/' | relative_url }}solsbury-hill/) |  |  |  |
 | 8 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) |  |  |  |
-| 9 | [EDM02]({{ '/one-offs.html' | relative_url }}#edm02) |  |  |  |
+| 9 | [EDM02]({{ '/one-off-songs.html' | relative_url }}#edm02) |  |  |  |

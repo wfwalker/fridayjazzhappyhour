@@ -22,6 +22,6 @@ youtube_url: "https://youtu.be/HM_6QdDeBy4"
 | 3 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) | [14:51](https://youtu.be/HM_6QdDeBy4?t=891) |  | practice. energy changes good |
 | 4 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [24:28](https://youtu.be/HM_6QdDeBy4?t=1468) |  | yay for clav!@ |
 | 5 | [Montara]({{ '/songs/' | relative_url }}montara/) | [33:09](https://youtu.be/HM_6QdDeBy4?t=1989) |  | practice; automate Effects change |
-| 6 | [Buffering]({{ '/one-offs.html' | relative_url }}#buffering) | [39:47](https://youtu.be/HM_6QdDeBy4?t=2387) |  |  |
+| 6 | [Buffering]({{ '/one-off-songs.html' | relative_url }}#buffering) | [39:47](https://youtu.be/HM_6QdDeBy4?t=2387) |  |  |
 | 7 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [45:13](https://youtu.be/HM_6QdDeBy4?t=2713) |  | yes to sax comping! |
 | 8 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [54:11](https://youtu.be/HM_6QdDeBy4?t=3251) |  |  |

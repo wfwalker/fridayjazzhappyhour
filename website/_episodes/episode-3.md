@@ -18,7 +18,7 @@ youtube_url: "https://youtu.be/s0MwmoMYKj8"
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
 | 1 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) | [01:40](https://youtu.be/s0MwmoMYKj8?t=100) | organ latin<br><small style='color:var(--text-secondary);'>by Sonny Rollins</small> | needs something else in arrangement) |
-| 2 | [Peter Gunn / Trouble Comin’ Everyday]({{ '/one-offs.html' | relative_url }}#peter-gunn-trouble-comin-everyday) | [18:50](https://youtu.be/s0MwmoMYKj8?t=1130) | funk<br><small style='color:var(--text-secondary);'>by Henry Mancini</small> | REDO |
+| 2 | [Peter Gunn / Trouble Comin’ Everyday]({{ '/one-off-songs.html' | relative_url }}#peter-gunn-trouble-comin-everyday) | [18:50](https://youtu.be/s0MwmoMYKj8?t=1130) | funk<br><small style='color:var(--text-secondary);'>by Henry Mancini</small> | REDO |
 | 3 | [Time After Time]({{ '/songs/' | relative_url }}time-after-time/) | [24:50](https://youtu.be/s0MwmoMYKj8?t=1490) | pop<br><small style='color:var(--text-secondary);'>by Cyndi Lauper</small> | REDO |
 | 4 | [Dinosaur Night]({{ '/songs/' | relative_url }}dinosaur-night/) | [37:22](https://youtu.be/s0MwmoMYKj8?t=2242) | accordion<br><small style='color:var(--text-secondary);'>by Bill Walker</small> |  |
 | 5 | [Nightingale Sang in Berkeley Square]({{ '/songs/' | relative_url }}nightingale-sang-in-berkeley-square/) | [07:15](https://youtu.be/s0MwmoMYKj8?t=435) | ballad | bass wrong tempo! |

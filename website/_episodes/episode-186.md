@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) |  |  |  |
 | 6 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) |  |  |  |
 | 7 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) |  |  |  |
-| 8 | [Melodicer and Accordion]({{ '/one-offs.html' | relative_url }}#melodicer-and-accordion) |  |  |  |
+| 8 | [Melodicer and Accordion]({{ '/one-off-songs.html' | relative_url }}#melodicer-and-accordion) |  |  |  |

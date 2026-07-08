@@ -17,12 +17,12 @@ youtube_url: "https://youtu.be/8xnSYgneRlI"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [Brother, Can you Spare a Dime?]({{ '/one-offs.html' | relative_url }}#brother-can-you-spare-a-dime) | [03:55](https://youtu.be/8xnSYgneRlI?t=235) | Ballad |  |
+| 1 | [Brother, Can you Spare a Dime?]({{ '/one-off-songs.html' | relative_url }}#brother-can-you-spare-a-dime) | [03:55](https://youtu.be/8xnSYgneRlI?t=235) | Ballad |  |
 | 2 | [Footprints]({{ '/songs/' | relative_url }}footprints/) | [10:53](https://youtu.be/8xnSYgneRlI?t=653) | Techno | set slap bass |
 | 3 | [River Man]({{ '/songs/' | relative_url }}river-man/) | [18:15](https://youtu.be/8xnSYgneRlI?t=1095) | Pop |  |
 | 4 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [23:54](https://youtu.be/8xnSYgneRlI?t=1434) | Techno | added rock gtr |
 | 5 | [Nearness of you]({{ '/songs/' | relative_url }}nearness-of-you/) | [30:10](https://youtu.be/8xnSYgneRlI?t=1810) | Bossa |  |
 | 6 | [New Phone Who Dis]({{ '/songs/' | relative_url }}new-phone-who-dis/) | [36:58](https://youtu.be/8xnSYgneRlI?t=2218) | Techno |  |
 | 7 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) | [43:55](https://youtu.be/8xnSYgneRlI?t=2635) | Funk |  |
-| 8 | [C Jam Blues]({{ '/one-offs.html' | relative_url }}#c-jam-blues) | [49:50](https://youtu.be/8xnSYgneRlI?t=2990) | Swing |  |
+| 8 | [C Jam Blues]({{ '/one-off-songs.html' | relative_url }}#c-jam-blues) | [49:50](https://youtu.be/8xnSYgneRlI?t=2990) | Swing |  |
 | 9 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [54:34](https://youtu.be/8xnSYgneRlI?t=3274) | Bossa |  |

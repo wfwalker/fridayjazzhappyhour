@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Minor Swing]({{ '/songs/' | relative_url }}minor-swing/) |  |  |  |
 | 6 | [It might as well be spring]({{ '/songs/' | relative_url }}it-might-as-well-be-spring/) |  |  |  |
 | 7 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) |  |  |  |
-| 8 | [fuzzy vcv chord closer]({{ '/one-offs.html' | relative_url }}#fuzzy-vcv-chord-closer) |  |  |  |
+| 8 | [fuzzy vcv chord closer]({{ '/one-off-songs.html' | relative_url }}#fuzzy-vcv-chord-closer) |  |  |  |

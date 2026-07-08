@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/PcZFKARMaQo"
 | 5 | [Montara]({{ '/songs/' | relative_url }}montara/) | [30:45](https://youtu.be/PcZFKARMaQo?t=1845) |  |  |
 | 6 | [They Can’t take that away from me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) | [37:55](https://youtu.be/PcZFKARMaQo?t=2275) |  |  |
 | 7 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) | [44:04](https://youtu.be/PcZFKARMaQo?t=2644) |  |  |
-| 8 | [All You Fascists Bound to Lose]({{ '/one-offs.html' | relative_url }}#all-you-fascists-bound-to-lose) | [52:45](https://youtu.be/PcZFKARMaQo?t=3165) |  |  |
+| 8 | [All You Fascists Bound to Lose]({{ '/one-off-songs.html' | relative_url }}#all-you-fascists-bound-to-lose) | [52:45](https://youtu.be/PcZFKARMaQo?t=3165) |  |  |

@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/zxhyx-uWlJQ"
 | 5 | [Girl Talk]({{ '/songs/' | relative_url }}girl-talk/) | [30:59](https://youtu.be/zxhyx-uWlJQ?t=1859) |  |  |
 | 6 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [37:20](https://youtu.be/zxhyx-uWlJQ?t=2240) |  |  |
 | 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) | [44:22](https://youtu.be/zxhyx-uWlJQ?t=2662) |  |  |
-| 8 | [Gentle Rain Improv]({{ '/one-offs.html' | relative_url }}#gentle-rain-improv) | [50:23](https://youtu.be/zxhyx-uWlJQ?t=3023) |  |  |
+| 8 | [Gentle Rain Improv]({{ '/one-off-songs.html' | relative_url }}#gentle-rain-improv) | [50:23](https://youtu.be/zxhyx-uWlJQ?t=3023) |  |  |

@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/5SC9LUwuawY"
 | 5 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) |  |  |  |
 | 6 | [Sugar]({{ '/songs/' | relative_url }}sugar/) |  |  |  |
 | 7 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) |  |  |  |
-| 8 | [Closer May 19]({{ '/one-offs.html' | relative_url }}#closer-may-19) |  |  |  |
+| 8 | [Closer May 19]({{ '/one-off-songs.html' | relative_url }}#closer-may-19) |  |  |  |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) |  |  |  |
 | 6 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) |  |  |  |
 | 7 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) |  |  |  |
-| 8 | [Pack Ice Video]({{ '/one-offs.html' | relative_url }}#pack-ice-video) |  |  |  |
+| 8 | [Pack Ice Video]({{ '/one-off-songs.html' | relative_url }}#pack-ice-video) |  |  |  |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Ternura]({{ '/songs/' | relative_url }}ternura/) |  |  |  |
 | 6 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) |  |  |  |
 | 7 | [Agua de Beber]({{ '/songs/' | relative_url }}agua-de-beber/) |  |  |  |
-| 8 | [shipping news ambient closer]({{ '/one-offs.html' | relative_url }}#shipping-news-ambient-closer) |  |  |  |
+| 8 | [shipping news ambient closer]({{ '/one-off-songs.html' | relative_url }}#shipping-news-ambient-closer) |  |  |  |

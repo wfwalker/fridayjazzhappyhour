@@ -23,4 +23,4 @@ youtube_url: ""
 | 6 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) |  |  |  |
 | 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) |  |  |  |
 | 8 | [Waters of March]({{ '/songs/' | relative_url }}waters-of-march/) |  |  |  |
-| 9 | [Alphabet Game]({{ '/one-offs.html' | relative_url }}#alphabet-game) |  |  |  |
+| 9 | [Alphabet Game]({{ '/one-off-songs.html' | relative_url }}#alphabet-game) |  |  |  |

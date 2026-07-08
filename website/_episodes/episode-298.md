@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  |  |  |
 | 6 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) |  |  |  |
 | 7 | [Take me to the River]({{ '/songs/' | relative_url }}take-me-to-the-river/) |  |  |  |
-| 8 | [rhodes ambient closer may 15]({{ '/one-offs.html' | relative_url }}#rhodes-ambient-closer-may-15) |  |  |  |
+| 8 | [rhodes ambient closer may 15]({{ '/one-off-songs.html' | relative_url }}#rhodes-ambient-closer-may-15) |  |  |  |

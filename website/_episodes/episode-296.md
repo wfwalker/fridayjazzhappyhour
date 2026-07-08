@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Bonita]({{ '/songs/' | relative_url }}bonita/) |  |  |  |
 | 6 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) |  |  |  |
 | 7 | [Root Down (and Get it)]({{ '/songs/' | relative_url }}root-down-and-get-it/) |  |  |  |
-| 8 | [BoC closer apr 24]({{ '/one-offs.html' | relative_url }}#boc-closer-apr-24) |  |  |  |
+| 8 | [BoC closer apr 24]({{ '/one-off-songs.html' | relative_url }}#boc-closer-apr-24) |  |  |  |

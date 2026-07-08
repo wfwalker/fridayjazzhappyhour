@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/47KbvV1znH8"
 | 5 | [Sermonette]({{ '/songs/' | relative_url }}sermonette/) | [40:14](https://youtu.be/47KbvV1znH8?t=2414) |  | hot mess. practice! fix chords with real book chart |
 | 6 | [New Day LoFi]({{ '/songs/' | relative_url }}new-day-lofi/) | [45:28](https://youtu.be/47KbvV1znH8?t=2728) |  | connect intro to head |
 | 7 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) | [53:22](https://youtu.be/47KbvV1znH8?t=3202) |  |  |
-| 8 | [Closer April 8]({{ '/one-offs.html' | relative_url }}#closer-april-8) | [01:00:20](https://youtu.be/47KbvV1znH8?t=3620) |  |  |
+| 8 | [Closer April 8]({{ '/one-off-songs.html' | relative_url }}#closer-april-8) | [01:00:20](https://youtu.be/47KbvV1znH8?t=3620) |  |  |

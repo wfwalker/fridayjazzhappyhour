@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Goodbye Look]({{ '/songs/' | relative_url }}goodbye-look/) |  |  |  |
 | 6 | [I Can't Get Started]({{ '/songs/' | relative_url }}i-cant-get-started/) |  |  |  |
 | 7 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) |  |  |  |
-| 8 | [feb 20 rhodes closer]({{ '/one-offs.html' | relative_url }}#feb-20-rhodes-closer) |  |  |  |
+| 8 | [feb 20 rhodes closer]({{ '/one-off-songs.html' | relative_url }}#feb-20-rhodes-closer) |  |  |  |

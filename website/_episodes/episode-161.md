@@ -22,6 +22,6 @@ youtube_url: "https://youtube.com/live/iSBCTTvF5RM"
 | 3 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) | [21:11](https://youtube.com/live/iSBCTTvF5RM?t=1271) |  |  |
 | 4 | [Desafinado]({{ '/songs/' | relative_url }}desafinado/) | [30:00](https://youtube.com/live/iSBCTTvF5RM?t=1800) |  |  |
 | 5 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) | [38:43](https://youtube.com/live/iSBCTTvF5RM?t=2323) |  |  |
-| 6 | [Piano Improv May 5]({{ '/one-offs.html' | relative_url }}#piano-improv-may-5) | [47:43](https://youtube.com/live/iSBCTTvF5RM?t=2863) |  |  |
+| 6 | [Piano Improv May 5]({{ '/one-off-songs.html' | relative_url }}#piano-improv-may-5) | [47:43](https://youtube.com/live/iSBCTTvF5RM?t=2863) |  |  |
 | 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) | [51:11](https://youtube.com/live/iSBCTTvF5RM?t=3071) |  |  |
 | 8 | [Nightingale Sang in Berkeley Square]({{ '/songs/' | relative_url }}nightingale-sang-in-berkeley-square/) | [59:30](https://youtube.com/live/iSBCTTvF5RM?t=3570) |  |  |

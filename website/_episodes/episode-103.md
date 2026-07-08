@@ -25,4 +25,4 @@ youtube_url: "https://youtu.be/FJztyT2596g"
 | 6 | [New Phone Who Dis]({{ '/songs/' | relative_url }}new-phone-who-dis/) | [33:17](https://youtu.be/FJztyT2596g?t=1997) |  | new name who dis |
 | 7 | [Hi Lili, Hi Lo]({{ '/songs/' | relative_url }}hi-lili-hi-lo/) | [39:55](https://youtu.be/FJztyT2596g?t=2395) |  | good stuff maynard |
 | 8 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) | [46:05](https://youtu.be/FJztyT2596g?t=2765) |  | nice horns |
-| 9 | [Closer March 4]({{ '/one-offs.html' | relative_url }}#closer-march-4) | [54:50](https://youtu.be/FJztyT2596g?t=3290) |  |  |
+| 9 | [Closer March 4]({{ '/one-off-songs.html' | relative_url }}#closer-march-4) | [54:50](https://youtu.be/FJztyT2596g?t=3290) |  |  |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Softly as in a morning Sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) |  |  |  |
 | 6 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) |  |  |  |
 | 7 | [Moanin]({{ '/songs/' | relative_url }}moanin/) |  |  |  |
-| 8 | [April 11 closer]({{ '/one-offs.html' | relative_url }}#april-11-closer) |  |  |  |
+| 8 | [April 11 closer]({{ '/one-off-songs.html' | relative_url }}#april-11-closer) |  |  |  |

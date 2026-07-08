@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/ngSqqLNxvgo"
 | 5 | [Goodbye Look]({{ '/songs/' | relative_url }}goodbye-look/) | [35:08](https://youtu.be/ngSqqLNxvgo?t=2108) |  |  |
 | 6 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [41:40](https://youtu.be/ngSqqLNxvgo?t=2500) |  |  |
 | 7 | [Montara]({{ '/songs/' | relative_url }}montara/) | [50:10](https://youtu.be/ngSqqLNxvgo?t=3010) |  |  |
-| 8 | [Alphabet Exercise]({{ '/one-offs.html' | relative_url }}#alphabet-exercise) | [58:03](https://youtu.be/ngSqqLNxvgo?t=3483) |  | GAFFE CAGED |
+| 8 | [Alphabet Exercise]({{ '/one-off-songs.html' | relative_url }}#alphabet-exercise) | [58:03](https://youtu.be/ngSqqLNxvgo?t=3483) |  | GAFFE CAGED |

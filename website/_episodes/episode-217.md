@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Canto de Osshana]({{ '/songs/' | relative_url }}canto-de-osshana/) |  |  |  |
 | 6 | [Dindi]({{ '/songs/' | relative_url }}dindi/) |  |  |  |
 | 7 | [Root Down (and Get it)]({{ '/songs/' | relative_url }}root-down-and-get-it/) |  |  |  |
-| 8 | [Closer July 12 (inchworm)]({{ '/one-offs.html' | relative_url }}#closer-july-12-inchworm) |  |  |  |
+| 8 | [Closer July 12 (inchworm)]({{ '/one-off-songs.html' | relative_url }}#closer-july-12-inchworm) |  |  |  |

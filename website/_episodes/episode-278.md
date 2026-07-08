@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [New Phone Who Dis]({{ '/songs/' | relative_url }}new-phone-who-dis/) |  |  |  |
 | 6 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) |  |  |  |
 | 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) |  |  |  |
-| 8 | [pams pro workout debut closer]({{ '/one-offs.html' | relative_url }}#pams-pro-workout-debut-closer) |  |  |  |
+| 8 | [pams pro workout debut closer]({{ '/one-off-songs.html' | relative_url }}#pams-pro-workout-debut-closer) |  |  |  |

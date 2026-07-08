@@ -21,4 +21,4 @@ youtube_url: ""
 | 4 | [Once I Loved]({{ '/songs/' | relative_url }}once-i-loved/) |  |  |  |
 | 5 | [Beat 70]({{ '/songs/' | relative_url }}beat-70/) |  |  |  |
 | 6 | [Go Tell It on the Mountain]({{ '/songs/' | relative_url }}go-tell-it-on-the-mountain/) |  |  |  |
-| 7 | [Greensleeves Closer]({{ '/one-offs.html' | relative_url }}#greensleeves-closer) |  |  |  |
+| 7 | [Greensleeves Closer]({{ '/one-off-songs.html' | relative_url }}#greensleeves-closer) |  |  |  |

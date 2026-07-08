@@ -23,4 +23,4 @@ youtube_url: ""
 | 6 | [Camilla (The Old, Old Story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) |  |  |  |
 | 7 | [So Danco Samba]({{ '/songs/' | relative_url }}so-danco-samba/) |  |  |  |
 | 8 | [God Bless the Child]({{ '/songs/' | relative_url }}god-bless-the-child/) |  |  |  |
-| 9 | [Improv Closer may 24]({{ '/one-offs.html' | relative_url }}#improv-closer-may-24) |  |  |  |
+| 9 | [Improv Closer may 24]({{ '/one-off-songs.html' | relative_url }}#improv-closer-may-24) |  |  |  |

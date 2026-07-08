@@ -25,4 +25,4 @@ youtube_url: "https://youtube.com/live/YOlVjS1rPFY"
 | 6 | [Waters of March]({{ '/songs/' | relative_url }}waters-of-march/) | [37:20](https://youtube.com/live/YOlVjS1rPFY?t=2240) |  |  |
 | 7 | [Spring can really hang you up the most]({{ '/songs/' | relative_url }}spring-can-really-hang-you-up-the-most/) | [44:22](https://youtube.com/live/YOlVjS1rPFY?t=2662) |  |  |
 | 8 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) | [50:23](https://youtube.com/live/YOlVjS1rPFY?t=3023) |  |  |
-| 9 | [Closer April 21]({{ '/one-offs.html' | relative_url }}#closer-april-21) |  |  |  |
+| 9 | [Closer April 21]({{ '/one-off-songs.html' | relative_url }}#closer-april-21) |  |  |  |

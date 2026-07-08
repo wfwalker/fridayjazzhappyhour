@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [De Volta ao Samba]({{ '/songs/' | relative_url }}de-volta-ao-samba/) |  |  |  |
 | 6 | [Mad World]({{ '/songs/' | relative_url }}mad-world/) |  |  |  |
 | 7 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) |  |  |  |
-| 8 | [closer oct 22]({{ '/one-offs.html' | relative_url }}#closer-oct-22) |  |  |  |
+| 8 | [closer oct 22]({{ '/one-off-songs.html' | relative_url }}#closer-oct-22) |  |  |  |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Viva La Money]({{ '/songs/' | relative_url }}viva-la-money/) |  |  |  |
 | 6 | [Scottish Lament]({{ '/songs/' | relative_url }}scottish-lament/) |  |  |  |
 | 7 | [People get Ready]({{ '/songs/' | relative_url }}people-get-ready/) |  |  |  |
-| 8 | [Closer Oct 31]({{ '/one-offs.html' | relative_url }}#closer-oct-31) |  |  |  |
+| 8 | [Closer Oct 31]({{ '/one-off-songs.html' | relative_url }}#closer-oct-31) |  |  |  |

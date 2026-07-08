@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/vFJFp1oRZE8"
 | 5 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) | [32:30](https://youtu.be/vFJFp1oRZE8?t=1950) |  | messy organ playing; HOF? |
 | 6 | [Time after Time]({{ '/songs/' | relative_url }}time-after-time/) | [39:10](https://youtu.be/vFJFp1oRZE8?t=2350) |  | ok but practice more; tone too thin? |
 | 7 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [48:14](https://youtu.be/vFJFp1oRZE8?t=2894) |  | fun. bring drums up slightly; gtr? |
-| 8 | [Variations on Dinosaur Night]({{ '/one-offs.html' | relative_url }}#variations-on-dinosaur-night) | [58:17](https://youtu.be/vFJFp1oRZE8?t=3497) |  | surprisingly good |
+| 8 | [Variations on Dinosaur Night]({{ '/one-off-songs.html' | relative_url }}#variations-on-dinosaur-night) | [58:17](https://youtu.be/vFJFp1oRZE8?t=3497) |  | surprisingly good |

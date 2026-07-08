@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) |  |  |  |
 | 6 | [River Man]({{ '/songs/' | relative_url }}river-man/) |  |  |  |
 | 7 | [Mas Que Nada]({{ '/songs/' | relative_url }}mas-que-nada/) |  |  |  |
-| 8 | [Improv Closer Oct 17]({{ '/one-offs.html' | relative_url }}#improv-closer-oct-17) |  |  |  |
+| 8 | [Improv Closer Oct 17]({{ '/one-off-songs.html' | relative_url }}#improv-closer-oct-17) |  |  |  |

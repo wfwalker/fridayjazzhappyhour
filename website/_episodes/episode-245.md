@@ -23,4 +23,4 @@ youtube_url: ""
 | 6 | [Here's that Rainy Day]({{ '/songs/' | relative_url }}heres-that-rainy-day/) |  |  |  |
 | 7 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) |  |  |  |
 | 8 | [A Lotus on Irish Streams]({{ '/songs/' | relative_url }}a-lotus-on-irish-streams/) |  |  |  |
-| 9 | [Surf the Fog]({{ '/one-offs.html' | relative_url }}#surf-the-fog) |  |  |  |
+| 9 | [Surf the Fog]({{ '/one-off-songs.html' | relative_url }}#surf-the-fog) |  |  |  |

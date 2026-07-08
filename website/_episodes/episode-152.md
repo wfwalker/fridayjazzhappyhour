@@ -24,4 +24,4 @@ youtube_url: "https://youtube.com/live/sRh_m871lEU"
 | 5 | [All the Things you ARe]({{ '/songs/' | relative_url }}all-the-things-you-are/) | [30:59](https://youtube.com/live/sRh_m871lEU?t=1859) |  |  |
 | 6 | [Newsky Bluesky]({{ '/songs/' | relative_url }}newsky-bluesky/) | [37:20](https://youtube.com/live/sRh_m871lEU?t=2240) |  |  |
 | 7 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [44:22](https://youtube.com/live/sRh_m871lEU?t=2662) |  |  |
-| 8 | [Bathing Exercise 1]({{ '/one-offs.html' | relative_url }}#bathing-exercise-1) | [50:23](https://youtube.com/live/sRh_m871lEU?t=3023) |  |  |
+| 8 | [Bathing Exercise 1]({{ '/one-off-songs.html' | relative_url }}#bathing-exercise-1) | [50:23](https://youtube.com/live/sRh_m871lEU?t=3023) |  |  |

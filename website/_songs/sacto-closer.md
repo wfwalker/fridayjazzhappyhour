@@ -1,12 +1,12 @@
 ---
 layout: song
-title: "Sacto closer"
+title: "Sacto Closer"
 composer: ""
 style: ""
 play_count: 2
 ---
 
-# Sacto closer
+# Sacto Closer
 
 Played **2** times in the live shows.
 

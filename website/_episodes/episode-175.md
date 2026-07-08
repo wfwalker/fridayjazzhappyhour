@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/c0po_X-AAOc"
 | 5 | [Softly as in a Morning Sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) | [30:59](https://youtu.be/c0po_X-AAOc?t=1859) |  |  |
 | 6 | [Blades]({{ '/songs/' | relative_url }}blades/) | [37:20](https://youtu.be/c0po_X-AAOc?t=2240) |  |  |
 | 7 | [Avalon]({{ '/songs/' | relative_url }}avalon/) | [44:22](https://youtu.be/c0po_X-AAOc?t=2662) |  |  |
-| 8 | [Closer Aug 9]({{ '/one-offs.html' | relative_url }}#closer-aug-9) | [50:23](https://youtu.be/c0po_X-AAOc?t=3023) |  |  |
+| 8 | [Closer Aug 9]({{ '/one-off-songs.html' | relative_url }}#closer-aug-9) | [50:23](https://youtu.be/c0po_X-AAOc?t=3023) |  |  |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) |  |  |  |
 | 6 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) |  |  |  |
 | 7 | [Love Boat]({{ '/songs/' | relative_url }}love-boat/) |  |  |  |
-| 8 | [Closer July 18]({{ '/one-offs.html' | relative_url }}#closer-july-18) |  |  |  |
+| 8 | [Closer July 18]({{ '/one-off-songs.html' | relative_url }}#closer-july-18) |  |  |  |

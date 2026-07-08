@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/xBJwSJ8nljM"
 | 5 | [My Favorite Things]({{ '/songs/' | relative_url }}my-favorite-things/) | [32:12](https://youtu.be/xBJwSJ8nljM?t=1932) |  | Practice man practice; nice range of intensity |
 | 6 | [Goodbye Look]({{ '/songs/' | relative_url }}goodbye-look/) | [40:10](https://youtu.be/xBJwSJ8nljM?t=2410) |  |  |
 | 7 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) | [47:30](https://youtu.be/xBJwSJ8nljM?t=2850) |  | messy but good, excellent poem |
-| 8 | [Closer June 17]({{ '/one-offs.html' | relative_url }}#closer-june-17) | [55:40](https://youtu.be/xBJwSJ8nljM?t=3340) |  |  |
+| 8 | [Closer June 17]({{ '/one-off-songs.html' | relative_url }}#closer-june-17) | [55:40](https://youtu.be/xBJwSJ8nljM?t=3340) |  |  |

@@ -23,4 +23,4 @@ youtube_url: "https://youtu.be/-yO13Zr2O50"
 | 4 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [22:09](https://youtu.be/-yO13Zr2O50?t=1329) |  |  |
 | 5 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) | [27:59](https://youtu.be/-yO13Zr2O50?t=1679) |  |  |
 | 6 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [35:28](https://youtu.be/-yO13Zr2O50?t=2128) |  |  |
-| 7 | [Closer March 25]({{ '/one-offs.html' | relative_url }}#closer-march-25) | [42:28](https://youtu.be/-yO13Zr2O50?t=2548) |  |  |
+| 7 | [Closer March 25]({{ '/one-off-songs.html' | relative_url }}#closer-march-25) | [42:28](https://youtu.be/-yO13Zr2O50?t=2548) |  |  |

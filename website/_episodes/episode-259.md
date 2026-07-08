@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Won't you be my neighbor?]({{ '/songs/' | relative_url }}wont-you-be-my-neighbor/) |  |  |  |
 | 6 | [De Volta ao Samba]({{ '/songs/' | relative_url }}de-volta-ao-samba/) |  |  |  |
 | 7 | [Summertime]({{ '/songs/' | relative_url }}summertime/) |  |  |  |
-| 8 | [interesting piano closer]({{ '/one-offs.html' | relative_url }}#interesting-piano-closer) |  |  |  |
+| 8 | [interesting piano closer]({{ '/one-off-songs.html' | relative_url }}#interesting-piano-closer) |  |  |  |

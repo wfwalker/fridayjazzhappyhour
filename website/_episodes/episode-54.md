@@ -18,7 +18,7 @@ youtube_url: "https://youtu.be/L9jDIlX7bjs"
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
 | 1 | [Naima]({{ '/songs/' | relative_url }}naima/) | [06:35](https://youtu.be/L9jDIlX7bjs?t=395) |  | more variety? |
-| 2 | [La Mer]({{ '/one-offs.html' | relative_url }}#la-mer) | [13:59](https://youtu.be/L9jDIlX7bjs?t=839) |  |  |
+| 2 | [La Mer]({{ '/one-off-songs.html' | relative_url }}#la-mer) | [13:59](https://youtu.be/L9jDIlX7bjs?t=839) |  |  |
 | 3 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) | [23:48](https://youtu.be/L9jDIlX7bjs?t=1428) |  | vocal samples? |
 | 4 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [31:30](https://youtu.be/L9jDIlX7bjs?t=1890) |  | HOF? |
 | 5 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [38:40](https://youtu.be/L9jDIlX7bjs?t=2320) |  |  |

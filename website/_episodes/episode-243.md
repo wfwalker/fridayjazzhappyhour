@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Midnight]({{ '/songs/' | relative_url }}midnight/) |  |  |  |
 | 6 | [They Can't Take that Away from Me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) |  |  |  |
 | 7 | [Viva La Money]({{ '/songs/' | relative_url }}viva-la-money/) |  |  |  |
-| 8 | [Lullaby for Thursday]({{ '/one-offs.html' | relative_url }}#lullaby-for-thursday) |  |  |  |
+| 8 | [Lullaby for Thursday]({{ '/one-off-songs.html' | relative_url }}#lullaby-for-thursday) |  |  |  |

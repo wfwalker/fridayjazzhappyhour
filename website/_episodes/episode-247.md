@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) |  |  |  |
 | 6 | [Estate]({{ '/songs/' | relative_url }}estate/) |  |  |  |
 | 7 | [Frog]({{ '/songs/' | relative_url }}frog/) |  |  |  |
-| 8 | [We'll be together again closer]({{ '/one-offs.html' | relative_url }}#well-be-together-again-closer) |  |  |  |
+| 8 | [We'll be together again closer]({{ '/one-off-songs.html' | relative_url }}#well-be-together-again-closer) |  |  |  |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Girl Talk]({{ '/songs/' | relative_url }}girl-talk/) |  |  |  |
 | 6 | [The Holly and the Ivy]({{ '/songs/' | relative_url }}the-holly-and-the-ivy/) |  |  |  |
 | 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  |  |  |
-| 8 | [Euro Closer Euclid]({{ '/one-offs.html' | relative_url }}#euro-closer-euclid) |  |  |  |
+| 8 | [Euro Closer Euclid]({{ '/one-off-songs.html' | relative_url }}#euro-closer-euclid) |  |  |  |

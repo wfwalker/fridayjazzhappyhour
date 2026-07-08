@@ -21,6 +21,6 @@ youtube_url: ""
 | 4 | [Gee Baby, Ain't I good to you]({{ '/songs/' | relative_url }}gee-baby-aint-i-good-to-you/) |  |  |  |
 | 5 | [Waters of March]({{ '/songs/' | relative_url }}waters-of-march/) |  |  |  |
 | 6 | [Days of Wine and Roses]({{ '/songs/' | relative_url }}days-of-wine-and-roses/) |  |  |  |
-| 7 | [Somewhere Over the Rainbow]({{ '/one-offs.html' | relative_url }}#somewhere-over-the-rainbow) |  |  |  |
+| 7 | [Somewhere Over the Rainbow]({{ '/one-off-songs.html' | relative_url }}#somewhere-over-the-rainbow) |  |  |  |
 | 8 | [Some Other Funk]({{ '/songs/' | relative_url }}some-other-funk/) |  |  |  |
 | 9 | [Christmastime is Here]({{ '/songs/' | relative_url }}christmastime-is-here/) |  |  |  |

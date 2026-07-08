@@ -21,6 +21,6 @@ youtube_url: ""
 | 4 | [Road Song]({{ '/songs/' | relative_url }}road-song/) |  |  |  |
 | 5 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) |  |  |  |
 | 6 | [Axel F]({{ '/songs/' | relative_url }}axel-f/) |  |  |  |
-| 7 | [EuroRack Piano 1]({{ '/one-offs.html' | relative_url }}#eurorack-piano-1) |  |  |  |
-| 8 | [EuroRack Piano 2]({{ '/one-offs.html' | relative_url }}#eurorack-piano-2) |  |  |  |
-| 9 | [EuroRack Piano 3]({{ '/one-offs.html' | relative_url }}#eurorack-piano-3) |  |  |  |
+| 7 | [EuroRack Piano 1]({{ '/one-off-songs.html' | relative_url }}#eurorack-piano-1) |  |  |  |
+| 8 | [EuroRack Piano 2]({{ '/one-off-songs.html' | relative_url }}#eurorack-piano-2) |  |  |  |
+| 9 | [EuroRack Piano 3]({{ '/one-off-songs.html' | relative_url }}#eurorack-piano-3) |  |  |  |

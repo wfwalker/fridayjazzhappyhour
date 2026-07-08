@@ -21,4 +21,4 @@ youtube_url: ""
 | 4 | [Dindi]({{ '/songs/' | relative_url }}dindi/) |  |  |  |
 | 5 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) |  |  |  |
 | 6 | [Emily]({{ '/songs/' | relative_url }}emily/) |  |  |  |
-| 7 | [EMOM SC set]({{ '/one-offs.html' | relative_url }}#emom-sc-set) |  |  |  |
+| 7 | [EMOM SC set]({{ '/one-off-songs.html' | relative_url }}#emom-sc-set) |  |  |  |

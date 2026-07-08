@@ -23,4 +23,4 @@ youtube_url: "https://youtu.be/yYYl7DQc0K0"
 | 4 | [Blue Bossa]({{ '/songs/' | relative_url }}blue-bossa/) | [19:10](https://youtu.be/yYYl7DQc0K0?t=1150) | Latin |  |
 | 5 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) | [25:20](https://youtu.be/yYYl7DQc0K0?t=1520) | Funk |  |
 | 6 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) | [31:10](https://youtu.be/yYYl7DQc0K0?t=1870) | Techno |  |
-| 7 | [Missing Arrangement Improvisation]({{ '/one-offs.html' | relative_url }}#missing-arrangement-improvisation) | [40:02](https://youtu.be/yYYl7DQc0K0?t=2402) | Ballad |  |
+| 7 | [Missing Arrangement Improvisation]({{ '/one-off-songs.html' | relative_url }}#missing-arrangement-improvisation) | [40:02](https://youtu.be/yYYl7DQc0K0?t=2402) | Ballad |  |

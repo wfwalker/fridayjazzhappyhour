@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Bossa Antigua]({{ '/songs/' | relative_url }}bossa-antigua/) |  |  |  |
 | 6 | [It's only a paper Moon]({{ '/songs/' | relative_url }}its-only-a-paper-moon/) |  |  |  |
 | 7 | [Root Down (and Get it)]({{ '/songs/' | relative_url }}root-down-and-get-it/) |  |  |  |
-| 8 | [ambient melodica closer]({{ '/one-offs.html' | relative_url }}#ambient-melodica-closer) |  |  |  |
+| 8 | [ambient melodica closer]({{ '/one-off-songs.html' | relative_url }}#ambient-melodica-closer) |  |  |  |

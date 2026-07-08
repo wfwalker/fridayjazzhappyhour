@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) |  |  |  |
 | 6 | [Sugar]({{ '/songs/' | relative_url }}sugar/) |  |  |  |
 | 7 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) |  |  |  |
-| 8 | [Gratitude euorack closer]({{ '/one-offs.html' | relative_url }}#gratitude-euorack-closer) |  |  |  |
+| 8 | [Gratitude euorack closer]({{ '/one-off-songs.html' | relative_url }}#gratitude-euorack-closer) |  |  |  |

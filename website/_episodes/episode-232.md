@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) |  |  |  |
 | 6 | [Take Five (King Tubby)]({{ '/songs/' | relative_url }}take-five-king-tubby/) |  |  |  |
 | 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) |  |  |  |
-| 8 | [closer waltz]({{ '/one-offs.html' | relative_url }}#closer-waltz) |  |  |  |
+| 8 | [closer waltz]({{ '/one-off-songs.html' | relative_url }}#closer-waltz) |  |  |  |

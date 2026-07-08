@@ -24,4 +24,4 @@ youtube_url: "https://youtube.com/live/AgOf7ObdkGY"
 | 5 | [Naima]({{ '/songs/' | relative_url }}naima/) | [32:00](https://youtube.com/live/AgOf7ObdkGY?t=1920) |  |  |
 | 6 | [Moanin]({{ '/songs/' | relative_url }}moanin/) | [41:00](https://youtube.com/live/AgOf7ObdkGY?t=2460) |  |  |
 | 7 | [Umbrella]({{ '/songs/' | relative_url }}umbrella/) | [47:59](https://youtube.com/live/AgOf7ObdkGY?t=2879) |  | practice, singing not great |
-| 8 | [Closer Jan 6]({{ '/one-offs.html' | relative_url }}#closer-jan-6) | [53:27](https://youtube.com/live/AgOf7ObdkGY?t=3207) |  |  |
+| 8 | [Closer Jan 6]({{ '/one-off-songs.html' | relative_url }}#closer-jan-6) | [53:27](https://youtube.com/live/AgOf7ObdkGY?t=3207) |  |  |

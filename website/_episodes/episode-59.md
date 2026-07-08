@@ -19,7 +19,7 @@ youtube_url: "https://youtu.be/ItLGYec3rkE"
 | --- | --- | --- | --- | --- |
 | 1 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) | [05:50](https://youtu.be/ItLGYec3rkE?t=350) | Latin |  |
 | 2 | [Take Five (King Tubby)]({{ '/songs/' | relative_url }}take-five-king-tubby/) | [10:30](https://youtu.be/ItLGYec3rkE?t=630) | Reggae |  |
-| 3 | [One Note Samba]({{ '/one-offs.html' | relative_url }}#one-note-samba) | [18:27](https://youtu.be/ItLGYec3rkE?t=1107) | Bossa |  |
+| 3 | [One Note Samba]({{ '/one-off-songs.html' | relative_url }}#one-note-samba) | [18:27](https://youtu.be/ItLGYec3rkE?t=1107) | Bossa |  |
 | 4 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) | [23:40](https://youtu.be/ItLGYec3rkE?t=1420) | Techno |  |
 | 5 | [Begin the Beguine]({{ '/songs/' | relative_url }}begin-the-beguine/) | [32:20](https://youtu.be/ItLGYec3rkE?t=1940) | Bossa |  |
 | 6 | [Coming Home]({{ '/songs/' | relative_url }}coming-home/) | [42:45](https://youtu.be/ItLGYec3rkE?t=2565) | Pop |  |

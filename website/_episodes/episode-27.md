@@ -23,5 +23,5 @@ youtube_url: "https://youtu.be/0LJTLQOLZQM"
 | 4 | [Gee Baby, Ain’t I Good to You]({{ '/songs/' | relative_url }}gee-baby-aint-i-good-to-you/) | [23:43](https://youtu.be/0LJTLQOLZQM?t=1423) |  |  |
 | 5 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) | [29:45](https://youtu.be/0LJTLQOLZQM?t=1785) |  | too slow? too long |
 | 6 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) | [39:05](https://youtu.be/0LJTLQOLZQM?t=2345) |  |  |
-| 7 | [On Broadway]({{ '/one-offs.html' | relative_url }}#on-broadway) | [46:46](https://youtu.be/0LJTLQOLZQM?t=2806) |  | faster? mic lower in mix; scat kinda fun |
-| 8 | [Young and Foolish]({{ '/one-offs.html' | relative_url }}#young-and-foolish) | [53:16](https://youtu.be/0LJTLQOLZQM?t=3196) |  |  |
+| 7 | [On Broadway]({{ '/one-off-songs.html' | relative_url }}#on-broadway) | [46:46](https://youtu.be/0LJTLQOLZQM?t=2806) |  | faster? mic lower in mix; scat kinda fun |
+| 8 | [Young and Foolish]({{ '/one-off-songs.html' | relative_url }}#young-and-foolish) | [53:16](https://youtu.be/0LJTLQOLZQM?t=3196) |  |  |

@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/reLwPwmrFZk"
 | 5 | [New Phone Who Dis]({{ '/songs/' | relative_url }}new-phone-who-dis/) | [29:00](https://youtu.be/reLwPwmrFZk?t=1740) |  |  |
 | 6 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) | [36:54](https://youtu.be/reLwPwmrFZk?t=2214) |  |  |
 | 7 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [43:40](https://youtu.be/reLwPwmrFZk?t=2620) |  |  |
-| 8 | [Closer Improv Oct 22]({{ '/one-offs.html' | relative_url }}#closer-improv-oct-22) | [51:03](https://youtu.be/reLwPwmrFZk?t=3063) |  |  |
+| 8 | [Closer Improv Oct 22]({{ '/one-off-songs.html' | relative_url }}#closer-improv-oct-22) | [51:03](https://youtu.be/reLwPwmrFZk?t=3063) |  |  |

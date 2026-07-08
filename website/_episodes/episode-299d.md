@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) |  |  |  |
 | 6 | [Desde]({{ '/songs/' | relative_url }}desde/) |  |  |  |
 | 7 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) |  |  |  |
-| 8 | [Crane Concréte]({{ '/one-offs.html' | relative_url }}#crane-concrte) |  |  |  |
+| 8 | [Crane Concréte]({{ '/one-off-songs.html' | relative_url }}#crane-concrte) |  |  |  |

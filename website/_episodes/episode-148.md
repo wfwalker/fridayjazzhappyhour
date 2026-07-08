@@ -24,4 +24,4 @@ youtube_url: "https://youtube.com/live/kyx5vcS24Tk"
 | 5 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [29:24](https://youtube.com/live/kyx5vcS24Tk?t=1764) |  | done? |
 | 6 | [Morning]({{ '/songs/' | relative_url }}morning/) | [35:40](https://youtube.com/live/kyx5vcS24Tk?t=2140) |  |  |
 | 7 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) | [42:55](https://youtube.com/live/kyx5vcS24Tk?t=2575) |  |  |
-| 8 | [Closer Feb 3]({{ '/one-offs.html' | relative_url }}#closer-feb-3) | [53:20](https://youtube.com/live/kyx5vcS24Tk?t=3200) |  | swingy! |
+| 8 | [Closer Feb 3]({{ '/one-off-songs.html' | relative_url }}#closer-feb-3) | [53:20](https://youtube.com/live/kyx5vcS24Tk?t=3200) |  | swingy! |

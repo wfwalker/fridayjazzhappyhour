@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/zEpV0UCl2es"
 | 5 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) | [25:28](https://youtu.be/zEpV0UCl2es?t=1528) |  |  |
 | 6 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [29:50](https://youtu.be/zEpV0UCl2es?t=1790) |  |  |
 | 7 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [35:54](https://youtu.be/zEpV0UCl2es?t=2154) |  | rockin |
-| 8 | [Closer improvise jan 28]({{ '/one-offs.html' | relative_url }}#closer-improvise-jan-28) | [43:12](https://youtu.be/zEpV0UCl2es?t=2592) |  |  |
+| 8 | [Closer improvise jan 28]({{ '/one-off-songs.html' | relative_url }}#closer-improvise-jan-28) | [43:12](https://youtu.be/zEpV0UCl2es?t=2592) |  |  |

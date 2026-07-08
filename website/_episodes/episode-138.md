@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/8XM8B7y4T_Q"
 | 5 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [26:45](https://youtu.be/8XM8B7y4T_Q?t=1605) |  |  |
 | 6 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [32:38](https://youtu.be/8XM8B7y4T_Q?t=1958) |  |  |
 | 7 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [39:01](https://youtu.be/8XM8B7y4T_Q?t=2341) |  |  |
-| 8 | [Closer Nov 4]({{ '/one-offs.html' | relative_url }}#closer-nov-4) | [44:25](https://youtu.be/8XM8B7y4T_Q?t=2665) |  | organ! |
+| 8 | [Closer Nov 4]({{ '/one-off-songs.html' | relative_url }}#closer-nov-4) | [44:25](https://youtu.be/8XM8B7y4T_Q?t=2665) |  | organ! |

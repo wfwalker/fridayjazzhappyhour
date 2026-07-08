@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/-MgcGR7PIMg"
 | 5 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [29:22](https://youtu.be/-MgcGR7PIMg?t=1762) |  | bass solo fail |
 | 6 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [36:25](https://youtu.be/-MgcGR7PIMg?t=2185) |  | sloppy but interesting |
 | 7 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [42:55](https://youtu.be/-MgcGR7PIMg?t=2575) |  | o come o come sort of |
-| 8 | [Closer Dec 17]({{ '/one-offs.html' | relative_url }}#closer-dec-17) | [51:05](https://youtu.be/-MgcGR7PIMg?t=3065) |  |  |
+| 8 | [Closer Dec 17]({{ '/one-off-songs.html' | relative_url }}#closer-dec-17) | [51:05](https://youtu.be/-MgcGR7PIMg?t=3065) |  |  |

@@ -15,4 +15,4 @@ youtube_url: ""
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [New Ambient Pieces]({{ '/one-offs.html' | relative_url }}#new-ambient-pieces) |  |  |  |
+| 1 | [New Ambient Pieces]({{ '/one-off-songs.html' | relative_url }}#new-ambient-pieces) |  |  |  |

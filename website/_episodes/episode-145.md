@@ -24,4 +24,4 @@ youtube_url: "https://youtube.com/live/twnyETfghJY"
 | 5 | [Goodbye Pork Pie Hat]({{ '/songs/' | relative_url }}goodbye-pork-pie-hat/) | [30:00](https://youtube.com/live/twnyETfghJY?t=1800) |  | intro? |
 | 6 | [Avalon]({{ '/songs/' | relative_url }}avalon/) | [37:55](https://youtube.com/live/twnyETfghJY?t=2275) |  | ride cymbal? needs varity |
 | 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) | [44:22](https://youtube.com/live/twnyETfghJY?t=2662) |  |  |
-| 8 | [Closer Jan 13]({{ '/one-offs.html' | relative_url }}#closer-jan-13) | [53:20](https://youtube.com/live/twnyETfghJY?t=3200) |  |  |
+| 8 | [Closer Jan 13]({{ '/one-off-songs.html' | relative_url }}#closer-jan-13) | [53:20](https://youtube.com/live/twnyETfghJY?t=3200) |  |  |

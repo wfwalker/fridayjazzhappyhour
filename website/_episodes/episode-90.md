@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/cwkUkcDyfaw"
 | 5 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) | [30:35](https://youtu.be/cwkUkcDyfaw?t=1835) |  |  |
 | 6 | [Holly and the Ivy]({{ '/songs/' | relative_url }}holly-and-the-ivy/) | [38:08](https://youtu.be/cwkUkcDyfaw?t=2288) |  | bah. why fall behind? |
 | 7 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [44:52](https://youtu.be/cwkUkcDyfaw?t=2692) |  |  |
-| 8 | [Alphabet Improv 2]({{ '/one-offs.html' | relative_url }}#alphabet-improv-2) | [51:10](https://youtu.be/cwkUkcDyfaw?t=3070) |  |  |
+| 8 | [Alphabet Improv 2]({{ '/one-off-songs.html' | relative_url }}#alphabet-improv-2) | [51:10](https://youtu.be/cwkUkcDyfaw?t=3070) |  |  |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Morning]({{ '/songs/' | relative_url }}morning/) |  |  |  |
 | 6 | [Avalon]({{ '/songs/' | relative_url }}avalon/) |  |  |  |
 | 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  |  |  |
-| 8 | [Modular Closer]({{ '/one-offs.html' | relative_url }}#modular-closer) |  |  |  |
+| 8 | [Modular Closer]({{ '/one-off-songs.html' | relative_url }}#modular-closer) |  |  |  |

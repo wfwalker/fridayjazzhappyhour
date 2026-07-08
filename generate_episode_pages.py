@@ -204,7 +204,7 @@ youtube_url: "{yt_url}"
             if song_counts.get(slug_song, 0) > 1:
                 song_link = "[%s]({{ '/songs/' | relative_url }}%s/)" % (item['name'], slug_song)
             else:
-                song_link = "[%s]({{ '/one-offs.html' | relative_url }}#%s)" % (item['name'], slug_song)
+                song_link = "[%s]({{ '/one-off-songs.html' | relative_url }}#%s)" % (item['name'], slug_song)
                 
             time_str = format_offset_time(item["offset"])
             time_link = f"[{time_str}]({item['url']})" if item['url'] else time_str

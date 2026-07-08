@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Simplismente]({{ '/songs/' | relative_url }}simplismente/) |  |  |  |
 | 6 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) |  |  |  |
 | 7 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) |  |  |  |
-| 8 | [Dust makes Rain with Accordion]({{ '/one-offs.html' | relative_url }}#dust-makes-rain-with-accordion) |  |  |  |
+| 8 | [Dust makes Rain with Accordion]({{ '/one-off-songs.html' | relative_url }}#dust-makes-rain-with-accordion) |  |  |  |

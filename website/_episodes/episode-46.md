@@ -17,7 +17,7 @@ youtube_url: "https://youtu.be/oVtkuUaMHU8"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [Skylark]({{ '/one-offs.html' | relative_url }}#skylark) | [04:50](https://youtu.be/oVtkuUaMHU8?t=290) |  |  |
+| 1 | [Skylark]({{ '/one-off-songs.html' | relative_url }}#skylark) | [04:50](https://youtu.be/oVtkuUaMHU8?t=290) |  |  |
 | 2 | [Footprints]({{ '/songs/' | relative_url }}footprints/) | [12:58](https://youtu.be/oVtkuUaMHU8?t=778) |  |  |
 | 3 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) | [20:18](https://youtu.be/oVtkuUaMHU8?t=1218) |  | put drums behind musicbox, Faster! |
 | 4 | [This Can't Be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) | [26:37](https://youtu.be/oVtkuUaMHU8?t=1597) |  |  |

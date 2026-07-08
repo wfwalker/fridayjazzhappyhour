@@ -15,4 +15,4 @@ youtube_url: ""
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [Ambient Set CNPS]({{ '/one-offs.html' | relative_url }}#ambient-set-cnps) |  |  |  |
+| 1 | [Ambient Set CNPS]({{ '/one-off-songs.html' | relative_url }}#ambient-set-cnps) |  |  |  |

@@ -25,4 +25,4 @@ youtube_url: "https://youtu.be/MIwLmoFc8Dk"
 | 6 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [37:20](https://youtu.be/MIwLmoFc8Dk?t=2240) |  |  |
 | 7 | [Hi Lili, Hi Lo]({{ '/songs/' | relative_url }}hi-lili-hi-lo/) | [44:22](https://youtu.be/MIwLmoFc8Dk?t=2662) |  |  |
 | 8 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [50:23](https://youtu.be/MIwLmoFc8Dk?t=3023) |  |  |
-| 9 | [Closer Aug 18]({{ '/one-offs.html' | relative_url }}#closer-aug-18) |  |  |  |
+| 9 | [Closer Aug 18]({{ '/one-off-songs.html' | relative_url }}#closer-aug-18) |  |  |  |

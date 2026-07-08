@@ -25,4 +25,4 @@ youtube_url: "https://youtu.be/6Wlh1-UXkrs"
 | 6 | [Goodbye Look]({{ '/songs/' | relative_url }}goodbye-look/) | [46:45](https://youtu.be/6Wlh1-UXkrs?t=2805) |  | fix the mix, melodica too hot, tinny; Practice! |
 | 7 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [54:25](https://youtu.be/6Wlh1-UXkrs?t=3265) |  | organ too hot, ending messy |
 | 8 | [Take Me to the River]({{ '/songs/' | relative_url }}take-me-to-the-river/) | [01:03:07](https://youtu.be/6Wlh1-UXkrs?t=3787) |  | intro hiccup! practice keys more; good vocals (too hot) |
-| 9 | [Break Bread Together]({{ '/one-offs.html' | relative_url }}#break-bread-together) | [01:10:30](https://youtu.be/6Wlh1-UXkrs?t=4230) |  |  |
+| 9 | [Break Bread Together]({{ '/one-off-songs.html' | relative_url }}#break-bread-together) | [01:10:30](https://youtu.be/6Wlh1-UXkrs?t=4230) |  |  |

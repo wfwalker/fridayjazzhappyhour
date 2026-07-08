@@ -22,6 +22,6 @@ youtube_url: "https://youtu.be/GGa7s8I0Gzc"
 | 3 | [God Bless the Child]({{ '/songs/' | relative_url }}god-bless-the-child/) | [13:15](https://youtu.be/GGa7s8I0Gzc?t=795) |  |  |
 | 4 | [Canto de Osshana]({{ '/songs/' | relative_url }}canto-de-osshana/) | [20:40](https://youtu.be/GGa7s8I0Gzc?t=1240) |  |  |
 | 5 | [Scottish Lament]({{ '/songs/' | relative_url }}scottish-lament/) | [30:17](https://youtu.be/GGa7s8I0Gzc?t=1817) |  |  |
-| 6 | [Piano Improv May 12]({{ '/one-offs.html' | relative_url }}#piano-improv-may-12) | [36:04](https://youtu.be/GGa7s8I0Gzc?t=2164) |  |  |
+| 6 | [Piano Improv May 12]({{ '/one-off-songs.html' | relative_url }}#piano-improv-may-12) | [36:04](https://youtu.be/GGa7s8I0Gzc?t=2164) |  |  |
 | 7 | [My Favorite Things]({{ '/songs/' | relative_url }}my-favorite-things/) | [42:30](https://youtu.be/GGa7s8I0Gzc?t=2550) |  |  |
 | 8 | [Montara]({{ '/songs/' | relative_url }}montara/) | [49:28](https://youtu.be/GGa7s8I0Gzc?t=2968) |  |  |

@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/uMmr2KPqqpk"
 | 5 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [33:33](https://youtu.be/uMmr2KPqqpk?t=2013) |  |  |
 | 6 | [Icarus]({{ '/songs/' | relative_url }}icarus/) | [40:12](https://youtu.be/uMmr2KPqqpk?t=2412) |  |  |
 | 7 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) | [49:10](https://youtu.be/uMmr2KPqqpk?t=2950) |  |  |
-| 8 | [People will say we're in love]({{ '/one-offs.html' | relative_url }}#people-will-say-were-in-love) | [56:56](https://youtu.be/uMmr2KPqqpk?t=3416) |  | flute solo worked out well; add horn hits in solo |
+| 8 | [People will say we're in love]({{ '/one-off-songs.html' | relative_url }}#people-will-say-were-in-love) | [56:56](https://youtu.be/uMmr2KPqqpk?t=3416) |  | flute solo worked out well; add horn hits in solo |

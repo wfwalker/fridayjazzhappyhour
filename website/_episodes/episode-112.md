@@ -24,4 +24,4 @@ youtube_url: "https://youtu.be/EnurztZItgI"
 | 5 | [Some other funk]({{ '/songs/' | relative_url }}some-other-funk/) | [34:58](https://youtu.be/EnurztZItgI?t=2098) |  |  |
 | 6 | [Naima]({{ '/songs/' | relative_url }}naima/) | [41:07](https://youtu.be/EnurztZItgI?t=2467) |  | add double time percussion? arrange the endiong |
 | 7 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [49:55](https://youtu.be/EnurztZItgI?t=2995) |  |  |
-| 8 | [Closer May 6]({{ '/one-offs.html' | relative_url }}#closer-may-6) | [57:03](https://youtu.be/EnurztZItgI?t=3423) |  | nice, add to collection |
+| 8 | [Closer May 6]({{ '/one-off-songs.html' | relative_url }}#closer-may-6) | [57:03](https://youtu.be/EnurztZItgI?t=3423) |  | nice, add to collection |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) |  |  |  |
 | 6 | [Desde]({{ '/songs/' | relative_url }}desde/) |  |  |  |
 | 7 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) |  |  |  |
-| 8 | [Closer (When I Fall) July 26]({{ '/one-offs.html' | relative_url }}#closer-when-i-fall-july-26) |  |  |  |
+| 8 | [Closer (When I Fall) July 26]({{ '/one-off-songs.html' | relative_url }}#closer-when-i-fall-july-26) |  |  |  |

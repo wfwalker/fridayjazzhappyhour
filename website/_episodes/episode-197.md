@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Naima]({{ '/songs/' | relative_url }}naima/) |  |  |  |
 | 6 | [Girl from Ipanema]({{ '/songs/' | relative_url }}girl-from-ipanema/) |  |  |  |
 | 7 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) |  |  |  |
-| 8 | [Piano Improv Jan 26]({{ '/one-offs.html' | relative_url }}#piano-improv-jan-26) |  |  |  |
+| 8 | [Piano Improv Jan 26]({{ '/one-off-songs.html' | relative_url }}#piano-improv-jan-26) |  |  |  |

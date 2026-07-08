@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Nearness of You]({{ '/songs/' | relative_url }}nearness-of-you/) |  |  |  |
 | 6 | [So Danco Samba]({{ '/songs/' | relative_url }}so-danco-samba/) |  |  |  |
 | 7 | [Song for my Father]({{ '/songs/' | relative_url }}song-for-my-father/) |  |  |  |
-| 8 | [Closer Nov 29]({{ '/one-offs.html' | relative_url }}#closer-nov-29) |  |  |  |
+| 8 | [Closer Nov 29]({{ '/one-off-songs.html' | relative_url }}#closer-nov-29) |  |  |  |

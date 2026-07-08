@@ -24,4 +24,4 @@ youtube_url: "https://youtube.com/live/kPqhJAREXfo"
 | 5 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [30:59](https://youtube.com/live/kPqhJAREXfo?t=1859) | <br><small style='color:var(--text-secondary);'>by `</small> |  |
 | 6 | [Zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) | [39:10](https://youtube.com/live/kPqhJAREXfo?t=2350) |  |  |
 | 7 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [44:22](https://youtube.com/live/kPqhJAREXfo?t=2662) |  |  |
-| 8 | [Bladerunner improv march 22]({{ '/one-offs.html' | relative_url }}#bladerunner-improv-march-22) | [50:23](https://youtube.com/live/kPqhJAREXfo?t=3023) |  |  |
+| 8 | [Bladerunner improv march 22]({{ '/one-off-songs.html' | relative_url }}#bladerunner-improv-march-22) | [50:23](https://youtube.com/live/kPqhJAREXfo?t=3023) |  |  |

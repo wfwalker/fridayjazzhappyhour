@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) |  |  |  |
 | 6 | [O Barquinho]({{ '/songs/' | relative_url }}o-barquinho/) |  |  |  |
 | 7 | [Solsbury Hill]({{ '/songs/' | relative_url }}solsbury-hill/) |  |  |  |
-| 8 | [Orba with VCV swirling]({{ '/one-offs.html' | relative_url }}#orba-with-vcv-swirling) |  |  |  |
+| 8 | [Orba with VCV swirling]({{ '/one-off-songs.html' | relative_url }}#orba-with-vcv-swirling) |  |  |  |

@@ -22,4 +22,4 @@ youtube_url: ""
 | 5 | [Sing Sing Sing]({{ '/songs/' | relative_url }}sing-sing-sing/) |  |  |  |
 | 6 | [Girl from Ipanema]({{ '/songs/' | relative_url }}girl-from-ipanema/) |  |  |  |
 | 7 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) |  |  |  |
-| 8 | [Closer July 6]({{ '/one-offs.html' | relative_url }}#closer-july-6) |  |  |  |
+| 8 | [Closer July 6]({{ '/one-off-songs.html' | relative_url }}#closer-july-6) |  |  |  |

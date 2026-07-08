@@ -22,6 +22,6 @@ youtube_url: "https://youtu.be/y6pNfq5ndEU"
 | 3 | [Nearness of you]({{ '/songs/' | relative_url }}nearness-of-you/) | [15:55](https://youtu.be/y6pNfq5ndEU?t=955) |  | nice vibe. plan for bass solo |
 | 4 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) | [22:13](https://youtu.be/y6pNfq5ndEU?t=1333) |  | nice |
 | 5 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [31:45](https://youtu.be/y6pNfq5ndEU?t=1905) |  | practice! more comping? |
-| 6 | [EuroRack Jam 1]({{ '/one-offs.html' | relative_url }}#eurorack-jam-1) | [40:50](https://youtu.be/y6pNfq5ndEU?t=2450) |  | practice |
+| 6 | [EuroRack Jam 1]({{ '/one-off-songs.html' | relative_url }}#eurorack-jam-1) | [40:50](https://youtu.be/y6pNfq5ndEU?t=2450) |  | practice |
 | 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) | [47:20](https://youtu.be/y6pNfq5ndEU?t=2840) |  |  |
-| 8 | [Closer Improv Oct 8]({{ '/one-offs.html' | relative_url }}#closer-improv-oct-8) | [54:18](https://youtu.be/y6pNfq5ndEU?t=3258) |  |  |
+| 8 | [Closer Improv Oct 8]({{ '/one-off-songs.html' | relative_url }}#closer-improv-oct-8) | [54:18](https://youtu.be/y6pNfq5ndEU?t=3258) |  |  |
