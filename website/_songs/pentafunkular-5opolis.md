@@ -14,9 +14,9 @@ Played **6** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| [6/12/2020](https://youtu.be/zAtVGrsiOCc?t=1070) | [#13]({{ '/episodes/' | relative_url }}episode-13/) | 106 | REDO slower? |
-| [10/2/2020](https://youtu.be/5H3aJ1p02Qo?t=2484) | [#29]({{ '/episodes/' | relative_url }}episode-29/) | 103 | HOF |
-| 6/7/2024 | [#212]({{ '/episodes/' | relative_url }}episode-212/) |  |  |
-| 11/15/2024 | [#233]({{ '/episodes/' | relative_url }}episode-233/) |  |  |
-| 5/30/2025 | [#258]({{ '/episodes/' | relative_url }}episode-258/) |  |  |
-| 2/6/2026 | [#288]({{ '/episodes/' | relative_url }}episode-288/) |  |  |
+| [6/12/2020](https://youtu.be/zAtVGrsiOCc?t=1070) | <a href="{{ '/episodes/' | relative_url }}episode-13/">#13</a> | 106 | REDO slower? |
+| [10/2/2020](https://youtu.be/5H3aJ1p02Qo?t=2484) | <a href="{{ '/episodes/' | relative_url }}episode-29/">#29</a> | 103 | HOF |
+| 6/7/2024 | <a href="{{ '/episodes/' | relative_url }}episode-212/">#212</a> |  |  |
+| 11/15/2024 | <a href="{{ '/episodes/' | relative_url }}episode-233/">#233</a> |  |  |
+| 5/30/2025 | <a href="{{ '/episodes/' | relative_url }}episode-258/">#258</a> |  |  |
+| 2/6/2026 | <a href="{{ '/episodes/' | relative_url }}episode-288/">#288</a> |  |  |

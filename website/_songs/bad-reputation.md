@@ -14,4 +14,4 @@ Played **1** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| [3/17/2023](https://youtube.com/live/iD4kGZuXLYA?t=1533) | [#154]({{ '/episodes/' | relative_url }}episode-154/) |  |  |
+| [3/17/2023](https://youtube.com/live/iD4kGZuXLYA?t=1533) | <a href="{{ '/episodes/' | relative_url }}episode-154/">#154</a> |  |  |

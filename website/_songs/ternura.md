@@ -14,9 +14,9 @@ Played **6** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| 11/17/2023 | [#187]({{ '/episodes/' | relative_url }}episode-187/) |  |  |
-| 4/19/2024 | [#205]({{ '/episodes/' | relative_url }}episode-205/) |  |  |
-| 9/13/2024 | [#224]({{ '/episodes/' | relative_url }}episode-224/) |  |  |
-| 1/24/2025 | [#243]({{ '/episodes/' | relative_url }}episode-243/) |  |  |
-| 5/30/2025 | [#258]({{ '/episodes/' | relative_url }}episode-258/) |  |  |
-| 8/22/2025 | [#269]({{ '/episodes/' | relative_url }}episode-269/) |  |  |
+| 11/17/2023 | <a href="{{ '/episodes/' | relative_url }}episode-187/">#187</a> |  |  |
+| 4/19/2024 | <a href="{{ '/episodes/' | relative_url }}episode-205/">#205</a> |  |  |
+| 9/13/2024 | <a href="{{ '/episodes/' | relative_url }}episode-224/">#224</a> |  |  |
+| 1/24/2025 | <a href="{{ '/episodes/' | relative_url }}episode-243/">#243</a> |  |  |
+| 5/30/2025 | <a href="{{ '/episodes/' | relative_url }}episode-258/">#258</a> |  |  |
+| 8/22/2025 | <a href="{{ '/episodes/' | relative_url }}episode-269/">#269</a> |  |  |

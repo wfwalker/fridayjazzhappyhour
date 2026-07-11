@@ -14,5 +14,5 @@ Played **2** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| [10/27/2023](https://youtube.com/live/3TUXOsOjp-U?t=1158) | [#184]({{ '/episodes/' | relative_url }}episode-184/) |  |  |
-| 10/31/2025 | [#277]({{ '/episodes/' | relative_url }}episode-277/) |  |  |
+| [10/27/2023](https://youtube.com/live/3TUXOsOjp-U?t=1158) | <a href="{{ '/episodes/' | relative_url }}episode-184/">#184</a> |  |  |
+| 10/31/2025 | <a href="{{ '/episodes/' | relative_url }}episode-277/">#277</a> |  |  |

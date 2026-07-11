@@ -14,7 +14,7 @@ Played **4** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| 1/24/2025 | [#243]({{ '/episodes/' | relative_url }}episode-243/) |  |  |
-| 5/16/2025 | [#256]({{ '/episodes/' | relative_url }}episode-256/) |  |  |
-| 10/31/2025 | [#277]({{ '/episodes/' | relative_url }}episode-277/) |  |  |
-| 6/5/2026 | [#256]({{ '/episodes/' | relative_url }}episode-256-rerun-652026/) |  |  |
+| 1/24/2025 | <a href="{{ '/episodes/' | relative_url }}episode-243/">#243</a> |  |  |
+| 5/16/2025 | <a href="{{ '/episodes/' | relative_url }}episode-256/">#256</a> |  |  |
+| 10/31/2025 | <a href="{{ '/episodes/' | relative_url }}episode-277/">#277</a> |  |  |
+| 6/5/2026 | <a href="{{ '/episodes/' | relative_url }}episode-256-rerun-652026/">#256</a> |  |  |

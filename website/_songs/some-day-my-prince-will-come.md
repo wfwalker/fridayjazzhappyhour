@@ -14,12 +14,12 @@ Played **9** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| [4/14/2023](https://youtube.com/live/dXjYvp477_M?t=1158) | [#158]({{ '/episodes/' | relative_url }}episode-158/) |  |  |
-| [7/28/2023](https://youtube.com/live/4JSpJDLIYKI?t=2240) | [#173]({{ '/episodes/' | relative_url }}episode-173/) |  |  |
-| 12/8/2023 | [#190]({{ '/episodes/' | relative_url }}episode-190/) |  |  |
-| 4/19/2024 | [#205]({{ '/episodes/' | relative_url }}episode-205/) |  |  |
-| 8/30/2024 | [#222]({{ '/episodes/' | relative_url }}episode-222/) |  |  |
-| 1/24/2025 | [#243]({{ '/episodes/' | relative_url }}episode-243/) |  |  |
-| 5/9/2025 | [#255]({{ '/episodes/' | relative_url }}episode-255/) |  |  |
-| 8/29/2025 | [Show]({{ '/episodes/' | relative_url }}show-8292025/) |  |  |
-| 2/6/2026 | [#288]({{ '/episodes/' | relative_url }}episode-288/) |  |  |
+| [4/14/2023](https://youtube.com/live/dXjYvp477_M?t=1158) | <a href="{{ '/episodes/' | relative_url }}episode-158/">#158</a> |  |  |
+| [7/28/2023](https://youtube.com/live/4JSpJDLIYKI?t=2240) | <a href="{{ '/episodes/' | relative_url }}episode-173/">#173</a> |  |  |
+| 12/8/2023 | <a href="{{ '/episodes/' | relative_url }}episode-190/">#190</a> |  |  |
+| 4/19/2024 | <a href="{{ '/episodes/' | relative_url }}episode-205/">#205</a> |  |  |
+| 8/30/2024 | <a href="{{ '/episodes/' | relative_url }}episode-222/">#222</a> |  |  |
+| 1/24/2025 | <a href="{{ '/episodes/' | relative_url }}episode-243/">#243</a> |  |  |
+| 5/9/2025 | <a href="{{ '/episodes/' | relative_url }}episode-255/">#255</a> |  |  |
+| 8/29/2025 | <a href="{{ '/episodes/' | relative_url }}show-8292025/">Show</a> |  |  |
+| 2/6/2026 | <a href="{{ '/episodes/' | relative_url }}episode-288/">#288</a> |  |  |

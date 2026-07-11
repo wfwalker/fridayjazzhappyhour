@@ -14,9 +14,9 @@ Played **6** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| [6/19/2020](https://youtu.be/JFFsTahEkzg?t=1530) | [#14]({{ '/episodes/' | relative_url }}episode-14/) | 82 | REDO as medley has Macbeth audio |
-| [8/20/2021](https://youtu.be/wIeo7pq_84U?t=1842) | [#75]({{ '/episodes/' | relative_url }}episode-75/) |  |  |
-| [5/12/2023](https://youtu.be/GGa7s8I0Gzc?t=1817) | [#162]({{ '/episodes/' | relative_url }}episode-162/) |  |  |
-| 5/3/2024 | [#207]({{ '/episodes/' | relative_url }}episode-207/) |  |  |
-| [8/23/2024](https://youtu.be/wIeo7pq_84U?t=1842) | [#75]({{ '/episodes/' | relative_url }}episode-75-rerun-8232024/) |  |  |
-| 10/31/2025 | [#277]({{ '/episodes/' | relative_url }}episode-277/) |  |  |
+| [6/19/2020](https://youtu.be/JFFsTahEkzg?t=1530) | <a href="{{ '/episodes/' | relative_url }}episode-14/">#14</a> | 82 | REDO as medley has Macbeth audio |
+| [8/20/2021](https://youtu.be/wIeo7pq_84U?t=1842) | <a href="{{ '/episodes/' | relative_url }}episode-75/">#75</a> |  |  |
+| [5/12/2023](https://youtu.be/GGa7s8I0Gzc?t=1817) | <a href="{{ '/episodes/' | relative_url }}episode-162/">#162</a> |  |  |
+| 5/3/2024 | <a href="{{ '/episodes/' | relative_url }}episode-207/">#207</a> |  |  |
+| [8/23/2024](https://youtu.be/wIeo7pq_84U?t=1842) | <a href="{{ '/episodes/' | relative_url }}episode-75-rerun-8232024/">#75</a> |  |  |
+| 10/31/2025 | <a href="{{ '/episodes/' | relative_url }}episode-277/">#277</a> |  |  |

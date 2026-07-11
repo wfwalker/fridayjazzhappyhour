@@ -14,4 +14,4 @@ Played **1** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| [9/18/2020](https://youtu.be/0LJTLQOLZQM?t=2806) | [#27]({{ '/episodes/' | relative_url }}episode-27/) | 110 | faster? mic lower in mix; scat kinda fun |
+| [9/18/2020](https://youtu.be/0LJTLQOLZQM?t=2806) | <a href="{{ '/episodes/' | relative_url }}episode-27/">#27</a> | 110 | faster? mic lower in mix; scat kinda fun |

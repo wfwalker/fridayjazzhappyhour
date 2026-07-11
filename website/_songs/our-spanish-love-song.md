@@ -14,6 +14,6 @@ Played **3** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| [1/8/2021](https://youtu.be/PcZFKARMaQo?t=908) | [#43]({{ '/episodes/' | relative_url }}episode-43/) | 108 |  |
-| 7/18/2025 | [#264]({{ '/episodes/' | relative_url }}episode-264/) |  |  |
-| 12/26/2025 | [#283]({{ '/episodes/' | relative_url }}episode-283/) |  |  |
+| [1/8/2021](https://youtu.be/PcZFKARMaQo?t=908) | <a href="{{ '/episodes/' | relative_url }}episode-43/">#43</a> | 108 |  |
+| 7/18/2025 | <a href="{{ '/episodes/' | relative_url }}episode-264/">#264</a> |  |  |
+| 12/26/2025 | <a href="{{ '/episodes/' | relative_url }}episode-283/">#283</a> |  |  |

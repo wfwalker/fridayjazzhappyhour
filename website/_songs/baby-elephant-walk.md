@@ -14,8 +14,8 @@ Played **5** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| [10/2/2020](https://youtu.be/5H3aJ1p02Qo?t=1758) | [#29]({{ '/episodes/' | relative_url }}episode-29/) | 115 |  |
-| [2/5/2021](https://youtu.be/n3dKUHIuIlU?t=2707) | [#47]({{ '/episodes/' | relative_url }}episode-47/) | 115 |  |
-| [5/21/2021](https://youtu.be/tB5vd6dRUS4?t=736) | [#62]({{ '/episodes/' | relative_url }}episode-62/) |  | alter ego voices good; needs drum fills |
-| 1/31/2025 | [#244]({{ '/episodes/' | relative_url }}episode-244/) |  |  |
-| 10/17/2025 | [#275]({{ '/episodes/' | relative_url }}episode-275/) |  |  |
+| [10/2/2020](https://youtu.be/5H3aJ1p02Qo?t=1758) | <a href="{{ '/episodes/' | relative_url }}episode-29/">#29</a> | 115 |  |
+| [2/5/2021](https://youtu.be/n3dKUHIuIlU?t=2707) | <a href="{{ '/episodes/' | relative_url }}episode-47/">#47</a> | 115 |  |
+| [5/21/2021](https://youtu.be/tB5vd6dRUS4?t=736) | <a href="{{ '/episodes/' | relative_url }}episode-62/">#62</a> |  | alter ego voices good; needs drum fills |
+| 1/31/2025 | <a href="{{ '/episodes/' | relative_url }}episode-244/">#244</a> |  |  |
+| 10/17/2025 | <a href="{{ '/episodes/' | relative_url }}episode-275/">#275</a> |  |  |

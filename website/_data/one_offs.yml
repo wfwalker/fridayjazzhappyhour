@@ -723,7 +723,7 @@
   composer: ""
   style: "ballad"
   play_count: 2
-- title: "In Walked Bud"
+- title: "In walked Bud"
   slug: "in-walked-bud"
   composer: "Thelonius Monk"
   style: "funk"
@@ -938,7 +938,7 @@
   composer: "Bill Walker"
   style: ""
   play_count: 1
-- title: "Our love is here to stay"
+- title: "Our Love is here to Stay"
   slug: "our-love-is-here-to-stay"
   composer: "George Gerswin"
   style: ""
@@ -1048,12 +1048,12 @@
   composer: ""
   style: ""
   play_count: 1
-- title: "Sacto closer"
+- title: "Sacto Closer"
   slug: "sacto-closer"
   composer: ""
   style: ""
   play_count: 2
-- title: "Santa Claus is Coming to town"
+- title: "Santa Claus is Coming to Town"
   slug: "santa-claus-is-coming-to-town"
   composer: ""
   style: ""

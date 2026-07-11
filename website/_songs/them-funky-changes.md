@@ -14,14 +14,14 @@ Played **11** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
-| [4/8/2022](https://youtu.be/47KbvV1znH8?t=3202) | [#108]({{ '/episodes/' | relative_url }}episode-108/) |  |  |
-| [6/10/2022](https://youtu.be/Um0wMxG_j1k?t=2235) | [#117]({{ '/episodes/' | relative_url }}episode-117/) |  | horn solo |
-| [9/30/2022](https://youtu.be/B3o-4sC6Z6w?t=2713) | [#133]({{ '/episodes/' | relative_url }}episode-133/) |  |  |
-| [1/20/2023](https://youtube.com/live/_UbYlUluq8M?t=1370) | [#146]({{ '/episodes/' | relative_url }}episode-146/) |  |  |
-| 5/19/2023 | [#163]({{ '/episodes/' | relative_url }}episode-163/) |  |  |
-| [9/22/2023](https://youtube.com/live/PDFolCHBpes?t=1158) | [#180]({{ '/episodes/' | relative_url }}episode-180/) |  |  |
-| 3/15/2024 | [#202]({{ '/episodes/' | relative_url }}episode-202/) |  |  |
-| 9/7/2024 | [#223]({{ '/episodes/' | relative_url }}episode-223/) |  |  |
-| 1/3/2025 | [#241]({{ '/episodes/' | relative_url }}episode-241/) |  |  |
-| 6/27/2025 | [#262]({{ '/episodes/' | relative_url }}episode-262/) |  |  |
-| 12/26/2025 | [#283]({{ '/episodes/' | relative_url }}episode-283/) |  |  |
+| [4/8/2022](https://youtu.be/47KbvV1znH8?t=3202) | <a href="{{ '/episodes/' | relative_url }}episode-108/">#108</a> |  |  |
+| [6/10/2022](https://youtu.be/Um0wMxG_j1k?t=2235) | <a href="{{ '/episodes/' | relative_url }}episode-117/">#117</a> |  | horn solo |
+| [9/30/2022](https://youtu.be/B3o-4sC6Z6w?t=2713) | <a href="{{ '/episodes/' | relative_url }}episode-133/">#133</a> |  |  |
+| [1/20/2023](https://youtube.com/live/_UbYlUluq8M?t=1370) | <a href="{{ '/episodes/' | relative_url }}episode-146/">#146</a> |  |  |
+| 5/19/2023 | <a href="{{ '/episodes/' | relative_url }}episode-163/">#163</a> |  |  |
+| [9/22/2023](https://youtube.com/live/PDFolCHBpes?t=1158) | <a href="{{ '/episodes/' | relative_url }}episode-180/">#180</a> |  |  |
+| 3/15/2024 | <a href="{{ '/episodes/' | relative_url }}episode-202/">#202</a> |  |  |
+| 9/7/2024 | <a href="{{ '/episodes/' | relative_url }}episode-223/">#223</a> |  |  |
+| 1/3/2025 | <a href="{{ '/episodes/' | relative_url }}episode-241/">#241</a> |  |  |
+| 6/27/2025 | <a href="{{ '/episodes/' | relative_url }}episode-262/">#262</a> |  |  |
+| 12/26/2025 | <a href="{{ '/episodes/' | relative_url }}episode-283/">#283</a> |  |  |
