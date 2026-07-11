@@ -123,6 +123,21 @@ layout: default
 
 <div class="episode-header">
   <h1 class="episode-title">{{ page.title }}</h1>
+  
+  {% if page.theme and page.theme != "" or page.shirt and page.shirt != "" or page.tip_jar and page.tip_jar != "" %}
+    <div class="episode-meta" style="margin-bottom: 0.8rem;">
+      {% if page.theme and page.theme != "" %}
+        <span class="meta-badge" style="border-color: rgba(59, 130, 246, 0.3); color: var(--accent-hover);">🎨 Theme: {{ page.theme }}</span>
+      {% endif %}
+      {% if page.shirt and page.shirt != "" %}
+        <span class="meta-badge">👕 Shirt: {{ page.shirt }}</span>
+      {% endif %}
+      {% if page.tip_jar and page.tip_jar != "" %}
+        <span class="meta-badge" style="border-color: rgba(16, 185, 129, 0.3); color: #34d399;">❤️ Tip Jar: {{ page.tip_jar }}</span>
+      {% endif %}
+    </div>
+  {% endif %}
+
   <div class="episode-meta">
     <span class="meta-badge">Date: {{ page.date_string }}</span>
     {% if page.episode_number and page.episode_number != "" %}
@@ -135,6 +150,12 @@ layout: default
       <a href="{{ page.youtube_url }}" target="_blank" class="meta-badge watch-btn">Watch Stream &rarr;</a>
     {% endif %}
   </div>
+  
+  {% if page.notes and page.notes != "" %}
+    <div class="meta-badge" style="display: block; margin-top: 1rem; border-radius: 8px; line-height: 1.5; padding: 0.8rem 1.2rem; background: rgba(255, 255, 255, 0.02); max-width: 800px; color: var(--text-primary);">
+      <strong>📝 Show Notes:</strong> {{ page.notes }}
+    </div>
+  {% endif %}
 </div>
 
 {% if page.image %}

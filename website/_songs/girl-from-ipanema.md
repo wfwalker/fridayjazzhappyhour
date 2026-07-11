@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Girl from Ipanema"
 composer: ""
-style: ""
-play_count: "6"
+style: "Bossa"
+play_count: 6
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # Girl from Ipanema

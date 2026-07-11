@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Them Funky Changes"
 composer: ""
-style: ""
-play_count: "11"
+style: "Funk"
+play_count: 11
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Them Funky Changes

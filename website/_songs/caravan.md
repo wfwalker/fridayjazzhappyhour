@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Caravan"
 composer: "Duke Ellington"
 style: "Swing"
-play_count: "18"
+play_count: 18
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Caravan

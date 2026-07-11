@@ -1,11 +1,15 @@
 ---
-layout: "episode"
+layout: episode
 title: "Episode 220 (8/9/2024)"
 episode_number: "220"
 date_string: "8/9/2024"
-date: "2024-08-09"
-song_count: "8"
+date: 2024-08-09
+song_count: 8
 rerun: false
+theme: ""
+shirt: ""
+tip_jar: ""
+notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-220.jpg"
 ---
@@ -16,11 +20,11 @@ image: "/assets/images/title-slides/episode-220.jpg"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [Fly me to the moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) |  |  |  |
-| 2 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) |  |  |  |
-| 3 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) |  |  |  |
-| 4 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) |  |  |  |
-| 5 | [Isn't it Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) |  |  |  |
-| 6 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) |  |  |  |
-| 7 | [Axel F]({{ '/songs/' | relative_url }}axel-f/) |  |  |  |
-| 8 | [Over the Rainbow]({{ '/songs/' | relative_url }}over-the-rainbow/) |  |  |  |
+| 1 | [Fly me to the moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) |  | Swing |  |
+| 2 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) |  | Bossa |  |
+| 3 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) |  | Swing |  |
+| 4 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) |  | Funk |  |
+| 5 | [Isn't it Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) |  | Swing |  |
+| 6 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) |  | Techno |  |
+| 7 | [Axel F]({{ '/songs/' | relative_url }}axel-f/) |  | Funk |  |
+| 8 | [Over the Rainbow]({{ '/songs/' | relative_url }}over-the-rainbow/) |  | Ballad |  |

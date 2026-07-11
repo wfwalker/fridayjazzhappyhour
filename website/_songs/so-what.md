@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "So What"
 composer: "Miles Davis"
-style: "funk"
-play_count: "14"
+style: "Swing"
+play_count: 14
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # So What

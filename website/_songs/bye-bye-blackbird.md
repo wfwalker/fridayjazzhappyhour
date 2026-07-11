@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Bye Bye Blackbird"
 composer: ""
-style: ""
-play_count: "12"
+style: "Swing"
+play_count: 12
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Bye Bye Blackbird

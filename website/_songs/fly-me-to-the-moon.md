@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Fly me to the moon"
 composer: "Bart Howard"
-style: ""
-play_count: "15"
+style: "Swing"
+play_count: 15
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Fly me to the moon

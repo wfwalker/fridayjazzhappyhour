@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "River Man"
 composer: ""
 style: "Pop"
-play_count: "7"
+play_count: 7
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # River Man

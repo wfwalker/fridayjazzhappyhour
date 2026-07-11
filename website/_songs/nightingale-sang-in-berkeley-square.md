@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Nightingale Sang in Berkeley Square"
 composer: "Eric Maschwitz"
-style: "ballad"
-play_count: "8"
+style: "Ballad"
+play_count: 8
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Nightingale Sang in Berkeley Square

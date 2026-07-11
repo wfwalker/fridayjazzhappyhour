@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Seven Steps to Heaven"
 composer: ""
-style: "Reggae"
-play_count: "8"
+style: "Pop"
+play_count: 8
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Seven Steps to Heaven

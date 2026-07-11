@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Nana"
 composer: ""
-style: ""
-play_count: "3"
+style: "Funk"
+play_count: 3
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Nana

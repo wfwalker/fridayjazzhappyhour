@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Cissy Strut"
 composer: "The Meters"
-style: "funk"
-play_count: "14"
+style: "Funk"
+play_count: 14
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Cissy Strut

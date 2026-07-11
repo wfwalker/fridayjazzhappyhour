@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Pocket Calculator"
 composer: "Kraftwerk"
-style: "techno"
-play_count: "13"
+style: "Techno"
+play_count: 13
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Pocket Calculator

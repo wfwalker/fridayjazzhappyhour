@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Blue in Green"
 composer: "Miles Davis"
-style: "Ballad"
-play_count: "14"
+style: "Swing"
+play_count: 14
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Blue in Green

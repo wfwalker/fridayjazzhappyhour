@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Agua de Beber"
 composer: "Jobim"
-style: "bossa"
-play_count: "8"
+style: "Latin"
+play_count: 8
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Agua de Beber

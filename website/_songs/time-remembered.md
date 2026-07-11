@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Time Remembered"
 composer: "Bill Evans"
-style: "swing"
-play_count: "12"
+style: "Swing"
+play_count: 12
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Time Remembered

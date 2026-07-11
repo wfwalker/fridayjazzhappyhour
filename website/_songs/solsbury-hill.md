@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Solsbury Hill"
 composer: ""
-style: ""
-play_count: "4"
+style: "Pop"
+play_count: 4
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # Solsbury Hill

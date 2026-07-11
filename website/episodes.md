@@ -142,6 +142,16 @@ title: "All Episodes"
         </h3>
         <span class="card-date">{{ epi.date_string }}</span>
       </div>
+      {% if epi.theme and epi.theme != "" or epi.tip_jar and epi.tip_jar != "" %}
+        <div style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.8rem; line-height: 1.4; flex: 1;">
+          {% if epi.theme and epi.theme != "" %}
+            <div style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">🎨 Theme: {{ epi.theme }}</div>
+          {% endif %}
+          {% if epi.tip_jar and epi.tip_jar != "" %}
+            <div style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">❤️ Charity: {{ epi.tip_jar }}</div>
+          {% endif %}
+        </div>
+      {% endif %}
       <div class="card-meta">
         {% if epi.rerun %}
           <span class="badge-style" style="background-color: rgba(239, 68, 68, 0.15); color: #f87171; border: 1px solid rgba(239, 68, 68, 0.25);">Rerun</span>

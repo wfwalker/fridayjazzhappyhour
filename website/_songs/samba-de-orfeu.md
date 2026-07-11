@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Samba de Orfeu"
 composer: "Luiz Bonfa"
-style: "bossa"
-play_count: "18"
+style: "Samba"
+play_count: 18
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Samba de Orfeu

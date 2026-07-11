@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "I Love Paris"
 composer: ""
 style: "Techno"
-play_count: "11"
+play_count: 11
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # I Love Paris

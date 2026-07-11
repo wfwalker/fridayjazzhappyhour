@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Root Down (and Get it)"
 composer: ""
-style: ""
-play_count: "10"
+style: "Funk"
+play_count: 10
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Root Down (and Get it)

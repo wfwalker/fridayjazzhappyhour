@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "How Insensitive"
 composer: ""
-style: "bossa"
-play_count: "13"
+style: "Bossa"
+play_count: 13
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # How Insensitive

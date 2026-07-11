@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Poinciana"
 composer: ""
-style: "pop"
-play_count: "17"
+style: "Techno"
+play_count: 17
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Poinciana

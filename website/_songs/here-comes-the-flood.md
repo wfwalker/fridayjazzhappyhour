@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Here Comes the Flood"
 composer: "Peter Gabriel"
-style: "pop"
-play_count: "4"
+style: "Pop"
+play_count: 4
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Here Comes the Flood

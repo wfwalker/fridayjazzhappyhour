@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Mercy, Mercy, Mercy"
 composer: ""
 style: "Funk"
-play_count: "15"
+play_count: 15
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Mercy, Mercy, Mercy

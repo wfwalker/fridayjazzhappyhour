@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Look to the Sky"
 composer: ""
 style: "Bossa"
-play_count: "16"
+play_count: 16
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Look to the Sky

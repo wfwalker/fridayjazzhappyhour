@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Mo Better Blues"
 composer: ""
-style: ""
-play_count: "12"
+style: "Pop"
+play_count: 12
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Mo Better Blues

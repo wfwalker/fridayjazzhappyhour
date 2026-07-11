@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Lullaby of Birdland"
 composer: ""
-style: ""
-play_count: "11"
+style: "Swing"
+play_count: 11
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Lullaby of Birdland

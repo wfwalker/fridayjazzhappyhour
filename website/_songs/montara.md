@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Montara"
 composer: "Bobby Hutcherson"
-style: "Techno"
-play_count: "16"
+style: "Downtempo"
+play_count: 16
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Montara

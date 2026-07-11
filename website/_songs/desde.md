@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Desde"
 composer: ""
-style: "bossa"
-play_count: "15"
+style: "Bossa"
+play_count: 15
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Desde

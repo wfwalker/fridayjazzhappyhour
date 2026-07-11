@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "CQ"
 composer: ""
-style: ""
-play_count: "4"
+style: "Ambient"
+play_count: 4
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # CQ

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "If you want me to stay"
 composer: ""
-style: ""
-play_count: "11"
+style: "Funk"
+play_count: 11
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # If you want me to stay

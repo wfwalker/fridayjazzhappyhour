@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Some Other Funk"
 composer: ""
-style: ""
-play_count: "12"
+style: "Funk"
+play_count: 12
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Some Other Funk

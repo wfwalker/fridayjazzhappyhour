@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "All the things you are"
 composer: "Hammerstein and Kern"
-style: "swing"
-play_count: "17"
+style: "Swing"
+play_count: 17
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # All the things you are

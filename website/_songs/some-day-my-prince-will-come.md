@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Some day my Prince will Come"
 composer: ""
-style: ""
-play_count: "9"
+style: "Swing"
+play_count: 9
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # Some day my Prince will Come

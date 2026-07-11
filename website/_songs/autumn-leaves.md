@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Autumn Leaves"
 composer: ""
-style: "swing"
-play_count: "16"
+style: "Swing"
+play_count: 16
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Autumn Leaves

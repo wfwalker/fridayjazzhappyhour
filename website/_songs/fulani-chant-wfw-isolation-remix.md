@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Fulani Chant (WFW Isolation Remix)"
 composer: "Bill Walker"
-style: "techno"
-play_count: "3"
+style: "Techno"
+play_count: 3
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Fulani Chant (WFW Isolation Remix)

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Moanin"
 composer: ""
-style: ""
-play_count: "14"
+style: "Swing"
+play_count: 14
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Moanin

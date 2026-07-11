@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Begin the Beguine"
 composer: ""
 style: "Bossa"
-play_count: "6"
+play_count: 6
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Begin the Beguine

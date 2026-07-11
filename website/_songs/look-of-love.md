@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Look of Love"
 composer: ""
-style: ""
-play_count: "7"
+style: "Ballad"
+play_count: 7
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Look of Love

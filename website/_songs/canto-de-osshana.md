@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Canto de Osshana"
 composer: ""
-style: ""
-play_count: "9"
+style: "Samba"
+play_count: 9
+hall_of_fame: true
+ready_rating: 2
 ---
 
 # Canto de Osshana

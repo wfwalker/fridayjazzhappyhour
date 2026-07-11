@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Give me the Night"
 composer: ""
-style: ""
-play_count: "9"
+style: "Funk"
+play_count: 9
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Give me the Night

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Fotografia"
 composer: ""
 style: "Bossa"
-play_count: "15"
+play_count: 15
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Fotografia

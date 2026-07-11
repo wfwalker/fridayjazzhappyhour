@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Cold Duck Time"
 composer: "Eddie Harris"
-style: "organ funk"
-play_count: "16"
+style: "Funk"
+play_count: 16
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Cold Duck Time

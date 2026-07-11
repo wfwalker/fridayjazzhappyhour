@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "A Lotus on Irish Streams"
 composer: "John McLaughlin"
-style: "ballad"
-play_count: "7"
+style: "Ballad"
+play_count: 7
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # A Lotus on Irish Streams

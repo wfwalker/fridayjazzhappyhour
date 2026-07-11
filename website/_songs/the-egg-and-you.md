@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "The Egg and You"
 composer: "Seatbelts"
-style: "piano trio"
-play_count: "14"
+style: "Pop"
+play_count: 14
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # The Egg and You

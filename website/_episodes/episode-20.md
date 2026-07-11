@@ -1,11 +1,15 @@
 ---
-layout: "episode"
+layout: episode
 title: "Episode 20 (7/31/2020)"
 episode_number: "20"
 date_string: "7/31/2020"
-date: "2020-07-31"
-song_count: "9"
+date: 2020-07-31
+song_count: 9
 rerun: false
+theme: ""
+shirt: "black + lion sparkles"
+tip_jar: "PATH San Jose"
+notes: ""
 youtube_url: "https://youtu.be/sTwgRPVLycU"
 image: "/assets/images/title-slides/episode-20.png"
 ---
@@ -19,11 +23,11 @@ image: "/assets/images/title-slides/episode-20.png"
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
 | 1 | [L'Indifference]({{ '/one-off-songs.html' | relative_url }}#lindifference) | [06:24](https://youtu.be/sTwgRPVLycU?t=384) |  | practice, man, practice |
-| 2 | [Paranoimia]({{ '/songs/' | relative_url }}paranoimia/) | [19:33](https://youtu.be/sTwgRPVLycU?t=1173) |  | live looping! fix it up and try again |
+| 2 | [Paranoimia]({{ '/one-off-songs.html' | relative_url }}#paranoimia) | [19:33](https://youtu.be/sTwgRPVLycU?t=1173) |  | live looping! fix it up and try again |
 | 3 | [Hymn to Freedom]({{ '/one-off-songs.html' | relative_url }}#hymn-to-freedom) | [26:30](https://youtu.be/sTwgRPVLycU?t=1590) |  |  |
-| 4 | [Hearts of Space]({{ '/songs/' | relative_url }}hearts-of-space/) | [46:30](https://youtu.be/sTwgRPVLycU?t=2790) | ambient<br><small style='color:var(--text-secondary);'>by Bill Walker</small> | nice |
+| 4 | [Hearts of Space]({{ '/songs/' | relative_url }}hearts-of-space/) | [46:30](https://youtu.be/sTwgRPVLycU?t=2790) | Downtempo<br><small style='color:var(--text-secondary);'>by Bill Walker</small> | nice |
 | 5 | [Autumn in New York]({{ '/one-off-songs.html' | relative_url }}#autumn-in-new-york) | [57:56](https://youtu.be/sTwgRPVLycU?t=3476) |  |  |
-| 6 | [Desde]({{ '/songs/' | relative_url }}desde/) | [39:25](https://youtu.be/sTwgRPVLycU?t=2365) | bossa |  |
-| 7 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [33:14](https://youtu.be/sTwgRPVLycU?t=1994) | swing | redo; drums to open up, swing little less |
-| 8 | [Goodbye Pork Pie Hat]({{ '/songs/' | relative_url }}goodbye-pork-pie-hat/) | [12:13](https://youtu.be/sTwgRPVLycU?t=733) |  | nice drums hits |
-| 9 | [Summertime]({{ '/songs/' | relative_url }}summertime/) | [51:17](https://youtu.be/sTwgRPVLycU?t=3077) |  | oh heck yeah |
+| 6 | [Desde]({{ '/songs/' | relative_url }}desde/) | [39:25](https://youtu.be/sTwgRPVLycU?t=2365) | Bossa |  |
+| 7 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [33:14](https://youtu.be/sTwgRPVLycU?t=1994) | Swing | redo; drums to open up, swing little less |
+| 8 | [Goodbye Pork Pie Hat]({{ '/songs/' | relative_url }}goodbye-pork-pie-hat/) | [12:13](https://youtu.be/sTwgRPVLycU?t=733) | Swing | nice drums hits |
+| 9 | [Summertime]({{ '/songs/' | relative_url }}summertime/) | [51:17](https://youtu.be/sTwgRPVLycU?t=3077) | Funk | oh heck yeah |

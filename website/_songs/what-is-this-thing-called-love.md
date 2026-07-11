@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "What is this thing called love"
 composer: "Cole Porter"
-style: ""
-play_count: "14"
+style: "Swing"
+play_count: 14
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # What is this thing called love

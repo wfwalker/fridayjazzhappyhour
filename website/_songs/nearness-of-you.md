@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Nearness of you"
 composer: "Hoagy Carmichael"
 style: "Bossa"
-play_count: "15"
+play_count: 15
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # Nearness of you

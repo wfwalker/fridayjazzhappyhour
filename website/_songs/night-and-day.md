@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Night and Day"
 composer: ""
-style: ""
-play_count: "14"
+style: "Techno"
+play_count: 14
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Night and Day

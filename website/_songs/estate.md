@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Estate"
 composer: "Bruno Martino"
-style: "Bossa"
-play_count: "11"
+style: "Techno"
+play_count: 11
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Estate

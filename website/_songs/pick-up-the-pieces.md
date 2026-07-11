@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Pick up the Pieces"
 composer: "Average White Band"
-style: "funk"
-play_count: "13"
+style: "Funk"
+play_count: 13
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # Pick up the Pieces

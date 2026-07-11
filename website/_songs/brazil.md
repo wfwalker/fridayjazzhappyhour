@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Brazil"
 composer: ""
-style: "Samba"
-play_count: "10"
+style: "Bossa"
+play_count: 10
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Brazil

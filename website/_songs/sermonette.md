@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Sermonette"
 composer: ""
-style: ""
-play_count: "3"
+style: "Swing"
+play_count: 3
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Sermonette

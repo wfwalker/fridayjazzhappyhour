@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "You and the Night and the Music"
 composer: ""
-style: "tango"
-play_count: "7"
+style: "Ballad"
+play_count: 7
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # You and the Night and the Music

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Road Song"
 composer: "Wes Montgomery"
-style: "funk"
-play_count: "13"
+style: "Pop"
+play_count: 13
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Road Song

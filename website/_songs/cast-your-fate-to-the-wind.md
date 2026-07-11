@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Cast your fate to the wind"
 composer: "Vince Guaraldi"
 style: "Pop"
-play_count: "8"
+play_count: 8
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Cast your fate to the wind

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "What'll I Do?"
 composer: ""
-style: ""
-play_count: "3"
+style: "Ballad"
+play_count: 3
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # What'll I Do?

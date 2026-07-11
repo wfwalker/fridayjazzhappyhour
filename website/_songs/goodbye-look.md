@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Goodbye Look"
 composer: ""
-style: "pop"
-play_count: "10"
+style: "Pop"
+play_count: 10
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Goodbye Look

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Little Sunflower"
 composer: ""
-style: "techno"
-play_count: "18"
+style: "Techno"
+play_count: 18
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Little Sunflower

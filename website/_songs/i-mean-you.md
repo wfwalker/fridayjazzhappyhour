@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "I Mean You"
 composer: ""
-style: "Reggae"
-play_count: "9"
+style: "Pop"
+play_count: 9
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # I Mean You

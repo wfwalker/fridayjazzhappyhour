@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Scottish Lament"
 composer: "Bill Walker"
-style: "techno"
-play_count: "6"
+style: "Downtempo"
+play_count: 6
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Scottish Lament

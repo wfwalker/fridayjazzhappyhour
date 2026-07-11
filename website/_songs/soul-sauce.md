@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Soul Sauce"
 composer: ""
-style: ""
-play_count: "8"
+style: "Latin"
+play_count: 8
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Soul Sauce

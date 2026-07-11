@@ -1,11 +1,15 @@
 ---
-layout: "episode"
+layout: episode
 title: "Episode 138 (11/4/2022)"
 episode_number: "138"
 date_string: "11/4/2022"
-date: "2022-11-04"
-song_count: "8"
+date: 2022-11-04
+song_count: 8
 rerun: false
+theme: ""
+shirt: ""
+tip_jar: ""
+notes: ""
 youtube_url: "https://youtu.be/8XM8B7y4T_Q"
 image: "/assets/images/title-slides/episode-138.jpg"
 ---
@@ -18,11 +22,11 @@ image: "/assets/images/title-slides/episode-138.jpg"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) | [00:52](https://youtu.be/8XM8B7y4T_Q?t=52) |  |  |
-| 2 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [08:59](https://youtu.be/8XM8B7y4T_Q?t=539) |  |  |
-| 3 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) | [16:26](https://youtu.be/8XM8B7y4T_Q?t=986) |  |  |
-| 4 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [19:45](https://youtu.be/8XM8B7y4T_Q?t=1185) |  |  |
-| 5 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [26:45](https://youtu.be/8XM8B7y4T_Q?t=1605) |  |  |
-| 6 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [32:38](https://youtu.be/8XM8B7y4T_Q?t=1958) |  |  |
-| 7 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [39:01](https://youtu.be/8XM8B7y4T_Q?t=2341) |  |  |
+| 1 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) | [00:52](https://youtu.be/8XM8B7y4T_Q?t=52) | Swing |  |
+| 2 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [08:59](https://youtu.be/8XM8B7y4T_Q?t=539) | Bossa |  |
+| 3 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) | [16:26](https://youtu.be/8XM8B7y4T_Q?t=986) | Swing |  |
+| 4 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [19:45](https://youtu.be/8XM8B7y4T_Q?t=1185) | Latin |  |
+| 5 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [26:45](https://youtu.be/8XM8B7y4T_Q?t=1605) | Swing |  |
+| 6 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [32:38](https://youtu.be/8XM8B7y4T_Q?t=1958) | Downtempo |  |
+| 7 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [39:01](https://youtu.be/8XM8B7y4T_Q?t=2341) | Funk |  |
 | 8 | [Closer Nov 4]({{ '/one-off-songs.html' | relative_url }}#closer-nov-4) | [44:25](https://youtu.be/8XM8B7y4T_Q?t=2665) |  | organ! |

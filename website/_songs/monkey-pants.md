@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Monkey Pants"
 composer: "Bill Walker"
-style: "funk"
-play_count: "12"
+style: "Funk"
+play_count: 12
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Monkey Pants

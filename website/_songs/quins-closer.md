@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Quin's Closer"
 composer: ""
-style: ""
-play_count: "5"
+style: "Ambient"
+play_count: 5
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Quin's Closer

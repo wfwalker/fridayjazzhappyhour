@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Some Other time"
 composer: ""
-style: ""
-play_count: "2"
+style: "Ballad"
+play_count: 2
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # Some Other time

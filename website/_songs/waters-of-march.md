@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Waters of March"
 composer: "Jobim"
-style: "bossa"
-play_count: "9"
+style: "Bossa"
+play_count: 9
+hall_of_fame: true
+ready_rating: 2
 ---
 
 # Waters of March

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Over the Rainbow"
 composer: "Harold Arlen"
-style: "ballad"
-play_count: "9"
+style: "Ballad"
+play_count: 9
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Over the Rainbow

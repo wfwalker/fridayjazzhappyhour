@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Newsky Bluesky"
 composer: ""
-style: ""
-play_count: "11"
+style: "Downtempo"
+play_count: 11
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Newsky Bluesky

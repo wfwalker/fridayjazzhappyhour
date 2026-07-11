@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Time After Time"
 composer: "Cyndi Lauper"
-style: "pop"
-play_count: "6"
+style: "Pop"
+play_count: 6
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Time After Time

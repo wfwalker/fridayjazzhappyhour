@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Beat 70"
 composer: ""
-style: ""
-play_count: "8"
+style: "Bossa"
+play_count: 8
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Beat 70

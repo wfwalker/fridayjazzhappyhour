@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Stolen Moments"
 composer: "Oliver Nelson"
-style: "swing"
-play_count: "15"
+style: "Swing"
+play_count: 15
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Stolen Moments

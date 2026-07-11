@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Camilla (the Old, Old story)"
 composer: "Art of Noise"
-style: "pop"
-play_count: "17"
+style: "Downtempo"
+play_count: 17
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Camilla (the Old, Old story)

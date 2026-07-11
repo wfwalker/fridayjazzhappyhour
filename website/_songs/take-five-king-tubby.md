@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Take Five (King Tubby)"
 composer: ""
-style: "Reggae"
-play_count: "10"
+style: "Downtempo"
+play_count: 10
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Take Five (King Tubby)

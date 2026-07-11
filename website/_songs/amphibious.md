@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Amphibious"
 composer: ""
-style: ""
-play_count: "9"
+style: "Funk"
+play_count: 9
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Amphibious

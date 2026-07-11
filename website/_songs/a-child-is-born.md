@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "A Child is Born"
 composer: ""
-style: "ballad"
-play_count: "11"
+style: "Latin"
+play_count: 11
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # A Child is Born

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Gee Baby, Ain’t I Good to You"
 composer: "Andy Razaf"
-style: ""
-play_count: "8"
+style: "Swing"
+play_count: 8
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # Gee Baby, Ain’t I Good to You

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Pentafunkular 5opolis"
 composer: "Bill Walker"
-style: "funk"
-play_count: "6"
+style: "Funk"
+play_count: 6
+hall_of_fame: true
+ready_rating: 2
 ---
 
 # Pentafunkular 5opolis

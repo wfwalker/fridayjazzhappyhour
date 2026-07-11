@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "When I Fall in Love"
 composer: "Victor Young"
-style: "ballad"
-play_count: "8"
+style: "Ballad"
+play_count: 8
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # When I Fall in Love

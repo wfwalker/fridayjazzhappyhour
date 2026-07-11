@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Caminhos Cruzados"
 composer: "Jobim"
-style: "bossa"
-play_count: "11"
+style: "Bossa"
+play_count: 11
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Caminhos Cruzados

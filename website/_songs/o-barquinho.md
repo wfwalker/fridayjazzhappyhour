@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "O Barquinho"
 composer: ""
 style: "Bossa"
-play_count: "12"
+play_count: 12
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # O Barquinho

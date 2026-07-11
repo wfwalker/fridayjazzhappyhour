@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Naima"
 composer: ""
-style: "techno"
-play_count: "16"
+style: "Downtempo"
+play_count: 16
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Naima

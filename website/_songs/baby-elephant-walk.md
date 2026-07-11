@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Baby Elephant Walk"
 composer: ""
-style: "Pop"
-play_count: "5"
+style: "Techno"
+play_count: 5
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Baby Elephant Walk

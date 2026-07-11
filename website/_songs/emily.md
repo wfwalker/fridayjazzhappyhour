@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Emily"
 composer: "Johnny Mandel"
-style: "Waltz"
-play_count: "13"
+style: "Swing"
+play_count: 13
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Emily

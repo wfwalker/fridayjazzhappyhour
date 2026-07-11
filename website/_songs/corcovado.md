@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Corcovado"
 composer: "Jobim"
-style: "bossa"
-play_count: "14"
+style: "Bossa"
+play_count: 14
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Corcovado

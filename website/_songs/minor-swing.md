@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Minor Swing"
 composer: "Django Reinhart"
-style: "swing"
-play_count: "9"
+style: "Swing"
+play_count: 9
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Minor Swing

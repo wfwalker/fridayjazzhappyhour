@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Take me to the River"
 composer: ""
-style: ""
-play_count: "4"
+style: "Pop"
+play_count: 4
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Take me to the River

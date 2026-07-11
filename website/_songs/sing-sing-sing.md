@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Sing Sing Sing"
 composer: "Louis Prima"
-style: "swing techno"
-play_count: "8"
+style: "Pop"
+play_count: 8
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Sing Sing Sing

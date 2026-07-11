@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Mambo Inn"
 composer: ""
-style: ""
-play_count: "13"
+style: "Latin"
+play_count: 13
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Mambo Inn

@@ -1,11 +1,15 @@
 ---
-layout: "episode"
+layout: episode
 title: "Episode 173 (7/28/2023)"
 episode_number: "173"
 date_string: "7/28/2023"
-date: "2023-07-28"
-song_count: "8"
+date: 2023-07-28
+song_count: 8
 rerun: false
+theme: ""
+shirt: ""
+tip_jar: ""
+notes: ""
 youtube_url: "https://youtube.com/live/4JSpJDLIYKI"
 image: "/assets/images/title-slides/episode-173.jpg"
 ---
@@ -18,11 +22,11 @@ image: "/assets/images/title-slides/episode-173.jpg"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) | [04:28](https://youtube.com/live/4JSpJDLIYKI?t=268) |  |  |
-| 2 | [Cast your fate to the wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) | [11:55](https://youtube.com/live/4JSpJDLIYKI?t=715) |  |  |
-| 3 | [Goodbye Look]({{ '/songs/' | relative_url }}goodbye-look/) | [19:18](https://youtube.com/live/4JSpJDLIYKI?t=1158) |  |  |
-| 4 | [Georgia on my Mind]({{ '/songs/' | relative_url }}georgia-on-my-mind/) | [25:33](https://youtube.com/live/4JSpJDLIYKI?t=1533) |  |  |
-| 5 | [Simplismente]({{ '/songs/' | relative_url }}simplismente/) | [30:59](https://youtube.com/live/4JSpJDLIYKI?t=1859) |  |  |
-| 6 | [Some day My Prince will Come]({{ '/songs/' | relative_url }}some-day-my-prince-will-come/) | [37:20](https://youtube.com/live/4JSpJDLIYKI?t=2240) |  |  |
-| 7 | [Give me the Night]({{ '/songs/' | relative_url }}give-me-the-night/) | [44:22](https://youtube.com/live/4JSpJDLIYKI?t=2662) |  |  |
-| 8 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) | [50:23](https://youtube.com/live/4JSpJDLIYKI?t=3023) |  |  |
+| 1 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) | [04:28](https://youtube.com/live/4JSpJDLIYKI?t=268) | Swing |  |
+| 2 | [Cast your fate to the wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) | [11:55](https://youtube.com/live/4JSpJDLIYKI?t=715) | Pop |  |
+| 3 | [Goodbye Look]({{ '/songs/' | relative_url }}goodbye-look/) | [19:18](https://youtube.com/live/4JSpJDLIYKI?t=1158) | Pop |  |
+| 4 | [Georgia on my Mind]({{ '/songs/' | relative_url }}georgia-on-my-mind/) | [25:33](https://youtube.com/live/4JSpJDLIYKI?t=1533) | Ballad |  |
+| 5 | [Simplismente]({{ '/songs/' | relative_url }}simplismente/) | [30:59](https://youtube.com/live/4JSpJDLIYKI?t=1859) | Techno |  |
+| 6 | [Some day My Prince will Come]({{ '/songs/' | relative_url }}some-day-my-prince-will-come/) | [37:20](https://youtube.com/live/4JSpJDLIYKI?t=2240) | Swing |  |
+| 7 | [Give me the Night]({{ '/songs/' | relative_url }}give-me-the-night/) | [44:22](https://youtube.com/live/4JSpJDLIYKI?t=2662) | Funk |  |
+| 8 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) | [50:23](https://youtube.com/live/4JSpJDLIYKI?t=3023) | Ballad |  |

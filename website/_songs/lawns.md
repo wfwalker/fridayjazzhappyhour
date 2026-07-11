@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Lawns"
 composer: ""
-style: ""
-play_count: "5"
+style: "Ballad"
+play_count: 5
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Lawns

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Trans Europe Express"
 composer: ""
 style: "Techno"
-play_count: "10"
+play_count: 10
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Trans Europe Express

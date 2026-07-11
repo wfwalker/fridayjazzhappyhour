@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Watermelon Man"
 composer: "Herbie Hancock"
-style: "latin"
-play_count: "13"
+style: "Latin"
+play_count: 13
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Watermelon Man

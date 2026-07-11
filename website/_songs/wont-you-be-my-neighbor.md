@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Won't you be my neighbor?"
 composer: ""
-style: ""
-play_count: "4"
+style: "Swing"
+play_count: 4
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Won't you be my neighbor?

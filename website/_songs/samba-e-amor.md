@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Samba e Amor"
 composer: ""
-style: "Bossa"
-play_count: "15"
+style: "Samba"
+play_count: 15
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Samba e Amor

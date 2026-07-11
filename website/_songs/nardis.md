@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Nardis"
 composer: ""
-style: "Techno"
-play_count: "17"
+style: "Downtempo"
+play_count: 17
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Nardis

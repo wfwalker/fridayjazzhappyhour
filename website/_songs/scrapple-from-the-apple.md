@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Scrapple from the Apple"
 composer: ""
-style: ""
-play_count: "4"
+style: "Swing"
+play_count: 4
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Scrapple from the Apple

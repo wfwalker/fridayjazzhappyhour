@@ -1,11 +1,15 @@
 ---
-layout: "episode"
+layout: episode
 title: "Episode 213 (6/14/2024)"
 episode_number: "213"
 date_string: "6/14/2024"
-date: "2024-06-14"
-song_count: "10"
+date: 2024-06-14
+song_count: 10
 rerun: false
+theme: ""
+shirt: ""
+tip_jar: ""
+notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-213.jpg"
 ---
@@ -16,13 +20,13 @@ image: "/assets/images/title-slides/episode-213.jpg"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [Alberta]({{ '/songs/' | relative_url }}alberta/) |  |  |  |
-| 2 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) |  |  |  |
-| 3 | [Morning]({{ '/songs/' | relative_url }}morning/) |  |  |  |
-| 4 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) |  |  |  |
-| 5 | [Montara]({{ '/songs/' | relative_url }}montara/) |  |  |  |
-| 6 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) |  |  |  |
-| 7 | [Caravan]({{ '/songs/' | relative_url }}caravan/) |  |  |  |
-| 8 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) |  |  |  |
+| 1 | [Alberta]({{ '/songs/' | relative_url }}alberta/) |  | World |  |
+| 2 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) |  | Swing |  |
+| 3 | [Morning]({{ '/songs/' | relative_url }}morning/) |  | Latin |  |
+| 4 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) |  | Swing |  |
+| 5 | [Montara]({{ '/songs/' | relative_url }}montara/) |  | Downtempo |  |
+| 6 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) |  | Swing |  |
+| 7 | [Caravan]({{ '/songs/' | relative_url }}caravan/) |  | Swing |  |
+| 8 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) |  | Funk |  |
 | 9 | [VCV arpeggio wash]({{ '/one-off-songs.html' | relative_url }}#vcv-arpeggio-wash) |  |  |  |
-| 10 | [Sacto closer]({{ '/songs/' | relative_url }}sacto-closer/) |  |  |  |
+| 10 | [Sacto closer]({{ '/one-off-songs.html' | relative_url }}#sacto-closer) |  |  |  |

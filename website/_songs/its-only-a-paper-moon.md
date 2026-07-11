@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "It's only a paper moon"
 composer: ""
-style: ""
-play_count: "8"
+style: "Swing"
+play_count: 8
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # It's only a paper moon

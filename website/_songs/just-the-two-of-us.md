@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Just the Two of Us"
 composer: ""
-style: "Pop"
-play_count: "5"
+style: "Funk"
+play_count: 5
+hall_of_fame: true
+ready_rating: 2
 ---
 
 # Just the Two of Us

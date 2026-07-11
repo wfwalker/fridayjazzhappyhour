@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Burbling"
 composer: ""
-style: "Techno"
-play_count: "8"
+style: "World"
+play_count: 8
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Burbling

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Simplismente"
 composer: ""
-style: "Bossa"
-play_count: "7"
+style: "Techno"
+play_count: 7
+hall_of_fame: true
+ready_rating: 2
 ---
 
 # Simplismente

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "New Phone Who Dis"
 composer: "Bill Walker"
-style: "techno"
-play_count: "10"
+style: "Downtempo"
+play_count: 10
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # New Phone Who Dis

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Saga of Harrison Crabfeathers"
 composer: ""
-style: "Waltz"
-play_count: "11"
+style: "Swing"
+play_count: 11
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Saga of Harrison Crabfeathers

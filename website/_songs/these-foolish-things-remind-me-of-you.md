@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "These Foolish Things Remind me of You"
 composer: "Eric Maschwitz"
-style: ""
-play_count: "11"
+style: "Ballad"
+play_count: 11
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # These Foolish Things Remind me of You

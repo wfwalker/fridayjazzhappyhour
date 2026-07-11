@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Chega de Saudade"
 composer: ""
-style: ""
-play_count: "7"
+style: "Bossa"
+play_count: 7
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Chega de Saudade

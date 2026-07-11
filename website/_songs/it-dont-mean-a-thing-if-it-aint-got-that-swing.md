@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "It Don’t Mean a Thing (If It Ain't Got That Swing)"
 composer: "Duke Ellington"
-style: "swing"
-play_count: "8"
+style: "Swing"
+play_count: 8
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # It Don’t Mean a Thing (If It Ain't Got That Swing)

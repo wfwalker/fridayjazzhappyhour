@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Up Jumped Spring"
 composer: "Freddie Hubbard"
-style: "swing"
-play_count: "6"
+style: "Swing"
+play_count: 6
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Up Jumped Spring

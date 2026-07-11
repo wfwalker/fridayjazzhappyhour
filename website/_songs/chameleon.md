@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Chameleon"
 composer: "Herbie Hancock"
-style: "funk"
-play_count: "17"
+style: "Funk"
+play_count: 17
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Chameleon

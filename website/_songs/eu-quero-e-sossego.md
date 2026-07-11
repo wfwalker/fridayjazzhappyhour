@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Eu Quero E Sossego"
 composer: ""
-style: "Accordion"
-play_count: "9"
+style: "Bossa"
+play_count: 9
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Eu Quero E Sossego

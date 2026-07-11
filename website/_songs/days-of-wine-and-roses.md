@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Days of Wine and Roses"
 composer: ""
-style: ""
-play_count: "11"
+style: "Swing"
+play_count: 11
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Days of Wine and Roses

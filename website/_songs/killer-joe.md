@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Killer Joe"
 composer: "Benny Golson"
-style: "swing"
-play_count: "4"
+style: "Swing"
+play_count: 4
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # Killer Joe

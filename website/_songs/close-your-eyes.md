@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Close your eyes"
 composer: "Berenice Petkere"
-style: "pop"
-play_count: "10"
+style: "Latin"
+play_count: 10
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Close your eyes

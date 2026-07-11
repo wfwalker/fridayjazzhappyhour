@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "They Can't Take that away from me"
 composer: "George Gerswin"
-style: ""
-play_count: "12"
+style: "Swing"
+play_count: 12
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # They Can't Take that away from me

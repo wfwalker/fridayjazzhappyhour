@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Well You Needn’t"
 composer: "Thelonius Monk"
-style: "funk"
-play_count: "12"
+style: "Reggae"
+play_count: 12
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Well You Needn’t

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Memories of Tomorrow"
 composer: "Keith Jarrett"
-style: "bossa"
-play_count: "13"
+style: "Pop"
+play_count: 13
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Memories of Tomorrow

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Lovesong"
 composer: ""
-style: ""
-play_count: "2"
+style: "Pop"
+play_count: 2
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Lovesong

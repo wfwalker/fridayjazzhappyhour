@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Alberta"
 composer: "Bill Walker"
-style: "pop"
-play_count: "15"
+style: "World"
+play_count: 15
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Alberta

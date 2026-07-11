@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Our Spanish Love Song"
 composer: ""
-style: ""
-play_count: "3"
+style: "Latin"
+play_count: 3
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Our Spanish Love Song

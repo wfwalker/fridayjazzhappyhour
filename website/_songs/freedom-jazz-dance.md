@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Freedom Jazz Dance"
 composer: "Eddie Harris"
-style: "funk"
-play_count: "11"
+style: "Funk"
+play_count: 11
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Freedom Jazz Dance

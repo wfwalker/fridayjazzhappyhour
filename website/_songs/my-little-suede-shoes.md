@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "My Little Suede Shoes"
 composer: ""
 style: "Bossa"
-play_count: "17"
+play_count: 17
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # My Little Suede Shoes

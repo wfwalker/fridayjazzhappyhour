@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Midnight"
 composer: "Bill Walker"
-style: "pop"
-play_count: "10"
+style: "Techno"
+play_count: 10
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # Midnight

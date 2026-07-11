@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Goodbye Pork Pie Hat"
 composer: ""
-style: ""
-play_count: "7"
+style: "Swing"
+play_count: 7
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Goodbye Pork Pie Hat

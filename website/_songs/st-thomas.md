@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "St. Thomas"
 composer: "Sonny Rollins"
-style: "organ latin"
-play_count: "12"
+style: "Latin"
+play_count: 12
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # St. Thomas

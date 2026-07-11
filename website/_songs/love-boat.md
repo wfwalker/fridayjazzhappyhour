@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Love Boat"
 composer: ""
-style: ""
-play_count: "3"
+style: "Samba"
+play_count: 3
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # Love Boat

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Hi Lili, Hi Lo"
 composer: ""
-style: "ballad"
-play_count: "8"
+style: "Ballad"
+play_count: 8
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Hi Lili, Hi Lo

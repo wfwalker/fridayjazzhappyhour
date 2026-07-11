@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "How Deep is the Ocean"
 composer: ""
 style: "Ballad"
-play_count: "14"
+play_count: 14
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # How Deep is the Ocean

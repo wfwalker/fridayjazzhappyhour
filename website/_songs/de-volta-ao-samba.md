@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "De Volta Ao Samba"
 composer: ""
-style: ""
-play_count: "10"
+style: "Bossa"
+play_count: 10
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # De Volta Ao Samba

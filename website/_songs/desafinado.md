@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Desafinado"
 composer: "Jobim"
-style: "bossa"
-play_count: "8"
+style: "Bossa"
+play_count: 8
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Desafinado

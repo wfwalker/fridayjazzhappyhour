@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "I Can't Get Started"
 composer: ""
 style: "Swing"
-play_count: "9"
+play_count: 9
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # I Can't Get Started

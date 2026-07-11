@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Viva La Money"
 composer: ""
-style: ""
-play_count: "4"
+style: "Funk"
+play_count: 4
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Viva La Money

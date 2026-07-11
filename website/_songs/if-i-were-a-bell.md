@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "If I were a bell"
 composer: ""
 style: "Swing"
-play_count: "15"
+play_count: 15
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # If I were a bell

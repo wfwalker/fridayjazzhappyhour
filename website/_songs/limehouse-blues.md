@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Limehouse Blues"
 composer: ""
-style: ""
-play_count: "5"
+style: "Swing"
+play_count: 5
+hall_of_fame: true
+ready_rating: 1
 ---
 
 # Limehouse Blues

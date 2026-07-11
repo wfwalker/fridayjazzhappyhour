@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "My Funny Valentine"
 composer: "Rogers and Hart"
-style: ""
-play_count: "15"
+style: "Swing"
+play_count: 15
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # My Funny Valentine

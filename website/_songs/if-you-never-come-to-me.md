@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "If you never come to me"
 composer: ""
-style: ""
-play_count: "3"
+style: "Latin"
+play_count: 3
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # If you never come to me

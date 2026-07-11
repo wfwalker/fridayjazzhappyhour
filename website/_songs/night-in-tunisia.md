@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Night in Tunisia"
 composer: "Dizzy Gillespie"
-style: "Latin"
-play_count: "15"
+style: "Downtempo"
+play_count: 15
+hall_of_fame: true
+ready_rating: 0
 ---
 
 # Night in Tunisia

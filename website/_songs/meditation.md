@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Meditation"
 composer: ""
-style: "solo"
-play_count: "9"
+style: "Latin"
+play_count: 9
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Meditation

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "The Chicken"
 composer: "Pee Wee Ellis"
-style: "funk"
-play_count: "14"
+style: "Funk"
+play_count: 14
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # The Chicken

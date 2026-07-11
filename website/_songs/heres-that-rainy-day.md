@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Here's that Rainy Day"
 composer: ""
-style: ""
-play_count: "6"
+style: "Ballad"
+play_count: 6
+hall_of_fame: true
+ready_rating: 5
 ---
 
 # Here's that Rainy Day

@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "This Can't Be Love"
 composer: ""
-style: ""
-play_count: "13"
+style: "Swing"
+play_count: 13
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # This Can't Be Love

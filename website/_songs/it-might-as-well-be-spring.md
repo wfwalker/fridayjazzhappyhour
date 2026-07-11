@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "It Might as Well be Spring"
 composer: ""
-style: ""
-play_count: "9"
+style: "Bossa"
+play_count: 9
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # It Might as Well be Spring

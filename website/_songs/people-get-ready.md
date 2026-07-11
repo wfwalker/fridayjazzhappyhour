@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "People get Ready"
 composer: ""
-style: "pop"
-play_count: "3"
+style: "Pop"
+play_count: 3
+hall_of_fame: true
+ready_rating: 2
 ---
 
 # People get Ready

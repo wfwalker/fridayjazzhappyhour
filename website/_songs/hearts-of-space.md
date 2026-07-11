@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Hearts of Space"
 composer: "Bill Walker"
-style: "ambient"
-play_count: "4"
+style: "Downtempo"
+play_count: 4
+hall_of_fame: true
+ready_rating: 3
 ---
 
 # Hearts of Space

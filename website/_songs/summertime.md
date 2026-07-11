@@ -1,9 +1,11 @@
 ---
-layout: "song"
+layout: song
 title: "Summertime"
 composer: ""
 style: "Funk"
-play_count: "12"
+play_count: 12
+hall_of_fame: true
+ready_rating: 4
 ---
 
 # Summertime
