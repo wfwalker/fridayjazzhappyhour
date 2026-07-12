@@ -109,6 +109,9 @@
   <main>
     {{ content }}
   </main>
+  {% unless page.layout == 'song' %}
+    {% include mailchimp-signup.html %}
+  {% endunless %}
   <footer>
     &copy; {{ site.time | date: "%Y" }} Bill Walker. Generated with YouTube Chapter Analyzer.
   </footer>

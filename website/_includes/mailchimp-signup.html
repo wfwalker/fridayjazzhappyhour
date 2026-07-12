@@ -1,0 +1,141 @@
+<style>
+  .signup-banner {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 20px;
+    padding: 2.5rem;
+    margin: 3rem auto;
+    text-align: center;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    max-width: 650px;
+  }
+  
+  .signup-title {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 800;
+    font-size: 1.8rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    background: var(--accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .signup-subtitle {
+    color: var(--text-secondary);
+    font-size: 0.98rem;
+    margin-bottom: 2rem;
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+  }
+  
+  .signup-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    max-width: 450px;
+    margin: 0 auto;
+  }
+  
+  .signup-row {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  .signup-field-group {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 0.4rem;
+    flex: 1;
+    min-width: 200px;
+  }
+  
+  .signup-field-group label {
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  .signup-input {
+    padding: 0.85rem 1.2rem;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    color: var(--text-primary);
+    font-family: inherit;
+    font-size: 0.95rem;
+    outline: none;
+    transition: all 0.2s ease;
+    box-sizing: border-box;
+    width: 100%;
+  }
+  
+  .signup-input:focus {
+    border-color: var(--accent-color);
+    background: rgba(255, 255, 255, 0.06);
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+  }
+  
+  .signup-submit {
+    padding: 0.9rem 1.5rem;
+    background: var(--accent-gradient);
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: opacity 0.2s ease, transform 0.1s ease;
+    box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+    margin-top: 0.5rem;
+  }
+  
+  .signup-submit:hover {
+    opacity: 0.9;
+  }
+  
+  .signup-submit:active {
+    transform: scale(0.98);
+  }
+</style>
+
+<div class="signup-banner">
+  <h3 class="signup-title">Stay Tuned! 🎷</h3>
+  <p class="signup-subtitle">Get email updates about upcoming live streams, setlists, and Friday Jazz Happy Hour news.</p>
+  
+  <form action="https://soundcloud.us10.list-manage.com/subscribe/post?u=9e436e2c3e0a6b3c0ef345341&amp;id=a70c860759&amp;f_id=009645e4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="signup-form" target="_blank">
+    
+    <div class="signup-row">
+      <div class="signup-field-group">
+        <label for="mce-FNAME">First Name</label>
+        <input type="text" name="FNAME" class="signup-input" id="mce-FNAME" placeholder="Bill">
+      </div>
+      
+      <div class="signup-field-group">
+        <label for="mce-LNAME">Last Name</label>
+        <input type="text" name="LNAME" class="signup-input" id="mce-LNAME" placeholder="Walker">
+      </div>
+    </div>
+    
+    <div class="signup-field-group">
+      <label for="mce-EMAIL">Email Address <span style="color: var(--accent-hover);">*</span></label>
+      <input type="email" name="EMAIL" class="signup-input" id="mce-EMAIL" required placeholder="bill@example.com">
+    </div>
+    
+    <!-- Hidden bot-prevention field -->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+      <input type="text" name="b_9e436e2c3e0a6b3c0ef345341_a70c860759" tabindex="-1" value="">
+    </div>
+    
+    <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="signup-submit">Subscribe to Mailing List</button>
+  </form>
+</div>
