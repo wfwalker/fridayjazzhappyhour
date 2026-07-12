@@ -12,21 +12,77 @@ tip_jar: ""
 notes: "reran nov 7"
 youtube_url: "https://youtube.com/live/vpg-dYDIFj0"
 image: "/assets/images/title-slides/episode-185.jpg"
+setlist:
+  - song_num: "1"
+    name: "It's only a paper moon"
+    slug: "its-only-a-paper-moon"
+    url: "https://youtube.com/live/vpg-dYDIFj0?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Seven Steps to Heaven"
+    slug: "seven-steps-to-heaven"
+    url: "https://youtube.com/live/vpg-dYDIFj0?t=715"
+    time: "11:55"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Chega de Saudade"
+    slug: "chega-de-saudade"
+    url: "https://youtube.com/live/vpg-dYDIFj0?t=999"
+    time: "16:39"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtube.com/live/vpg-dYDIFj0?t=1533"
+    time: "25:33"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Newsky Bluesky"
+    slug: "newsky-bluesky"
+    url: "https://youtube.com/live/vpg-dYDIFj0?t=1859"
+    time: "30:59"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "My Romance"
+    slug: "my-romance"
+    url: "https://youtube.com/live/vpg-dYDIFj0?t=2240"
+    time: "37:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Agua de Beber"
+    slug: "agua-de-beber"
+    url: "https://youtube.com/live/vpg-dYDIFj0?t=2662"
+    time: "44:22"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "VCV Closer Nov 3"
+    slug: "vcv-closer-nov-3"
+    url: "https://youtube.com/live/vpg-dYDIFj0?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 185 (November 3, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/vpg-dYDIFj0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [It's only a paper moon]({{ '/songs/' | relative_url }}its-only-a-paper-moon/) | [04:28](https://youtube.com/live/vpg-dYDIFj0?t=268) | Swing |  |
-| 2 | [Seven Steps to Heaven]({{ '/songs/' | relative_url }}seven-steps-to-heaven/) | [11:55](https://youtube.com/live/vpg-dYDIFj0?t=715) | Pop |  |
-| 3 | [Chega de Saudade]({{ '/songs/' | relative_url }}chega-de-saudade/) | [16:39](https://youtube.com/live/vpg-dYDIFj0?t=999) | Bossa |  |
-| 4 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [25:33](https://youtube.com/live/vpg-dYDIFj0?t=1533) | Swing |  |
-| 5 | [Newsky Bluesky]({{ '/songs/' | relative_url }}newsky-bluesky/) | [30:59](https://youtube.com/live/vpg-dYDIFj0?t=1859) | Downtempo |  |
-| 6 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) | [37:20](https://youtube.com/live/vpg-dYDIFj0?t=2240) | Swing |  |
-| 7 | [Agua de Beber]({{ '/songs/' | relative_url }}agua-de-beber/) | [44:22](https://youtube.com/live/vpg-dYDIFj0?t=2662) | Latin |  |
-| 8 | [VCV Closer Nov 3]({{ '/one-off-songs.html' | relative_url }}#vcv-closer-nov-3) | [50:23](https://youtube.com/live/vpg-dYDIFj0?t=3023) |  |  |

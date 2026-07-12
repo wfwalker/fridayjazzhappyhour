@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/AgOf7ObdkGY"
 image: "/assets/images/title-slides/episode-144.jpg"
+setlist:
+  - song_num: "1"
+    name: "Take Five (King Tubby)"
+    slug: "take-five-king-tubby"
+    url: "https://youtube.com/live/AgOf7ObdkGY?t=160"
+    time: "02:40"
+    style: "Downtempo"
+    composer: ""
+    notes: "nice"
+    hof: true
+  - song_num: "2"
+    name: "Zero-Nineteen"
+    slug: "zero-nineteen"
+    url: "https://youtube.com/live/AgOf7ObdkGY?t=632"
+    time: "10:32"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Bye Bye Blackbird"
+    slug: "bye-bye-blackbird"
+    url: "https://youtube.com/live/AgOf7ObdkGY?t=1024"
+    time: "17:04"
+    style: "Swing"
+    composer: ""
+    notes: "nice solo!"
+    hof: true
+  - song_num: "4"
+    name: "Freedom Jazz Dance"
+    slug: "freedom-jazz-dance"
+    url: "https://youtube.com/live/AgOf7ObdkGY?t=1446"
+    time: "24:06"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Naima"
+    slug: "naima"
+    url: "https://youtube.com/live/AgOf7ObdkGY?t=1920"
+    time: "32:00"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Moanin"
+    slug: "moanin"
+    url: "https://youtube.com/live/AgOf7ObdkGY?t=2460"
+    time: "41:00"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Umbrella"
+    slug: "umbrella"
+    url: "https://youtube.com/live/AgOf7ObdkGY?t=2879"
+    time: "47:59"
+    style: "Pop"
+    composer: ""
+    notes: "practice, singing not great"
+    hof: true
+  - song_num: "8"
+    name: "Closer Jan 6"
+    slug: "closer-jan-6"
+    url: "https://youtube.com/live/AgOf7ObdkGY?t=3207"
+    time: "53:27"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 144 (January 6, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/AgOf7ObdkGY)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Take Five (King Tubby)]({{ '/songs/' | relative_url }}take-five-king-tubby/) | [02:40](https://youtube.com/live/AgOf7ObdkGY?t=160) | Downtempo | nice |
-| 2 | [Zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) | [10:32](https://youtube.com/live/AgOf7ObdkGY?t=632) | Techno |  |
-| 3 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) | [17:04](https://youtube.com/live/AgOf7ObdkGY?t=1024) | Swing | nice solo! |
-| 4 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) | [24:06](https://youtube.com/live/AgOf7ObdkGY?t=1446) | Funk |  |
-| 5 | [Naima]({{ '/songs/' | relative_url }}naima/) | [32:00](https://youtube.com/live/AgOf7ObdkGY?t=1920) | Downtempo |  |
-| 6 | [Moanin]({{ '/songs/' | relative_url }}moanin/) | [41:00](https://youtube.com/live/AgOf7ObdkGY?t=2460) | Swing |  |
-| 7 | [Umbrella]({{ '/songs/' | relative_url }}umbrella/) | [47:59](https://youtube.com/live/AgOf7ObdkGY?t=2879) | Pop | practice, singing not great |
-| 8 | [Closer Jan 6]({{ '/one-off-songs.html' | relative_url }}#closer-jan-6) | [53:27](https://youtube.com/live/AgOf7ObdkGY?t=3207) |  |  |

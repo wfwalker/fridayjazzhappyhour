@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/oo0OmegleSA"
 image: "/assets/images/title-slides/episode-234.jpg"
+setlist:
+  - song_num: "1"
+    name: "Days of Wine and Roses"
+    slug: "days-of-wine-and-roses"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "All the Things you are"
+    slug: "all-the-things-you-are"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Give me the night"
+    slug: "give-me-the-night"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Montara"
+    slug: "montara"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Canto de Osshana"
+    slug: "canto-de-osshana"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Lawns"
+    slug: "lawns"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 234 (November 22, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/oo0OmegleSA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Days of Wine and Roses]({{ '/songs/' | relative_url }}days-of-wine-and-roses/) |  | Swing |  |
-| 2 | [All the Things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) |  | Swing |  |
-| 3 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) |  | Bossa |  |
-| 4 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) |  | Swing |  |
-| 5 | [Give me the night]({{ '/songs/' | relative_url }}give-me-the-night/) |  | Funk |  |
-| 6 | [Montara]({{ '/songs/' | relative_url }}montara/) |  | Downtempo |  |
-| 7 | [Canto de Osshana]({{ '/songs/' | relative_url }}canto-de-osshana/) |  | Samba |  |
-| 8 | [Lawns]({{ '/songs/' | relative_url }}lawns/) |  | Ballad |  |

@@ -12,21 +12,77 @@ tip_jar: "Roots Community Health Center"
 notes: "yes"
 youtube_url: "https://youtu.be/oVtkuUaMHU8"
 image: "/assets/images/title-slides/episode-46.jpg"
+setlist:
+  - song_num: "1"
+    name: "Skylark"
+    slug: "skylark"
+    url: "https://youtu.be/oVtkuUaMHU8?t=290"
+    time: "04:50"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "Footprints"
+    slug: "footprints"
+    url: "https://youtu.be/oVtkuUaMHU8?t=778"
+    time: "12:58"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "St. Thomas"
+    slug: "st-thomas"
+    url: "https://youtu.be/oVtkuUaMHU8?t=1218"
+    time: "20:18"
+    style: "Latin"
+    composer: ""
+    notes: "put drums behind musicbox, Faster!"
+    hof: true
+  - song_num: "4"
+    name: "This Can't Be Love"
+    slug: "this-cant-be-love"
+    url: "https://youtu.be/oVtkuUaMHU8?t=1597"
+    time: "26:37"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Once I Loved"
+    slug: "once-i-loved"
+    url: "https://youtu.be/oVtkuUaMHU8?t=1955"
+    time: "32:35"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Desde"
+    slug: "desde"
+    url: "https://youtu.be/oVtkuUaMHU8?t=2430"
+    time: "40:30"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Beat 70"
+    slug: "beat-70"
+    url: "https://youtu.be/oVtkuUaMHU8?t=2955"
+    time: "49:15"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "How Deep is the Ocean"
+    slug: "how-deep-is-the-ocean"
+    url: "https://youtu.be/oVtkuUaMHU8?t=3410"
+    time: "56:50"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 46 (January 29, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/oVtkuUaMHU8)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Skylark]({{ '/one-off-songs.html' | relative_url }}#skylark) | [04:50](https://youtu.be/oVtkuUaMHU8?t=290) |  |  |
-| 2 | [Footprints]({{ '/songs/' | relative_url }}footprints/) | [12:58](https://youtu.be/oVtkuUaMHU8?t=778) | Swing |  |
-| 3 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) | [20:18](https://youtu.be/oVtkuUaMHU8?t=1218) | Latin | put drums behind musicbox, Faster! |
-| 4 | [This Can't Be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) | [26:37](https://youtu.be/oVtkuUaMHU8?t=1597) | Swing |  |
-| 5 | [Once I Loved]({{ '/songs/' | relative_url }}once-i-loved/) | [32:35](https://youtu.be/oVtkuUaMHU8?t=1955) | Bossa |  |
-| 6 | [Desde]({{ '/songs/' | relative_url }}desde/) | [40:30](https://youtu.be/oVtkuUaMHU8?t=2430) | Bossa |  |
-| 7 | [Beat 70]({{ '/songs/' | relative_url }}beat-70/) | [49:15](https://youtu.be/oVtkuUaMHU8?t=2955) | Bossa |  |
-| 8 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) | [56:50](https://youtu.be/oVtkuUaMHU8?t=3410) | Ballad |  |

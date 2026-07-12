@@ -12,20 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-150-rerun-7192024.jpg"
+setlist:
+  - song_num: "1"
+    name: "Look to the Sky"
+    slug: "look-to-the-sky"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "My Romance"
+    slug: "my-romance"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Feel like going home"
+    slug: "feel-like-going-home"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Samba e Amor"
+    slug: "samba-e-amor"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Rise"
+    slug: "rise"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "When I Fall in Love"
+    slug: "when-i-fall-in-love"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 150 (July 19, 2024) (Rerun)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) |  | Bossa |  |
-| 2 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) |  | Swing |  |
-| 3 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) |  | Funk |  |
-| 4 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) |  | Techno |  |
-| 5 | [Feel like going home]({{ '/songs/' | relative_url }}feel-like-going-home/) |  | Pop |  |
-| 6 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) |  | Samba |  |
-| 7 | [Rise]({{ '/songs/' | relative_url }}rise/) |  | Funk |  |
-| 8 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) |  | Funk |  |
-| 9 | [When I Fall in Love]({{ '/songs/' | relative_url }}when-i-fall-in-love/) |  | Ballad |  |

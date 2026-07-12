@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/L1Le-E66_Vw"
 image: "/assets/images/title-slides/episode-243.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bossa Antigua"
+    slug: "bossa-antigua"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Minor Swing"
+    slug: "minor-swing"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Ternura"
+    slug: "ternura"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Some day my Prince will Come"
+    slug: "some-day-my-prince-will-come"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Midnight"
+    slug: "midnight"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "They Can't Take that Away from Me"
+    slug: "they-cant-take-that-away-from-me"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Viva La Money"
+    slug: "viva-la-money"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Lullaby for Thursday"
+    slug: "lullaby-for-thursday"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 243 (January 24, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/L1Le-E66_Vw)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bossa Antigua]({{ '/songs/' | relative_url }}bossa-antigua/) |  | Bossa |  |
-| 2 | [Minor Swing]({{ '/songs/' | relative_url }}minor-swing/) |  | Swing |  |
-| 3 | [Ternura]({{ '/songs/' | relative_url }}ternura/) |  | Latin |  |
-| 4 | [Some day my Prince will Come]({{ '/songs/' | relative_url }}some-day-my-prince-will-come/) |  | Swing |  |
-| 5 | [Midnight]({{ '/songs/' | relative_url }}midnight/) |  | Techno |  |
-| 6 | [They Can't Take that Away from Me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) |  | Swing |  |
-| 7 | [Viva La Money]({{ '/songs/' | relative_url }}viva-la-money/) |  | Funk |  |
-| 8 | [Lullaby for Thursday]({{ '/one-off-songs.html' | relative_url }}#lullaby-for-thursday) |  |  |  |

@@ -12,19 +12,59 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/a4UEJSQN9Zw"
 image: "/assets/images/title-slides/episode-4.png"
+setlist:
+  - song_num: "1"
+    name: "Were You There"
+    slug: "were-you-there"
+    url: "https://youtu.be/a4UEJSQN9Zw?t=1232"
+    time: "20:32"
+    style: ""
+    composer: "Spiritual"
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "A Foggy Day (in London town)"
+    slug: "a-foggy-day-in-london-town"
+    url: "https://youtu.be/a4UEJSQN9Zw?t=2029"
+    time: "33:49"
+    style: "Swing"
+    composer: "George Gerswin"
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: "https://youtu.be/a4UEJSQN9Zw?t=814"
+    time: "13:34"
+    style: "Swing"
+    composer: "Wayne King"
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "It Don’t Mean a Thing (If It Ain't Got That Swing)"
+    slug: "it-dont-mean-a-thing-if-it-aint-got-that-swing"
+    url: "https://youtu.be/a4UEJSQN9Zw?t=70"
+    time: "01:10"
+    style: "Swing"
+    composer: "Duke Ellington"
+    notes: "nice bass"
+    hof: true
+  - song_num: "5"
+    name: "Camilla (the Old, Old story)"
+    slug: "camilla-the-old-old-story"
+    url: "https://youtu.be/a4UEJSQN9Zw?t=426"
+    time: "07:06"
+    style: "Downtempo"
+    composer: "Art of Noise"
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtu.be/a4UEJSQN9Zw?t=1530"
+    time: "25:30"
+    style: "Swing"
+    composer: "Duke Ellington"
+    notes: ""
+    hof: true
 ---
-
-# Episode 4 (April 10, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/a4UEJSQN9Zw)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Were You There]({{ '/one-off-songs.html' | relative_url }}#were-you-there) | [20:32](https://youtu.be/a4UEJSQN9Zw?t=1232) | <br><small style='color:var(--text-secondary);'>by Spiritual</small> |  |
-| 2 | [A Foggy Day (in London town)]({{ '/songs/' | relative_url }}a-foggy-day-in-london-town/) | [33:49](https://youtu.be/a4UEJSQN9Zw?t=2029) | Swing<br><small style='color:var(--text-secondary);'>by George Gerswin</small> |  |
-| 3 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) | [13:34](https://youtu.be/a4UEJSQN9Zw?t=814) | Swing<br><small style='color:var(--text-secondary);'>by Wayne King</small> |  |
-| 4 | [It Don’t Mean a Thing (If It Ain't Got That Swing)]({{ '/songs/' | relative_url }}it-dont-mean-a-thing-if-it-aint-got-that-swing/) | [01:10](https://youtu.be/a4UEJSQN9Zw?t=70) | Swing<br><small style='color:var(--text-secondary);'>by Duke Ellington</small> | nice bass |
-| 5 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [07:06](https://youtu.be/a4UEJSQN9Zw?t=426) | Downtempo<br><small style='color:var(--text-secondary);'>by Art of Noise</small> |  |
-| 6 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [25:30](https://youtu.be/a4UEJSQN9Zw?t=1530) | Swing<br><small style='color:var(--text-secondary);'>by Duke Ellington</small> |  |

@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-199b.jpg"
+setlist:
+  - song_num: "2"
+    name: "Montara"
+    slug: "montara"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Softly as in a morning sunrise"
+    slug: "softly-as-in-a-morning-sunrise"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Burbling"
+    slug: "burbling"
+    url: ""
+    time: ""
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Coming Home"
+    slug: "coming-home"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Canto de Osshana"
+    slug: "canto-de-osshana"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Blades"
+    slug: "blades"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Root Down (and Get it)"
+    slug: "root-down-and-get-it"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "How Deep is the Ocean"
+    slug: "how-deep-is-the-ocean"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 199b (October 3, 2025)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 2 | [Montara]({{ '/songs/' | relative_url }}montara/) |  | Downtempo |  |
-| 3 | [Softly as in a morning sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) |  | Techno |  |
-| 4 | [Burbling]({{ '/songs/' | relative_url }}burbling/) |  | World |  |
-| 5 | [Coming Home]({{ '/songs/' | relative_url }}coming-home/) |  | Pop |  |
-| 6 | [Canto de Osshana]({{ '/songs/' | relative_url }}canto-de-osshana/) |  | Samba |  |
-| 7 | [Blades]({{ '/songs/' | relative_url }}blades/) |  | Downtempo |  |
-| 8 | [Root Down (and Get it)]({{ '/songs/' | relative_url }}root-down-and-get-it/) |  | Funk |  |
-| 9 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) |  | Ballad |  |

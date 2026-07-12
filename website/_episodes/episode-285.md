@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/wscqtfOZu44"
 image: "/assets/images/title-slides/episode-285.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bossa Antigua"
+    slug: "bossa-antigua"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Sermonette"
+    slug: "sermonette"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Midnight"
+    slug: "midnight"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Take Five (King Tubby)"
+    slug: "take-five-king-tubby"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Song for my Father"
+    slug: "song-for-my-father"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Icarus"
+    slug: "icarus"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Freedom Jazz Dance"
+    slug: "freedom-jazz-dance"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "closer jan 9"
+    slug: "closer-jan-9"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 285 (January 9, 2026)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/wscqtfOZu44)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bossa Antigua]({{ '/songs/' | relative_url }}bossa-antigua/) |  | Bossa |  |
-| 2 | [Sermonette]({{ '/songs/' | relative_url }}sermonette/) |  | Swing |  |
-| 3 | [Midnight]({{ '/songs/' | relative_url }}midnight/) |  | Techno |  |
-| 4 | [Take Five (King Tubby)]({{ '/songs/' | relative_url }}take-five-king-tubby/) |  | Downtempo |  |
-| 5 | [Song for my Father]({{ '/songs/' | relative_url }}song-for-my-father/) |  | Latin |  |
-| 6 | [Icarus]({{ '/songs/' | relative_url }}icarus/) |  | Latin |  |
-| 7 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) |  | Funk |  |
-| 8 | [closer jan 9]({{ '/one-off-songs.html' | relative_url }}#closer-jan-9) |  |  |  |

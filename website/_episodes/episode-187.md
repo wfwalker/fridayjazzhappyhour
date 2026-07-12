@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/9Xps9wrZFL0"
 image: "/assets/images/title-slides/episode-187.jpg"
+setlist:
+  - song_num: "1"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "My Favorite Things"
+    slug: "my-favorite-things"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Au Privave"
+    slug: "au-privave"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Nightingale Sang in Berkeley Square"
+    slug: "nightingale-sang-in-berkeley-square"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Ternura"
+    slug: "ternura"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Lovely Day"
+    slug: "lovely-day"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Watermelon Man"
+    slug: "watermelon-man"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Nov 17"
+    slug: "closer-nov-17"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 187 (November 17, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/9Xps9wrZFL0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) |  | Bossa |  |
-| 2 | [My Favorite Things]({{ '/songs/' | relative_url }}my-favorite-things/) |  | Swing |  |
-| 3 | [Au Privave]({{ '/songs/' | relative_url }}au-privave/) |  | Swing |  |
-| 4 | [Nightingale Sang in Berkeley Square]({{ '/songs/' | relative_url }}nightingale-sang-in-berkeley-square/) |  | Ballad |  |
-| 5 | [Ternura]({{ '/songs/' | relative_url }}ternura/) |  | Latin |  |
-| 6 | [Lovely Day]({{ '/songs/' | relative_url }}lovely-day/) |  | Pop |  |
-| 7 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) |  | Latin |  |
-| 8 | [Closer Nov 17]({{ '/one-off-songs.html' | relative_url }}#closer-nov-17) |  |  |  |

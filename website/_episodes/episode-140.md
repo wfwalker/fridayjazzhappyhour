@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/2vM_dR9jpjk"
 image: "/assets/images/title-slides/episode-140.jpg"
+setlist:
+  - song_num: "1"
+    name: "The Holly and the Ivy"
+    slug: "the-holly-and-the-ivy"
+    url: "https://youtube.com/live/2vM_dR9jpjk?t=151"
+    time: "02:31"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "These Foolish Things Remind me of You"
+    slug: "these-foolish-things-remind-me-of-you"
+    url: "https://youtube.com/live/2vM_dR9jpjk?t=546"
+    time: "09:06"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Dindi"
+    slug: "dindi"
+    url: "https://youtube.com/live/2vM_dR9jpjk?t=947"
+    time: "15:47"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Girl Talk"
+    slug: "girl-talk"
+    url: "https://youtube.com/live/2vM_dR9jpjk?t=1511"
+    time: "25:11"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Mambo Inn"
+    slug: "mambo-inn"
+    url: "https://youtube.com/live/2vM_dR9jpjk?t=1900"
+    time: "31:40"
+    style: "Latin"
+    composer: ""
+    notes: "melodica"
+    hof: true
+  - song_num: "6"
+    name: "Stella by Starlight"
+    slug: "stella-by-starlight"
+    url: "https://youtube.com/live/2vM_dR9jpjk?t=2444"
+    time: "40:44"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Give me the Night"
+    slug: "give-me-the-night"
+    url: "https://youtube.com/live/2vM_dR9jpjk?t=2843"
+    time: "47:23"
+    style: "Funk"
+    composer: ""
+    notes: "melodica hell yeah plus gtr+scat"
+    hof: true
+  - song_num: "8"
+    name: "O Holy Night"
+    slug: "o-holy-night"
+    url: "https://youtube.com/live/2vM_dR9jpjk?t=3420"
+    time: "57:00"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 140 (December 9, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/2vM_dR9jpjk)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [The Holly and the Ivy]({{ '/songs/' | relative_url }}the-holly-and-the-ivy/) | [02:31](https://youtube.com/live/2vM_dR9jpjk?t=151) | Christmas |  |
-| 2 | [These Foolish Things Remind me of You]({{ '/songs/' | relative_url }}these-foolish-things-remind-me-of-you/) | [09:06](https://youtube.com/live/2vM_dR9jpjk?t=546) | Ballad |  |
-| 3 | [Dindi]({{ '/songs/' | relative_url }}dindi/) | [15:47](https://youtube.com/live/2vM_dR9jpjk?t=947) | Techno |  |
-| 4 | [Girl Talk]({{ '/songs/' | relative_url }}girl-talk/) | [25:11](https://youtube.com/live/2vM_dR9jpjk?t=1511) | Swing |  |
-| 5 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) | [31:40](https://youtube.com/live/2vM_dR9jpjk?t=1900) | Latin | melodica |
-| 6 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) | [40:44](https://youtube.com/live/2vM_dR9jpjk?t=2444) | Swing |  |
-| 7 | [Give me the Night]({{ '/songs/' | relative_url }}give-me-the-night/) | [47:23](https://youtube.com/live/2vM_dR9jpjk?t=2843) | Funk | melodica hell yeah plus gtr+scat |
-| 8 | [O Holy Night]({{ '/one-off-songs.html' | relative_url }}#o-holy-night) | [57:00](https://youtube.com/live/2vM_dR9jpjk?t=3420) |  |  |

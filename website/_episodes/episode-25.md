@@ -12,21 +12,77 @@ tip_jar: "Lifemoves"
 notes: "yes"
 youtube_url: "https://youtu.be/tCGZLZnLvh4"
 image: "/assets/images/title-slides/episode-25.jpg"
+setlist:
+  - song_num: "1"
+    name: "How Deep is the Ocean"
+    slug: "how-deep-is-the-ocean"
+    url: "https://youtu.be/tCGZLZnLvh4?t=244"
+    time: "04:04"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Footprints"
+    slug: "footprints"
+    url: "https://youtu.be/tCGZLZnLvh4?t=690"
+    time: "11:30"
+    style: "Swing"
+    composer: ""
+    notes: "octave lead mess; better drums; good bass solo; too long?"
+    hof: true
+  - song_num: "3"
+    name: "O Barquinho"
+    slug: "o-barquinho"
+    url: "https://youtu.be/tCGZLZnLvh4?t=1310"
+    time: "21:50"
+    style: "Bossa"
+    composer: ""
+    notes: "guitar velocity fix; double solo v nice; too long?"
+    hof: true
+  - song_num: "4"
+    name: "I Can't Get Started"
+    slug: "i-cant-get-started"
+    url: "https://youtu.be/tCGZLZnLvh4?t=1770"
+    time: "29:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "The Chicken"
+    slug: "the-chicken"
+    url: "https://youtu.be/tCGZLZnLvh4?t=2294"
+    time: "38:14"
+    style: "Funk"
+    composer: ""
+    notes: "Too slow; switch to piano good; too long; weird dropout"
+    hof: true
+  - song_num: "6"
+    name: "How My Heart Sings"
+    slug: "how-my-heart-sings"
+    url: "https://youtu.be/tCGZLZnLvh4?t=2803"
+    time: "46:43"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "7"
+    name: "La Fiesta"
+    slug: "la-fiesta"
+    url: "https://youtu.be/tCGZLZnLvh4?t=3211"
+    time: "53:31"
+    style: "Latin"
+    composer: ""
+    notes: "got lost, too slow; need soft and loud drums, obvious section transitions; comping? switching instruments good"
+    hof: true
+  - song_num: "8"
+    name: "Turn out the Stars"
+    slug: "turn-out-the-stars"
+    url: "https://youtu.be/tCGZLZnLvh4?t=3825"
+    time: "01:03:45"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 25 (September 4, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/tCGZLZnLvh4)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) | [04:04](https://youtu.be/tCGZLZnLvh4?t=244) | Ballad |  |
-| 2 | [Footprints]({{ '/songs/' | relative_url }}footprints/) | [11:30](https://youtu.be/tCGZLZnLvh4?t=690) | Swing | octave lead mess; better drums; good bass solo; too long? |
-| 3 | [O Barquinho]({{ '/songs/' | relative_url }}o-barquinho/) | [21:50](https://youtu.be/tCGZLZnLvh4?t=1310) | Bossa | guitar velocity fix; double solo v nice; too long? |
-| 4 | [I Can't Get Started]({{ '/songs/' | relative_url }}i-cant-get-started/) | [29:30](https://youtu.be/tCGZLZnLvh4?t=1770) | Swing |  |
-| 5 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) | [38:14](https://youtu.be/tCGZLZnLvh4?t=2294) | Funk | Too slow; switch to piano good; too long; weird dropout |
-| 6 | [How My Heart Sings]({{ '/one-off-songs.html' | relative_url }}#how-my-heart-sings) | [46:43](https://youtu.be/tCGZLZnLvh4?t=2803) |  |  |
-| 7 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [53:31](https://youtu.be/tCGZLZnLvh4?t=3211) | Latin | got lost, too slow; need soft and loud drums, obvious section transitions; comping? switching instruments good |
-| 8 | [Turn out the Stars]({{ '/one-off-songs.html' | relative_url }}#turn-out-the-stars) | [01:03:45](https://youtu.be/tCGZLZnLvh4?t=3825) |  |  |

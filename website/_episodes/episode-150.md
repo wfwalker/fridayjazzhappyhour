@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/Lfke1fj6Wh0"
 image: "/assets/images/title-slides/episode-150.jpg"
+setlist:
+  - song_num: "1"
+    name: "Look to the Sky"
+    slug: "look-to-the-sky"
+    url: "https://youtube.com/live/Lfke1fj6Wh0?t=268"
+    time: "04:28"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "My Romance"
+    slug: "my-romance"
+    url: "https://youtube.com/live/Lfke1fj6Wh0?t=715"
+    time: "11:55"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: "https://youtube.com/live/Lfke1fj6Wh0?t=1158"
+    time: "19:18"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: "https://youtube.com/live/Lfke1fj6Wh0?t=1533"
+    time: "25:33"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Feel like going home"
+    slug: "feel-like-going-home"
+    url: "https://youtube.com/live/Lfke1fj6Wh0?t=1859"
+    time: "30:59"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Samba e Amor"
+    slug: "samba-e-amor"
+    url: "https://youtube.com/live/Lfke1fj6Wh0?t=2240"
+    time: "37:20"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Rise"
+    slug: "rise"
+    url: "https://youtube.com/live/Lfke1fj6Wh0?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: "https://youtube.com/live/Lfke1fj6Wh0?t=3023"
+    time: "50:23"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "When I Fall in Love"
+    slug: "when-i-fall-in-love"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 150 (February 17, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/Lfke1fj6Wh0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) | [04:28](https://youtube.com/live/Lfke1fj6Wh0?t=268) | Bossa |  |
-| 2 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) | [11:55](https://youtube.com/live/Lfke1fj6Wh0?t=715) | Swing |  |
-| 3 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) | [19:18](https://youtube.com/live/Lfke1fj6Wh0?t=1158) | Funk |  |
-| 4 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) | [25:33](https://youtube.com/live/Lfke1fj6Wh0?t=1533) | Techno |  |
-| 5 | [Feel like going home]({{ '/songs/' | relative_url }}feel-like-going-home/) | [30:59](https://youtube.com/live/Lfke1fj6Wh0?t=1859) | Pop |  |
-| 6 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) | [37:20](https://youtube.com/live/Lfke1fj6Wh0?t=2240) | Samba |  |
-| 7 | [Rise]({{ '/songs/' | relative_url }}rise/) | [44:22](https://youtube.com/live/Lfke1fj6Wh0?t=2662) | Funk |  |
-| 8 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [50:23](https://youtube.com/live/Lfke1fj6Wh0?t=3023) | Funk |  |
-| 9 | [When I Fall in Love]({{ '/songs/' | relative_url }}when-i-fall-in-love/) |  | Ballad |  |

@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/fcqu-1RQCO0"
 image: "/assets/images/title-slides/episode-284.jpg"
+setlist:
+  - song_num: "1"
+    name: "Pick up the Pieces"
+    slug: "pick-up-the-pieces"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Memories of Tomorrow"
+    slug: "memories-of-tomorrow"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Georgia on my Mind"
+    slug: "georgia-on-my-mind"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Forrozinho em Cazadero"
+    slug: "forrozinho-em-cazadero"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Stella by Starlight"
+    slug: "stella-by-starlight"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Just the Two of Us"
+    slug: "just-the-two-of-us"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Solsbury Hill"
+    slug: "solsbury-hill"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Inch Worm"
+    slug: "inch-worm"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "EDM02"
+    slug: "edm02"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 284 (January 2, 2026)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/fcqu-1RQCO0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) |  | Funk |  |
-| 2 | [Memories of Tomorrow]({{ '/songs/' | relative_url }}memories-of-tomorrow/) |  | Pop |  |
-| 3 | [Georgia on my Mind]({{ '/songs/' | relative_url }}georgia-on-my-mind/) |  | Ballad |  |
-| 4 | [Forrozinho em Cazadero]({{ '/songs/' | relative_url }}forrozinho-em-cazadero/) |  | Latin |  |
-| 5 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) |  | Swing |  |
-| 6 | [Just the Two of Us]({{ '/songs/' | relative_url }}just-the-two-of-us/) |  | Funk |  |
-| 7 | [Solsbury Hill]({{ '/songs/' | relative_url }}solsbury-hill/) |  | Pop |  |
-| 8 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) |  | Ballad |  |
-| 9 | [EDM02]({{ '/one-off-songs.html' | relative_url }}#edm02) |  |  |  |

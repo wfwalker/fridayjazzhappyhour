@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/ngSqqLNxvgo"
 image: "/assets/images/title-slides/episode-132.jpg"
+setlist:
+  - song_num: "1"
+    name: "So What"
+    slug: "so-what"
+    url: "https://youtu.be/ngSqqLNxvgo?t=190"
+    time: "03:10"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Avalon"
+    slug: "avalon"
+    url: "https://youtu.be/ngSqqLNxvgo?t=620"
+    time: "10:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "There Will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: "https://youtu.be/ngSqqLNxvgo?t=1020"
+    time: "17:00"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "La Fiesta"
+    slug: "la-fiesta"
+    url: "https://youtu.be/ngSqqLNxvgo?t=1508"
+    time: "25:08"
+    style: "Latin"
+    composer: ""
+    notes: "DISASTER with eurorack clipping"
+    hof: true
+  - song_num: "5"
+    name: "Goodbye Look"
+    slug: "goodbye-look"
+    url: "https://youtu.be/ngSqqLNxvgo?t=2108"
+    time: "35:08"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: "https://youtu.be/ngSqqLNxvgo?t=2500"
+    time: "41:40"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Montara"
+    slug: "montara"
+    url: "https://youtu.be/ngSqqLNxvgo?t=3010"
+    time: "50:10"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Alphabet Exercise"
+    slug: "alphabet-exercise"
+    url: "https://youtu.be/ngSqqLNxvgo?t=3483"
+    time: "58:03"
+    style: ""
+    composer: ""
+    notes: "GAFFE CAGED"
+    hof: false
 ---
-
-# Episode 132 (September 23, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/ngSqqLNxvgo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [So What]({{ '/songs/' | relative_url }}so-what/) | [03:10](https://youtu.be/ngSqqLNxvgo?t=190) | Swing |  |
-| 2 | [Avalon]({{ '/songs/' | relative_url }}avalon/) | [10:20](https://youtu.be/ngSqqLNxvgo?t=620) | Swing |  |
-| 3 | [There Will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) | [17:00](https://youtu.be/ngSqqLNxvgo?t=1020) | Swing |  |
-| 4 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [25:08](https://youtu.be/ngSqqLNxvgo?t=1508) | Latin | DISASTER with eurorack clipping |
-| 5 | [Goodbye Look]({{ '/songs/' | relative_url }}goodbye-look/) | [35:08](https://youtu.be/ngSqqLNxvgo?t=2108) | Pop |  |
-| 6 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [41:40](https://youtu.be/ngSqqLNxvgo?t=2500) | Funk |  |
-| 7 | [Montara]({{ '/songs/' | relative_url }}montara/) | [50:10](https://youtu.be/ngSqqLNxvgo?t=3010) | Downtempo |  |
-| 8 | [Alphabet Exercise]({{ '/one-off-songs.html' | relative_url }}#alphabet-exercise) | [58:03](https://youtu.be/ngSqqLNxvgo?t=3483) |  | GAFFE CAGED |

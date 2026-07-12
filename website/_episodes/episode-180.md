@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/PDFolCHBpes"
 image: "/assets/images/title-slides/episode-180.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bye Bye Blackbird"
+    slug: "bye-bye-blackbird"
+    url: "https://youtube.com/live/PDFolCHBpes?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Gentle Rain"
+    slug: "gentle-rain"
+    url: "https://youtube.com/live/PDFolCHBpes?t=715"
+    time: "11:55"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Them Funky Changes"
+    slug: "them-funky-changes"
+    url: "https://youtube.com/live/PDFolCHBpes?t=1158"
+    time: "19:18"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Canto de Osshana"
+    slug: "canto-de-osshana"
+    url: "https://youtube.com/live/PDFolCHBpes?t=1533"
+    time: "25:33"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "They Can't Take that away from me"
+    slug: "they-cant-take-that-away-from-me"
+    url: "https://youtube.com/live/PDFolCHBpes?t=1859"
+    time: "30:59"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "O Barquinho"
+    slug: "o-barquinho"
+    url: "https://youtube.com/live/PDFolCHBpes?t=2240"
+    time: "37:20"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Manteca"
+    slug: "manteca"
+    url: "https://youtube.com/live/PDFolCHBpes?t=2662"
+    time: "44:22"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Sacto Closer"
+    slug: "sacto-closer"
+    url: "https://youtube.com/live/PDFolCHBpes?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 180 (September 22, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/PDFolCHBpes)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) | [04:28](https://youtube.com/live/PDFolCHBpes?t=268) | Swing |  |
-| 2 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) | [11:55](https://youtube.com/live/PDFolCHBpes?t=715) | Bossa |  |
-| 3 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) | [19:18](https://youtube.com/live/PDFolCHBpes?t=1158) | Funk |  |
-| 4 | [Canto de Osshana]({{ '/songs/' | relative_url }}canto-de-osshana/) | [25:33](https://youtube.com/live/PDFolCHBpes?t=1533) | Samba |  |
-| 5 | [They Can't Take that away from me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) | [30:59](https://youtube.com/live/PDFolCHBpes?t=1859) | Swing |  |
-| 6 | [O Barquinho]({{ '/songs/' | relative_url }}o-barquinho/) | [37:20](https://youtube.com/live/PDFolCHBpes?t=2240) | Bossa |  |
-| 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) | [44:22](https://youtube.com/live/PDFolCHBpes?t=2662) | Latin |  |
-| 8 | [Sacto Closer]({{ '/one-off-songs.html' | relative_url }}#sacto-closer) | [50:23](https://youtube.com/live/PDFolCHBpes?t=3023) |  |  |

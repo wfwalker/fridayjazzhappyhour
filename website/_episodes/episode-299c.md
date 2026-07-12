@@ -12,12 +12,14 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-299c.jpg"
+setlist:
+  - song_num: "1"
+    name: "New Ambient Pieces"
+    slug: "new-ambient-pieces"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 299C (June 19, 2026)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [New Ambient Pieces]({{ '/one-off-songs.html' | relative_url }}#new-ambient-pieces) |  |  |  |

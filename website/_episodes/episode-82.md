@@ -12,21 +12,77 @@ tip_jar: "preventblindness.org"
 notes: ""
 youtube_url: "https://youtu.be/y6pNfq5ndEU"
 image: "/assets/images/title-slides/episode-82.jpg"
+setlist:
+  - song_num: "1"
+    name: "Well You Needn’t"
+    slug: "well-you-neednt"
+    url: "https://youtu.be/y6pNfq5ndEU?t=212"
+    time: "03:32"
+    style: "Reggae"
+    composer: ""
+    notes: "my synth patch too boring, bright"
+    hof: true
+  - song_num: "2"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: "https://youtu.be/y6pNfq5ndEU?t=560"
+    time: "09:20"
+    style: "Latin"
+    composer: ""
+    notes: "nice energy, horns, buildup"
+    hof: true
+  - song_num: "3"
+    name: "Nearness of you"
+    slug: "nearness-of-you"
+    url: "https://youtu.be/y6pNfq5ndEU?t=955"
+    time: "15:55"
+    style: "Bossa"
+    composer: ""
+    notes: "nice vibe. plan for bass solo"
+    hof: true
+  - song_num: "4"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: "https://youtu.be/y6pNfq5ndEU?t=1333"
+    time: "22:13"
+    style: "Swing"
+    composer: ""
+    notes: "nice"
+    hof: true
+  - song_num: "5"
+    name: "La Fiesta"
+    slug: "la-fiesta"
+    url: "https://youtu.be/y6pNfq5ndEU?t=1905"
+    time: "31:45"
+    style: "Latin"
+    composer: ""
+    notes: "practice! more comping?"
+    hof: true
+  - song_num: "6"
+    name: "EuroRack Jam 1"
+    slug: "eurorack-jam-1"
+    url: "https://youtu.be/y6pNfq5ndEU?t=2450"
+    time: "40:50"
+    style: ""
+    composer: ""
+    notes: "practice"
+    hof: false
+  - song_num: "7"
+    name: "Manteca"
+    slug: "manteca"
+    url: "https://youtu.be/y6pNfq5ndEU?t=2840"
+    time: "47:20"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Improv Oct 8"
+    slug: "closer-improv-oct-8"
+    url: "https://youtu.be/y6pNfq5ndEU?t=3258"
+    time: "54:18"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 82 (October 8, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/y6pNfq5ndEU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Well You Needn’t]({{ '/songs/' | relative_url }}well-you-neednt/) | [03:32](https://youtu.be/y6pNfq5ndEU?t=212) | Reggae | my synth patch too boring, bright |
-| 2 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [09:20](https://youtu.be/y6pNfq5ndEU?t=560) | Latin | nice energy, horns, buildup |
-| 3 | [Nearness of you]({{ '/songs/' | relative_url }}nearness-of-you/) | [15:55](https://youtu.be/y6pNfq5ndEU?t=955) | Bossa | nice vibe. plan for bass solo |
-| 4 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) | [22:13](https://youtu.be/y6pNfq5ndEU?t=1333) | Swing | nice |
-| 5 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [31:45](https://youtu.be/y6pNfq5ndEU?t=1905) | Latin | practice! more comping? |
-| 6 | [EuroRack Jam 1]({{ '/one-off-songs.html' | relative_url }}#eurorack-jam-1) | [40:50](https://youtu.be/y6pNfq5ndEU?t=2450) |  | practice |
-| 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) | [47:20](https://youtu.be/y6pNfq5ndEU?t=2840) | Latin |  |
-| 8 | [Closer Improv Oct 8]({{ '/one-off-songs.html' | relative_url }}#closer-improv-oct-8) | [54:18](https://youtu.be/y6pNfq5ndEU?t=3258) |  |  |

@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-211.jpg"
+setlist:
+  - song_num: "1"
+    name: "Days of Wine and Roses"
+    slug: "days-of-wine-and-roses"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "What is this thing called love"
+    slug: "what-is-this-thing-called-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Cissy Strut"
+    slug: "cissy-strut"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Emily"
+    slug: "emily"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "De Volta ao Samba"
+    slug: "de-volta-ao-samba"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mas Que Nada"
+    slug: "mas-que-nada"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "How Insensitive"
+    slug: "how-insensitive"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 211 (May 31, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Days of Wine and Roses]({{ '/songs/' | relative_url }}days-of-wine-and-roses/) |  | Swing |  |
-| 2 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) |  | Bossa |  |
-| 3 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) |  | Swing |  |
-| 4 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) |  | Funk |  |
-| 5 | [Emily]({{ '/songs/' | relative_url }}emily/) |  | Swing |  |
-| 6 | [De Volta ao Samba]({{ '/songs/' | relative_url }}de-volta-ao-samba/) |  | Bossa |  |
-| 7 | [Mas Que Nada]({{ '/songs/' | relative_url }}mas-que-nada/) |  | Latin |  |
-| 8 | [How Insensitive]({{ '/songs/' | relative_url }}how-insensitive/) |  | Bossa |  |

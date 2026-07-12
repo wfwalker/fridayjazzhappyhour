@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/eIUxG9vQkiw"
 image: "/assets/images/title-slides/episode-120.jpg"
+setlist:
+  - song_num: "1"
+    name: "Newsky Bluesky"
+    slug: "newsky-bluesky"
+    url: "https://youtu.be/eIUxG9vQkiw?t=355"
+    time: "05:55"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Stars Fell on Alabama"
+    slug: "stars-fell-on-alabama"
+    url: "https://youtu.be/eIUxG9vQkiw?t=730"
+    time: "12:10"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: "https://youtu.be/eIUxG9vQkiw?t=1172"
+    time: "19:32"
+    style: "Bossa"
+    composer: ""
+    notes: "arrangement ok, needs variety; melodica tinny"
+    hof: true
+  - song_num: "4"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: "https://youtu.be/eIUxG9vQkiw?t=1530"
+    time: "25:30"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Angel Eyes"
+    slug: "angel-eyes"
+    url: "https://youtu.be/eIUxG9vQkiw?t=2135"
+    time: "35:35"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Sunny"
+    slug: "sunny"
+    url: "https://youtu.be/eIUxG9vQkiw?t=2650"
+    time: "44:10"
+    style: "Funk"
+    composer: ""
+    notes: "nice breakdown"
+    hof: true
+  - song_num: "7"
+    name: "I Mean You"
+    slug: "i-mean-you"
+    url: "https://youtu.be/eIUxG9vQkiw?t=3110"
+    time: "51:50"
+    style: "Pop"
+    composer: ""
+    notes: "sloppy; prepare for bass solo!!"
+    hof: true
+  - song_num: "8"
+    name: "VCV Ambient"
+    slug: "vcv-ambient"
+    url: "https://youtu.be/eIUxG9vQkiw?t=3448"
+    time: "57:28"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 120 (July 1, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/eIUxG9vQkiw)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Newsky Bluesky]({{ '/songs/' | relative_url }}newsky-bluesky/) | [05:55](https://youtu.be/eIUxG9vQkiw?t=355) | Downtempo |  |
-| 2 | [Stars Fell on Alabama]({{ '/songs/' | relative_url }}stars-fell-on-alabama/) | [12:10](https://youtu.be/eIUxG9vQkiw?t=730) | Swing |  |
-| 3 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) | [19:32](https://youtu.be/eIUxG9vQkiw?t=1172) | Bossa | arrangement ok, needs variety; melodica tinny |
-| 4 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [25:30](https://youtu.be/eIUxG9vQkiw?t=1530) | Funk |  |
-| 5 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) | [35:35](https://youtu.be/eIUxG9vQkiw?t=2135) | Swing |  |
-| 6 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [44:10](https://youtu.be/eIUxG9vQkiw?t=2650) | Funk | nice breakdown |
-| 7 | [I Mean You]({{ '/songs/' | relative_url }}i-mean-you/) | [51:50](https://youtu.be/eIUxG9vQkiw?t=3110) | Pop | sloppy; prepare for bass solo!! |
-| 8 | [VCV Ambient]({{ '/one-off-songs.html' | relative_url }}#vcv-ambient) | [57:28](https://youtu.be/eIUxG9vQkiw?t=3448) |  |  |

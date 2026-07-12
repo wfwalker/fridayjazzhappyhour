@@ -12,20 +12,68 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/FgMun1DwyAU"
 image: "/assets/images/title-slides/episode-271.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bye Bye Blackbird"
+    slug: "bye-bye-blackbird"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Saga of Harrison Crabfeathers"
+    slug: "saga-of-harrison-crabfeathers"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Close your eyes"
+    slug: "close-your-eyes"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "It Might as well be Spring"
+    slug: "it-might-as-well-be-spring"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Trans Europe Express"
+    slug: "trans-europe-express"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Cantaloupe Island"
+    slug: "cantaloupe-island"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "DAWless closer"
+    slug: "dawless-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 271 (September 12, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/FgMun1DwyAU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) |  | Swing |  |
-| 2 | [Saga of Harrison Crabfeathers]({{ '/songs/' | relative_url }}saga-of-harrison-crabfeathers/) |  | Swing |  |
-| 3 | [Close your eyes]({{ '/songs/' | relative_url }}close-your-eyes/) |  | Latin |  |
-| 4 | [It Might as well be Spring]({{ '/songs/' | relative_url }}it-might-as-well-be-spring/) |  | Bossa |  |
-| 5 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) |  | Techno |  |
-| 6 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) |  | Funk |  |
-| 7 | [DAWless closer]({{ '/one-off-songs.html' | relative_url }}#dawless-closer) |  |  |  |

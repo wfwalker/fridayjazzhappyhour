@@ -12,21 +12,77 @@ tip_jar: "Restoring Justice"
 notes: "yes"
 youtube_url: "https://youtu.be/TKoh0MrsGgs"
 image: "/assets/images/title-slides/episode-50.jpg"
+setlist:
+  - song_num: "1"
+    name: "We’ll Be Together Again"
+    slug: "well-be-together-again"
+    url: "https://youtu.be/TKoh0MrsGgs?t=245"
+    time: "04:05"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "So Nice"
+    slug: "so-nice"
+    url: "https://youtu.be/TKoh0MrsGgs?t=625"
+    time: "10:25"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Saga of Harrison Crabfeathers"
+    slug: "saga-of-harrison-crabfeathers"
+    url: "https://youtu.be/TKoh0MrsGgs?t=960"
+    time: "16:00"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Dulcimers in Space"
+    slug: "dulcimers-in-space"
+    url: "https://youtu.be/TKoh0MrsGgs?t=1475"
+    time: "24:35"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Axel F"
+    slug: "axel-f"
+    url: "https://youtu.be/TKoh0MrsGgs?t=2015"
+    time: "33:35"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Time after Time"
+    slug: "time-after-time"
+    url: "https://youtu.be/TKoh0MrsGgs?t=2437"
+    time: "40:37"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "God Bless the Child"
+    slug: "god-bless-the-child"
+    url: "https://youtu.be/TKoh0MrsGgs?t=2804"
+    time: "46:44"
+    style: "Funk"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "8"
+    name: "Samba e Amor"
+    slug: "samba-e-amor"
+    url: "https://youtu.be/TKoh0MrsGgs?t=3487"
+    time: "58:07"
+    style: "Samba"
+    composer: ""
+    notes: "too slow? add movement in comping"
+    hof: true
 ---
-
-# Episode 50 (February 26, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/TKoh0MrsGgs)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [We’ll Be Together Again]({{ '/one-off-songs.html' | relative_url }}#well-be-together-again) | [04:05](https://youtu.be/TKoh0MrsGgs?t=245) |  |  |
-| 2 | [So Nice]({{ '/songs/' | relative_url }}so-nice/) | [10:25](https://youtu.be/TKoh0MrsGgs?t=625) | Bossa |  |
-| 3 | [Saga of Harrison Crabfeathers]({{ '/songs/' | relative_url }}saga-of-harrison-crabfeathers/) | [16:00](https://youtu.be/TKoh0MrsGgs?t=960) | Swing |  |
-| 4 | [Dulcimers in Space]({{ '/one-off-songs.html' | relative_url }}#dulcimers-in-space) | [24:35](https://youtu.be/TKoh0MrsGgs?t=1475) |  |  |
-| 5 | [Axel F]({{ '/songs/' | relative_url }}axel-f/) | [33:35](https://youtu.be/TKoh0MrsGgs?t=2015) | Funk |  |
-| 6 | [Time after Time]({{ '/songs/' | relative_url }}time-after-time/) | [40:37](https://youtu.be/TKoh0MrsGgs?t=2437) | Pop |  |
-| 7 | [God Bless the Child]({{ '/songs/' | relative_url }}god-bless-the-child/) | [46:44](https://youtu.be/TKoh0MrsGgs?t=2804) | Funk | HOF |
-| 8 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) | [58:07](https://youtu.be/TKoh0MrsGgs?t=3487) | Samba | too slow? add movement in comping |

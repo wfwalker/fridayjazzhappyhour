@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/NfYxpQ1E1Ms"
 image: "/assets/images/title-slides/episode-179.jpg"
+setlist:
+  - song_num: "1"
+    name: "All The things you are"
+    slug: "all-the-things-you-are"
+    url: "https://youtube.com/live/NfYxpQ1E1Ms?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Girl from Ipanema"
+    slug: "girl-from-ipanema"
+    url: "https://youtube.com/live/NfYxpQ1E1Ms?t=715"
+    time: "11:55"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Pocket Calculator"
+    slug: "pocket-calculator"
+    url: "https://youtube.com/live/NfYxpQ1E1Ms?t=1158"
+    time: "19:18"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: "https://youtube.com/live/NfYxpQ1E1Ms?t=1533"
+    time: "25:33"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Lullaby of Birdland"
+    slug: "lullaby-of-birdland"
+    url: "https://youtube.com/live/NfYxpQ1E1Ms?t=1859"
+    time: "30:59"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Camilla (The Old, Old Story)"
+    slug: "camilla-the-old-old-story"
+    url: "https://youtube.com/live/NfYxpQ1E1Ms?t=2240"
+    time: "37:20"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Also Sprach Zarathustra"
+    slug: "also-sprach-zarathustra"
+    url: "https://youtube.com/live/NfYxpQ1E1Ms?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Ice Closer VCV video"
+    slug: "ice-closer-vcv-video"
+    url: "https://youtube.com/live/NfYxpQ1E1Ms?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 179 (September 15, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/NfYxpQ1E1Ms)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [All The things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) | [04:28](https://youtube.com/live/NfYxpQ1E1Ms?t=268) | Swing |  |
-| 2 | [Girl from Ipanema]({{ '/songs/' | relative_url }}girl-from-ipanema/) | [11:55](https://youtube.com/live/NfYxpQ1E1Ms?t=715) | Bossa |  |
-| 3 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) | [19:18](https://youtube.com/live/NfYxpQ1E1Ms?t=1158) | Techno |  |
-| 4 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [25:33](https://youtube.com/live/NfYxpQ1E1Ms?t=1533) | Latin |  |
-| 5 | [Lullaby of Birdland]({{ '/songs/' | relative_url }}lullaby-of-birdland/) | [30:59](https://youtube.com/live/NfYxpQ1E1Ms?t=1859) | Swing |  |
-| 6 | [Camilla (The Old, Old Story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [37:20](https://youtube.com/live/NfYxpQ1E1Ms?t=2240) | Downtempo |  |
-| 7 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) | [44:22](https://youtube.com/live/NfYxpQ1E1Ms?t=2662) | Funk |  |
-| 8 | [Ice Closer VCV video]({{ '/one-off-songs.html' | relative_url }}#ice-closer-vcv-video) | [50:23](https://youtube.com/live/NfYxpQ1E1Ms?t=3023) |  |  |

@@ -12,21 +12,77 @@ tip_jar: "Mississippi Rapid Response Coalition"
 notes: ""
 youtube_url: "https://youtu.be/bIdPZtsIf-M"
 image: "/assets/images/title-slides/episode-129.jpg"
+setlist:
+  - song_num: "1"
+    name: "Very Early"
+    slug: "very-early"
+    url: "https://youtu.be/bIdPZtsIf-M?t=184"
+    time: "03:04"
+    style: "Swing"
+    composer: ""
+    notes: "practice the head, plz. nice groove"
+    hof: true
+  - song_num: "2"
+    name: "Night and Day"
+    slug: "night-and-day"
+    url: "https://youtu.be/bIdPZtsIf-M?t=495"
+    time: "08:15"
+    style: "Techno"
+    composer: ""
+    notes: "needs more wow?"
+    hof: true
+  - song_num: "3"
+    name: "De Volta Ao Samba"
+    slug: "de-volta-ao-samba"
+    url: "https://youtu.be/bIdPZtsIf-M?t=1000"
+    time: "16:40"
+    style: "Bossa"
+    composer: ""
+    notes: "nice vibes + accordion. dry"
+    hof: true
+  - song_num: "4"
+    name: "Fly me to the Moon"
+    slug: "fly-me-to-the-moon"
+    url: "https://youtu.be/bIdPZtsIf-M?t=1547"
+    time: "25:47"
+    style: "Swing"
+    composer: ""
+    notes: "VOCAL comes out strong"
+    hof: true
+  - song_num: "5"
+    name: "Nearness of you"
+    slug: "nearness-of-you"
+    url: "https://youtu.be/bIdPZtsIf-M?t=2015"
+    time: "33:35"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Summertime"
+    slug: "summertime"
+    url: "https://youtu.be/bIdPZtsIf-M?t=2345"
+    time: "39:05"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "So Danco Samba"
+    slug: "so-danco-samba"
+    url: "https://youtu.be/bIdPZtsIf-M?t=2875"
+    time: "47:55"
+    style: "Samba"
+    composer: ""
+    notes: "cool trading fours"
+    hof: true
+  - song_num: "8"
+    name: "We’ll Be Together Again"
+    slug: "well-be-together-again"
+    url: "https://youtu.be/bIdPZtsIf-M?t=3275"
+    time: "54:35"
+    style: ""
+    composer: ""
+    notes: "nice"
+    hof: false
 ---
-
-# Episode 129 (September 2, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/bIdPZtsIf-M)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Very Early]({{ '/songs/' | relative_url }}very-early/) | [03:04](https://youtu.be/bIdPZtsIf-M?t=184) | Swing | practice the head, plz. nice groove |
-| 2 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) | [08:15](https://youtu.be/bIdPZtsIf-M?t=495) | Techno | needs more wow? |
-| 3 | [De Volta Ao Samba]({{ '/songs/' | relative_url }}de-volta-ao-samba/) | [16:40](https://youtu.be/bIdPZtsIf-M?t=1000) | Bossa | nice vibes + accordion. dry |
-| 4 | [Fly me to the Moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) | [25:47](https://youtu.be/bIdPZtsIf-M?t=1547) | Swing | VOCAL comes out strong |
-| 5 | [Nearness of you]({{ '/songs/' | relative_url }}nearness-of-you/) | [33:35](https://youtu.be/bIdPZtsIf-M?t=2015) | Bossa |  |
-| 6 | [Summertime]({{ '/songs/' | relative_url }}summertime/) | [39:05](https://youtu.be/bIdPZtsIf-M?t=2345) | Funk |  |
-| 7 | [So Danco Samba]({{ '/songs/' | relative_url }}so-danco-samba/) | [47:55](https://youtu.be/bIdPZtsIf-M?t=2875) | Samba | cool trading fours |
-| 8 | [We’ll Be Together Again]({{ '/one-off-songs.html' | relative_url }}#well-be-together-again) | [54:35](https://youtu.be/bIdPZtsIf-M?t=3275) |  | nice |

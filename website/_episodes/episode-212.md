@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://www.youtube.com/live/7zbegj_ZYN4"
 image: "/assets/images/title-slides/episode-212.jpg"
+setlist:
+  - song_num: "1"
+    name: "Killer Joe"
+    slug: "killer-joe"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Soul Sauce"
+    slug: "soul-sauce"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Rise"
+    slug: "rise"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Won't you be my neighbor?"
+    slug: "wont-you-be-my-neighbor"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Bonita"
+    slug: "bonita"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Night in Tunisia"
+    slug: "night-in-tunisia"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Pentafunkular 5opolis"
+    slug: "pentafunkular-5opolis"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer June 7"
+    slug: "closer-june-7"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 212 (June 7, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://www.youtube.com/live/7zbegj_ZYN4)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Killer Joe]({{ '/songs/' | relative_url }}killer-joe/) |  | Swing |  |
-| 2 | [Soul Sauce]({{ '/songs/' | relative_url }}soul-sauce/) |  | Latin |  |
-| 3 | [Rise]({{ '/songs/' | relative_url }}rise/) |  | Funk |  |
-| 4 | [Won't you be my neighbor?]({{ '/songs/' | relative_url }}wont-you-be-my-neighbor/) |  | Swing |  |
-| 5 | [Bonita]({{ '/songs/' | relative_url }}bonita/) |  | Bossa |  |
-| 6 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) |  | Downtempo |  |
-| 7 | [Pentafunkular 5opolis]({{ '/songs/' | relative_url }}pentafunkular-5opolis/) |  | Funk |  |
-| 8 | [Closer June 7]({{ '/one-off-songs.html' | relative_url }}#closer-june-7) |  |  |  |

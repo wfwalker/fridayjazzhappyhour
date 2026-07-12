@@ -12,22 +12,86 @@ tip_jar: ""
 notes: "yes"
 youtube_url: "https://youtu.be/FJztyT2596g"
 image: "/assets/images/title-slides/episode-103.jpg"
+setlist:
+  - song_num: "1"
+    name: "how high the Moon"
+    slug: "how-high-the-moon"
+    url: "https://youtu.be/FJztyT2596g?t=240"
+    time: "04:00"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "zero-Nineteen"
+    slug: "zero-nineteen"
+    url: "https://youtu.be/FJztyT2596g?t=575"
+    time: "09:35"
+    style: "Techno"
+    composer: ""
+    notes: "nice blend of sounds"
+    hof: true
+  - song_num: "3"
+    name: "Well You Needn’t"
+    slug: "well-you-neednt"
+    url: "https://youtu.be/FJztyT2596g?t=1033"
+    time: "17:13"
+    style: "Reggae"
+    composer: ""
+    notes: "good use of drum modifiers"
+    hof: true
+  - song_num: "4"
+    name: "So What"
+    slug: "so-what"
+    url: "https://youtu.be/FJztyT2596g?t=1401"
+    time: "23:21"
+    style: "Swing"
+    composer: ""
+    notes: "ending glitched. good solos"
+    hof: true
+  - song_num: "5"
+    name: "The Egg and You"
+    slug: "the-egg-and-you"
+    url: "https://youtu.be/FJztyT2596g?t=1703"
+    time: "28:23"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "New Phone Who Dis"
+    slug: "new-phone-who-dis"
+    url: "https://youtu.be/FJztyT2596g?t=1997"
+    time: "33:17"
+    style: "Downtempo"
+    composer: ""
+    notes: "new name who dis"
+    hof: true
+  - song_num: "7"
+    name: "Hi Lili, Hi Lo"
+    slug: "hi-lili-hi-lo"
+    url: "https://youtu.be/FJztyT2596g?t=2395"
+    time: "39:55"
+    style: "Ballad"
+    composer: ""
+    notes: "good stuff maynard"
+    hof: true
+  - song_num: "8"
+    name: "Monkey Pants"
+    slug: "monkey-pants"
+    url: "https://youtu.be/FJztyT2596g?t=2765"
+    time: "46:05"
+    style: "Funk"
+    composer: ""
+    notes: "nice horns"
+    hof: true
+  - song_num: "9"
+    name: "Closer March 4"
+    slug: "closer-march-4"
+    url: "https://youtu.be/FJztyT2596g?t=3290"
+    time: "54:50"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 103 (March 4, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/FJztyT2596g)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [how high the Moon]({{ '/songs/' | relative_url }}how-high-the-moon/) | [04:00](https://youtu.be/FJztyT2596g?t=240) | Swing |  |
-| 2 | [zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) | [09:35](https://youtu.be/FJztyT2596g?t=575) | Techno | nice blend of sounds |
-| 3 | [Well You Needn’t]({{ '/songs/' | relative_url }}well-you-neednt/) | [17:13](https://youtu.be/FJztyT2596g?t=1033) | Reggae | good use of drum modifiers |
-| 4 | [So What]({{ '/songs/' | relative_url }}so-what/) | [23:21](https://youtu.be/FJztyT2596g?t=1401) | Swing | ending glitched. good solos |
-| 5 | [The Egg and You]({{ '/songs/' | relative_url }}the-egg-and-you/) | [28:23](https://youtu.be/FJztyT2596g?t=1703) | Pop |  |
-| 6 | [New Phone Who Dis]({{ '/songs/' | relative_url }}new-phone-who-dis/) | [33:17](https://youtu.be/FJztyT2596g?t=1997) | Downtempo | new name who dis |
-| 7 | [Hi Lili, Hi Lo]({{ '/songs/' | relative_url }}hi-lili-hi-lo/) | [39:55](https://youtu.be/FJztyT2596g?t=2395) | Ballad | good stuff maynard |
-| 8 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) | [46:05](https://youtu.be/FJztyT2596g?t=2765) | Funk | nice horns |
-| 9 | [Closer March 4]({{ '/one-off-songs.html' | relative_url }}#closer-march-4) | [54:50](https://youtu.be/FJztyT2596g?t=3290) |  |  |

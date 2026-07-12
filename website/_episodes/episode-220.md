@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/XE9TYfhMm_4"
 image: "/assets/images/title-slides/episode-220.jpg"
+setlist:
+  - song_num: "1"
+    name: "Fly me to the moon"
+    slug: "fly-me-to-the-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Gentle Rain"
+    slug: "gentle-rain"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Bluesette"
+    slug: "bluesette"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Cantaloupe Island"
+    slug: "cantaloupe-island"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Isn't it Romantic"
+    slug: "isnt-it-romantic"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Pocket Calculator"
+    slug: "pocket-calculator"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Axel F"
+    slug: "axel-f"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Over the Rainbow"
+    slug: "over-the-rainbow"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 220 (August 9, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/XE9TYfhMm_4)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Fly me to the moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) |  | Swing |  |
-| 2 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) |  | Bossa |  |
-| 3 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) |  | Swing |  |
-| 4 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) |  | Funk |  |
-| 5 | [Isn't it Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) |  | Swing |  |
-| 6 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) |  | Techno |  |
-| 7 | [Axel F]({{ '/songs/' | relative_url }}axel-f/) |  | Funk |  |
-| 8 | [Over the Rainbow]({{ '/songs/' | relative_url }}over-the-rainbow/) |  | Ballad |  |

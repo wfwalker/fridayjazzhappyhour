@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/Kug2UvXeFw0"
 image: "/assets/images/title-slides/episode-258.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bonita"
+    slug: "bonita"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Night and Day"
+    slug: "night-and-day"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Take Five (King Tubby)"
+    slug: "take-five-king-tubby"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "How Deep is the Ocean"
+    slug: "how-deep-is-the-ocean"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Goodbye Look"
+    slug: "goodbye-look"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Ternura"
+    slug: "ternura"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Pentafunkular 5opolis"
+    slug: "pentafunkular-5opolis"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "accordion ambient closer"
+    slug: "accordion-ambient-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 258 (May 30, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/Kug2UvXeFw0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bonita]({{ '/songs/' | relative_url }}bonita/) |  | Bossa |  |
-| 2 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) |  | Techno |  |
-| 3 | [Take Five (King Tubby)]({{ '/songs/' | relative_url }}take-five-king-tubby/) |  | Downtempo |  |
-| 4 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) |  | Ballad |  |
-| 5 | [Goodbye Look]({{ '/songs/' | relative_url }}goodbye-look/) |  | Pop |  |
-| 6 | [Ternura]({{ '/songs/' | relative_url }}ternura/) |  | Latin |  |
-| 7 | [Pentafunkular 5opolis]({{ '/songs/' | relative_url }}pentafunkular-5opolis/) |  | Funk |  |
-| 8 | [accordion ambient closer]({{ '/one-off-songs.html' | relative_url }}#accordion-ambient-closer) |  |  |  |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: "yes"
 youtube_url: "https://youtu.be/9YCarBEto_w"
 image: "/assets/images/title-slides/episode-104.jpg"
+setlist:
+  - song_num: "1"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: "https://youtu.be/9YCarBEto_w?t=230"
+    time: "03:50"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "My Funny Valentine"
+    slug: "my-funny-valentine"
+    url: "https://youtu.be/9YCarBEto_w?t=664"
+    time: "11:04"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Mambo Inn"
+    slug: "mambo-inn"
+    url: "https://youtu.be/9YCarBEto_w?t=1154"
+    time: "19:14"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Bye Bye Blackbird"
+    slug: "bye-bye-blackbird"
+    url: "https://youtu.be/9YCarBEto_w?t=1140"
+    time: "19:00"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Naima"
+    slug: "naima"
+    url: "https://youtu.be/9YCarBEto_w?t=1870"
+    time: "31:10"
+    style: "Downtempo"
+    composer: ""
+    notes: "needs more wow"
+    hof: true
+  - song_num: "6"
+    name: "Icarus"
+    slug: "icarus"
+    url: "https://youtu.be/9YCarBEto_w?t=2330"
+    time: "38:50"
+    style: "Latin"
+    composer: ""
+    notes: "acoustic gtr! nice coda and ending"
+    hof: true
+  - song_num: "7"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: "https://youtu.be/9YCarBEto_w?t=2724"
+    time: "45:24"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer March 11 (inchworm)"
+    slug: "closer-march-11-inchworm"
+    url: "https://youtu.be/9YCarBEto_w?t=3180"
+    time: "53:00"
+    style: ""
+    composer: ""
+    notes: "one of the best closers"
+    hof: false
 ---
-
-# Episode 104 (March 11, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/9YCarBEto_w)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) | [03:50](https://youtu.be/9YCarBEto_w?t=230) | Bossa |  |
-| 2 | [My Funny Valentine]({{ '/songs/' | relative_url }}my-funny-valentine/) | [11:04](https://youtu.be/9YCarBEto_w?t=664) | Swing |  |
-| 3 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) | [19:14](https://youtu.be/9YCarBEto_w?t=1154) | Latin |  |
-| 4 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) | [19:00](https://youtu.be/9YCarBEto_w?t=1140) | Swing |  |
-| 5 | [Naima]({{ '/songs/' | relative_url }}naima/) | [31:10](https://youtu.be/9YCarBEto_w?t=1870) | Downtempo | needs more wow |
-| 6 | [Icarus]({{ '/songs/' | relative_url }}icarus/) | [38:50](https://youtu.be/9YCarBEto_w?t=2330) | Latin | acoustic gtr! nice coda and ending |
-| 7 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [45:24](https://youtu.be/9YCarBEto_w?t=2724) | Funk |  |
-| 8 | [Closer March 11 (inchworm)]({{ '/one-off-songs.html' | relative_url }}#closer-march-11-inchworm) | [53:00](https://youtu.be/9YCarBEto_w?t=3180) |  | one of the best closers |

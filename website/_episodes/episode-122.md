@@ -12,20 +12,68 @@ tip_jar: ""
 notes: "for March 2026 rerun"
 youtube_url: "https://youtu.be/vl789QxMIG4"
 image: "/assets/images/title-slides/episode-122.jpg"
+setlist:
+  - song_num: "1"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: "https://youtu.be/vl789QxMIG4?t=310"
+    time: "05:10"
+    style: "Funk"
+    composer: ""
+    notes: "two organ manuals sound different!"
+    hof: true
+  - song_num: "2"
+    name: "It Might as Well be Spring"
+    slug: "it-might-as-well-be-spring"
+    url: "https://youtu.be/vl789QxMIG4?t=660"
+    time: "11:00"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Isn't It Romantic"
+    slug: "isnt-it-romantic"
+    url: "https://youtu.be/vl789QxMIG4?t=1095"
+    time: "18:15"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Soul Sauce"
+    slug: "soul-sauce"
+    url: "https://youtu.be/vl789QxMIG4?t=1595"
+    time: "26:35"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Camilla (the Old, Old story)"
+    slug: "camilla-the-old-old-story"
+    url: "https://youtu.be/vl789QxMIG4?t=2010"
+    time: "33:30"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Lovely Day"
+    slug: "lovely-day"
+    url: "https://youtu.be/vl789QxMIG4?t=2400"
+    time: "40:00"
+    style: "Pop"
+    composer: ""
+    notes: "mix wonky (more bass + drums, less vox)"
+    hof: true
+  - song_num: "7"
+    name: "Closer July 15"
+    slug: "closer-july-15"
+    url: "https://youtu.be/vl789QxMIG4?t=2833"
+    time: "47:13"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 122 (July 15, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/vl789QxMIG4)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) | [05:10](https://youtu.be/vl789QxMIG4?t=310) | Funk | two organ manuals sound different! |
-| 2 | [It Might as Well be Spring]({{ '/songs/' | relative_url }}it-might-as-well-be-spring/) | [11:00](https://youtu.be/vl789QxMIG4?t=660) | Bossa |  |
-| 3 | [Isn't It Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) | [18:15](https://youtu.be/vl789QxMIG4?t=1095) | Swing |  |
-| 4 | [Soul Sauce]({{ '/songs/' | relative_url }}soul-sauce/) | [26:35](https://youtu.be/vl789QxMIG4?t=1595) | Latin |  |
-| 5 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [33:30](https://youtu.be/vl789QxMIG4?t=2010) | Downtempo |  |
-| 6 | [Lovely Day]({{ '/songs/' | relative_url }}lovely-day/) | [40:00](https://youtu.be/vl789QxMIG4?t=2400) | Pop | mix wonky (more bass + drums, less vox) |
-| 7 | [Closer July 15]({{ '/one-off-songs.html' | relative_url }}#closer-july-15) | [47:13](https://youtu.be/vl789QxMIG4?t=2833) |  |  |

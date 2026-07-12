@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/oCStgnZm2wU"
 image: "/assets/images/title-slides/episode-202.jpg"
+setlist:
+  - song_num: "1"
+    name: "Meditation"
+    slug: "meditation"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Time Remembered"
+    slug: "time-remembered"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Agua de Beber"
+    slug: "agua-de-beber"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Midnight"
+    slug: "midnight"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Over the Rainbow"
+    slug: "over-the-rainbow"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Fly me to the moon"
+    slug: "fly-me-to-the-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Them Funky Changes"
+    slug: "them-funky-changes"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Feel like going home"
+    slug: "feel-like-going-home"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 202 (March 15, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/oCStgnZm2wU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Meditation]({{ '/songs/' | relative_url }}meditation/) |  | Latin |  |
-| 2 | [Time Remembered]({{ '/songs/' | relative_url }}time-remembered/) |  | Swing |  |
-| 3 | [Agua de Beber]({{ '/songs/' | relative_url }}agua-de-beber/) |  | Latin |  |
-| 4 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) |  | Swing |  |
-| 5 | [Midnight]({{ '/songs/' | relative_url }}midnight/) |  | Techno |  |
-| 6 | [Over the Rainbow]({{ '/songs/' | relative_url }}over-the-rainbow/) |  | Ballad |  |
-| 7 | [Fly me to the moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) |  | Swing |  |
-| 8 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) |  | Funk |  |
-| 9 | [Feel like going home]({{ '/songs/' | relative_url }}feel-like-going-home/) |  | Pop |  |

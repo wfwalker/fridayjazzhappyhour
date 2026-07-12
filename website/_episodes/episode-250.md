@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/DwQaMQYPMrY"
 image: "/assets/images/title-slides/episode-250.jpg"
+setlist:
+  - song_num: "1"
+    name: "Naima"
+    slug: "naima"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Rise"
+    slug: "rise"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Corcovado"
+    slug: "corcovado"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Pocket Calculator"
+    slug: "pocket-calculator"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Over the rainbow"
+    slug: "over-the-rainbow"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 250 (March 28, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/DwQaMQYPMrY)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Naima]({{ '/songs/' | relative_url }}naima/) |  | Downtempo |  |
-| 2 | [Rise]({{ '/songs/' | relative_url }}rise/) |  | Funk |  |
-| 3 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) |  | Bossa |  |
-| 4 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) |  | Techno |  |
-| 5 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) |  | Swing |  |
-| 6 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) |  | Swing |  |
-| 7 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) |  | Funk |  |
-| 8 | [Over the rainbow]({{ '/songs/' | relative_url }}over-the-rainbow/) |  | Ballad |  |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/EjTzhzPyVGo"
 image: "/assets/images/title-slides/episode-136.jpg"
+setlist:
+  - song_num: "1"
+    name: "God Bless the Child"
+    slug: "god-bless-the-child"
+    url: "https://youtu.be/EjTzhzPyVGo?t=153"
+    time: "02:33"
+    style: "Funk"
+    composer: ""
+    notes: "too vince guaraldi!"
+    hof: true
+  - song_num: "2"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: "https://youtu.be/EjTzhzPyVGo?t=620"
+    time: "10:20"
+    style: "Techno"
+    composer: ""
+    notes: "nice vibe"
+    hof: true
+  - song_num: "3"
+    name: "Lovely Day"
+    slug: "lovely-day"
+    url: "https://youtu.be/EjTzhzPyVGo?t=1012"
+    time: "16:52"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "It Might as Well be Spring"
+    slug: "it-might-as-well-be-spring"
+    url: "https://youtu.be/EjTzhzPyVGo?t=1552"
+    time: "25:52"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "TSOP"
+    slug: "tsop"
+    url: "https://youtu.be/EjTzhzPyVGo?t=2073"
+    time: "34:33"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Days of Wine and Roses"
+    slug: "days-of-wine-and-roses"
+    url: "https://youtu.be/EjTzhzPyVGo?t=2432"
+    time: "40:32"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Cissy Strut"
+    slug: "cissy-strut"
+    url: "https://youtu.be/EjTzhzPyVGo?t=2910"
+    time: "48:30"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Inch Worm"
+    slug: "inch-worm"
+    url: "https://youtu.be/EjTzhzPyVGo?t=3210"
+    time: "53:30"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 136 (October 21, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/EjTzhzPyVGo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [God Bless the Child]({{ '/songs/' | relative_url }}god-bless-the-child/) | [02:33](https://youtu.be/EjTzhzPyVGo?t=153) | Funk | too vince guaraldi! |
-| 2 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [10:20](https://youtu.be/EjTzhzPyVGo?t=620) | Techno | nice vibe |
-| 3 | [Lovely Day]({{ '/songs/' | relative_url }}lovely-day/) | [16:52](https://youtu.be/EjTzhzPyVGo?t=1012) | Pop |  |
-| 4 | [It Might as Well be Spring]({{ '/songs/' | relative_url }}it-might-as-well-be-spring/) | [25:52](https://youtu.be/EjTzhzPyVGo?t=1552) | Bossa |  |
-| 5 | [TSOP]({{ '/songs/' | relative_url }}tsop/) | [34:33](https://youtu.be/EjTzhzPyVGo?t=2073) | Funk |  |
-| 6 | [Days of Wine and Roses]({{ '/songs/' | relative_url }}days-of-wine-and-roses/) | [40:32](https://youtu.be/EjTzhzPyVGo?t=2432) | Swing |  |
-| 7 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) | [48:30](https://youtu.be/EjTzhzPyVGo?t=2910) | Funk |  |
-| 8 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) | [53:30](https://youtu.be/EjTzhzPyVGo?t=3210) | Ballad |  |

@@ -12,21 +12,77 @@ tip_jar: "midwest access coalition"
 notes: ""
 youtube_url: "https://youtu.be/XiFXST5UZ0E"
 image: "/assets/images/title-slides/episode-119.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bluesette"
+    slug: "bluesette"
+    url: "https://youtu.be/XiFXST5UZ0E?t=170"
+    time: "02:50"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Cissy Strut"
+    slug: "cissy-strut"
+    url: "https://youtu.be/XiFXST5UZ0E?t=572"
+    time: "09:32"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "River Man"
+    slug: "river-man"
+    url: "https://youtu.be/XiFXST5UZ0E?t=920"
+    time: "15:20"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: "https://youtu.be/XiFXST5UZ0E?t=1452"
+    time: "24:12"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "This Can't Be Love"
+    slug: "this-cant-be-love"
+    url: "https://youtu.be/XiFXST5UZ0E?t=1842"
+    time: "30:42"
+    style: "Swing"
+    composer: ""
+    notes: "nice groove"
+    hof: true
+  - song_num: "6"
+    name: "Brazil"
+    slug: "brazil"
+    url: "https://youtu.be/XiFXST5UZ0E?t=2067"
+    time: "34:27"
+    style: "Bossa"
+    composer: ""
+    notes: "melodica is the right move"
+    hof: true
+  - song_num: "7"
+    name: "Summertime"
+    slug: "summertime"
+    url: "https://youtu.be/XiFXST5UZ0E?t=2455"
+    time: "40:55"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer June 24"
+    slug: "closer-june-24"
+    url: "https://youtu.be/XiFXST5UZ0E?t=3015"
+    time: "50:15"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 119 (June 24, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/XiFXST5UZ0E)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) | [02:50](https://youtu.be/XiFXST5UZ0E?t=170) | Swing |  |
-| 2 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) | [09:32](https://youtu.be/XiFXST5UZ0E?t=572) | Funk |  |
-| 3 | [River Man]({{ '/songs/' | relative_url }}river-man/) | [15:20](https://youtu.be/XiFXST5UZ0E?t=920) | Pop |  |
-| 4 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [24:12](https://youtu.be/XiFXST5UZ0E?t=1452) | Bossa |  |
-| 5 | [This Can't Be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) | [30:42](https://youtu.be/XiFXST5UZ0E?t=1842) | Swing | nice groove |
-| 6 | [Brazil]({{ '/songs/' | relative_url }}brazil/) | [34:27](https://youtu.be/XiFXST5UZ0E?t=2067) | Bossa | melodica is the right move |
-| 7 | [Summertime]({{ '/songs/' | relative_url }}summertime/) | [40:55](https://youtu.be/XiFXST5UZ0E?t=2455) | Funk |  |
-| 8 | [Closer June 24]({{ '/one-off-songs.html' | relative_url }}#closer-june-24) | [50:15](https://youtu.be/XiFXST5UZ0E?t=3015) |  |  |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/zxBeVU3jcP8"
 image: "/assets/images/title-slides/episode-166.jpg"
+setlist:
+  - song_num: "1"
+    name: "This Can't Be Love"
+    slug: "this-cant-be-love"
+    url: "https://youtube.com/live/zxBeVU3jcP8?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Zero-Nineteen"
+    slug: "zero-nineteen"
+    url: "https://youtube.com/live/zxBeVU3jcP8?t=715"
+    time: "11:55"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Rise"
+    slug: "rise"
+    url: "https://youtube.com/live/zxBeVU3jcP8?t=1158"
+    time: "19:18"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Girl from Ipanema"
+    slug: "girl-from-ipanema"
+    url: "https://youtube.com/live/zxBeVU3jcP8?t=1533"
+    time: "25:33"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Newsky Bluesky"
+    slug: "newsky-bluesky"
+    url: "https://youtube.com/live/zxBeVU3jcP8?t=1859"
+    time: "30:59"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Fly me to the Moon"
+    slug: "fly-me-to-the-moon"
+    url: "https://youtube.com/live/zxBeVU3jcP8?t=2240"
+    time: "37:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Here Comes the Flood"
+    slug: "here-comes-the-flood"
+    url: "https://youtube.com/live/zxBeVU3jcP8?t=2662"
+    time: "44:22"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Alphabet Improv"
+    slug: "alphabet-improv"
+    url: "https://youtube.com/live/zxBeVU3jcP8?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 166 (June 9, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/zxBeVU3jcP8)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [This Can't Be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) | [04:28](https://youtube.com/live/zxBeVU3jcP8?t=268) | Swing |  |
-| 2 | [Zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) | [11:55](https://youtube.com/live/zxBeVU3jcP8?t=715) | Techno |  |
-| 3 | [Rise]({{ '/songs/' | relative_url }}rise/) | [19:18](https://youtube.com/live/zxBeVU3jcP8?t=1158) | Funk |  |
-| 4 | [Girl from Ipanema]({{ '/songs/' | relative_url }}girl-from-ipanema/) | [25:33](https://youtube.com/live/zxBeVU3jcP8?t=1533) | Bossa |  |
-| 5 | [Newsky Bluesky]({{ '/songs/' | relative_url }}newsky-bluesky/) | [30:59](https://youtube.com/live/zxBeVU3jcP8?t=1859) | Downtempo |  |
-| 6 | [Fly me to the Moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) | [37:20](https://youtube.com/live/zxBeVU3jcP8?t=2240) | Swing |  |
-| 7 | [Here Comes the Flood]({{ '/songs/' | relative_url }}here-comes-the-flood/) | [44:22](https://youtube.com/live/zxBeVU3jcP8?t=2662) | Pop |  |
-| 8 | [Alphabet Improv]({{ '/one-off-songs.html' | relative_url }}#alphabet-improv) | [50:23](https://youtube.com/live/zxBeVU3jcP8?t=3023) |  |  |

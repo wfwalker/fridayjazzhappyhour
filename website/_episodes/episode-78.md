@@ -12,22 +12,86 @@ tip_jar: "fundtexaschoice.org"
 notes: ""
 youtube_url: "https://youtu.be/NuXghDNajFw"
 image: "/assets/images/title-slides/episode-78.jpg"
+setlist:
+  - song_num: "1"
+    name: "So What"
+    slug: "so-what"
+    url: "https://youtu.be/NuXghDNajFw?t=208"
+    time: "03:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "God Bless the Child"
+    slug: "god-bless-the-child"
+    url: "https://youtu.be/NuXghDNajFw?t=653"
+    time: "10:53"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "How Insensitive"
+    slug: "how-insensitive"
+    url: "https://youtu.be/NuXghDNajFw?t=1295"
+    time: "21:35"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "All The things you are"
+    slug: "all-the-things-you-are"
+    url: "https://youtu.be/NuXghDNajFw?t=1640"
+    time: "27:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Septimus Prime"
+    slug: "septimus-prime"
+    url: "https://youtu.be/NuXghDNajFw?t=2042"
+    time: "34:02"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Zero-Nineteen"
+    slug: "zero-nineteen"
+    url: "https://youtu.be/NuXghDNajFw?t=2435"
+    time: "40:35"
+    style: "Techno"
+    composer: ""
+    notes: "needs bridge"
+    hof: true
+  - song_num: "7"
+    name: "Night in Tunisia"
+    slug: "night-in-tunisia"
+    url: "https://youtu.be/NuXghDNajFw?t=2828"
+    time: "47:08"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "St. Thomas"
+    slug: "st-thomas"
+    url: "https://youtu.be/NuXghDNajFw?t=3285"
+    time: "54:45"
+    style: "Latin"
+    composer: ""
+    notes: "DUB"
+    hof: true
+  - song_num: "9"
+    name: "Closing Improv"
+    slug: "closing-improv"
+    url: "https://youtu.be/NuXghDNajFw?t=3618"
+    time: "01:00:18"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 78 (September 10, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/NuXghDNajFw)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [So What]({{ '/songs/' | relative_url }}so-what/) | [03:28](https://youtu.be/NuXghDNajFw?t=208) | Swing |  |
-| 2 | [God Bless the Child]({{ '/songs/' | relative_url }}god-bless-the-child/) | [10:53](https://youtu.be/NuXghDNajFw?t=653) | Funk |  |
-| 3 | [How Insensitive]({{ '/songs/' | relative_url }}how-insensitive/) | [21:35](https://youtu.be/NuXghDNajFw?t=1295) | Bossa |  |
-| 4 | [All The things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) | [27:20](https://youtu.be/NuXghDNajFw?t=1640) | Swing |  |
-| 5 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [34:02](https://youtu.be/NuXghDNajFw?t=2042) | Funk |  |
-| 6 | [Zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) | [40:35](https://youtu.be/NuXghDNajFw?t=2435) | Techno | needs bridge |
-| 7 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) | [47:08](https://youtu.be/NuXghDNajFw?t=2828) | Downtempo |  |
-| 8 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) | [54:45](https://youtu.be/NuXghDNajFw?t=3285) | Latin | DUB |
-| 9 | [Closing Improv]({{ '/one-off-songs.html' | relative_url }}#closing-improv) | [01:00:18](https://youtu.be/NuXghDNajFw?t=3618) |  |  |

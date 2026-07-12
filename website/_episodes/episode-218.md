@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-218.jpg"
+setlist:
+  - song_num: "1"
+    name: "Naima"
+    slug: "naima"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "So Nice"
+    slug: "so-nice"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Au Privave"
+    slug: "au-privave"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Sunny"
+    slug: "sunny"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "There will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Desde"
+    slug: "desde"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Septimus Prime"
+    slug: "septimus-prime"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer (When I Fall) July 26"
+    slug: "closer-when-i-fall-july-26"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 218 (July 26, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Naima]({{ '/songs/' | relative_url }}naima/) |  | Downtempo |  |
-| 2 | [So Nice]({{ '/songs/' | relative_url }}so-nice/) |  | Bossa |  |
-| 3 | [Au Privave]({{ '/songs/' | relative_url }}au-privave/) |  | Swing |  |
-| 4 | [Sunny]({{ '/songs/' | relative_url }}sunny/) |  | Funk |  |
-| 5 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) |  | Swing |  |
-| 6 | [Desde]({{ '/songs/' | relative_url }}desde/) |  | Bossa |  |
-| 7 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) |  | Funk |  |
-| 8 | [Closer (When I Fall) July 26]({{ '/one-off-songs.html' | relative_url }}#closer-when-i-fall-july-26) |  |  |  |

@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-201-rerun-1172025.jpg"
+setlist:
+  - song_num: "1"
+    name: "Stars Fell on Alabama"
+    slug: "stars-fell-on-alabama"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Cold Duck Time"
+    slug: "cold-duck-time"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Icarus"
+    slug: "icarus"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Brazil"
+    slug: "brazil"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Camilla (The Old, Old Story)"
+    slug: "camilla-the-old-old-story"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Isn't it Romantic"
+    slug: "isnt-it-romantic"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "VCV wobbly chords closer"
+    slug: "vcv-wobbly-chords-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 201 (January 17, 2025) (Rerun)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Stars Fell on Alabama]({{ '/songs/' | relative_url }}stars-fell-on-alabama/) |  | Swing |  |
-| 2 | [Cold Duck Time]({{ '/songs/' | relative_url }}cold-duck-time/) |  | Funk |  |
-| 3 | [Icarus]({{ '/songs/' | relative_url }}icarus/) |  | Latin |  |
-| 4 | [Brazil]({{ '/songs/' | relative_url }}brazil/) |  | Bossa |  |
-| 5 | [Camilla (The Old, Old Story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) |  | Downtempo |  |
-| 6 | [Isn't it Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) |  | Swing |  |
-| 7 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) |  | Latin |  |
-| 8 | [VCV wobbly chords closer]({{ '/one-off-songs.html' | relative_url }}#vcv-wobbly-chords-closer) |  |  |  |

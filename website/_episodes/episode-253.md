@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/UdhoSXWDs5M"
 image: "/assets/images/title-slides/episode-253.jpg"
+setlist:
+  - song_num: "1"
+    name: "They Can't Take that Away from Me"
+    slug: "they-cant-take-that-away-from-me"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Seven Steps to Heaven"
+    slug: "seven-steps-to-heaven"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Triste"
+    slug: "triste"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Days of Wine and Roses"
+    slug: "days-of-wine-and-roses"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Morning"
+    slug: "morning"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Avalon"
+    slug: "avalon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Amphibious"
+    slug: "amphibious"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Modular Closer"
+    slug: "modular-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 253 (April 25, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/UdhoSXWDs5M)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [They Can't Take that Away from Me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) |  | Swing |  |
-| 2 | [Seven Steps to Heaven]({{ '/songs/' | relative_url }}seven-steps-to-heaven/) |  | Pop |  |
-| 3 | [Triste]({{ '/songs/' | relative_url }}triste/) |  | Bossa |  |
-| 4 | [Days of Wine and Roses]({{ '/songs/' | relative_url }}days-of-wine-and-roses/) |  | Swing |  |
-| 5 | [Morning]({{ '/songs/' | relative_url }}morning/) |  | Latin |  |
-| 6 | [Avalon]({{ '/songs/' | relative_url }}avalon/) |  | Swing |  |
-| 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  | Funk |  |
-| 8 | [Modular Closer]({{ '/one-off-songs.html' | relative_url }}#modular-closer) |  |  |  |

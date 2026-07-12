@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/5SC9LUwuawY"
 image: "/assets/images/title-slides/episode-163.jpg"
+setlist:
+  - song_num: "1"
+    name: "Stars Fell on Alabama"
+    slug: "stars-fell-on-alabama"
+    url: "https://youtu.be/5SC9LUwuawY?t=120"
+    time: "02:00"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Frog"
+    slug: "frog"
+    url: "https://youtu.be/5SC9LUwuawY?t=492"
+    time: "08:12"
+    style: "Funk"
+    composer: ""
+    notes: "oh yeah"
+    hof: true
+  - song_num: "3"
+    name: "Gentle Rain"
+    slug: "gentle-rain"
+    url: "https://youtu.be/5SC9LUwuawY?t=912"
+    time: "15:12"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Road Song"
+    slug: "road-song"
+    url: "https://youtu.be/5SC9LUwuawY?t=1328"
+    time: "22:08"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Sugar"
+    slug: "sugar"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Them Funky Changes"
+    slug: "them-funky-changes"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer May 19"
+    slug: "closer-may-19"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 163 (May 19, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/5SC9LUwuawY)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Stars Fell on Alabama]({{ '/songs/' | relative_url }}stars-fell-on-alabama/) | [02:00](https://youtu.be/5SC9LUwuawY?t=120) | Swing |  |
-| 2 | [Frog]({{ '/songs/' | relative_url }}frog/) | [08:12](https://youtu.be/5SC9LUwuawY?t=492) | Funk | oh yeah |
-| 3 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) | [15:12](https://youtu.be/5SC9LUwuawY?t=912) | Bossa |  |
-| 4 | [Road Song]({{ '/songs/' | relative_url }}road-song/) | [22:08](https://youtu.be/5SC9LUwuawY?t=1328) | Pop |  |
-| 5 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) |  | Swing |  |
-| 6 | [Sugar]({{ '/songs/' | relative_url }}sugar/) |  | Swing |  |
-| 7 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) |  | Funk |  |
-| 8 | [Closer May 19]({{ '/one-off-songs.html' | relative_url }}#closer-may-19) |  |  |  |

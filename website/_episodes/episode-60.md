@@ -12,21 +12,77 @@ tip_jar: "nationalbailout.org"
 notes: "yes"
 youtube_url: "https://youtu.be/sZSyy77J_Uc"
 image: "/assets/images/title-slides/episode-60.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bluesette"
+    slug: "bluesette"
+    url: "https://youtu.be/sZSyy77J_Uc?t=245"
+    time: "04:05"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Simplismente"
+    slug: "simplismente"
+    url: "https://youtu.be/sZSyy77J_Uc?t=585"
+    time: "09:45"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Song for my Father"
+    slug: "song-for-my-father"
+    url: "https://youtu.be/sZSyy77J_Uc?t=1044"
+    time: "17:24"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "If I were a bell"
+    slug: "if-i-were-a-bell"
+    url: "https://youtu.be/sZSyy77J_Uc?t=1450"
+    time: "24:10"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Mas Que Nada"
+    slug: "mas-que-nada"
+    url: "https://youtu.be/sZSyy77J_Uc?t=1840"
+    time: "30:40"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "River Man"
+    slug: "river-man"
+    url: "https://youtu.be/sZSyy77J_Uc?t=2212"
+    time: "36:52"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Pick up the Pieces"
+    slug: "pick-up-the-pieces"
+    url: "https://youtu.be/sZSyy77J_Uc?t=2727"
+    time: "45:27"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "How Deep is the Ocean"
+    slug: "how-deep-is-the-ocean"
+    url: "https://youtu.be/sZSyy77J_Uc?t=3180"
+    time: "53:00"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 60 (May 7, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/sZSyy77J_Uc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) | [04:05](https://youtu.be/sZSyy77J_Uc?t=245) | Swing |  |
-| 2 | [Simplismente]({{ '/songs/' | relative_url }}simplismente/) | [09:45](https://youtu.be/sZSyy77J_Uc?t=585) | Techno |  |
-| 3 | [Song for my Father]({{ '/songs/' | relative_url }}song-for-my-father/) | [17:24](https://youtu.be/sZSyy77J_Uc?t=1044) | Latin |  |
-| 4 | [If I were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) | [24:10](https://youtu.be/sZSyy77J_Uc?t=1450) | Swing |  |
-| 5 | [Mas Que Nada]({{ '/songs/' | relative_url }}mas-que-nada/) | [30:40](https://youtu.be/sZSyy77J_Uc?t=1840) | Latin |  |
-| 6 | [River Man]({{ '/songs/' | relative_url }}river-man/) | [36:52](https://youtu.be/sZSyy77J_Uc?t=2212) | Pop |  |
-| 7 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) | [45:27](https://youtu.be/sZSyy77J_Uc?t=2727) | Funk |  |
-| 8 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) | [53:00](https://youtu.be/sZSyy77J_Uc?t=3180) | Ballad |  |

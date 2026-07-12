@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/jdMrvP3YOOo"
 image: "/assets/images/title-slides/episode-177.jpg"
+setlist:
+  - song_num: "1"
+    name: "The Egg and You"
+    slug: "the-egg-and-you"
+    url: "https://youtube.com/live/jdMrvP3YOOo?t=268"
+    time: "04:28"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Emily"
+    slug: "emily"
+    url: "https://youtube.com/live/jdMrvP3YOOo?t=715"
+    time: "11:55"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Icarus"
+    slug: "icarus"
+    url: "https://youtube.com/live/jdMrvP3YOOo?t=1158"
+    time: "19:18"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "If i were a bell"
+    slug: "if-i-were-a-bell"
+    url: "https://youtube.com/live/jdMrvP3YOOo?t=1533"
+    time: "25:33"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Impressions"
+    slug: "impressions"
+    url: "https://youtube.com/live/jdMrvP3YOOo?t=1859"
+    time: "30:59"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: "https://youtube.com/live/jdMrvP3YOOo?t=2240"
+    time: "37:20"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "The Chicken"
+    slug: "the-chicken"
+    url: "https://youtube.com/live/jdMrvP3YOOo?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Aug 25"
+    slug: "closer-aug-25"
+    url: "https://youtube.com/live/jdMrvP3YOOo?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 177 (August 25, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/jdMrvP3YOOo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [The Egg and You]({{ '/songs/' | relative_url }}the-egg-and-you/) | [04:28](https://youtube.com/live/jdMrvP3YOOo?t=268) | Pop |  |
-| 2 | [Emily]({{ '/songs/' | relative_url }}emily/) | [11:55](https://youtube.com/live/jdMrvP3YOOo?t=715) | Swing |  |
-| 3 | [Icarus]({{ '/songs/' | relative_url }}icarus/) | [19:18](https://youtube.com/live/jdMrvP3YOOo?t=1158) | Latin |  |
-| 4 | [If i were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) | [25:33](https://youtube.com/live/jdMrvP3YOOo?t=1533) | Swing |  |
-| 5 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [30:59](https://youtube.com/live/jdMrvP3YOOo?t=1859) | Techno |  |
-| 6 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) | [37:20](https://youtube.com/live/jdMrvP3YOOo?t=2240) | Bossa |  |
-| 7 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) | [44:22](https://youtube.com/live/jdMrvP3YOOo?t=2662) | Funk |  |
-| 8 | [Closer Aug 25]({{ '/one-off-songs.html' | relative_url }}#closer-aug-25) | [50:23](https://youtube.com/live/jdMrvP3YOOo?t=3023) |  |  |

@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-242.jpg"
+setlist:
+  - song_num: "1"
+    name: "If I were a bell"
+    slug: "if-i-were-a-bell"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Axel F"
+    slug: "axel-f"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Gentle Rain"
+    slug: "gentle-rain"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Limehouse Blues"
+    slug: "limehouse-blues"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "New Phone Who Dis"
+    slug: "new-phone-who-dis"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Feel like going home"
+    slug: "feel-like-going-home"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mas Que Nada"
+    slug: "mas-que-nada"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Over the rainbow"
+    slug: "over-the-rainbow"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 242 (January 10, 2025)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [If I were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) |  | Swing |  |
-| 2 | [Axel F]({{ '/songs/' | relative_url }}axel-f/) |  | Funk |  |
-| 3 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) |  | Bossa |  |
-| 4 | [Limehouse Blues]({{ '/songs/' | relative_url }}limehouse-blues/) |  | Swing |  |
-| 5 | [New Phone Who Dis]({{ '/songs/' | relative_url }}new-phone-who-dis/) |  | Downtempo |  |
-| 6 | [Feel like going home]({{ '/songs/' | relative_url }}feel-like-going-home/) |  | Pop |  |
-| 7 | [Mas Que Nada]({{ '/songs/' | relative_url }}mas-que-nada/) |  | Latin |  |
-| 8 | [Over the rainbow]({{ '/songs/' | relative_url }}over-the-rainbow/) |  | Ballad |  |

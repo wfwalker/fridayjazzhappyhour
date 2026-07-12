@@ -12,20 +12,68 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/ie-BmPj4-rQ"
 image: "/assets/images/title-slides/episode-109.jpg"
+setlist:
+  - song_num: "1"
+    name: "Angel Eyes"
+    slug: "angel-eyes"
+    url: "https://youtu.be/ie-BmPj4-rQ?t=82"
+    time: "01:22"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Corcovado"
+    slug: "corcovado"
+    url: "https://youtu.be/ie-BmPj4-rQ?t=617"
+    time: "10:17"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Very Early"
+    slug: "very-early"
+    url: "https://youtu.be/ie-BmPj4-rQ?t=1006"
+    time: "16:46"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Axel F"
+    slug: "axel-f"
+    url: "https://youtu.be/ie-BmPj4-rQ?t=1470"
+    time: "24:30"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Camilla (the Old, Old story)"
+    slug: "camilla-the-old-old-story"
+    url: "https://youtu.be/ie-BmPj4-rQ?t=1792"
+    time: "29:52"
+    style: "Downtempo"
+    composer: ""
+    notes: "sounds good in google headphones"
+    hof: true
+  - song_num: "6"
+    name: "Rise"
+    slug: "rise"
+    url: "https://youtu.be/ie-BmPj4-rQ?t=2210"
+    time: "36:50"
+    style: "Funk"
+    composer: ""
+    notes: "too long? melodica out of tune!"
+    hof: true
+  - song_num: "7"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: "https://youtu.be/ie-BmPj4-rQ?t=2760"
+    time: "46:00"
+    style: "Swing"
+    composer: ""
+    notes: "chanelling jaco. cool stuff IMHO"
+    hof: true
 ---
-
-# Episode 109 (April 15, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/ie-BmPj4-rQ)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) | [01:22](https://youtu.be/ie-BmPj4-rQ?t=82) | Swing |  |
-| 2 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) | [10:17](https://youtu.be/ie-BmPj4-rQ?t=617) | Bossa |  |
-| 3 | [Very Early]({{ '/songs/' | relative_url }}very-early/) | [16:46](https://youtu.be/ie-BmPj4-rQ?t=1006) | Swing |  |
-| 4 | [Axel F]({{ '/songs/' | relative_url }}axel-f/) | [24:30](https://youtu.be/ie-BmPj4-rQ?t=1470) | Funk |  |
-| 5 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [29:52](https://youtu.be/ie-BmPj4-rQ?t=1792) | Downtempo | sounds good in google headphones |
-| 6 | [Rise]({{ '/songs/' | relative_url }}rise/) | [36:50](https://youtu.be/ie-BmPj4-rQ?t=2210) | Funk | too long? melodica out of tune! |
-| 7 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) | [46:00](https://youtu.be/ie-BmPj4-rQ?t=2760) | Swing | chanelling jaco. cool stuff IMHO |

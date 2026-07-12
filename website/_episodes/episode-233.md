@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/D-vw1jcvCXc"
 image: "/assets/images/title-slides/episode-233.jpg"
+setlist:
+  - song_num: "1"
+    name: "Blades"
+    slug: "blades"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Memories of Tomorrow"
+    slug: "memories-of-tomorrow"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Nightingale Sang in Berkeley Square"
+    slug: "nightingale-sang-in-berkeley-square"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Close your Eyes"
+    slug: "close-your-eyes"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "All Blues"
+    slug: "all-blues"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Little Sunflower"
+    slug: "little-sunflower"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Pentafunkular 5opolis"
+    slug: "pentafunkular-5opolis"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "CQ"
+    slug: "cq"
+    url: ""
+    time: ""
+    style: "Ambient"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 233 (November 15, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/D-vw1jcvCXc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Blades]({{ '/songs/' | relative_url }}blades/) |  | Downtempo |  |
-| 2 | [Memories of Tomorrow]({{ '/songs/' | relative_url }}memories-of-tomorrow/) |  | Pop |  |
-| 3 | [Nightingale Sang in Berkeley Square]({{ '/songs/' | relative_url }}nightingale-sang-in-berkeley-square/) |  | Ballad |  |
-| 4 | [Close your Eyes]({{ '/songs/' | relative_url }}close-your-eyes/) |  | Latin |  |
-| 5 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) |  | Swing |  |
-| 6 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) |  | Techno |  |
-| 7 | [Pentafunkular 5opolis]({{ '/songs/' | relative_url }}pentafunkular-5opolis/) |  | Funk |  |
-| 8 | [CQ]({{ '/songs/' | relative_url }}cq/) |  | Ambient |  |

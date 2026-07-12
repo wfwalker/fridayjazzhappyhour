@@ -12,21 +12,77 @@ tip_jar: "Live in Peace Emergency Fund"
 notes: ""
 youtube_url: "https://youtu.be/pX-E6ZVGrpA"
 image: "/assets/images/title-slides/episode-16.png"
+setlist:
+  - song_num: "1"
+    name: "There is no greater love"
+    slug: "there-is-no-greater-love"
+    url: "https://youtu.be/pX-E6ZVGrpA?t=224"
+    time: "03:44"
+    style: "swing"
+    composer: "Isham Jones"
+    notes: "drums too loud"
+    hof: false
+  - song_num: "2"
+    name: "What is this thing called love"
+    slug: "what-is-this-thing-called-love"
+    url: "https://youtu.be/pX-E6ZVGrpA?t=1515"
+    time: "25:15"
+    style: "Swing"
+    composer: "Cole Porter"
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "But Beautiful"
+    slug: "but-beautiful"
+    url: "https://youtu.be/pX-E6ZVGrpA?t=3314"
+    time: "55:14"
+    style: "ballad"
+    composer: "Jimmy Van Heusen"
+    notes: ""
+    hof: false
+  - song_num: "4"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: "https://youtu.be/pX-E6ZVGrpA?t=1058"
+    time: "17:38"
+    style: "Bossa"
+    composer: "Dori Caymmi"
+    notes: "lame drums; pad too loud"
+    hof: true
+  - song_num: "5"
+    name: "Little Samba"
+    slug: "little-samba"
+    url: "https://youtu.be/pX-E6ZVGrpA?t=694"
+    time: "11:34"
+    style: "samba"
+    composer: "Bill Walker"
+    notes: "nice improv"
+    hof: false
+  - song_num: "6"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: "https://youtu.be/pX-E6ZVGrpA?t=2665"
+    time: "44:25"
+    style: "Funk"
+    composer: "Herbie Hancock"
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Very Early"
+    slug: "very-early"
+    url: "https://youtu.be/pX-E6ZVGrpA?t=1934"
+    time: "32:14"
+    style: "Swing"
+    composer: "Bill Evans"
+    notes: "faster, quieter crash"
+    hof: true
+  - song_num: "8"
+    name: "Sugar"
+    slug: "sugar"
+    url: "https://youtu.be/pX-E6ZVGrpA?t=2300"
+    time: "38:20"
+    style: "Swing"
+    composer: "Stanley Turrentine"
+    notes: ""
+    hof: true
 ---
-
-# Episode 16 (July 3, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/pX-E6ZVGrpA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [There is no greater love]({{ '/one-off-songs.html' | relative_url }}#there-is-no-greater-love) | [03:44](https://youtu.be/pX-E6ZVGrpA?t=224) | swing<br><small style='color:var(--text-secondary);'>by Isham Jones</small> | drums too loud |
-| 2 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) | [25:15](https://youtu.be/pX-E6ZVGrpA?t=1515) | Swing<br><small style='color:var(--text-secondary);'>by Cole Porter</small> |  |
-| 3 | [But Beautiful]({{ '/one-off-songs.html' | relative_url }}#but-beautiful) | [55:14](https://youtu.be/pX-E6ZVGrpA?t=3314) | ballad<br><small style='color:var(--text-secondary);'>by Jimmy Van Heusen</small> |  |
-| 4 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) | [17:38](https://youtu.be/pX-E6ZVGrpA?t=1058) | Bossa<br><small style='color:var(--text-secondary);'>by Dori Caymmi</small> | lame drums; pad too loud |
-| 5 | [Little Samba]({{ '/one-off-songs.html' | relative_url }}#little-samba) | [11:34](https://youtu.be/pX-E6ZVGrpA?t=694) | samba<br><small style='color:var(--text-secondary);'>by Bill Walker</small> | nice improv |
-| 6 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [44:25](https://youtu.be/pX-E6ZVGrpA?t=2665) | Funk<br><small style='color:var(--text-secondary);'>by Herbie Hancock</small> |  |
-| 7 | [Very Early]({{ '/songs/' | relative_url }}very-early/) | [32:14](https://youtu.be/pX-E6ZVGrpA?t=1934) | Swing<br><small style='color:var(--text-secondary);'>by Bill Evans</small> | faster, quieter crash |
-| 8 | [Sugar]({{ '/songs/' | relative_url }}sugar/) | [38:20](https://youtu.be/pX-E6ZVGrpA?t=2300) | Swing<br><small style='color:var(--text-secondary);'>by Stanley Turrentine</small> |  |

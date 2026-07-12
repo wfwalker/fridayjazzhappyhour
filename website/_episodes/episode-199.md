@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/58Ubua0JmUU"
 image: "/assets/images/title-slides/episode-199.jpg"
+setlist:
+  - song_num: "1"
+    name: "So Nice"
+    slug: "so-nice"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Corcovado"
+    slug: "corcovado"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Some Other Funk"
+    slug: "some-other-funk"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Nardis"
+    slug: "nardis"
+    url: "https://youtube.com/live/58Ubua0JmUU?t=1887"
+    time: "31:27"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "They Can't Take that away from me"
+    slug: "they-cant-take-that-away-from-me"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Freedom Jazz Dance"
+    slug: "freedom-jazz-dance"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Here's that rainy day"
+    slug: "heres-that-rainy-day"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 199 (February 9, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/58Ubua0JmUU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [So Nice]({{ '/songs/' | relative_url }}so-nice/) |  | Bossa |  |
-| 2 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) |  | Swing |  |
-| 3 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) |  | Bossa |  |
-| 4 | [Some Other Funk]({{ '/songs/' | relative_url }}some-other-funk/) |  | Funk |  |
-| 5 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [31:27](https://youtube.com/live/58Ubua0JmUU?t=1887) | Downtempo |  |
-| 6 | [They Can't Take that away from me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) |  | Swing |  |
-| 7 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) |  | Funk |  |
-| 8 | [Here's that rainy day]({{ '/songs/' | relative_url }}heres-that-rainy-day/) |  | Ballad |  |

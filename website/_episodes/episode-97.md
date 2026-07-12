@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/vFJFp1oRZE8"
 image: "/assets/images/title-slides/episode-97.jpg"
+setlist:
+  - song_num: "1"
+    name: "All Blues"
+    slug: "all-blues"
+    url: "https://youtu.be/vFJFp1oRZE8?t=230"
+    time: "03:50"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Song for my Father"
+    slug: "song-for-my-father"
+    url: "https://youtu.be/vFJFp1oRZE8?t=690"
+    time: "11:30"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: "https://youtu.be/vFJFp1oRZE8?t=1012"
+    time: "16:52"
+    style: "Swing"
+    composer: ""
+    notes: "nice"
+    hof: true
+  - song_num: "4"
+    name: "Montara"
+    slug: "montara"
+    url: "https://youtu.be/vFJFp1oRZE8?t=1475"
+    time: "24:35"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Lucky Southern"
+    slug: "lucky-southern"
+    url: "https://youtu.be/vFJFp1oRZE8?t=1950"
+    time: "32:30"
+    style: "Pop"
+    composer: ""
+    notes: "messy organ playing; HOF?"
+    hof: true
+  - song_num: "6"
+    name: "Time after Time"
+    slug: "time-after-time"
+    url: "https://youtu.be/vFJFp1oRZE8?t=2350"
+    time: "39:10"
+    style: "Pop"
+    composer: ""
+    notes: "ok but practice more; tone too thin?"
+    hof: true
+  - song_num: "7"
+    name: "La Fiesta"
+    slug: "la-fiesta"
+    url: "https://youtu.be/vFJFp1oRZE8?t=2894"
+    time: "48:14"
+    style: "Latin"
+    composer: ""
+    notes: "fun. bring drums up slightly; gtr?"
+    hof: true
+  - song_num: "8"
+    name: "Variations on Dinosaur Night"
+    slug: "variations-on-dinosaur-night"
+    url: "https://youtu.be/vFJFp1oRZE8?t=3497"
+    time: "58:17"
+    style: ""
+    composer: ""
+    notes: "surprisingly good"
+    hof: false
 ---
-
-# Episode 97 (January 21, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/vFJFp1oRZE8)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) | [03:50](https://youtu.be/vFJFp1oRZE8?t=230) | Swing |  |
-| 2 | [Song for my Father]({{ '/songs/' | relative_url }}song-for-my-father/) | [11:30](https://youtu.be/vFJFp1oRZE8?t=690) | Latin |  |
-| 3 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) | [16:52](https://youtu.be/vFJFp1oRZE8?t=1012) | Swing | nice |
-| 4 | [Montara]({{ '/songs/' | relative_url }}montara/) | [24:35](https://youtu.be/vFJFp1oRZE8?t=1475) | Downtempo |  |
-| 5 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) | [32:30](https://youtu.be/vFJFp1oRZE8?t=1950) | Pop | messy organ playing; HOF? |
-| 6 | [Time after Time]({{ '/songs/' | relative_url }}time-after-time/) | [39:10](https://youtu.be/vFJFp1oRZE8?t=2350) | Pop | ok but practice more; tone too thin? |
-| 7 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [48:14](https://youtu.be/vFJFp1oRZE8?t=2894) | Latin | fun. bring drums up slightly; gtr? |
-| 8 | [Variations on Dinosaur Night]({{ '/one-off-songs.html' | relative_url }}#variations-on-dinosaur-night) | [58:17](https://youtu.be/vFJFp1oRZE8?t=3497) |  | surprisingly good |

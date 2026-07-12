@@ -12,21 +12,77 @@ tip_jar: "Heart + Home Collaborative"
 notes: "yes"
 youtube_url: "https://youtu.be/8ALGHR-ErS0"
 image: "/assets/images/title-slides/episode-38.jpg"
+setlist:
+  - song_num: "1"
+    name: "Stars Fell on Alabama"
+    slug: "stars-fell-on-alabama"
+    url: "https://youtu.be/8ALGHR-ErS0?t=217"
+    time: "03:37"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "White Christmas"
+    slug: "white-christmas"
+    url: "https://youtu.be/8ALGHR-ErS0?t=590"
+    time: "09:50"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Well You Needn’t"
+    slug: "well-you-neednt"
+    url: "https://youtu.be/8ALGHR-ErS0?t=1055"
+    time: "17:35"
+    style: "Reggae"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "These Foolish Things Remind me of You"
+    slug: "these-foolish-things-remind-me-of-you"
+    url: "https://youtu.be/8ALGHR-ErS0?t=1475"
+    time: "24:35"
+    style: "Ballad"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "5"
+    name: "Little Birdie"
+    slug: "little-birdie"
+    url: "https://youtu.be/8ALGHR-ErS0?t=1960"
+    time: "32:40"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "Gentle Rain"
+    slug: "gentle-rain"
+    url: "https://youtu.be/8ALGHR-ErS0?t=2330"
+    time: "38:50"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Zero-Nineteen"
+    slug: "zero-nineteen"
+    url: "https://youtu.be/8ALGHR-ErS0?t=2818"
+    time: "46:58"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "I'll be home for Christmas"
+    slug: "ill-be-home-for-christmas"
+    url: "https://youtu.be/8ALGHR-ErS0?t=3325"
+    time: "55:25"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 38 (December 4, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/8ALGHR-ErS0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Stars Fell on Alabama]({{ '/songs/' | relative_url }}stars-fell-on-alabama/) | [03:37](https://youtu.be/8ALGHR-ErS0?t=217) | Swing |  |
-| 2 | [White Christmas]({{ '/songs/' | relative_url }}white-christmas/) | [09:50](https://youtu.be/8ALGHR-ErS0?t=590) | Christmas |  |
-| 3 | [Well You Needn’t]({{ '/songs/' | relative_url }}well-you-neednt/) | [17:35](https://youtu.be/8ALGHR-ErS0?t=1055) | Reggae |  |
-| 4 | [These Foolish Things Remind me of You]({{ '/songs/' | relative_url }}these-foolish-things-remind-me-of-you/) | [24:35](https://youtu.be/8ALGHR-ErS0?t=1475) | Ballad | HOF |
-| 5 | [Little Birdie]({{ '/one-off-songs.html' | relative_url }}#little-birdie) | [32:40](https://youtu.be/8ALGHR-ErS0?t=1960) |  |  |
-| 6 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) | [38:50](https://youtu.be/8ALGHR-ErS0?t=2330) | Bossa |  |
-| 7 | [Zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) | [46:58](https://youtu.be/8ALGHR-ErS0?t=2818) | Techno |  |
-| 8 | [I'll be home for Christmas]({{ '/songs/' | relative_url }}ill-be-home-for-christmas/) | [55:25](https://youtu.be/8ALGHR-ErS0?t=3325) | Christmas |  |

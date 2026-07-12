@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/xBJwSJ8nljM"
 image: "/assets/images/title-slides/episode-118.jpg"
+setlist:
+  - song_num: "1"
+    name: "Montara"
+    slug: "montara"
+    url: "https://youtu.be/xBJwSJ8nljM?t=195"
+    time: "03:15"
+    style: "Downtempo"
+    composer: ""
+    notes: "TODO: differentiate solo and head!"
+    hof: true
+  - song_num: "2"
+    name: "Night and Day"
+    slug: "night-and-day"
+    url: "https://youtu.be/xBJwSJ8nljM?t=570"
+    time: "09:30"
+    style: "Techno"
+    composer: ""
+    notes: "improved arrangement; consider backing horns"
+    hof: true
+  - song_num: "3"
+    name: "Sugar"
+    slug: "sugar"
+    url: "https://youtu.be/xBJwSJ8nljM?t=998"
+    time: "16:38"
+    style: "Swing"
+    composer: ""
+    notes: "piano too loud, horn too quiet"
+    hof: true
+  - song_num: "4"
+    name: "Burbling"
+    slug: "burbling"
+    url: "https://youtu.be/xBJwSJ8nljM?t=1396"
+    time: "23:16"
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "My Favorite Things"
+    slug: "my-favorite-things"
+    url: "https://youtu.be/xBJwSJ8nljM?t=1932"
+    time: "32:12"
+    style: "Swing"
+    composer: ""
+    notes: "Practice man practice; nice range of intensity"
+    hof: true
+  - song_num: "6"
+    name: "Goodbye Look"
+    slug: "goodbye-look"
+    url: "https://youtu.be/xBJwSJ8nljM?t=2410"
+    time: "40:10"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Freedom Jazz Dance"
+    slug: "freedom-jazz-dance"
+    url: "https://youtu.be/xBJwSJ8nljM?t=2850"
+    time: "47:30"
+    style: "Funk"
+    composer: ""
+    notes: "messy but good, excellent poem"
+    hof: true
+  - song_num: "8"
+    name: "Closer June 17"
+    slug: "closer-june-17"
+    url: "https://youtu.be/xBJwSJ8nljM?t=3340"
+    time: "55:40"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 118 (June 17, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/xBJwSJ8nljM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Montara]({{ '/songs/' | relative_url }}montara/) | [03:15](https://youtu.be/xBJwSJ8nljM?t=195) | Downtempo | TODO: differentiate solo and head! |
-| 2 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) | [09:30](https://youtu.be/xBJwSJ8nljM?t=570) | Techno | improved arrangement; consider backing horns |
-| 3 | [Sugar]({{ '/songs/' | relative_url }}sugar/) | [16:38](https://youtu.be/xBJwSJ8nljM?t=998) | Swing | piano too loud, horn too quiet |
-| 4 | [Burbling]({{ '/songs/' | relative_url }}burbling/) | [23:16](https://youtu.be/xBJwSJ8nljM?t=1396) | World |  |
-| 5 | [My Favorite Things]({{ '/songs/' | relative_url }}my-favorite-things/) | [32:12](https://youtu.be/xBJwSJ8nljM?t=1932) | Swing | Practice man practice; nice range of intensity |
-| 6 | [Goodbye Look]({{ '/songs/' | relative_url }}goodbye-look/) | [40:10](https://youtu.be/xBJwSJ8nljM?t=2410) | Pop |  |
-| 7 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) | [47:30](https://youtu.be/xBJwSJ8nljM?t=2850) | Funk | messy but good, excellent poem |
-| 8 | [Closer June 17]({{ '/one-off-songs.html' | relative_url }}#closer-june-17) | [55:40](https://youtu.be/xBJwSJ8nljM?t=3340) |  |  |

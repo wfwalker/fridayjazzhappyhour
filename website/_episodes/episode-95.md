@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/lnzNHv36_sI"
 image: "/assets/images/title-slides/episode-95.jpg"
+setlist:
+  - song_num: "1"
+    name: "New Day LoFi"
+    slug: "new-day-lofi"
+    url: "https://youtu.be/lnzNHv36_sI?t=238"
+    time: "03:58"
+    style: "Downtempo"
+    composer: ""
+    notes: "needs bridge (added later)"
+    hof: true
+  - song_num: "2"
+    name: "Moanin"
+    slug: "moanin"
+    url: "https://youtu.be/lnzNHv36_sI?t=508"
+    time: "08:28"
+    style: "Swing"
+    composer: ""
+    notes: "organ too hot, dry, nice bass solo"
+    hof: true
+  - song_num: "3"
+    name: "God Bless the Child"
+    slug: "god-bless-the-child"
+    url: "https://youtu.be/lnzNHv36_sI?t=912"
+    time: "15:12"
+    style: "Funk"
+    composer: ""
+    notes: "practice and RELAX"
+    hof: true
+  - song_num: "4"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: "https://youtu.be/lnzNHv36_sI?t=1589"
+    time: "26:29"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "New Phone Who Dis"
+    slug: "new-phone-who-dis"
+    url: "https://youtu.be/lnzNHv36_sI?t=1930"
+    time: "32:10"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "There will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: "https://youtu.be/lnzNHv36_sI?t=2333"
+    time: "38:53"
+    style: "Swing"
+    composer: ""
+    notes: "nice feel"
+    hof: true
+  - song_num: "7"
+    name: "Some other funk"
+    slug: "some-other-funk"
+    url: "https://youtu.be/lnzNHv36_sI?t=2678"
+    time: "44:38"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Quin's Closer"
+    slug: "quins-closer"
+    url: "https://youtu.be/lnzNHv36_sI?t=3086"
+    time: "51:26"
+    style: "Ambient"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 95 (January 7, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/lnzNHv36_sI)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [New Day LoFi]({{ '/songs/' | relative_url }}new-day-lofi/) | [03:58](https://youtu.be/lnzNHv36_sI?t=238) | Downtempo | needs bridge (added later) |
-| 2 | [Moanin]({{ '/songs/' | relative_url }}moanin/) | [08:28](https://youtu.be/lnzNHv36_sI?t=508) | Swing | organ too hot, dry, nice bass solo |
-| 3 | [God Bless the Child]({{ '/songs/' | relative_url }}god-bless-the-child/) | [15:12](https://youtu.be/lnzNHv36_sI?t=912) | Funk | practice and RELAX |
-| 4 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [26:29](https://youtu.be/lnzNHv36_sI?t=1589) | Funk |  |
-| 5 | [New Phone Who Dis]({{ '/songs/' | relative_url }}new-phone-who-dis/) | [32:10](https://youtu.be/lnzNHv36_sI?t=1930) | Downtempo |  |
-| 6 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) | [38:53](https://youtu.be/lnzNHv36_sI?t=2333) | Swing | nice feel |
-| 7 | [Some other funk]({{ '/songs/' | relative_url }}some-other-funk/) | [44:38](https://youtu.be/lnzNHv36_sI?t=2678) | Funk |  |
-| 8 | [Quin's Closer]({{ '/songs/' | relative_url }}quins-closer/) | [51:26](https://youtu.be/lnzNHv36_sI?t=3086) | Ambient |  |

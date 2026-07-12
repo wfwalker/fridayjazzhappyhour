@@ -12,12 +12,14 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-254.jpg"
+setlist:
+  - song_num: "1"
+    name: "Ambient Set CNPS"
+    slug: "ambient-set-cnps"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 254 (May 2, 2025)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Ambient Set CNPS]({{ '/one-off-songs.html' | relative_url }}#ambient-set-cnps) |  |  |  |

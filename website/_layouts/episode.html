@@ -54,10 +54,7 @@ layout: default
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
   }
-  
-  .setlist-card h1, .setlist-card h2, .setlist-card h3, .setlist-card p {
-    display: none; /* Hide titles rendered in markdown body */
-  }
+
   
   table {
     width: 100%;
@@ -165,6 +162,44 @@ layout: default
 {% endif %}
 
 <div class="setlist-card">
+  <h3>Set List</h3>
+  <table>
+    <thead>
+      <tr>
+        <th style="width: 5%;">#</th>
+        <th style="width: 45%;">Song</th>
+        <th style="width: 15%;">Time</th>
+        <th style="width: 15%;">Style</th>
+        <th style="width: 20%;">Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in page.setlist %}
+        <tr>
+          <td>{{ item.song_num }}</td>
+          <td>
+            {% if item.hof %}
+              <a href="{{ '/songs/' | relative_url }}{{ item.slug }}/">{{ item.name }}</a>
+            {% else %}
+              <a href="{{ '/one-off-songs.html' | relative_url }}#{{ item.slug }}">{{ item.name }}</a>
+            {% endif %}
+            {% if item.composer and item.composer != "" %}
+              <div style="font-size: 0.8rem; color: var(--text-secondary); margin-top: 0.25rem;">by {{ item.composer }}</div>
+            {% endif %}
+          </td>
+          <td>
+            {% if item.url and item.url != "" %}
+              <a href="{{ item.url }}" target="_blank">{{ item.time }}</a>
+            {% else %}
+              {{ item.time }}
+            {% endif %}
+          </td>
+          <td>{{ item.style }}</td>
+          <td>{{ item.notes }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
   {{ content }}
 </div>
 

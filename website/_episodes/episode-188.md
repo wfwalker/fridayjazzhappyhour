@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/V3N4DyTx2Ow"
 image: "/assets/images/title-slides/episode-188.jpg"
+setlist:
+  - song_num: "1"
+    name: "Days of Wine and Roses"
+    slug: "days-of-wine-and-roses"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Road Song"
+    slug: "road-song"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Waters of March"
+    slug: "waters-of-march"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Morning"
+    slug: "morning"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Minor Swing"
+    slug: "minor-swing"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "These Foolish Things remind me of you"
+    slug: "these-foolish-things-remind-me-of-you"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "This Masquerade"
+    slug: "this-masquerade"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "VCV neutrinode mellowness Nov 24"
+    slug: "vcv-neutrinode-mellowness-nov-24"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: "VERY GOOD! fan fave"
+    hof: false
+  - song_num: "9"
+    name: "Caminhos Cruzados"
+    slug: "caminhos-cruzados"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 188 (November 24, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/V3N4DyTx2Ow)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Days of Wine and Roses]({{ '/songs/' | relative_url }}days-of-wine-and-roses/) |  | Swing |  |
-| 2 | [Road Song]({{ '/songs/' | relative_url }}road-song/) |  | Pop |  |
-| 3 | [Waters of March]({{ '/songs/' | relative_url }}waters-of-march/) |  | Bossa |  |
-| 4 | [Morning]({{ '/songs/' | relative_url }}morning/) |  | Latin |  |
-| 5 | [Minor Swing]({{ '/songs/' | relative_url }}minor-swing/) |  | Swing |  |
-| 6 | [These Foolish Things remind me of you]({{ '/songs/' | relative_url }}these-foolish-things-remind-me-of-you/) |  | Ballad |  |
-| 7 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) |  | Funk |  |
-| 8 | [VCV neutrinode mellowness Nov 24]({{ '/one-off-songs.html' | relative_url }}#vcv-neutrinode-mellowness-nov-24) |  |  | VERY GOOD! fan fave |
-| 9 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) |  | Bossa |  |

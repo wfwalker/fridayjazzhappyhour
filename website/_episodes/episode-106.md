@@ -12,20 +12,68 @@ tip_jar: ""
 notes: "yes"
 youtube_url: "https://youtu.be/-yO13Zr2O50"
 image: "/assets/images/title-slides/episode-106.jpg"
+setlist:
+  - song_num: "1"
+    name: "Look to the Sky"
+    slug: "look-to-the-sky"
+    url: "https://youtu.be/-yO13Zr2O50?t=73"
+    time: "01:13"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "God Bless the Child"
+    slug: "god-bless-the-child"
+    url: "https://youtu.be/-yO13Zr2O50?t=417"
+    time: "06:57"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Montara"
+    slug: "montara"
+    url: "https://youtu.be/-yO13Zr2O50?t=891"
+    time: "14:51"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: "https://youtu.be/-yO13Zr2O50?t=1329"
+    time: "22:09"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: "https://youtu.be/-yO13Zr2O50?t=1679"
+    time: "27:59"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Alberta"
+    slug: "alberta"
+    url: "https://youtu.be/-yO13Zr2O50?t=2128"
+    time: "35:28"
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Closer March 25"
+    slug: "closer-march-25"
+    url: "https://youtu.be/-yO13Zr2O50?t=2548"
+    time: "42:28"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 106 (March 25, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/-yO13Zr2O50)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) | [01:13](https://youtu.be/-yO13Zr2O50?t=73) | Bossa |  |
-| 2 | [God Bless the Child]({{ '/songs/' | relative_url }}god-bless-the-child/) | [06:57](https://youtu.be/-yO13Zr2O50?t=417) | Funk |  |
-| 3 | [Montara]({{ '/songs/' | relative_url }}montara/) | [14:51](https://youtu.be/-yO13Zr2O50?t=891) | Downtempo |  |
-| 4 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [22:09](https://youtu.be/-yO13Zr2O50?t=1329) | Funk |  |
-| 5 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) | [27:59](https://youtu.be/-yO13Zr2O50?t=1679) | Swing |  |
-| 6 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [35:28](https://youtu.be/-yO13Zr2O50?t=2128) | World |  |
-| 7 | [Closer March 25]({{ '/one-off-songs.html' | relative_url }}#closer-march-25) | [42:28](https://youtu.be/-yO13Zr2O50?t=2548) |  |  |

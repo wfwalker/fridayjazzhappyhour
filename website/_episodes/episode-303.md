@@ -11,19 +11,77 @@ shirt: ""
 tip_jar: ""
 notes: ""
 youtube_url: ""
+setlist:
+  - song_num: "1"
+    name: "All Blues"
+    slug: "all-blues"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "So Danco Samba"
+    slug: "so-danco-samba"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Feel Like Making Love"
+    slug: "feel-like-making-love"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Midnight"
+    slug: "midnight"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Freedom Jazz Dance"
+    slug: "freedom-jazz-dance"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "People get Ready"
+    slug: "people-get-ready"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Caminhos Cruzados"
+    slug: "caminhos-cruzados"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 303 (July 3, 2026)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) |  | Swing |  |
-| 2 | [So Danco Samba]({{ '/songs/' | relative_url }}so-danco-samba/) |  | Samba |  |
-| 3 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) |  | Swing |  |
-| 4 | [Feel Like Making Love]({{ '/songs/' | relative_url }}feel-like-making-love/) |  | Pop |  |
-| 5 | [Midnight]({{ '/songs/' | relative_url }}midnight/) |  | Techno |  |
-| 6 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) |  | Funk |  |
-| 7 | [People get Ready]({{ '/songs/' | relative_url }}people-get-ready/) |  | Pop |  |
-| 8 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) |  | Bossa |  |

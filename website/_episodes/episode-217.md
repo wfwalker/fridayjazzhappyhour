@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-217.jpg"
+setlist:
+  - song_num: "1"
+    name: "If I were a bell"
+    slug: "if-i-were-a-bell"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Some other Funk"
+    slug: "some-other-funk"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "My Favorite Things"
+    slug: "my-favorite-things"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Night and Day"
+    slug: "night-and-day"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Canto de Osshana"
+    slug: "canto-de-osshana"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Dindi"
+    slug: "dindi"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Root Down (and Get it)"
+    slug: "root-down-and-get-it"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer July 12 (inchworm)"
+    slug: "closer-july-12-inchworm"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 217 (July 12, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [If I were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) |  | Swing |  |
-| 2 | [Some other Funk]({{ '/songs/' | relative_url }}some-other-funk/) |  | Funk |  |
-| 3 | [My Favorite Things]({{ '/songs/' | relative_url }}my-favorite-things/) |  | Swing |  |
-| 4 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) |  | Techno |  |
-| 5 | [Canto de Osshana]({{ '/songs/' | relative_url }}canto-de-osshana/) |  | Samba |  |
-| 6 | [Dindi]({{ '/songs/' | relative_url }}dindi/) |  | Techno |  |
-| 7 | [Root Down (and Get it)]({{ '/songs/' | relative_url }}root-down-and-get-it/) |  | Funk |  |
-| 8 | [Closer July 12 (inchworm)]({{ '/one-off-songs.html' | relative_url }}#closer-july-12-inchworm) |  |  |  |

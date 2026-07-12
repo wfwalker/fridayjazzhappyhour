@@ -12,22 +12,86 @@ tip_jar: "skype a scientist"
 notes: ""
 youtube_url: "https://youtu.be/eJgSZO-IkTg"
 image: "/assets/images/title-slides/episode-68.jpg"
+setlist:
+  - song_num: "1"
+    name: "Little Sunflower"
+    slug: "little-sunflower"
+    url: "https://youtu.be/eJgSZO-IkTg?t=141"
+    time: "02:21"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Well You Needn’t"
+    slug: "well-you-neednt"
+    url: "https://youtu.be/eJgSZO-IkTg?t=544"
+    time: "09:04"
+    style: "Reggae"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Cissy Strut"
+    slug: "cissy-strut"
+    url: "https://youtu.be/eJgSZO-IkTg?t=1048"
+    time: "17:28"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Brazil"
+    slug: "brazil"
+    url: "https://youtu.be/eJgSZO-IkTg?t=1397"
+    time: "23:17"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "There will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: "https://youtu.be/eJgSZO-IkTg?t=1765"
+    time: "29:25"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: "https://youtu.be/eJgSZO-IkTg?t=2055"
+    time: "34:15"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Arpeggio Improv"
+    slug: "arpeggio-improv"
+    url: "https://youtu.be/eJgSZO-IkTg?t=2482"
+    time: "41:22"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "8"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: "https://youtu.be/eJgSZO-IkTg?t=2867"
+    time: "47:47"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Hi Lili, Hi Lo"
+    slug: "hi-lili-hi-lo"
+    url: "https://youtu.be/eJgSZO-IkTg?t=3317"
+    time: "55:17"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 68 (July 2, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/eJgSZO-IkTg)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) | [02:21](https://youtu.be/eJgSZO-IkTg?t=141) | Techno |  |
-| 2 | [Well You Needn’t]({{ '/songs/' | relative_url }}well-you-neednt/) | [09:04](https://youtu.be/eJgSZO-IkTg?t=544) | Reggae |  |
-| 3 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) | [17:28](https://youtu.be/eJgSZO-IkTg?t=1048) | Funk |  |
-| 4 | [Brazil]({{ '/songs/' | relative_url }}brazil/) | [23:17](https://youtu.be/eJgSZO-IkTg?t=1397) | Bossa |  |
-| 5 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) | [29:25](https://youtu.be/eJgSZO-IkTg?t=1765) | Swing |  |
-| 6 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) | [34:15](https://youtu.be/eJgSZO-IkTg?t=2055) | Bossa |  |
-| 7 | [Arpeggio Improv]({{ '/one-off-songs.html' | relative_url }}#arpeggio-improv) | [41:22](https://youtu.be/eJgSZO-IkTg?t=2482) | Techno |  |
-| 8 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) | [47:47](https://youtu.be/eJgSZO-IkTg?t=2867) | Funk |  |
-| 9 | [Hi Lili, Hi Lo]({{ '/songs/' | relative_url }}hi-lili-hi-lo/) | [55:17](https://youtu.be/eJgSZO-IkTg?t=3317) | Ballad |  |

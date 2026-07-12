@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/S0zUsM5qJZ0"
 image: "/assets/images/title-slides/episode-288.jpg"
+setlist:
+  - song_num: "1"
+    name: "New Day LoFi"
+    slug: "new-day-lofi"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Some day my Prince will Come"
+    slug: "some-day-my-prince-will-come"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Sertao Alagoano"
+    slug: "sertao-alagoano"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "4"
+    name: "Deacon Blues"
+    slug: "deacon-blues"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Pentafunkular 5opolis"
+    slug: "pentafunkular-5opolis"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "If you never come to me"
+    slug: "if-you-never-come-to-me"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "If you want me to stay"
+    slug: "if-you-want-me-to-stay"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "EuroRack closer feb 6"
+    slug: "eurorack-closer-feb-6"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 288 (February 6, 2026)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/S0zUsM5qJZ0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [New Day LoFi]({{ '/songs/' | relative_url }}new-day-lofi/) |  | Downtempo |  |
-| 2 | [Some day my Prince will Come]({{ '/songs/' | relative_url }}some-day-my-prince-will-come/) |  | Swing |  |
-| 3 | [Sertao Alagoano]({{ '/one-off-songs.html' | relative_url }}#sertao-alagoano) |  |  |  |
-| 4 | [Deacon Blues]({{ '/songs/' | relative_url }}deacon-blues/) |  | Pop |  |
-| 5 | [Pentafunkular 5opolis]({{ '/songs/' | relative_url }}pentafunkular-5opolis/) |  | Funk |  |
-| 6 | [If you never come to me]({{ '/songs/' | relative_url }}if-you-never-come-to-me/) |  | Latin |  |
-| 7 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) |  | Funk |  |
-| 8 | [EuroRack closer feb 6]({{ '/one-off-songs.html' | relative_url }}#eurorack-closer-feb-6) |  |  |  |

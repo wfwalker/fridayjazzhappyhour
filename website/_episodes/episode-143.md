@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/ayeY3t9WvGA"
 image: "/assets/images/title-slides/episode-143.jpg"
+setlist:
+  - song_num: "1"
+    name: "They Can't Take That Away from Me"
+    slug: "they-cant-take-that-away-from-me"
+    url: "https://youtube.com/live/ayeY3t9WvGA?t=136"
+    time: "02:16"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "How Insensitive"
+    slug: "how-insensitive"
+    url: "https://youtube.com/live/ayeY3t9WvGA?t=514"
+    time: "08:34"
+    style: "Bossa"
+    composer: ""
+    notes: "too many clams on melody!"
+    hof: true
+  - song_num: "3"
+    name: "Midnight"
+    slug: "midnight"
+    url: "https://youtube.com/live/ayeY3t9WvGA?t=858"
+    time: "14:18"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Minor Swing"
+    slug: "minor-swing"
+    url: "https://youtube.com/live/ayeY3t9WvGA?t=1345"
+    time: "22:25"
+    style: "Swing"
+    composer: ""
+    notes: "YEAH!"
+    hof: true
+  - song_num: "5"
+    name: "Bemsha Swing"
+    slug: "bemsha-swing"
+    url: "https://youtube.com/live/ayeY3t9WvGA?t=1600"
+    time: "26:40"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Here's that Rainy Day"
+    slug: "heres-that-rainy-day"
+    url: "https://youtube.com/live/ayeY3t9WvGA?t=2148"
+    time: "35:48"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Cantaloupe Island"
+    slug: "cantaloupe-island"
+    url: "https://youtube.com/live/ayeY3t9WvGA?t=1870"
+    time: "31:10"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "If you want me to stay"
+    slug: "if-you-want-me-to-stay"
+    url: "https://youtube.com/live/ayeY3t9WvGA?t=2457"
+    time: "40:57"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "What are you doing New Year's Eve?"
+    slug: "what-are-you-doing-new-years-eve"
+    url: "https://youtube.com/live/ayeY3t9WvGA?t=3024"
+    time: "50:24"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 143 (December 30, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/ayeY3t9WvGA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [They Can't Take That Away from Me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) | [02:16](https://youtube.com/live/ayeY3t9WvGA?t=136) | Swing |  |
-| 2 | [How Insensitive]({{ '/songs/' | relative_url }}how-insensitive/) | [08:34](https://youtube.com/live/ayeY3t9WvGA?t=514) | Bossa | too many clams on melody! |
-| 3 | [Midnight]({{ '/songs/' | relative_url }}midnight/) | [14:18](https://youtube.com/live/ayeY3t9WvGA?t=858) | Techno |  |
-| 4 | [Minor Swing]({{ '/songs/' | relative_url }}minor-swing/) | [22:25](https://youtube.com/live/ayeY3t9WvGA?t=1345) | Swing | YEAH! |
-| 5 | [Bemsha Swing]({{ '/songs/' | relative_url }}bemsha-swing/) | [26:40](https://youtube.com/live/ayeY3t9WvGA?t=1600) | Swing |  |
-| 6 | [Here's that Rainy Day]({{ '/songs/' | relative_url }}heres-that-rainy-day/) | [35:48](https://youtube.com/live/ayeY3t9WvGA?t=2148) | Ballad |  |
-| 7 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) | [31:10](https://youtube.com/live/ayeY3t9WvGA?t=1870) | Funk |  |
-| 8 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) | [40:57](https://youtube.com/live/ayeY3t9WvGA?t=2457) | Funk |  |
-| 9 | [What are you doing New Year's Eve?]({{ '/one-off-songs.html' | relative_url }}#what-are-you-doing-new-years-eve) | [50:24](https://youtube.com/live/ayeY3t9WvGA?t=3024) |  |  |

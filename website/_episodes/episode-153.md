@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/4WWV1-H7mrQ"
 image: "/assets/images/title-slides/episode-153.jpg"
+setlist:
+  - song_num: "1"
+    name: "What is this thing called love"
+    slug: "what-is-this-thing-called-love"
+    url: "https://youtube.com/live/4WWV1-H7mrQ?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "So Nice"
+    slug: "so-nice"
+    url: "https://youtube.com/live/4WWV1-H7mrQ?t=715"
+    time: "11:55"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Midnight"
+    slug: "midnight"
+    url: "https://youtube.com/live/4WWV1-H7mrQ?t=1158"
+    time: "19:18"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "So Danco Samba"
+    slug: "so-danco-samba"
+    url: "https://youtube.com/live/4WWV1-H7mrQ?t=1533"
+    time: "25:33"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Soul Sauce"
+    slug: "soul-sauce"
+    url: "https://youtube.com/live/4WWV1-H7mrQ?t=1859"
+    time: "30:59"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "A Foggy Day (in London town)"
+    slug: "a-foggy-day-in-london-town"
+    url: "https://youtube.com/live/4WWV1-H7mrQ?t=2240"
+    time: "37:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Interlude March 10"
+    slug: "interlude-march-10"
+    url: "https://youtube.com/live/4WWV1-H7mrQ?t=2662"
+    time: "44:22"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "8"
+    name: "The Chicken"
+    slug: "the-chicken"
+    url: "https://youtube.com/live/4WWV1-H7mrQ?t=3023"
+    time: "50:23"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "How Deep is the Ocean"
+    slug: "how-deep-is-the-ocean"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 153 (March 10, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/4WWV1-H7mrQ)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) | [04:28](https://youtube.com/live/4WWV1-H7mrQ?t=268) | Swing |  |
-| 2 | [So Nice]({{ '/songs/' | relative_url }}so-nice/) | [11:55](https://youtube.com/live/4WWV1-H7mrQ?t=715) | Bossa |  |
-| 3 | [Midnight]({{ '/songs/' | relative_url }}midnight/) | [19:18](https://youtube.com/live/4WWV1-H7mrQ?t=1158) | Techno |  |
-| 4 | [So Danco Samba]({{ '/songs/' | relative_url }}so-danco-samba/) | [25:33](https://youtube.com/live/4WWV1-H7mrQ?t=1533) | Samba |  |
-| 5 | [Soul Sauce]({{ '/songs/' | relative_url }}soul-sauce/) | [30:59](https://youtube.com/live/4WWV1-H7mrQ?t=1859) | Latin |  |
-| 6 | [A Foggy Day (in London town)]({{ '/songs/' | relative_url }}a-foggy-day-in-london-town/) | [37:20](https://youtube.com/live/4WWV1-H7mrQ?t=2240) | Swing |  |
-| 7 | [Interlude March 10]({{ '/one-off-songs.html' | relative_url }}#interlude-march-10) | [44:22](https://youtube.com/live/4WWV1-H7mrQ?t=2662) |  |  |
-| 8 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) | [50:23](https://youtube.com/live/4WWV1-H7mrQ?t=3023) | Funk |  |
-| 9 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) |  | Ballad |  |

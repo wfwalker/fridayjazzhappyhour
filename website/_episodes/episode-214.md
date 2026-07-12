@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-214.jpg"
+setlist:
+  - song_num: "1"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "They Can't Take that away from me"
+    slug: "they-cant-take-that-away-from-me"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "O Barquinho"
+    slug: "o-barquinho"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Give me the night"
+    slug: "give-me-the-night"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "I mean you"
+    slug: "i-mean-you"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "So What"
+    slug: "so-what"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Watermelon Man"
+    slug: "watermelon-man"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "SNFC ambient one"
+    slug: "snfc-ambient-one"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 214 (June 21, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) |  | Techno |  |
-| 2 | [They Can't Take that away from me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) |  | Swing |  |
-| 3 | [O Barquinho]({{ '/songs/' | relative_url }}o-barquinho/) |  | Bossa |  |
-| 4 | [Give me the night]({{ '/songs/' | relative_url }}give-me-the-night/) |  | Funk |  |
-| 5 | [I mean you]({{ '/songs/' | relative_url }}i-mean-you/) |  | Pop |  |
-| 6 | [So What]({{ '/songs/' | relative_url }}so-what/) |  | Swing |  |
-| 7 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) |  | Latin |  |
-| 8 | [SNFC ambient one]({{ '/one-off-songs.html' | relative_url }}#snfc-ambient-one) |  |  |  |

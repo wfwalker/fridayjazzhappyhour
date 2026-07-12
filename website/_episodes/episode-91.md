@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/vr3lHzT6u9s"
 image: "/assets/images/title-slides/episode-91.jpg"
+setlist:
+  - song_num: "1"
+    name: "White Christmas"
+    slug: "white-christmas"
+    url: "https://youtu.be/vr3lHzT6u9s?t=34"
+    time: "00:34"
+    style: "Christmas"
+    composer: ""
+    notes: "smoove"
+    hof: true
+  - song_num: "2"
+    name: "Impressions"
+    slug: "impressions"
+    url: "https://youtu.be/vr3lHzT6u9s?t=375"
+    time: "06:15"
+    style: "Techno"
+    composer: ""
+    notes: "bumpin'"
+    hof: true
+  - song_num: "3"
+    name: "Angel Eyes"
+    slug: "angel-eyes"
+    url: "https://youtu.be/vr3lHzT6u9s?t=765"
+    time: "12:45"
+    style: "Swing"
+    composer: ""
+    notes: "tasty"
+    hof: true
+  - song_num: "4"
+    name: "Blades"
+    slug: "blades"
+    url: "https://youtu.be/vr3lHzT6u9s?t=1250"
+    time: "20:50"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: "https://youtu.be/vr3lHzT6u9s?t=1550"
+    time: "25:50"
+    style: "Bossa"
+    composer: ""
+    notes: "retro sax!"
+    hof: true
+  - song_num: "6"
+    name: "O Christmas Tree"
+    slug: "o-christmas-tree"
+    url: "https://youtu.be/vr3lHzT6u9s?t=1903"
+    time: "31:43"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: "https://youtu.be/vr3lHzT6u9s?t=2170"
+    time: "36:10"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Dec 10"
+    slug: "closer-dec-10"
+    url: "https://youtu.be/vr3lHzT6u9s?t=2545"
+    time: "42:25"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 91 (December 10, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/vr3lHzT6u9s)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [White Christmas]({{ '/songs/' | relative_url }}white-christmas/) | [00:34](https://youtu.be/vr3lHzT6u9s?t=34) | Christmas | smoove |
-| 2 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [06:15](https://youtu.be/vr3lHzT6u9s?t=375) | Techno | bumpin' |
-| 3 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) | [12:45](https://youtu.be/vr3lHzT6u9s?t=765) | Swing | tasty |
-| 4 | [Blades]({{ '/songs/' | relative_url }}blades/) | [20:50](https://youtu.be/vr3lHzT6u9s?t=1250) | Downtempo |  |
-| 5 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [25:50](https://youtu.be/vr3lHzT6u9s?t=1550) | Bossa | retro sax! |
-| 6 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) | [31:43](https://youtu.be/vr3lHzT6u9s?t=1903) | Christmas |  |
-| 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) | [36:10](https://youtu.be/vr3lHzT6u9s?t=2170) | Funk |  |
-| 8 | [Closer Dec 10]({{ '/one-off-songs.html' | relative_url }}#closer-dec-10) | [42:25](https://youtu.be/vr3lHzT6u9s?t=2545) |  |  |

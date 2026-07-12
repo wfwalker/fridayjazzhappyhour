@@ -12,21 +12,77 @@ tip_jar: "sentencingproject.org"
 notes: "Magenta??"
 youtube_url: "https://youtu.be/mrX0hOrHI2A"
 image: "/assets/images/title-slides/episode-88.jpg"
+setlist:
+  - song_num: "1"
+    name: "All the things you are"
+    slug: "all-the-things-you-are"
+    url: "https://youtu.be/mrX0hOrHI2A?t=286"
+    time: "04:46"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Triste"
+    slug: "triste"
+    url: "https://youtu.be/mrX0hOrHI2A?t=818"
+    time: "13:38"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Nardis"
+    slug: "nardis"
+    url: "https://youtu.be/mrX0hOrHI2A?t=1410"
+    time: "23:30"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Memories of Tomorrow"
+    slug: "memories-of-tomorrow"
+    url: "https://youtu.be/mrX0hOrHI2A?t=1780"
+    time: "29:40"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: "https://youtu.be/mrX0hOrHI2A?t=2198"
+    time: "36:38"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Camilla (the Old, Old story)"
+    slug: "camilla-the-old-old-story"
+    url: "https://youtu.be/mrX0hOrHI2A?t=2782"
+    time: "46:22"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "This Masquerade"
+    slug: "this-masquerade"
+    url: "https://youtu.be/mrX0hOrHI2A?t=3114"
+    time: "51:54"
+    style: "Funk"
+    composer: ""
+    notes: "scatting cool, but too loud"
+    hof: true
+  - song_num: "8"
+    name: "Nearness of you"
+    slug: "nearness-of-you"
+    url: "https://youtu.be/mrX0hOrHI2A?t=3610"
+    time: "01:00:10"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 88 (November 19, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/mrX0hOrHI2A)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [All the things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) | [04:46](https://youtu.be/mrX0hOrHI2A?t=286) | Swing |  |
-| 2 | [Triste]({{ '/songs/' | relative_url }}triste/) | [13:38](https://youtu.be/mrX0hOrHI2A?t=818) | Bossa |  |
-| 3 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [23:30](https://youtu.be/mrX0hOrHI2A?t=1410) | Downtempo |  |
-| 4 | [Memories of Tomorrow]({{ '/songs/' | relative_url }}memories-of-tomorrow/) | [29:40](https://youtu.be/mrX0hOrHI2A?t=1780) | Pop |  |
-| 5 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) | [36:38](https://youtu.be/mrX0hOrHI2A?t=2198) | Techno |  |
-| 6 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [46:22](https://youtu.be/mrX0hOrHI2A?t=2782) | Downtempo |  |
-| 7 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) | [51:54](https://youtu.be/mrX0hOrHI2A?t=3114) | Funk | scatting cool, but too loud |
-| 8 | [Nearness of you]({{ '/songs/' | relative_url }}nearness-of-you/) | [01:00:10](https://youtu.be/mrX0hOrHI2A?t=3610) | Bossa |  |

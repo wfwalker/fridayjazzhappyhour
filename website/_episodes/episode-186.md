@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/D-dBopJUwAA"
 image: "/assets/images/title-slides/episode-186.jpg"
+setlist:
+  - song_num: "1"
+    name: "How High the Moon"
+    slug: "how-high-the-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Mo Better Blues"
+    slug: "mo-better-blues"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Eu Quero e Sossego"
+    slug: "eu-quero-e-sossego"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "It Don’t Mean a Thing (If It Ain't Got That Swing)"
+    slug: "it-dont-mean-a-thing-if-it-aint-got-that-swing"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Cissy Strut"
+    slug: "cissy-strut"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Melodicer and Accordion"
+    slug: "melodicer-and-accordion"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 186 (November 10, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/D-dBopJUwAA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [How High the Moon]({{ '/songs/' | relative_url }}how-high-the-moon/) |  | Swing |  |
-| 2 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) |  | Pop |  |
-| 3 | [Eu Quero e Sossego]({{ '/songs/' | relative_url }}eu-quero-e-sossego/) |  | Bossa |  |
-| 4 | [It Don’t Mean a Thing (If It Ain't Got That Swing)]({{ '/songs/' | relative_url }}it-dont-mean-a-thing-if-it-aint-got-that-swing/) |  | Swing |  |
-| 5 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) |  | Bossa |  |
-| 6 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) |  | Swing |  |
-| 7 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) |  | Funk |  |
-| 8 | [Melodicer and Accordion]({{ '/one-off-songs.html' | relative_url }}#melodicer-and-accordion) |  |  |  |

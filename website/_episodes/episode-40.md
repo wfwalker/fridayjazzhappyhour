@@ -12,21 +12,77 @@ tip_jar: "Oya Organics"
 notes: "yes"
 youtube_url: "https://youtu.be/yhWB3cwCzOI"
 image: "/assets/images/title-slides/episode-40.jpg"
+setlist:
+  - song_num: "1"
+    name: "Christmastime is here"
+    slug: "christmastime-is-here"
+    url: "https://youtu.be/yhWB3cwCzOI?t=220"
+    time: "03:40"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "With or Without you"
+    slug: "with-or-without-you"
+    url: "https://youtu.be/yhWB3cwCzOI?t=580"
+    time: "09:40"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Christmas is Coming"
+    slug: "christmas-is-coming"
+    url: "https://youtu.be/yhWB3cwCzOI?t=880"
+    time: "14:40"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Let It Snow"
+    slug: "let-it-snow"
+    url: "https://youtu.be/yhWB3cwCzOI?t=1280"
+    time: "21:20"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "O Come, O Come Emmanuel"
+    slug: "o-come-o-come-emmanuel"
+    url: "https://youtu.be/yhWB3cwCzOI?t=1787"
+    time: "29:47"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Our love is here to stay"
+    slug: "our-love-is-here-to-stay"
+    url: "https://youtu.be/yhWB3cwCzOI?t=2178"
+    time: "36:18"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "7"
+    name: "It Don’t Mean a Thing (If It Ain't Got That Swing)"
+    slug: "it-dont-mean-a-thing-if-it-aint-got-that-swing"
+    url: "https://youtu.be/yhWB3cwCzOI?t=2510"
+    time: "41:50"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Some Children See Him"
+    slug: "some-children-see-him"
+    url: "https://youtu.be/yhWB3cwCzOI?t=3095"
+    time: "51:35"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 40 (December 18, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/yhWB3cwCzOI)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Christmastime is here]({{ '/songs/' | relative_url }}christmastime-is-here/) | [03:40](https://youtu.be/yhWB3cwCzOI?t=220) | Christmas |  |
-| 2 | [With or Without you]({{ '/songs/' | relative_url }}with-or-without-you/) | [09:40](https://youtu.be/yhWB3cwCzOI?t=580) | Pop |  |
-| 3 | [Christmas is Coming]({{ '/songs/' | relative_url }}christmas-is-coming/) | [14:40](https://youtu.be/yhWB3cwCzOI?t=880) | Christmas |  |
-| 4 | [Let It Snow]({{ '/one-off-songs.html' | relative_url }}#let-it-snow) | [21:20](https://youtu.be/yhWB3cwCzOI?t=1280) |  |  |
-| 5 | [O Come, O Come Emmanuel]({{ '/songs/' | relative_url }}o-come-o-come-emmanuel/) | [29:47](https://youtu.be/yhWB3cwCzOI?t=1787) | Christmas |  |
-| 6 | [Our love is here to stay]({{ '/one-off-songs.html' | relative_url }}#our-love-is-here-to-stay) | [36:18](https://youtu.be/yhWB3cwCzOI?t=2178) |  |  |
-| 7 | [It Don’t Mean a Thing (If It Ain't Got That Swing)]({{ '/songs/' | relative_url }}it-dont-mean-a-thing-if-it-aint-got-that-swing/) | [41:50](https://youtu.be/yhWB3cwCzOI?t=2510) | Swing |  |
-| 8 | [Some Children See Him]({{ '/one-off-songs.html' | relative_url }}#some-children-see-him) | [51:35](https://youtu.be/yhWB3cwCzOI?t=3095) |  |  |

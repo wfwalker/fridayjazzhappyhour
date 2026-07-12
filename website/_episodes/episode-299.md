@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-299.jpg"
+setlist:
+  - song_num: "1"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Minor Swing"
+    slug: "minor-swing"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "If you never come to me"
+    slug: "if-you-never-come-to-me"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "What is this thing called love"
+    slug: "what-is-this-thing-called-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "De Volta Ao Samba"
+    slug: "de-volta-ao-samba"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Canto de Osshana"
+    slug: "canto-de-osshana"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "rhodes closer may 29"
+    slug: "rhodes-closer-may-29"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 299 (May 29, 2026)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) |  | Swing |  |
-| 2 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) |  | Bossa |  |
-| 3 | [Minor Swing]({{ '/songs/' | relative_url }}minor-swing/) |  | Swing |  |
-| 4 | [If you never come to me]({{ '/songs/' | relative_url }}if-you-never-come-to-me/) |  | Latin |  |
-| 5 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) |  | Swing |  |
-| 6 | [De Volta Ao Samba]({{ '/songs/' | relative_url }}de-volta-ao-samba/) |  | Bossa |  |
-| 7 | [Canto de Osshana]({{ '/songs/' | relative_url }}canto-de-osshana/) |  | Samba |  |
-| 8 | [rhodes closer may 29]({{ '/one-off-songs.html' | relative_url }}#rhodes-closer-may-29) |  |  |  |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: "yes"
 youtube_url: "https://youtu.be/3mAFWZBR_QU"
 image: "/assets/images/title-slides/episode-101.jpg"
+setlist:
+  - song_num: "1"
+    name: "All The things you are"
+    slug: "all-the-things-you-are"
+    url: "https://youtu.be/3mAFWZBR_QU?t=297"
+    time: "04:57"
+    style: "Swing"
+    composer: ""
+    notes: "monophonic trumpet solo, how to?"
+    hof: true
+  - song_num: "2"
+    name: "How Insensitive"
+    slug: "how-insensitive"
+    url: "https://youtu.be/3mAFWZBR_QU?t=697"
+    time: "11:37"
+    style: "Bossa"
+    composer: ""
+    notes: "Brian Funk acoustic gtr; DONE?"
+    hof: true
+  - song_num: "3"
+    name: "St. Thomas"
+    slug: "st-thomas"
+    url: "https://youtu.be/3mAFWZBR_QU?t=1066"
+    time: "17:46"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: "https://youtu.be/3mAFWZBR_QU?t=1432"
+    time: "23:52"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Mad World"
+    slug: "mad-world"
+    url: "https://youtu.be/3mAFWZBR_QU?t=1858"
+    time: "30:58"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Pocket Calculator"
+    slug: "pocket-calculator"
+    url: "https://youtu.be/3mAFWZBR_QU?t=2160"
+    time: "36:00"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Night in Tunisia"
+    slug: "night-in-tunisia"
+    url: "https://youtu.be/3mAFWZBR_QU?t=2465"
+    time: "41:05"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Pendulums"
+    slug: "pendulums"
+    url: "https://youtu.be/3mAFWZBR_QU?t=2987"
+    time: "49:47"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 101 (February 18, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/3mAFWZBR_QU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [All The things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) | [04:57](https://youtu.be/3mAFWZBR_QU?t=297) | Swing | monophonic trumpet solo, how to? |
-| 2 | [How Insensitive]({{ '/songs/' | relative_url }}how-insensitive/) | [11:37](https://youtu.be/3mAFWZBR_QU?t=697) | Bossa | Brian Funk acoustic gtr; DONE? |
-| 3 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) | [17:46](https://youtu.be/3mAFWZBR_QU?t=1066) | Latin |  |
-| 4 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) | [23:52](https://youtu.be/3mAFWZBR_QU?t=1432) | Swing |  |
-| 5 | [Mad World]({{ '/songs/' | relative_url }}mad-world/) | [30:58](https://youtu.be/3mAFWZBR_QU?t=1858) | Pop |  |
-| 6 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) | [36:00](https://youtu.be/3mAFWZBR_QU?t=2160) | Techno |  |
-| 7 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) | [41:05](https://youtu.be/3mAFWZBR_QU?t=2465) | Downtempo |  |
-| 8 | [Pendulums]({{ '/one-off-songs.html' | relative_url }}#pendulums) | [49:47](https://youtu.be/3mAFWZBR_QU?t=2987) |  |  |

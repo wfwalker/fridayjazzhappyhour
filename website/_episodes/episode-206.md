@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-206.jpg"
+setlist:
+  - song_num: "1"
+    name: "A Child is Born"
+    slug: "a-child-is-born"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Morning"
+    slug: "morning"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Also Sprach Zarathustra"
+    slug: "also-sprach-zarathustra"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Memories of Tomorrow"
+    slug: "memories-of-tomorrow"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "These Foolish Things remind me of you"
+    slug: "these-foolish-things-remind-me-of-you"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "If you want me to stay"
+    slug: "if-you-want-me-to-stay"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "closer april 26"
+    slug: "closer-april-26"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 206 (April 26, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [A Child is Born]({{ '/songs/' | relative_url }}a-child-is-born/) |  | Latin |  |
-| 2 | [Morning]({{ '/songs/' | relative_url }}morning/) |  | Latin |  |
-| 3 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) |  | Funk |  |
-| 4 | [Memories of Tomorrow]({{ '/songs/' | relative_url }}memories-of-tomorrow/) |  | Pop |  |
-| 5 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) |  | Swing |  |
-| 6 | [These Foolish Things remind me of you]({{ '/songs/' | relative_url }}these-foolish-things-remind-me-of-you/) |  | Ballad |  |
-| 7 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) |  | Funk |  |
-| 8 | [closer april 26]({{ '/one-off-songs.html' | relative_url }}#closer-april-26) |  |  |  |

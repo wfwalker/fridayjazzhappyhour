@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/KgYYoikVQ1E"
 image: "/assets/images/title-slides/episode-192.jpg"
+setlist:
+  - song_num: "1"
+    name: "A Child is Born"
+    slug: "a-child-is-born"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "The Touch of your Lips"
+    slug: "the-touch-of-your-lips"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Go Tell it on the Mountain"
+    slug: "go-tell-it-on-the-mountain"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "God Rest Ye Merry Gentlemen"
+    slug: "god-rest-ye-merry-gentlemen"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Skating"
+    slug: "skating"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "7"
+    name: "O Come O Come Emmanuel"
+    slug: "o-come-o-come-emmanuel"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Some Children Him"
+    slug: "some-children-him"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 192 (December 22, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/KgYYoikVQ1E)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [A Child is Born]({{ '/songs/' | relative_url }}a-child-is-born/) |  | Latin |  |
-| 2 | [The Touch of your Lips]({{ '/songs/' | relative_url }}the-touch-of-your-lips/) |  | Swing |  |
-| 3 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) |  | Techno |  |
-| 4 | [Go Tell it on the Mountain]({{ '/songs/' | relative_url }}go-tell-it-on-the-mountain/) |  | Christmas |  |
-| 5 | [God Rest Ye Merry Gentlemen]({{ '/songs/' | relative_url }}god-rest-ye-merry-gentlemen/) |  | Christmas |  |
-| 6 | [Skating]({{ '/one-off-songs.html' | relative_url }}#skating) |  |  |  |
-| 7 | [O Come O Come Emmanuel]({{ '/songs/' | relative_url }}o-come-o-come-emmanuel/) |  | Christmas |  |
-| 8 | [Some Children Him]({{ '/one-off-songs.html' | relative_url }}#some-children-him) |  |  |  |

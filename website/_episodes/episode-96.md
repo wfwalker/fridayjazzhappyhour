@@ -12,21 +12,77 @@ tip_jar: "ripmedicaldebt.org"
 notes: ""
 youtube_url: "https://youtu.be/VAUYw5v0RiQ"
 image: "/assets/images/title-slides/episode-96.jpg"
+setlist:
+  - song_num: "1"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: "https://youtu.be/VAUYw5v0RiQ?t=250"
+    time: "04:10"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Mambo Inn"
+    slug: "mambo-inn"
+    url: "https://youtu.be/VAUYw5v0RiQ?t=616"
+    time: "10:16"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Little Sunflower"
+    slug: "little-sunflower"
+    url: "https://youtu.be/VAUYw5v0RiQ?t=997"
+    time: "16:37"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Sugar"
+    slug: "sugar"
+    url: "https://youtu.be/VAUYw5v0RiQ?t=1580"
+    time: "26:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Dindi"
+    slug: "dindi"
+    url: "https://youtu.be/VAUYw5v0RiQ?t=1941"
+    time: "32:21"
+    style: "Techno"
+    composer: ""
+    notes: "change sounds at bridge!"
+    hof: true
+  - song_num: "6"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: "https://youtu.be/VAUYw5v0RiQ?t=2395"
+    time: "39:55"
+    style: "Funk"
+    composer: ""
+    notes: "less is more!"
+    hof: true
+  - song_num: "7"
+    name: "This Masquerade"
+    slug: "this-masquerade"
+    url: "https://youtu.be/VAUYw5v0RiQ?t=2775"
+    time: "46:15"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "VCV Ambient"
+    slug: "vcv-ambient"
+    url: "https://youtu.be/VAUYw5v0RiQ?t=3405"
+    time: "56:45"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 96 (January 14, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/VAUYw5v0RiQ)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [04:10](https://youtu.be/VAUYw5v0RiQ?t=250) | Swing |  |
-| 2 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) | [10:16](https://youtu.be/VAUYw5v0RiQ?t=616) | Latin |  |
-| 3 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) | [16:37](https://youtu.be/VAUYw5v0RiQ?t=997) | Techno |  |
-| 4 | [Sugar]({{ '/songs/' | relative_url }}sugar/) | [26:20](https://youtu.be/VAUYw5v0RiQ?t=1580) | Swing |  |
-| 5 | [Dindi]({{ '/songs/' | relative_url }}dindi/) | [32:21](https://youtu.be/VAUYw5v0RiQ?t=1941) | Techno | change sounds at bridge! |
-| 6 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) | [39:55](https://youtu.be/VAUYw5v0RiQ?t=2395) | Funk | less is more! |
-| 7 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) | [46:15](https://youtu.be/VAUYw5v0RiQ?t=2775) | Funk |  |
-| 8 | [VCV Ambient]({{ '/one-off-songs.html' | relative_url }}#vcv-ambient) | [56:45](https://youtu.be/VAUYw5v0RiQ?t=3405) |  |  |

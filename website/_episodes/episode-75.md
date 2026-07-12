@@ -12,21 +12,77 @@ tip_jar: "lirs.org"
 notes: ""
 youtube_url: "https://youtu.be/wIeo7pq_84U"
 image: "/assets/images/title-slides/episode-75.jpg"
+setlist:
+  - song_num: "1"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: "https://youtu.be/wIeo7pq_84U?t=202"
+    time: "03:22"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: "https://youtu.be/wIeo7pq_84U?t=600"
+    time: "10:00"
+    style: "Techno"
+    composer: ""
+    notes: "trumpet nice; put back different comping?"
+    hof: true
+  - song_num: "3"
+    name: "Coming Home"
+    slug: "coming-home"
+    url: "https://youtu.be/wIeo7pq_84U?t=1040"
+    time: "17:20"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Sugar"
+    slug: "sugar"
+    url: "https://youtu.be/wIeo7pq_84U?t=1477"
+    time: "24:37"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Scottish Lament"
+    slug: "scottish-lament"
+    url: "https://youtu.be/wIeo7pq_84U?t=1842"
+    time: "30:42"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "There will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: "https://youtu.be/wIeo7pq_84U?t=2222"
+    time: "37:02"
+    style: "Swing"
+    composer: ""
+    notes: "nice blend of sounds"
+    hof: true
+  - song_num: "7"
+    name: "Impressions"
+    slug: "impressions"
+    url: "https://youtu.be/wIeo7pq_84U?t=2636"
+    time: "43:56"
+    style: "Techno"
+    composer: ""
+    notes: "good change of energy levels"
+    hof: true
+  - song_num: "8"
+    name: "Look to the Sky"
+    slug: "look-to-the-sky"
+    url: "https://youtu.be/wIeo7pq_84U?t=3270"
+    time: "54:30"
+    style: "Bossa"
+    composer: ""
+    notes: "spontaneous arrangement ideas, nice"
+    hof: true
 ---
-
-# Episode 75 (August 20, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/wIeo7pq_84U)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) | [03:22](https://youtu.be/wIeo7pq_84U?t=202) | Bossa |  |
-| 2 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [10:00](https://youtu.be/wIeo7pq_84U?t=600) | Techno | trumpet nice; put back different comping? |
-| 3 | [Coming Home]({{ '/songs/' | relative_url }}coming-home/) | [17:20](https://youtu.be/wIeo7pq_84U?t=1040) | Pop |  |
-| 4 | [Sugar]({{ '/songs/' | relative_url }}sugar/) | [24:37](https://youtu.be/wIeo7pq_84U?t=1477) | Swing |  |
-| 5 | [Scottish Lament]({{ '/songs/' | relative_url }}scottish-lament/) | [30:42](https://youtu.be/wIeo7pq_84U?t=1842) | Downtempo |  |
-| 6 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) | [37:02](https://youtu.be/wIeo7pq_84U?t=2222) | Swing | nice blend of sounds |
-| 7 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [43:56](https://youtu.be/wIeo7pq_84U?t=2636) | Techno | good change of energy levels |
-| 8 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) | [54:30](https://youtu.be/wIeo7pq_84U?t=3270) | Bossa | spontaneous arrangement ideas, nice |

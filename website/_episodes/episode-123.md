@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/D42v7I8kocA"
 image: "/assets/images/title-slides/episode-123.jpg"
+setlist:
+  - song_num: "1"
+    name: "Look to the Sky"
+    slug: "look-to-the-sky"
+    url: "https://youtu.be/D42v7I8kocA?t=108"
+    time: "01:48"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: "https://youtu.be/D42v7I8kocA?t=459"
+    time: "07:39"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Morning"
+    slug: "morning"
+    url: "https://youtu.be/D42v7I8kocA?t=810"
+    time: "13:30"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Au Privave"
+    slug: "au-privave"
+    url: "https://youtu.be/D42v7I8kocA?t=1273"
+    time: "21:13"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Days of Wine and Roses"
+    slug: "days-of-wine-and-roses"
+    url: "https://youtu.be/D42v7I8kocA?t=1590"
+    time: "26:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: "https://youtu.be/D42v7I8kocA?t=1955"
+    time: "32:35"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Cold Duck Time"
+    slug: "cold-duck-time"
+    url: "https://youtu.be/D42v7I8kocA?t=2585"
+    time: "43:05"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: "https://youtu.be/D42v7I8kocA?t=3008"
+    time: "50:08"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 123 (July 22, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/D42v7I8kocA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) | [01:48](https://youtu.be/D42v7I8kocA?t=108) | Bossa |  |
-| 2 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [07:39](https://youtu.be/D42v7I8kocA?t=459) | Swing |  |
-| 3 | [Morning]({{ '/songs/' | relative_url }}morning/) | [13:30](https://youtu.be/D42v7I8kocA?t=810) | Latin |  |
-| 4 | [Au Privave]({{ '/songs/' | relative_url }}au-privave/) | [21:13](https://youtu.be/D42v7I8kocA?t=1273) | Swing |  |
-| 5 | [Days of Wine and Roses]({{ '/songs/' | relative_url }}days-of-wine-and-roses/) | [26:30](https://youtu.be/D42v7I8kocA?t=1590) | Swing |  |
-| 6 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) | [32:35](https://youtu.be/D42v7I8kocA?t=1955) | Techno |  |
-| 7 | [Cold Duck Time]({{ '/songs/' | relative_url }}cold-duck-time/) | [43:05](https://youtu.be/D42v7I8kocA?t=2585) | Funk |  |
-| 8 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) | [50:08](https://youtu.be/D42v7I8kocA?t=3008) | Swing |  |

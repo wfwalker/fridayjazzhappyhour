@@ -12,20 +12,68 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/7uXylsUAlAY"
 image: "/assets/images/title-slides/episode-283.jpg"
+setlist:
+  - song_num: "1"
+    name: "Let it Snow"
+    slug: "let-it-snow"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "Our Spanish Love Song"
+    slug: "our-spanish-love-song"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Them Funky Changes"
+    slug: "them-funky-changes"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Once I Loved"
+    slug: "once-i-loved"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Beat 70"
+    slug: "beat-70"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Go Tell It on the Mountain"
+    slug: "go-tell-it-on-the-mountain"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Greensleeves Closer"
+    slug: "greensleeves-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 283 (December 26, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/7uXylsUAlAY)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Let it Snow]({{ '/one-off-songs.html' | relative_url }}#let-it-snow) |  |  |  |
-| 2 | [Our Spanish Love Song]({{ '/songs/' | relative_url }}our-spanish-love-song/) |  | Latin |  |
-| 3 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) |  | Funk |  |
-| 4 | [Once I Loved]({{ '/songs/' | relative_url }}once-i-loved/) |  | Bossa |  |
-| 5 | [Beat 70]({{ '/songs/' | relative_url }}beat-70/) |  | Bossa |  |
-| 6 | [Go Tell It on the Mountain]({{ '/songs/' | relative_url }}go-tell-it-on-the-mountain/) |  | Christmas |  |
-| 7 | [Greensleeves Closer]({{ '/one-off-songs.html' | relative_url }}#greensleeves-closer) |  |  |  |

@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/MIwLmoFc8Dk"
 image: "/assets/images/title-slides/episode-176.jpg"
+setlist:
+  - song_num: "1"
+    name: "I Can't Get Started"
+    slug: "i-cant-get-started"
+    url: "https://youtu.be/MIwLmoFc8Dk?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Look to the Sky"
+    slug: "look-to-the-sky"
+    url: "https://youtu.be/MIwLmoFc8Dk?t=715"
+    time: "11:55"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: "https://youtu.be/MIwLmoFc8Dk?t=1158"
+    time: "19:18"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "So What"
+    slug: "so-what"
+    url: "https://youtu.be/MIwLmoFc8Dk?t=1533"
+    time: "25:33"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Naima"
+    slug: "naima"
+    url: "https://youtu.be/MIwLmoFc8Dk?t=1859"
+    time: "30:59"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: "https://youtu.be/MIwLmoFc8Dk?t=2240"
+    time: "37:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Hi Lili, Hi Lo"
+    slug: "hi-lili-hi-lo"
+    url: "https://youtu.be/MIwLmoFc8Dk?t=2662"
+    time: "44:22"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: "https://youtu.be/MIwLmoFc8Dk?t=3023"
+    time: "50:23"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Closer Aug 18"
+    slug: "closer-aug-18"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 176 (August 18, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/MIwLmoFc8Dk)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [I Can't Get Started]({{ '/songs/' | relative_url }}i-cant-get-started/) | [04:28](https://youtu.be/MIwLmoFc8Dk?t=268) | Swing |  |
-| 2 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) | [11:55](https://youtu.be/MIwLmoFc8Dk?t=715) | Bossa |  |
-| 3 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) | [19:18](https://youtu.be/MIwLmoFc8Dk?t=1158) | Funk |  |
-| 4 | [So What]({{ '/songs/' | relative_url }}so-what/) | [25:33](https://youtu.be/MIwLmoFc8Dk?t=1533) | Swing |  |
-| 5 | [Naima]({{ '/songs/' | relative_url }}naima/) | [30:59](https://youtu.be/MIwLmoFc8Dk?t=1859) | Downtempo |  |
-| 6 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [37:20](https://youtu.be/MIwLmoFc8Dk?t=2240) | Swing |  |
-| 7 | [Hi Lili, Hi Lo]({{ '/songs/' | relative_url }}hi-lili-hi-lo/) | [44:22](https://youtu.be/MIwLmoFc8Dk?t=2662) | Ballad |  |
-| 8 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [50:23](https://youtu.be/MIwLmoFc8Dk?t=3023) | Funk |  |
-| 9 | [Closer Aug 18]({{ '/one-off-songs.html' | relative_url }}#closer-aug-18) |  |  |  |

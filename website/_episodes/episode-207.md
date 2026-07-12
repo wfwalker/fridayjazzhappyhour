@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-207.jpg"
+setlist:
+  - song_num: "1"
+    name: "Lucky Southern"
+    slug: "lucky-southern"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "I Can't Get Started"
+    slug: "i-cant-get-started"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Scottish Lament"
+    slug: "scottish-lament"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Sugar"
+    slug: "sugar"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Eu Quero e Sossego"
+    slug: "eu-quero-e-sossego"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Mambo Inn"
+    slug: "mambo-inn"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Manteca"
+    slug: "manteca"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "closer may 3"
+    slug: "closer-may-3"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 207 (May 3, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) |  | Pop |  |
-| 2 | [I Can't Get Started]({{ '/songs/' | relative_url }}i-cant-get-started/) |  | Swing |  |
-| 3 | [Scottish Lament]({{ '/songs/' | relative_url }}scottish-lament/) |  | Downtempo |  |
-| 4 | [Sugar]({{ '/songs/' | relative_url }}sugar/) |  | Swing |  |
-| 5 | [Eu Quero e Sossego]({{ '/songs/' | relative_url }}eu-quero-e-sossego/) |  | Bossa |  |
-| 6 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) |  | Latin |  |
-| 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) |  | Latin |  |
-| 8 | [closer may 3]({{ '/one-off-songs.html' | relative_url }}#closer-may-3) |  |  |  |

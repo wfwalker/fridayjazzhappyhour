@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/kyx5vcS24Tk"
 image: "/assets/images/title-slides/episode-148.jpg"
+setlist:
+  - song_num: "1"
+    name: "Softly as in a morning sunrise"
+    slug: "softly-as-in-a-morning-sunrise"
+    url: "https://youtube.com/live/kyx5vcS24Tk?t=210"
+    time: "03:30"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Axel F"
+    slug: "axel-f"
+    url: "https://youtube.com/live/kyx5vcS24Tk?t=965"
+    time: "16:05"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Gentle Rain"
+    slug: "gentle-rain"
+    url: "https://youtube.com/live/kyx5vcS24Tk?t=543"
+    time: "09:03"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: "https://youtube.com/live/kyx5vcS24Tk?t=1312"
+    time: "21:52"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Alberta"
+    slug: "alberta"
+    url: "https://youtube.com/live/kyx5vcS24Tk?t=1764"
+    time: "29:24"
+    style: "World"
+    composer: ""
+    notes: "done?"
+    hof: true
+  - song_num: "6"
+    name: "Morning"
+    slug: "morning"
+    url: "https://youtube.com/live/kyx5vcS24Tk?t=2140"
+    time: "35:40"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Pick up the Pieces"
+    slug: "pick-up-the-pieces"
+    url: "https://youtube.com/live/kyx5vcS24Tk?t=2575"
+    time: "42:55"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Feb 3"
+    slug: "closer-feb-3"
+    url: "https://youtube.com/live/kyx5vcS24Tk?t=3200"
+    time: "53:20"
+    style: ""
+    composer: ""
+    notes: "swingy!"
+    hof: false
 ---
-
-# Episode 148 (February 3, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/kyx5vcS24Tk)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Softly as in a morning sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) | [03:30](https://youtube.com/live/kyx5vcS24Tk?t=210) | Techno |  |
-| 2 | [Axel F]({{ '/songs/' | relative_url }}axel-f/) | [16:05](https://youtube.com/live/kyx5vcS24Tk?t=965) | Funk |  |
-| 3 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) | [09:03](https://youtube.com/live/kyx5vcS24Tk?t=543) | Bossa |  |
-| 4 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) | [21:52](https://youtube.com/live/kyx5vcS24Tk?t=1312) | Swing |  |
-| 5 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [29:24](https://youtube.com/live/kyx5vcS24Tk?t=1764) | World | done? |
-| 6 | [Morning]({{ '/songs/' | relative_url }}morning/) | [35:40](https://youtube.com/live/kyx5vcS24Tk?t=2140) | Latin |  |
-| 7 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) | [42:55](https://youtube.com/live/kyx5vcS24Tk?t=2575) | Funk |  |
-| 8 | [Closer Feb 3]({{ '/one-off-songs.html' | relative_url }}#closer-feb-3) | [53:20](https://youtube.com/live/kyx5vcS24Tk?t=3200) |  | swingy! |

@@ -12,20 +12,68 @@ tip_jar: "Community Foundation Santa Cruz County"
 notes: ""
 youtube_url: "https://youtu.be/m7JFcEdod0E"
 image: "/assets/images/title-slides/episode-23.jpg"
+setlist:
+  - song_num: "1"
+    name: "Lullaby of Birdland"
+    slug: "lullaby-of-birdland"
+    url: "https://youtu.be/m7JFcEdod0E?t=280"
+    time: "04:40"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Eu Quero E Sossego"
+    slug: "eu-quero-e-sossego"
+    url: "https://youtu.be/m7JFcEdod0E?t=768"
+    time: "12:48"
+    style: "Bossa"
+    composer: ""
+    notes: "switching instruments good"
+    hof: true
+  - song_num: "3"
+    name: "Night and Day"
+    slug: "night-and-day"
+    url: "https://youtu.be/m7JFcEdod0E?t=1762"
+    time: "29:22"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Tenderly"
+    slug: "tenderly"
+    url: "https://youtu.be/m7JFcEdod0E?t=3045"
+    time: "50:45"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Little Sunflower"
+    slug: "little-sunflower"
+    url: "https://youtu.be/m7JFcEdod0E?t=1180"
+    time: "19:40"
+    style: "Techno"
+    composer: ""
+    notes: "needs fills!"
+    hof: true
+  - song_num: "6"
+    name: "Where or When"
+    slug: "where-or-when"
+    url: "https://youtu.be/m7JFcEdod0E?t=2160"
+    time: "36:00"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "7"
+    name: "Cold Duck Time"
+    slug: "cold-duck-time"
+    url: "https://youtu.be/m7JFcEdod0E?t=2610"
+    time: "43:30"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 23 (August 21, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/m7JFcEdod0E)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Lullaby of Birdland]({{ '/songs/' | relative_url }}lullaby-of-birdland/) | [04:40](https://youtu.be/m7JFcEdod0E?t=280) | Swing |  |
-| 2 | [Eu Quero E Sossego]({{ '/songs/' | relative_url }}eu-quero-e-sossego/) | [12:48](https://youtu.be/m7JFcEdod0E?t=768) | Bossa | switching instruments good |
-| 3 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) | [29:22](https://youtu.be/m7JFcEdod0E?t=1762) | Techno |  |
-| 4 | [Tenderly]({{ '/one-off-songs.html' | relative_url }}#tenderly) | [50:45](https://youtu.be/m7JFcEdod0E?t=3045) |  |  |
-| 5 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) | [19:40](https://youtu.be/m7JFcEdod0E?t=1180) | Techno | needs fills! |
-| 6 | [Where or When]({{ '/one-off-songs.html' | relative_url }}#where-or-when) | [36:00](https://youtu.be/m7JFcEdod0E?t=2160) |  |  |
-| 7 | [Cold Duck Time]({{ '/songs/' | relative_url }}cold-duck-time/) | [43:30](https://youtu.be/m7JFcEdod0E?t=2610) | Funk |  |

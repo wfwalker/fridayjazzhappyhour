@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/PFt-ZzJqLC8"
 image: "/assets/images/title-slides/episode-191.jpg"
+setlist:
+  - song_num: "1"
+    name: "Have yourself a Merry Little Christmas"
+    slug: "have-yourself-a-merry-little-christmas"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Night in Tunisia"
+    slug: "night-in-tunisia"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Santa Claus is Coming to town"
+    slug: "santa-claus-is-coming-to-town"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "4"
+    name: "All the things you are"
+    slug: "all-the-things-you-are"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: "https://youtube.com/live/PFt-ZzJqLC8?t=1800"
+    time: "30:00"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "The Holly and the Ivy"
+    slug: "the-holly-and-the-ivy"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "The Christmas Song"
+    slug: "the-christmas-song"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 191 (December 15, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/PFt-ZzJqLC8)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Have yourself a Merry Little Christmas]({{ '/songs/' | relative_url }}have-yourself-a-merry-little-christmas/) |  | Christmas |  |
-| 2 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) |  | Downtempo |  |
-| 3 | [Santa Claus is Coming to town]({{ '/one-off-songs.html' | relative_url }}#santa-claus-is-coming-to-town) |  |  |  |
-| 4 | [All the things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) |  | Swing |  |
-| 5 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [30:00](https://youtube.com/live/PFt-ZzJqLC8?t=1800) | Funk |  |
-| 6 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) |  | Swing |  |
-| 7 | [The Holly and the Ivy]({{ '/songs/' | relative_url }}the-holly-and-the-ivy/) |  | Christmas |  |
-| 8 | [The Christmas Song]({{ '/one-off-songs.html' | relative_url }}#the-christmas-song) |  |  |  |

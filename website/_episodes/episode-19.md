@@ -12,21 +12,77 @@ tip_jar: "portland freedom fund"
 notes: ""
 youtube_url: "https://youtu.be/nNbXig2F9Lc"
 image: "/assets/images/title-slides/episode-19.png"
+setlist:
+  - song_num: "1"
+    name: "All the things you are"
+    slug: "all-the-things-you-are"
+    url: "https://youtu.be/nNbXig2F9Lc?t=315"
+    time: "05:15"
+    style: "Swing"
+    composer: "Hammerstein and Kern"
+    notes: "mellow; fills too loud too much"
+    hof: true
+  - song_num: "2"
+    name: "Hullo, Bolinas"
+    slug: "hullo-bolinas"
+    url: "https://youtu.be/nNbXig2F9Lc?t=775"
+    time: "12:55"
+    style: ""
+    composer: "Steve Swallow"
+    notes: ""
+    hof: false
+  - song_num: "3"
+    name: "Estate"
+    slug: "estate"
+    url: "https://youtu.be/nNbXig2F9Lc?t=1531"
+    time: "25:31"
+    style: "Techno"
+    composer: "Bruno Martino"
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Minor Blues Improvisation"
+    slug: "minor-blues-improvisation"
+    url: "https://youtu.be/nNbXig2F9Lc?t=2038"
+    time: "33:58"
+    style: ""
+    composer: "Bill Walker"
+    notes: "TOO LONG, boring"
+    hof: false
+  - song_num: "5"
+    name: "Cast your fate to the wind"
+    slug: "cast-your-fate-to-the-wind"
+    url: "https://youtu.be/nNbXig2F9Lc?t=2427"
+    time: "40:27"
+    style: "Pop"
+    composer: "Vince Guaraldi"
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "When in Rome"
+    slug: "when-in-rome"
+    url: "https://youtu.be/nNbXig2F9Lc?t=3261"
+    time: "54:21"
+    style: ""
+    composer: "Cy Coleman"
+    notes: ""
+    hof: false
+  - song_num: "7"
+    name: "Pick up the Pieces"
+    slug: "pick-up-the-pieces"
+    url: "https://youtu.be/nNbXig2F9Lc?t=2823"
+    time: "47:03"
+    style: "Funk"
+    composer: "Average White Band"
+    notes: "good energy"
+    hof: true
+  - song_num: "8"
+    name: "Impressions"
+    slug: "impressions"
+    url: "https://youtu.be/nNbXig2F9Lc?t=1041"
+    time: "17:21"
+    style: "Techno"
+    composer: "John Coltrane"
+    notes: "redo; TECHNO; cool intro"
+    hof: true
 ---
-
-# Episode 19 (July 24, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/nNbXig2F9Lc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [All the things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) | [05:15](https://youtu.be/nNbXig2F9Lc?t=315) | Swing<br><small style='color:var(--text-secondary);'>by Hammerstein and Kern</small> | mellow; fills too loud too much |
-| 2 | [Hullo, Bolinas]({{ '/one-off-songs.html' | relative_url }}#hullo-bolinas) | [12:55](https://youtu.be/nNbXig2F9Lc?t=775) | <br><small style='color:var(--text-secondary);'>by Steve Swallow</small> |  |
-| 3 | [Estate]({{ '/songs/' | relative_url }}estate/) | [25:31](https://youtu.be/nNbXig2F9Lc?t=1531) | Techno<br><small style='color:var(--text-secondary);'>by Bruno Martino</small> |  |
-| 4 | [Minor Blues Improvisation]({{ '/one-off-songs.html' | relative_url }}#minor-blues-improvisation) | [33:58](https://youtu.be/nNbXig2F9Lc?t=2038) | <br><small style='color:var(--text-secondary);'>by Bill Walker</small> | TOO LONG, boring |
-| 5 | [Cast your fate to the wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) | [40:27](https://youtu.be/nNbXig2F9Lc?t=2427) | Pop<br><small style='color:var(--text-secondary);'>by Vince Guaraldi</small> |  |
-| 6 | [When in Rome]({{ '/one-off-songs.html' | relative_url }}#when-in-rome) | [54:21](https://youtu.be/nNbXig2F9Lc?t=3261) | <br><small style='color:var(--text-secondary);'>by Cy Coleman</small> |  |
-| 7 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) | [47:03](https://youtu.be/nNbXig2F9Lc?t=2823) | Funk<br><small style='color:var(--text-secondary);'>by Average White Band</small> | good energy |
-| 8 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [17:21](https://youtu.be/nNbXig2F9Lc?t=1041) | Techno<br><small style='color:var(--text-secondary);'>by John Coltrane</small> | redo; TECHNO; cool intro |

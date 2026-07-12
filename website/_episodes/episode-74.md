@@ -12,21 +12,77 @@ tip_jar: "ourcityforest.org"
 notes: ""
 youtube_url: "https://youtu.be/jOeFADhEs7c"
 image: "/assets/images/title-slides/episode-74.jpg"
+setlist:
+  - song_num: "1"
+    name: "Corcovado"
+    slug: "corcovado"
+    url: "https://youtu.be/jOeFADhEs7c?t=192"
+    time: "03:12"
+    style: "Bossa"
+    composer: ""
+    notes: "hmm"
+    hof: true
+  - song_num: "2"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: "https://youtu.be/jOeFADhEs7c?t=644"
+    time: "10:44"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Axel F"
+    slug: "axel-f"
+    url: "https://youtu.be/jOeFADhEs7c?t=1168"
+    time: "19:28"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "My Favorite Things"
+    slug: "my-favorite-things"
+    url: "https://youtu.be/jOeFADhEs7c?t=1510"
+    time: "25:10"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Pocket Calculator"
+    slug: "pocket-calculator"
+    url: "https://youtu.be/jOeFADhEs7c?t=1955"
+    time: "32:35"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Minor Swing"
+    slug: "minor-swing"
+    url: "https://youtu.be/jOeFADhEs7c?t=2454"
+    time: "40:54"
+    style: "Swing"
+    composer: ""
+    notes: "fix last solo chorus (too short), do head 2X on the way out"
+    hof: true
+  - song_num: "7"
+    name: "Sing Sing Sing"
+    slug: "sing-sing-sing"
+    url: "https://youtu.be/jOeFADhEs7c?t=2755"
+    time: "45:55"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Hullo, Bolinas"
+    slug: "hullo-bolinas"
+    url: "https://youtu.be/jOeFADhEs7c?t=3210"
+    time: "53:30"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 74 (August 13, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/jOeFADhEs7c)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) | [03:12](https://youtu.be/jOeFADhEs7c?t=192) | Bossa | hmm |
-| 2 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) | [10:44](https://youtu.be/jOeFADhEs7c?t=644) | Swing |  |
-| 3 | [Axel F]({{ '/songs/' | relative_url }}axel-f/) | [19:28](https://youtu.be/jOeFADhEs7c?t=1168) | Funk |  |
-| 4 | [My Favorite Things]({{ '/songs/' | relative_url }}my-favorite-things/) | [25:10](https://youtu.be/jOeFADhEs7c?t=1510) | Swing |  |
-| 5 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) | [32:35](https://youtu.be/jOeFADhEs7c?t=1955) | Techno |  |
-| 6 | [Minor Swing]({{ '/songs/' | relative_url }}minor-swing/) | [40:54](https://youtu.be/jOeFADhEs7c?t=2454) | Swing | fix last solo chorus (too short), do head 2X on the way out |
-| 7 | [Sing Sing Sing]({{ '/songs/' | relative_url }}sing-sing-sing/) | [45:55](https://youtu.be/jOeFADhEs7c?t=2755) | Pop |  |
-| 8 | [Hullo, Bolinas]({{ '/one-off-songs.html' | relative_url }}#hullo-bolinas) | [53:30](https://youtu.be/jOeFADhEs7c?t=3210) |  |  |

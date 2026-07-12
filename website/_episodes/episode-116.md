@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/58cVCBMx1oI"
 image: "/assets/images/title-slides/episode-116.jpg"
+setlist:
+  - song_num: "1"
+    name: "New Day LoFi"
+    slug: "new-day-lofi"
+    url: "https://youtu.be/58cVCBMx1oI?t=158"
+    time: "02:38"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Stella by Starlight"
+    slug: "stella-by-starlight"
+    url: "https://youtu.be/58cVCBMx1oI?t=450"
+    time: "07:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Softly as in a morning Sunrise"
+    slug: "softly-as-in-a-morning-sunrise"
+    url: "https://youtu.be/58cVCBMx1oI?t=790"
+    time: "13:10"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: "https://youtu.be/58cVCBMx1oI?t=1174"
+    time: "19:34"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtu.be/58cVCBMx1oI?t=2106"
+    time: "35:06"
+    style: "Swing"
+    composer: ""
+    notes: "bass solo!"
+    hof: true
+  - song_num: "6"
+    name: "Alberta"
+    slug: "alberta"
+    url: "https://youtu.be/58cVCBMx1oI?t=2496"
+    time: "41:36"
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Manteca"
+    slug: "manteca"
+    url: "https://youtu.be/58cVCBMx1oI?t=2855"
+    time: "47:35"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer June 3"
+    slug: "closer-june-3"
+    url: "https://youtu.be/58cVCBMx1oI?t=3295"
+    time: "54:55"
+    style: ""
+    composer: ""
+    notes: "keeper, add to collection"
+    hof: false
 ---
-
-# Episode 116 (June 3, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/58cVCBMx1oI)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [New Day LoFi]({{ '/songs/' | relative_url }}new-day-lofi/) | [02:38](https://youtu.be/58cVCBMx1oI?t=158) | Downtempo |  |
-| 2 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) | [07:30](https://youtu.be/58cVCBMx1oI?t=450) | Swing |  |
-| 3 | [Softly as in a morning Sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) | [13:10](https://youtu.be/58cVCBMx1oI?t=790) | Techno |  |
-| 4 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) | [19:34](https://youtu.be/58cVCBMx1oI?t=1174) | Swing |  |
-| 5 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [35:06](https://youtu.be/58cVCBMx1oI?t=2106) | Swing | bass solo! |
-| 6 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [41:36](https://youtu.be/58cVCBMx1oI?t=2496) | World |  |
-| 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) | [47:35](https://youtu.be/58cVCBMx1oI?t=2855) | Latin |  |
-| 8 | [Closer June 3]({{ '/one-off-songs.html' | relative_url }}#closer-june-3) | [54:55](https://youtu.be/58cVCBMx1oI?t=3295) |  | keeper, add to collection |

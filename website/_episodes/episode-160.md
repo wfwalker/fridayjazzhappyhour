@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/McHbN0vAbMA"
 image: "/assets/images/title-slides/episode-160.jpg"
+setlist:
+  - song_num: "1"
+    name: "How high the moon"
+    slug: "how-high-the-moon"
+    url: "https://youtube.com/live/McHbN0vAbMA?t=344"
+    time: "05:44"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Some Other Funk"
+    slug: "some-other-funk"
+    url: "https://youtube.com/live/McHbN0vAbMA?t=565"
+    time: "09:25"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "It Might as Well be Spring"
+    slug: "it-might-as-well-be-spring"
+    url: "https://youtube.com/live/McHbN0vAbMA?t=887"
+    time: "14:47"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Jean Pierre in Egypt"
+    slug: "jean-pierre-in-egypt"
+    url: "https://youtube.com/live/McHbN0vAbMA?t=1263"
+    time: "21:03"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: "https://youtube.com/live/McHbN0vAbMA?t=1793"
+    time: "29:53"
+    style: "Funk"
+    composer: ""
+    notes: "ship it. done."
+    hof: true
+  - song_num: "6"
+    name: "If i were a bell"
+    slug: "if-i-were-a-bell"
+    url: "https://youtube.com/live/McHbN0vAbMA?t=2220"
+    time: "37:00"
+    style: "Swing"
+    composer: ""
+    notes: "why tmpt too quiet?"
+    hof: true
+  - song_num: "7"
+    name: "Lovely Day"
+    slug: "lovely-day"
+    url: "https://youtube.com/live/McHbN0vAbMA?t=2502"
+    time: "41:42"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "VCV Closer April 28"
+    slug: "vcv-closer-april-28"
+    url: "https://youtube.com/live/McHbN0vAbMA?t=2892"
+    time: "48:12"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 160 (April 28, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/McHbN0vAbMA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [How high the moon]({{ '/songs/' | relative_url }}how-high-the-moon/) | [05:44](https://youtube.com/live/McHbN0vAbMA?t=344) | Swing |  |
-| 2 | [Some Other Funk]({{ '/songs/' | relative_url }}some-other-funk/) | [09:25](https://youtube.com/live/McHbN0vAbMA?t=565) | Funk |  |
-| 3 | [It Might as Well be Spring]({{ '/songs/' | relative_url }}it-might-as-well-be-spring/) | [14:47](https://youtube.com/live/McHbN0vAbMA?t=887) | Bossa |  |
-| 4 | [Jean Pierre in Egypt]({{ '/songs/' | relative_url }}jean-pierre-in-egypt/) | [21:03](https://youtube.com/live/McHbN0vAbMA?t=1263) | Funk |  |
-| 5 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [29:53](https://youtube.com/live/McHbN0vAbMA?t=1793) | Funk | ship it. done. |
-| 6 | [If i were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) | [37:00](https://youtube.com/live/McHbN0vAbMA?t=2220) | Swing | why tmpt too quiet? |
-| 7 | [Lovely Day]({{ '/songs/' | relative_url }}lovely-day/) | [41:42](https://youtube.com/live/McHbN0vAbMA?t=2502) | Pop |  |
-| 8 | [VCV Closer April 28]({{ '/one-off-songs.html' | relative_url }}#vcv-closer-april-28) | [48:12](https://youtube.com/live/McHbN0vAbMA?t=2892) |  |  |

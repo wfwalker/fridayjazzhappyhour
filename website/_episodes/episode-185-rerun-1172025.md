@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-185-rerun-1172025.jpg"
+setlist:
+  - song_num: "1"
+    name: "It's only a paper moon"
+    slug: "its-only-a-paper-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Seven Steps to Heaven"
+    slug: "seven-steps-to-heaven"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Chega de Saudade"
+    slug: "chega-de-saudade"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Caravan"
+    slug: "caravan"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Newsky Bluesky"
+    slug: "newsky-bluesky"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "My Romance"
+    slug: "my-romance"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Agua de Beber"
+    slug: "agua-de-beber"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "VCV Closer Nov 3"
+    slug: "vcv-closer-nov-3"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 185 (November 7, 2025) (Rerun)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [It's only a paper moon]({{ '/songs/' | relative_url }}its-only-a-paper-moon/) |  | Swing |  |
-| 2 | [Seven Steps to Heaven]({{ '/songs/' | relative_url }}seven-steps-to-heaven/) |  | Pop |  |
-| 3 | [Chega de Saudade]({{ '/songs/' | relative_url }}chega-de-saudade/) |  | Bossa |  |
-| 4 | [Caravan]({{ '/songs/' | relative_url }}caravan/) |  | Swing |  |
-| 5 | [Newsky Bluesky]({{ '/songs/' | relative_url }}newsky-bluesky/) |  | Downtempo |  |
-| 6 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) |  | Swing |  |
-| 7 | [Agua de Beber]({{ '/songs/' | relative_url }}agua-de-beber/) |  | Latin |  |
-| 8 | [VCV Closer Nov 3]({{ '/one-off-songs.html' | relative_url }}#vcv-closer-nov-3) |  |  |  |

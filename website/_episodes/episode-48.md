@@ -12,21 +12,77 @@ tip_jar: "Si Se Puede Collective"
 notes: "yes"
 youtube_url: "https://youtu.be/qK4QPjXbR7g"
 image: "/assets/images/title-slides/episode-48.jpg"
+setlist:
+  - song_num: "1"
+    name: "Days of Wine and Roses"
+    slug: "days-of-wine-and-roses"
+    url: "https://youtu.be/qK4QPjXbR7g?t=285"
+    time: "04:45"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Crystal Silence"
+    slug: "crystal-silence"
+    url: "https://youtu.be/qK4QPjXbR7g?t=849"
+    time: "14:09"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "3"
+    name: "Mambo Inn"
+    slug: "mambo-inn"
+    url: "https://youtu.be/qK4QPjXbR7g?t=1303"
+    time: "21:43"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Ambient Tuesday"
+    slug: "ambient-tuesday"
+    url: "https://youtu.be/qK4QPjXbR7g?t=1830"
+    time: "30:30"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Oh Good Grief"
+    slug: "oh-good-grief"
+    url: "https://youtu.be/qK4QPjXbR7g?t=2270"
+    time: "37:50"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "Four on Six"
+    slug: "four-on-six"
+    url: "https://youtu.be/qK4QPjXbR7g?t=2614"
+    time: "43:34"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "7"
+    name: "Mas Que Nada"
+    slug: "mas-que-nada"
+    url: "https://youtu.be/qK4QPjXbR7g?t=2910"
+    time: "48:30"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Quiet Now"
+    slug: "quiet-now"
+    url: "https://youtu.be/qK4QPjXbR7g?t=3266"
+    time: "54:26"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 48 (February 12, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/qK4QPjXbR7g)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Days of Wine and Roses]({{ '/songs/' | relative_url }}days-of-wine-and-roses/) | [04:45](https://youtu.be/qK4QPjXbR7g?t=285) | Swing |  |
-| 2 | [Crystal Silence]({{ '/one-off-songs.html' | relative_url }}#crystal-silence) | [14:09](https://youtu.be/qK4QPjXbR7g?t=849) |  |  |
-| 3 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) | [21:43](https://youtu.be/qK4QPjXbR7g?t=1303) | Latin |  |
-| 4 | [Ambient Tuesday]({{ '/one-off-songs.html' | relative_url }}#ambient-tuesday) | [30:30](https://youtu.be/qK4QPjXbR7g?t=1830) |  |  |
-| 5 | [Oh Good Grief]({{ '/one-off-songs.html' | relative_url }}#oh-good-grief) | [37:50](https://youtu.be/qK4QPjXbR7g?t=2270) |  |  |
-| 6 | [Four on Six]({{ '/one-off-songs.html' | relative_url }}#four-on-six) | [43:34](https://youtu.be/qK4QPjXbR7g?t=2614) |  |  |
-| 7 | [Mas Que Nada]({{ '/songs/' | relative_url }}mas-que-nada/) | [48:30](https://youtu.be/qK4QPjXbR7g?t=2910) | Latin |  |
-| 8 | [Quiet Now]({{ '/one-off-songs.html' | relative_url }}#quiet-now) | [54:26](https://youtu.be/qK4QPjXbR7g?t=3266) |  |  |

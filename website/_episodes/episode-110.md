@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/BLBnVY8iUBg"
 image: "/assets/images/title-slides/episode-110.jpg"
+setlist:
+  - song_num: "1"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: "https://youtu.be/BLBnVY8iUBg?t=207"
+    time: "03:27"
+    style: "Techno"
+    composer: ""
+    notes: "gah hiccup at 440"
+    hof: true
+  - song_num: "2"
+    name: "Time Remembered"
+    slug: "time-remembered"
+    url: "https://youtu.be/BLBnVY8iUBg?t=655"
+    time: "10:55"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Simplismente"
+    slug: "simplismente"
+    url: "https://youtu.be/BLBnVY8iUBg?t=940"
+    time: "15:40"
+    style: "Techno"
+    composer: ""
+    notes: "too repetitive"
+    hof: true
+  - song_num: "4"
+    name: "Nightingale Sang in Berkeley Square"
+    slug: "nightingale-sang-in-berkeley-square"
+    url: "https://youtu.be/BLBnVY8iUBg?t=1540"
+    time: "25:40"
+    style: "Ballad"
+    composer: ""
+    notes: "nice"
+    hof: true
+  - song_num: "5"
+    name: "Trans Europe Express"
+    slug: "trans-europe-express"
+    url: "https://youtu.be/BLBnVY8iUBg?t=2093"
+    time: "34:53"
+    style: "Techno"
+    composer: ""
+    notes: "good arrangement, more practice"
+    hof: true
+  - song_num: "6"
+    name: "Take Five (King Tubby)"
+    slug: "take-five-king-tubby"
+    url: "https://youtu.be/BLBnVY8iUBg?t=2512"
+    time: "41:52"
+    style: "Downtempo"
+    composer: ""
+    notes: "good energy"
+    hof: true
+  - song_num: "7"
+    name: "Soul Sauce"
+    slug: "soul-sauce"
+    url: "https://youtu.be/BLBnVY8iUBg?t=3085"
+    time: "51:25"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Inch Worm"
+    slug: "inch-worm"
+    url: "https://youtu.be/BLBnVY8iUBg?t=3442"
+    time: "57:22"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 110 (April 22, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/BLBnVY8iUBg)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) | [03:27](https://youtu.be/BLBnVY8iUBg?t=207) | Techno | gah hiccup at 440 |
-| 2 | [Time Remembered]({{ '/songs/' | relative_url }}time-remembered/) | [10:55](https://youtu.be/BLBnVY8iUBg?t=655) | Swing |  |
-| 3 | [Simplismente]({{ '/songs/' | relative_url }}simplismente/) | [15:40](https://youtu.be/BLBnVY8iUBg?t=940) | Techno | too repetitive |
-| 4 | [Nightingale Sang in Berkeley Square]({{ '/songs/' | relative_url }}nightingale-sang-in-berkeley-square/) | [25:40](https://youtu.be/BLBnVY8iUBg?t=1540) | Ballad | nice |
-| 5 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) | [34:53](https://youtu.be/BLBnVY8iUBg?t=2093) | Techno | good arrangement, more practice |
-| 6 | [Take Five (King Tubby)]({{ '/songs/' | relative_url }}take-five-king-tubby/) | [41:52](https://youtu.be/BLBnVY8iUBg?t=2512) | Downtempo | good energy |
-| 7 | [Soul Sauce]({{ '/songs/' | relative_url }}soul-sauce/) | [51:25](https://youtu.be/BLBnVY8iUBg?t=3085) | Latin |  |
-| 8 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) | [57:22](https://youtu.be/BLBnVY8iUBg?t=3442) | Ballad |  |

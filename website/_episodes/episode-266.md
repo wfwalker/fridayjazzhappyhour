@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-266.jpg"
+setlist:
+  - song_num: "1"
+    name: "Au Privave"
+    slug: "au-privave"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Feel Like Going Home"
+    slug: "feel-like-going-home"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Girl from Ipanema"
+    slug: "girl-from-ipanema"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Just the Two of Us"
+    slug: "just-the-two-of-us"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "It Don’t Mean a Thing (If It Ain't Got That Swing)"
+    slug: "it-dont-mean-a-thing-if-it-aint-got-that-swing"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Deacon Blues"
+    slug: "deacon-blues"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Sermonette"
+    slug: "sermonette"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "epiano closer aug 1"
+    slug: "epiano-closer-aug-1"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 266 (August 1, 2025)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Au Privave]({{ '/songs/' | relative_url }}au-privave/) |  | Swing |  |
-| 2 | [Feel Like Going Home]({{ '/songs/' | relative_url }}feel-like-going-home/) |  | Pop |  |
-| 3 | [Girl from Ipanema]({{ '/songs/' | relative_url }}girl-from-ipanema/) |  | Bossa |  |
-| 4 | [Just the Two of Us]({{ '/songs/' | relative_url }}just-the-two-of-us/) |  | Funk |  |
-| 5 | [It Don’t Mean a Thing (If It Ain't Got That Swing)]({{ '/songs/' | relative_url }}it-dont-mean-a-thing-if-it-aint-got-that-swing/) |  | Swing |  |
-| 6 | [Deacon Blues]({{ '/songs/' | relative_url }}deacon-blues/) |  | Pop |  |
-| 7 | [Sermonette]({{ '/songs/' | relative_url }}sermonette/) |  | Swing |  |
-| 8 | [epiano closer aug 1]({{ '/one-off-songs.html' | relative_url }}#epiano-closer-aug-1) |  |  |  |

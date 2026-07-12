@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/Rcivz__GFo4"
 image: "/assets/images/title-slides/episode-94.jpg"
+setlist:
+  - song_num: "1"
+    name: "Also Sprach Zarathustra"
+    slug: "also-sprach-zarathustra"
+    url: "https://youtu.be/Rcivz__GFo4?t=105"
+    time: "01:45"
+    style: "Funk"
+    composer: ""
+    notes: "horn fills during solo?"
+    hof: true
+  - song_num: "2"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: "https://youtu.be/Rcivz__GFo4?t=434"
+    time: "07:14"
+    style: "Techno"
+    composer: ""
+    notes: "fun fills, try new lead?"
+    hof: true
+  - song_num: "3"
+    name: "TSOP"
+    slug: "tsop"
+    url: "https://youtu.be/Rcivz__GFo4?t=850"
+    time: "14:10"
+    style: "Funk"
+    composer: ""
+    notes: "fix horns, PRACTICE, piano too hot in mix"
+    hof: true
+  - song_num: "4"
+    name: "Pick up the Pieces"
+    slug: "pick-up-the-pieces"
+    url: "https://youtu.be/Rcivz__GFo4?t=1197"
+    time: "19:57"
+    style: "Funk"
+    composer: ""
+    notes: "organ too hot. PRACTICE!"
+    hof: true
+  - song_num: "5"
+    name: "Sing Sing Sing"
+    slug: "sing-sing-sing"
+    url: "https://youtu.be/Rcivz__GFo4?t=1424"
+    time: "23:44"
+    style: "Pop"
+    composer: ""
+    notes: "messy but fun. practice! organ too hot"
+    hof: true
+  - song_num: "6"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: "https://youtu.be/Rcivz__GFo4?t=1830"
+    time: "30:30"
+    style: "Funk"
+    composer: ""
+    notes: "need PREP scene; CAN DO BASS SOLO? oy"
+    hof: true
+  - song_num: "7"
+    name: "Jean Pierre in Egypt"
+    slug: "jean-pierre-in-egypt"
+    url: "https://youtu.be/Rcivz__GFo4?t=2334"
+    time: "38:54"
+    style: "Funk"
+    composer: ""
+    notes: "oy so sad start"
+    hof: true
+  - song_num: "8"
+    name: "Manteca"
+    slug: "manteca"
+    url: "https://youtu.be/Rcivz__GFo4?t=2650"
+    time: "44:10"
+    style: "Latin"
+    composer: ""
+    notes: "back to melodica?"
+    hof: true
+  - song_num: "9"
+    name: "What are you doing New Year's Eve?"
+    slug: "what-are-you-doing-new-years-eve"
+    url: "https://youtu.be/Rcivz__GFo4?t=3017"
+    time: "50:17"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 94 (December 31, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/Rcivz__GFo4)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) | [01:45](https://youtu.be/Rcivz__GFo4?t=105) | Funk | horn fills during solo? |
-| 2 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [07:14](https://youtu.be/Rcivz__GFo4?t=434) | Techno | fun fills, try new lead? |
-| 3 | [TSOP]({{ '/songs/' | relative_url }}tsop/) | [14:10](https://youtu.be/Rcivz__GFo4?t=850) | Funk | fix horns, PRACTICE, piano too hot in mix |
-| 4 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) | [19:57](https://youtu.be/Rcivz__GFo4?t=1197) | Funk | organ too hot. PRACTICE! |
-| 5 | [Sing Sing Sing]({{ '/songs/' | relative_url }}sing-sing-sing/) | [23:44](https://youtu.be/Rcivz__GFo4?t=1424) | Pop | messy but fun. practice! organ too hot |
-| 6 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) | [30:30](https://youtu.be/Rcivz__GFo4?t=1830) | Funk | need PREP scene; CAN DO BASS SOLO? oy |
-| 7 | [Jean Pierre in Egypt]({{ '/songs/' | relative_url }}jean-pierre-in-egypt/) | [38:54](https://youtu.be/Rcivz__GFo4?t=2334) | Funk | oy so sad start |
-| 8 | [Manteca]({{ '/songs/' | relative_url }}manteca/) | [44:10](https://youtu.be/Rcivz__GFo4?t=2650) | Latin | back to melodica? |
-| 9 | [What are you doing New Year's Eve?]({{ '/one-off-songs.html' | relative_url }}#what-are-you-doing-new-years-eve) | [50:17](https://youtu.be/Rcivz__GFo4?t=3017) |  |  |

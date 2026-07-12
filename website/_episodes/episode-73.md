@@ -12,22 +12,86 @@ tip_jar: "norcalunitedway.org fire relief"
 notes: "for March 2026 rerun"
 youtube_url: "https://youtu.be/WOvFSmKeHH4"
 image: "/assets/images/title-slides/episode-73.jpg"
+setlist:
+  - song_num: "1"
+    name: "My Funny Valentine"
+    slug: "my-funny-valentine"
+    url: "https://youtu.be/WOvFSmKeHH4?t=189"
+    time: "03:09"
+    style: "Swing"
+    composer: ""
+    notes: "nice muted trumpet"
+    hof: true
+  - song_num: "2"
+    name: "Well You Needn’t"
+    slug: "well-you-neednt"
+    url: "https://youtu.be/WOvFSmKeHH4?t=567"
+    time: "09:27"
+    style: "Reggae"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Begin the Beguine"
+    slug: "begin-the-beguine"
+    url: "https://youtu.be/WOvFSmKeHH4?t=990"
+    time: "16:30"
+    style: "Bossa"
+    composer: ""
+    notes: "not sure about horn; try piano instead? need landmarks"
+    hof: true
+  - song_num: "4"
+    name: "Moanin"
+    slug: "moanin"
+    url: "https://youtu.be/WOvFSmKeHH4?t=1495"
+    time: "24:55"
+    style: "Swing"
+    composer: ""
+    notes: "bass solo good idea"
+    hof: true
+  - song_num: "5"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: "https://youtu.be/WOvFSmKeHH4?t=1858"
+    time: "30:58"
+    style: "Latin"
+    composer: ""
+    notes: "good mix!"
+    hof: true
+  - song_num: "6"
+    name: "Burbling"
+    slug: "burbling"
+    url: "https://youtu.be/WOvFSmKeHH4?t=2325"
+    time: "38:45"
+    style: "World"
+    composer: ""
+    notes: "better than expected, nice intro"
+    hof: true
+  - song_num: "7"
+    name: "Piano Improv"
+    slug: "piano-improv"
+    url: "https://youtu.be/WOvFSmKeHH4?t=2775"
+    time: "46:15"
+    style: ""
+    composer: ""
+    notes: "happy accident with spacey pad + piano"
+    hof: false
+  - song_num: "8"
+    name: "Manteca"
+    slug: "manteca"
+    url: "https://youtu.be/WOvFSmKeHH4?t=3144"
+    time: "52:24"
+    style: "Latin"
+    composer: ""
+    notes: "melodica good"
+    hof: true
+  - song_num: "9"
+    name: "How Deep is the Ocean"
+    slug: "how-deep-is-the-ocean"
+    url: "https://youtu.be/WOvFSmKeHH4?t=3560"
+    time: "59:20"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 73 (August 6, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/WOvFSmKeHH4)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [My Funny Valentine]({{ '/songs/' | relative_url }}my-funny-valentine/) | [03:09](https://youtu.be/WOvFSmKeHH4?t=189) | Swing | nice muted trumpet |
-| 2 | [Well You Needn’t]({{ '/songs/' | relative_url }}well-you-neednt/) | [09:27](https://youtu.be/WOvFSmKeHH4?t=567) | Reggae |  |
-| 3 | [Begin the Beguine]({{ '/songs/' | relative_url }}begin-the-beguine/) | [16:30](https://youtu.be/WOvFSmKeHH4?t=990) | Bossa | not sure about horn; try piano instead? need landmarks |
-| 4 | [Moanin]({{ '/songs/' | relative_url }}moanin/) | [24:55](https://youtu.be/WOvFSmKeHH4?t=1495) | Swing | bass solo good idea |
-| 5 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [30:58](https://youtu.be/WOvFSmKeHH4?t=1858) | Latin | good mix! |
-| 6 | [Burbling]({{ '/songs/' | relative_url }}burbling/) | [38:45](https://youtu.be/WOvFSmKeHH4?t=2325) | World | better than expected, nice intro |
-| 7 | [Piano Improv]({{ '/one-off-songs.html' | relative_url }}#piano-improv) | [46:15](https://youtu.be/WOvFSmKeHH4?t=2775) |  | happy accident with spacey pad + piano |
-| 8 | [Manteca]({{ '/songs/' | relative_url }}manteca/) | [52:24](https://youtu.be/WOvFSmKeHH4?t=3144) | Latin | melodica good |
-| 9 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) | [59:20](https://youtu.be/WOvFSmKeHH4?t=3560) | Ballad |  |

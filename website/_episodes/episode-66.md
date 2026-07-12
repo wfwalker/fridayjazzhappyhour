@@ -12,22 +12,86 @@ tip_jar: "SJAACSA"
 notes: ""
 youtube_url: "https://youtu.be/OptqncNOQyA"
 image: "/assets/images/title-slides/episode-66.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bluesette"
+    slug: "bluesette"
+    url: "https://youtu.be/OptqncNOQyA?t=572"
+    time: "09:32"
+    style: "Swing"
+    composer: ""
+    notes: "audience request show"
+    hof: true
+  - song_num: "2"
+    name: "Song for my Father"
+    slug: "song-for-my-father"
+    url: "https://youtu.be/OptqncNOQyA?t=897"
+    time: "14:57"
+    style: "Latin"
+    composer: ""
+    notes: "audience request show"
+    hof: true
+  - song_num: "3"
+    name: "Softly as in a Morning Sunrise"
+    slug: "softly-as-in-a-morning-sunrise"
+    url: "https://youtu.be/OptqncNOQyA?t=1282"
+    time: "21:22"
+    style: "Techno"
+    composer: ""
+    notes: "audience request show"
+    hof: true
+  - song_num: "4"
+    name: "Summertime"
+    slug: "summertime"
+    url: "https://youtu.be/OptqncNOQyA?t=1707"
+    time: "28:27"
+    style: "Funk"
+    composer: ""
+    notes: "audience request show"
+    hof: true
+  - song_num: "5"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: "https://youtu.be/OptqncNOQyA?t=2174"
+    time: "36:14"
+    style: "Techno"
+    composer: ""
+    notes: "audience request show"
+    hof: true
+  - song_num: "6"
+    name: "The Egg and You"
+    slug: "the-egg-and-you"
+    url: "https://youtu.be/OptqncNOQyA?t=2663"
+    time: "44:23"
+    style: "Pop"
+    composer: ""
+    notes: "audience request show"
+    hof: true
+  - song_num: "7"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: "https://youtu.be/OptqncNOQyA?t=2920"
+    time: "48:40"
+    style: "Bossa"
+    composer: ""
+    notes: "audience request show"
+    hof: true
+  - song_num: "8"
+    name: "Septimus Prime"
+    slug: "septimus-prime"
+    url: "https://youtu.be/OptqncNOQyA?t=3255"
+    time: "54:15"
+    style: "Funk"
+    composer: ""
+    notes: "audience request show"
+    hof: true
+  - song_num: "9"
+    name: "Over the Rainbow"
+    slug: "over-the-rainbow"
+    url: "https://youtu.be/OptqncNOQyA?t=3680"
+    time: "01:01:20"
+    style: "Ballad"
+    composer: ""
+    notes: "audience request show"
+    hof: true
 ---
-
-# Episode 66 (June 18, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/OptqncNOQyA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) | [09:32](https://youtu.be/OptqncNOQyA?t=572) | Swing | audience request show |
-| 2 | [Song for my Father]({{ '/songs/' | relative_url }}song-for-my-father/) | [14:57](https://youtu.be/OptqncNOQyA?t=897) | Latin | audience request show |
-| 3 | [Softly as in a Morning Sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) | [21:22](https://youtu.be/OptqncNOQyA?t=1282) | Techno | audience request show |
-| 4 | [Summertime]({{ '/songs/' | relative_url }}summertime/) | [28:27](https://youtu.be/OptqncNOQyA?t=1707) | Funk | audience request show |
-| 5 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [36:14](https://youtu.be/OptqncNOQyA?t=2174) | Techno | audience request show |
-| 6 | [The Egg and You]({{ '/songs/' | relative_url }}the-egg-and-you/) | [44:23](https://youtu.be/OptqncNOQyA?t=2663) | Pop | audience request show |
-| 7 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [48:40](https://youtu.be/OptqncNOQyA?t=2920) | Bossa | audience request show |
-| 8 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [54:15](https://youtu.be/OptqncNOQyA?t=3255) | Funk | audience request show |
-| 9 | [Over the Rainbow]({{ '/songs/' | relative_url }}over-the-rainbow/) | [01:01:20](https://youtu.be/OptqncNOQyA?t=3680) | Ballad | audience request show |

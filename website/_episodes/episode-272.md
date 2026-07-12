@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/fZ5kBawF-lc"
 image: "/assets/images/title-slides/episode-272.jpg"
+setlist:
+  - song_num: "1"
+    name: "Estate"
+    slug: "estate"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "These Foolish Things remind me of you"
+    slug: "these-foolish-things-remind-me-of-you"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "So Danco Samba"
+    slug: "so-danco-samba"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Meditation"
+    slug: "meditation"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Time Remembered"
+    slug: "time-remembered"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Manteca"
+    slug: "manteca"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "You and the Night and the Music"
+    slug: "you-and-the-night-and-the-music"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 272 (September 19, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/fZ5kBawF-lc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Estate]({{ '/songs/' | relative_url }}estate/) |  | Techno |  |
-| 2 | [These Foolish Things remind me of you]({{ '/songs/' | relative_url }}these-foolish-things-remind-me-of-you/) |  | Ballad |  |
-| 3 | [So Danco Samba]({{ '/songs/' | relative_url }}so-danco-samba/) |  | Samba |  |
-| 4 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) |  | Funk |  |
-| 5 | [Meditation]({{ '/songs/' | relative_url }}meditation/) |  | Latin |  |
-| 6 | [Time Remembered]({{ '/songs/' | relative_url }}time-remembered/) |  | Swing |  |
-| 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) |  | Latin |  |
-| 8 | [You and the Night and the Music]({{ '/songs/' | relative_url }}you-and-the-night-and-the-music/) |  | Ballad |  |

@@ -12,20 +12,68 @@ tip_jar: "Social Justice Sewing Academy"
 notes: ""
 youtube_url: "https://youtu.be/nAk_30ixPvc"
 image: "/assets/images/title-slides/episode-9.png"
+setlist:
+  - song_num: "1"
+    name: "Killer Joe"
+    slug: "killer-joe"
+    url: "https://youtu.be/nAk_30ixPvc?t=140"
+    time: "02:20"
+    style: "Swing"
+    composer: "Benny Golson"
+    notes: "REDO better melody sound?"
+    hof: true
+  - song_num: "2"
+    name: "Minor Swing"
+    slug: "minor-swing"
+    url: "https://youtu.be/nAk_30ixPvc?t=2173"
+    time: "36:13"
+    style: "Swing"
+    composer: "Django Reinhart"
+    notes: "split up gtr track, fix ending"
+    hof: true
+  - song_num: "3"
+    name: "Bemsha Swing"
+    slug: "bemsha-swing"
+    url: "https://youtu.be/nAk_30ixPvc?t=655"
+    time: "10:55"
+    style: "Swing"
+    composer: "Thelonius Monk"
+    notes: "needs another arrangement element"
+    hof: true
+  - song_num: "4"
+    name: "Rainbow Connection"
+    slug: "rainbow-connection"
+    url: "https://youtu.be/nAk_30ixPvc?t=982"
+    time: "16:22"
+    style: "pop"
+    composer: "Paul Williams"
+    notes: "whiffed start; transpose down?"
+    hof: false
+  - song_num: "5"
+    name: "Cissy Strut"
+    slug: "cissy-strut"
+    url: "https://youtu.be/nAk_30ixPvc?t=1790"
+    time: "29:50"
+    style: "Funk"
+    composer: "The Meters"
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Time Remembered"
+    slug: "time-remembered"
+    url: "https://youtu.be/nAk_30ixPvc?t=1413"
+    time: "23:33"
+    style: "Swing"
+    composer: "Bill Evans"
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "In the wee small hours of the morning"
+    slug: "in-the-wee-small-hours-of-the-morning"
+    url: "https://youtu.be/nAk_30ixPvc?t=2463"
+    time: "41:03"
+    style: "ballad"
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 9 (May 15, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/nAk_30ixPvc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Killer Joe]({{ '/songs/' | relative_url }}killer-joe/) | [02:20](https://youtu.be/nAk_30ixPvc?t=140) | Swing<br><small style='color:var(--text-secondary);'>by Benny Golson</small> | REDO better melody sound? |
-| 2 | [Minor Swing]({{ '/songs/' | relative_url }}minor-swing/) | [36:13](https://youtu.be/nAk_30ixPvc?t=2173) | Swing<br><small style='color:var(--text-secondary);'>by Django Reinhart</small> | split up gtr track, fix ending |
-| 3 | [Bemsha Swing]({{ '/songs/' | relative_url }}bemsha-swing/) | [10:55](https://youtu.be/nAk_30ixPvc?t=655) | Swing<br><small style='color:var(--text-secondary);'>by Thelonius Monk</small> | needs another arrangement element |
-| 4 | [Rainbow Connection]({{ '/one-off-songs.html' | relative_url }}#rainbow-connection) | [16:22](https://youtu.be/nAk_30ixPvc?t=982) | pop<br><small style='color:var(--text-secondary);'>by Paul Williams</small> | whiffed start; transpose down? |
-| 5 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) | [29:50](https://youtu.be/nAk_30ixPvc?t=1790) | Funk<br><small style='color:var(--text-secondary);'>by The Meters</small> |  |
-| 6 | [Time Remembered]({{ '/songs/' | relative_url }}time-remembered/) | [23:33](https://youtu.be/nAk_30ixPvc?t=1413) | Swing<br><small style='color:var(--text-secondary);'>by Bill Evans</small> |  |
-| 7 | [In the wee small hours of the morning]({{ '/one-off-songs.html' | relative_url }}#in-the-wee-small-hours-of-the-morning) | [41:03](https://youtu.be/nAk_30ixPvc?t=2463) | ballad |  |

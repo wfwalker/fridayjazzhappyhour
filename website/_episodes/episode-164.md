@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/-vNFbFO0LgE"
 image: "/assets/images/title-slides/episode-164.jpg"
+setlist:
+  - song_num: "1"
+    name: "All Blues"
+    slug: "all-blues"
+    url: "https://youtu.be/-vNFbFO0LgE?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Desde"
+    slug: "desde"
+    url: "https://youtu.be/-vNFbFO0LgE?t=715"
+    time: "11:55"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Take Five (King Tubby)"
+    slug: "take-five-king-tubby"
+    url: "https://youtu.be/-vNFbFO0LgE?t=968"
+    time: "16:08"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Moanin"
+    slug: "moanin"
+    url: "https://youtu.be/-vNFbFO0LgE?t=1533"
+    time: "25:33"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Nardis"
+    slug: "nardis"
+    url: "https://youtu.be/-vNFbFO0LgE?t=1859"
+    time: "30:59"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Cold Duck Time"
+    slug: "cold-duck-time"
+    url: "https://youtu.be/-vNFbFO0LgE?t=2240"
+    time: "37:20"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtu.be/-vNFbFO0LgE?t=2662"
+    time: "44:22"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Time Remembered"
+    slug: "time-remembered"
+    url: "https://youtu.be/-vNFbFO0LgE?t=3023"
+    time: "50:23"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 164 (May 26, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/-vNFbFO0LgE)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) | [04:28](https://youtu.be/-vNFbFO0LgE?t=268) | Swing |  |
-| 2 | [Desde]({{ '/songs/' | relative_url }}desde/) | [11:55](https://youtu.be/-vNFbFO0LgE?t=715) | Bossa |  |
-| 3 | [Take Five (King Tubby)]({{ '/songs/' | relative_url }}take-five-king-tubby/) | [16:08](https://youtu.be/-vNFbFO0LgE?t=968) | Downtempo |  |
-| 4 | [Moanin]({{ '/songs/' | relative_url }}moanin/) | [25:33](https://youtu.be/-vNFbFO0LgE?t=1533) | Swing |  |
-| 5 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [30:59](https://youtu.be/-vNFbFO0LgE?t=1859) | Downtempo |  |
-| 6 | [Cold Duck Time]({{ '/songs/' | relative_url }}cold-duck-time/) | [37:20](https://youtu.be/-vNFbFO0LgE?t=2240) | Funk |  |
-| 7 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [44:22](https://youtu.be/-vNFbFO0LgE?t=2662) | Swing |  |
-| 8 | [Time Remembered]({{ '/songs/' | relative_url }}time-remembered/) | [50:23](https://youtu.be/-vNFbFO0LgE?t=3023) | Swing |  |

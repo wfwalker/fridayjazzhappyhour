@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/ezlBzx7DvTU"
 image: "/assets/images/title-slides/episode-139.jpg"
+setlist:
+  - song_num: "1"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: "https://youtube.com/live/ezlBzx7DvTU?t=158"
+    time: "02:38"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Desde"
+    slug: "desde"
+    url: "https://youtube.com/live/ezlBzx7DvTU?t=490"
+    time: "08:10"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Saga of Harrison Crabfeathers"
+    slug: "saga-of-harrison-crabfeathers"
+    url: "https://youtube.com/live/ezlBzx7DvTU?t=950"
+    time: "15:50"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Christmastime is Here"
+    slug: "christmastime-is-here"
+    url: "https://youtube.com/live/ezlBzx7DvTU?t=1321"
+    time: "22:01"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Nardis"
+    slug: "nardis"
+    url: "https://youtube.com/live/ezlBzx7DvTU?t=1880"
+    time: "31:20"
+    style: "Downtempo"
+    composer: ""
+    notes: "Done"
+    hof: true
+  - song_num: "6"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: "https://youtube.com/live/ezlBzx7DvTU?t=2305"
+    time: "38:25"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Alberta"
+    slug: "alberta"
+    url: "https://youtube.com/live/ezlBzx7DvTU?t=2720"
+    time: "45:20"
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Snow Petrels Closer"
+    slug: "snow-petrels-closer"
+    url: "https://youtube.com/live/ezlBzx7DvTU?t=3088"
+    time: "51:28"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 139 (December 2, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/ezlBzx7DvTU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) | [02:38](https://youtube.com/live/ezlBzx7DvTU?t=158) | Swing |  |
-| 2 | [Desde]({{ '/songs/' | relative_url }}desde/) | [08:10](https://youtube.com/live/ezlBzx7DvTU?t=490) | Bossa |  |
-| 3 | [Saga of Harrison Crabfeathers]({{ '/songs/' | relative_url }}saga-of-harrison-crabfeathers/) | [15:50](https://youtube.com/live/ezlBzx7DvTU?t=950) | Swing |  |
-| 4 | [Christmastime is Here]({{ '/songs/' | relative_url }}christmastime-is-here/) | [22:01](https://youtube.com/live/ezlBzx7DvTU?t=1321) | Christmas |  |
-| 5 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [31:20](https://youtube.com/live/ezlBzx7DvTU?t=1880) | Downtempo | Done |
-| 6 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) | [38:25](https://youtube.com/live/ezlBzx7DvTU?t=2305) | Swing |  |
-| 7 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [45:20](https://youtube.com/live/ezlBzx7DvTU?t=2720) | World |  |
-| 8 | [Snow Petrels Closer]({{ '/one-off-songs.html' | relative_url }}#snow-petrels-closer) | [51:28](https://youtube.com/live/ezlBzx7DvTU?t=3088) |  |  |

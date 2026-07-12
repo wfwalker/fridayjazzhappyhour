@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/9W9CR7iCOvk"
 image: "/assets/images/title-slides/episode-221.jpg"
+setlist:
+  - song_num: "1"
+    name: "Stella by Starlight"
+    slug: "stella-by-starlight"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Cast your Fate to the Wind"
+    slug: "cast-your-fate-to-the-wind"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Brazil"
+    slug: "brazil"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Jean Pierre in Egypt"
+    slug: "jean-pierre-in-egypt"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Icarus"
+    slug: "icarus"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Softly as in a morning Sunrise"
+    slug: "softly-as-in-a-morning-sunrise"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "It Don’t Mean a Thing (If It Ain't Got That Swing)"
+    slug: "it-dont-mean-a-thing-if-it-aint-got-that-swing"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "How Deep is the Ocean"
+    slug: "how-deep-is-the-ocean"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Closer Aug 16"
+    slug: "closer-aug-16"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 221 (August 16, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/9W9CR7iCOvk)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) |  | Swing |  |
-| 2 | [Cast your Fate to the Wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) |  | Pop |  |
-| 3 | [Brazil]({{ '/songs/' | relative_url }}brazil/) |  | Bossa |  |
-| 4 | [Jean Pierre in Egypt]({{ '/songs/' | relative_url }}jean-pierre-in-egypt/) |  | Funk |  |
-| 5 | [Icarus]({{ '/songs/' | relative_url }}icarus/) |  | Latin |  |
-| 6 | [Softly as in a morning Sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) |  | Techno |  |
-| 7 | [It Don’t Mean a Thing (If It Ain't Got That Swing)]({{ '/songs/' | relative_url }}it-dont-mean-a-thing-if-it-aint-got-that-swing/) |  | Swing |  |
-| 8 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) |  | Ballad |  |
-| 9 | [Closer Aug 16]({{ '/one-off-songs.html' | relative_url }}#closer-aug-16) |  |  |  |

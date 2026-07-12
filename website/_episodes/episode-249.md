@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/XrnoBxZGghE"
 image: "/assets/images/title-slides/episode-249.jpg"
+setlist:
+  - song_num: "1"
+    name: "What is this Thing called Love"
+    slug: "what-is-this-thing-called-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "New Day Lofi"
+    slug: "new-day-lofi"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Sugar"
+    slug: "sugar"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Up Jumped Spring"
+    slug: "up-jumped-spring"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Time after time"
+    slug: "time-after-time"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Agua de Beber"
+    slug: "agua-de-beber"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Caminhos Cruzados"
+    slug: "caminhos-cruzados"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 249 (March 14, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/XrnoBxZGghE)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [What is this Thing called Love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) |  | Swing |  |
-| 2 | [New Day Lofi]({{ '/songs/' | relative_url }}new-day-lofi/) |  | Downtempo |  |
-| 3 | [Sugar]({{ '/songs/' | relative_url }}sugar/) |  | Swing |  |
-| 4 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) |  | Funk |  |
-| 5 | [Up Jumped Spring]({{ '/songs/' | relative_url }}up-jumped-spring/) |  | Swing |  |
-| 6 | [Time after time]({{ '/songs/' | relative_url }}time-after-time/) |  | Pop |  |
-| 7 | [Agua de Beber]({{ '/songs/' | relative_url }}agua-de-beber/) |  | Latin |  |
-| 8 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) |  | Bossa |  |

@@ -12,20 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-240.jpg"
+setlist:
+  - song_num: "1"
+    name: "I Love Paris"
+    slug: "i-love-paris"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "TSOP"
+    slug: "tsop"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Jean Pierre in Egypt"
+    slug: "jean-pierre-in-egypt"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Root Down (and Get it)"
+    slug: "root-down-and-get-it"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Trans Europe Express"
+    slug: "trans-europe-express"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Freedom Jazz Dance"
+    slug: "freedom-jazz-dance"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Amphibious"
+    slug: "amphibious"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Monkey Pants"
+    slug: "monkey-pants"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Lovely Day"
+    slug: "lovely-day"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 240 (December 31, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [I Love Paris]({{ '/songs/' | relative_url }}i-love-paris/) |  | Techno |  |
-| 2 | [TSOP]({{ '/songs/' | relative_url }}tsop/) |  | Funk |  |
-| 3 | [Jean Pierre in Egypt]({{ '/songs/' | relative_url }}jean-pierre-in-egypt/) |  | Funk |  |
-| 4 | [Root Down (and Get it)]({{ '/songs/' | relative_url }}root-down-and-get-it/) |  | Funk |  |
-| 5 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) |  | Techno |  |
-| 6 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) |  | Funk |  |
-| 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  | Funk |  |
-| 8 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) |  | Funk |  |
-| 9 | [Lovely Day]({{ '/songs/' | relative_url }}lovely-day/) |  | Pop |  |

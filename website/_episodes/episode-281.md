@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/n534pTTA3uM"
 image: "/assets/images/title-slides/episode-281.jpg"
+setlist:
+  - song_num: "1"
+    name: "Have yourself a Merry little Christmas"
+    slug: "have-yourself-a-merry-little-christmas"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Bonita"
+    slug: "bonita"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "All Blues"
+    slug: "all-blues"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "How Insensitive"
+    slug: "how-insensitive"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Girl Talk"
+    slug: "girl-talk"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "The Holly and the Ivy"
+    slug: "the-holly-and-the-ivy"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Amphibious"
+    slug: "amphibious"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Euro Closer Euclid"
+    slug: "euro-closer-euclid"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 281 (December 12, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/n534pTTA3uM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Have yourself a Merry little Christmas]({{ '/songs/' | relative_url }}have-yourself-a-merry-little-christmas/) |  | Christmas |  |
-| 2 | [Bonita]({{ '/songs/' | relative_url }}bonita/) |  | Bossa |  |
-| 3 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) |  | Swing |  |
-| 4 | [How Insensitive]({{ '/songs/' | relative_url }}how-insensitive/) |  | Bossa |  |
-| 5 | [Girl Talk]({{ '/songs/' | relative_url }}girl-talk/) |  | Swing |  |
-| 6 | [The Holly and the Ivy]({{ '/songs/' | relative_url }}the-holly-and-the-ivy/) |  | Christmas |  |
-| 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  | Funk |  |
-| 8 | [Euro Closer Euclid]({{ '/one-off-songs.html' | relative_url }}#euro-closer-euclid) |  |  |  |

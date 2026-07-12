@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/UkPy7gCsShE"
 image: "/assets/images/title-slides/episode-259.jpg"
+setlist:
+  - song_num: "1"
+    name: "Lawns"
+    slug: "lawns"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "If I were a bell"
+    slug: "if-i-were-a-bell"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Pick up the Pieces"
+    slug: "pick-up-the-pieces"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Nearness of You"
+    slug: "nearness-of-you"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Won't you be my neighbor?"
+    slug: "wont-you-be-my-neighbor"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "De Volta ao Samba"
+    slug: "de-volta-ao-samba"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Summertime"
+    slug: "summertime"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "interesting piano closer"
+    slug: "interesting-piano-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 259 (June 6, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/UkPy7gCsShE)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Lawns]({{ '/songs/' | relative_url }}lawns/) |  | Ballad |  |
-| 2 | [If I were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) |  | Swing |  |
-| 3 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) |  | Funk |  |
-| 4 | [Nearness of You]({{ '/songs/' | relative_url }}nearness-of-you/) |  | Bossa |  |
-| 5 | [Won't you be my neighbor?]({{ '/songs/' | relative_url }}wont-you-be-my-neighbor/) |  | Swing |  |
-| 6 | [De Volta ao Samba]({{ '/songs/' | relative_url }}de-volta-ao-samba/) |  | Bossa |  |
-| 7 | [Summertime]({{ '/songs/' | relative_url }}summertime/) |  | Funk |  |
-| 8 | [interesting piano closer]({{ '/one-off-songs.html' | relative_url }}#interesting-piano-closer) |  |  |  |

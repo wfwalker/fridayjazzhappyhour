@@ -12,21 +12,77 @@ tip_jar: "charles roundtree bloom"
 notes: ""
 youtube_url: "https://youtu.be/ZnlVVoHkbCE"
 image: "/assets/images/title-slides/episode-65.jpg"
+setlist:
+  - song_num: "1"
+    name: "The Egg and You"
+    slug: "the-egg-and-you"
+    url: "https://youtu.be/ZnlVVoHkbCE?t=290"
+    time: "04:50"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Triste"
+    slug: "triste"
+    url: "https://youtu.be/ZnlVVoHkbCE?t=674"
+    time: "11:14"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: "https://youtu.be/ZnlVVoHkbCE?t=1203"
+    time: "20:03"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Letters of the Alphabet improv"
+    slug: "letters-of-the-alphabet-improv"
+    url: "https://youtu.be/ZnlVVoHkbCE?t=1730"
+    time: "28:50"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "It Don’t Mean a Thing (If It Ain't Got That Swing)"
+    slug: "it-dont-mean-a-thing-if-it-aint-got-that-swing"
+    url: "https://youtu.be/ZnlVVoHkbCE?t=2055"
+    time: "34:15"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Cast your Fate to the Wind"
+    slug: "cast-your-fate-to-the-wind"
+    url: "https://youtu.be/ZnlVVoHkbCE?t=2475"
+    time: "41:15"
+    style: "Pop"
+    composer: ""
+    notes: "gtr solo!"
+    hof: true
+  - song_num: "7"
+    name: "Sunny"
+    slug: "sunny"
+    url: "https://youtu.be/ZnlVVoHkbCE?t=2845"
+    time: "47:25"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "O Barquinho"
+    slug: "o-barquinho"
+    url: "https://youtu.be/ZnlVVoHkbCE?t=3455"
+    time: "57:35"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 65 (June 11, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/ZnlVVoHkbCE)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [The Egg and You]({{ '/songs/' | relative_url }}the-egg-and-you/) | [04:50](https://youtu.be/ZnlVVoHkbCE?t=290) | Pop |  |
-| 2 | [Triste]({{ '/songs/' | relative_url }}triste/) | [11:14](https://youtu.be/ZnlVVoHkbCE?t=674) | Bossa |  |
-| 3 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [20:03](https://youtu.be/ZnlVVoHkbCE?t=1203) | Funk |  |
-| 4 | [Letters of the Alphabet improv]({{ '/one-off-songs.html' | relative_url }}#letters-of-the-alphabet-improv) | [28:50](https://youtu.be/ZnlVVoHkbCE?t=1730) | Ballad |  |
-| 5 | [It Don’t Mean a Thing (If It Ain't Got That Swing)]({{ '/songs/' | relative_url }}it-dont-mean-a-thing-if-it-aint-got-that-swing/) | [34:15](https://youtu.be/ZnlVVoHkbCE?t=2055) | Swing |  |
-| 6 | [Cast your Fate to the Wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) | [41:15](https://youtu.be/ZnlVVoHkbCE?t=2475) | Pop | gtr solo! |
-| 7 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [47:25](https://youtu.be/ZnlVVoHkbCE?t=2845) | Funk |  |
-| 8 | [O Barquinho]({{ '/songs/' | relative_url }}o-barquinho/) | [57:35](https://youtu.be/ZnlVVoHkbCE?t=3455) | Bossa |  |

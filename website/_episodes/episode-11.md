@@ -12,22 +12,86 @@ tip_jar: "Minnesota Freedom Fund"
 notes: ""
 youtube_url: "https://youtu.be/4UMdp7mQUrM"
 image: "/assets/images/title-slides/episode-11.png"
+setlist:
+  - song_num: "1"
+    name: "Crystal Silence"
+    slug: "crystal-silence"
+    url: "https://youtu.be/4UMdp7mQUrM?t=224"
+    time: "03:44"
+    style: "ballad"
+    composer: "Chick Corea"
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "Up Jumped Spring"
+    slug: "up-jumped-spring"
+    url: "https://youtu.be/4UMdp7mQUrM?t=1554"
+    time: "25:54"
+    style: "Swing"
+    composer: "Freddie Hubbard"
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Angel Eyes"
+    slug: "angel-eyes"
+    url: "https://youtu.be/4UMdp7mQUrM?t=1834"
+    time: "30:34"
+    style: "Swing"
+    composer: "Matt Dennis"
+    notes: "REDO can't perceive form of song; melody too slow"
+    hof: true
+  - song_num: "4"
+    name: "The Merry-go-round of Life"
+    slug: "the-merry-go-round-of-life"
+    url: "https://youtu.be/4UMdp7mQUrM?t=2380"
+    time: "39:40"
+    style: "ballad"
+    composer: "Joe Hisaishi"
+    notes: "REDO"
+    hof: false
+  - song_num: "5"
+    name: "Spring Can Really Hang You Up the Most"
+    slug: "spring-can-really-hang-you-up-the-most"
+    url: "https://youtu.be/4UMdp7mQUrM?t=3427"
+    time: "57:07"
+    style: "ballad"
+    composer: "Tommy Wolf"
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "Agua de Beber"
+    slug: "agua-de-beber"
+    url: "https://youtu.be/4UMdp7mQUrM?t=2770"
+    time: "46:10"
+    style: "Latin"
+    composer: "Jobim"
+    notes: "REDO guitar too loud"
+    hof: true
+  - song_num: "7"
+    name: "Hippies on a Corner"
+    slug: "hippies-on-a-corner"
+    url: "https://youtu.be/4UMdp7mQUrM?t=3105"
+    time: "51:45"
+    style: "funk"
+    composer: "Joe Sample"
+    notes: ""
+    hof: false
+  - song_num: "8"
+    name: "I could write a book"
+    slug: "i-could-write-a-book"
+    url: "https://youtu.be/4UMdp7mQUrM?t=693"
+    time: "11:33"
+    style: ""
+    composer: "Rogers and Hart"
+    notes: "in week 12 file"
+    hof: false
+  - song_num: "9"
+    name: "Night in Tunisia"
+    slug: "night-in-tunisia"
+    url: "https://youtu.be/4UMdp7mQUrM?t=1114"
+    time: "18:34"
+    style: "Downtempo"
+    composer: "Dizzy Gillespie"
+    notes: "bembe"
+    hof: true
 ---
-
-# Episode 11 (May 29, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/4UMdp7mQUrM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Crystal Silence]({{ '/one-off-songs.html' | relative_url }}#crystal-silence) | [03:44](https://youtu.be/4UMdp7mQUrM?t=224) | ballad<br><small style='color:var(--text-secondary);'>by Chick Corea</small> |  |
-| 2 | [Up Jumped Spring]({{ '/songs/' | relative_url }}up-jumped-spring/) | [25:54](https://youtu.be/4UMdp7mQUrM?t=1554) | Swing<br><small style='color:var(--text-secondary);'>by Freddie Hubbard</small> |  |
-| 3 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) | [30:34](https://youtu.be/4UMdp7mQUrM?t=1834) | Swing<br><small style='color:var(--text-secondary);'>by Matt Dennis</small> | REDO can't perceive form of song; melody too slow |
-| 4 | [The Merry-go-round of Life]({{ '/one-off-songs.html' | relative_url }}#the-merry-go-round-of-life) | [39:40](https://youtu.be/4UMdp7mQUrM?t=2380) | ballad<br><small style='color:var(--text-secondary);'>by Joe Hisaishi</small> | REDO |
-| 5 | [Spring Can Really Hang You Up the Most]({{ '/one-off-songs.html' | relative_url }}#spring-can-really-hang-you-up-the-most) | [57:07](https://youtu.be/4UMdp7mQUrM?t=3427) | ballad<br><small style='color:var(--text-secondary);'>by Tommy Wolf</small> |  |
-| 6 | [Agua de Beber]({{ '/songs/' | relative_url }}agua-de-beber/) | [46:10](https://youtu.be/4UMdp7mQUrM?t=2770) | Latin<br><small style='color:var(--text-secondary);'>by Jobim</small> | REDO guitar too loud |
-| 7 | [Hippies on a Corner]({{ '/one-off-songs.html' | relative_url }}#hippies-on-a-corner) | [51:45](https://youtu.be/4UMdp7mQUrM?t=3105) | funk<br><small style='color:var(--text-secondary);'>by Joe Sample</small> |  |
-| 8 | [I could write a book]({{ '/one-off-songs.html' | relative_url }}#i-could-write-a-book) | [11:33](https://youtu.be/4UMdp7mQUrM?t=693) | <br><small style='color:var(--text-secondary);'>by Rogers and Hart</small> | in week 12 file |
-| 9 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) | [18:34](https://youtu.be/4UMdp7mQUrM?t=1114) | Downtempo<br><small style='color:var(--text-secondary);'>by Dizzy Gillespie</small> | bembe |

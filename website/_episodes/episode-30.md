@@ -12,22 +12,86 @@ tip_jar: "united way fire"
 notes: "yes"
 youtube_url: "https://youtu.be/BOcDB0UTT54"
 image: "/assets/images/title-slides/episode-30.jpg"
+setlist:
+  - song_num: "1"
+    name: "New Day LoFi"
+    slug: "new-day-lofi"
+    url: "https://youtu.be/BOcDB0UTT54?t=294"
+    time: "04:54"
+    style: "Downtempo"
+    composer: "Bill Walker"
+    notes: "breath flute,rhodes,bassloop, lofi drum"
+    hof: true
+  - song_num: "2"
+    name: "Blues in F"
+    slug: "blues-in-f"
+    url: "https://youtu.be/BOcDB0UTT54?t=628"
+    time: "10:28"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "3"
+    name: "Corcovado"
+    slug: "corcovado"
+    url: "https://youtu.be/BOcDB0UTT54?t=870"
+    time: "14:30"
+    style: "Bossa"
+    composer: ""
+    notes: "HOF; transition in/out of guitar solo wonky"
+    hof: true
+  - song_num: "4"
+    name: "Rando Bass"
+    slug: "rando-bass"
+    url: "https://youtu.be/BOcDB0UTT54?t=1445"
+    time: "24:05"
+    style: ""
+    composer: ""
+    notes: "why didn't midi overdub work?"
+    hof: false
+  - song_num: "5"
+    name: "Goodbye Pork Pie Hat"
+    slug: "goodbye-pork-pie-hat"
+    url: "https://youtu.be/BOcDB0UTT54?t=1765"
+    time: "29:25"
+    style: "Swing"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "6"
+    name: "Montara"
+    slug: "montara"
+    url: "https://youtu.be/BOcDB0UTT54?t=2177"
+    time: "36:17"
+    style: "Downtempo"
+    composer: ""
+    notes: "HOF practice the head!"
+    hof: true
+  - song_num: "7"
+    name: "A Lotus on Irish Streams"
+    slug: "a-lotus-on-irish-streams"
+    url: "https://youtu.be/BOcDB0UTT54?t=2570"
+    time: "42:50"
+    style: "Ballad"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "8"
+    name: "Summertime"
+    slug: "summertime"
+    url: "https://youtu.be/BOcDB0UTT54?t=2856"
+    time: "47:36"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "What'll I Do?"
+    slug: "whatll-i-do"
+    url: "https://youtu.be/BOcDB0UTT54?t=3343"
+    time: "55:43"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 30 (October 9, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/BOcDB0UTT54)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [New Day LoFi]({{ '/songs/' | relative_url }}new-day-lofi/) | [04:54](https://youtu.be/BOcDB0UTT54?t=294) | Downtempo<br><small style='color:var(--text-secondary);'>by Bill Walker</small> | breath flute,rhodes,bassloop, lofi drum |
-| 2 | [Blues in F]({{ '/one-off-songs.html' | relative_url }}#blues-in-f) | [10:28](https://youtu.be/BOcDB0UTT54?t=628) |  |  |
-| 3 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) | [14:30](https://youtu.be/BOcDB0UTT54?t=870) | Bossa | HOF; transition in/out of guitar solo wonky |
-| 4 | [Rando Bass]({{ '/one-off-songs.html' | relative_url }}#rando-bass) | [24:05](https://youtu.be/BOcDB0UTT54?t=1445) |  | why didn't midi overdub work? |
-| 5 | [Goodbye Pork Pie Hat]({{ '/songs/' | relative_url }}goodbye-pork-pie-hat/) | [29:25](https://youtu.be/BOcDB0UTT54?t=1765) | Swing | HOF |
-| 6 | [Montara]({{ '/songs/' | relative_url }}montara/) | [36:17](https://youtu.be/BOcDB0UTT54?t=2177) | Downtempo | HOF practice the head! |
-| 7 | [A Lotus on Irish Streams]({{ '/songs/' | relative_url }}a-lotus-on-irish-streams/) | [42:50](https://youtu.be/BOcDB0UTT54?t=2570) | Ballad | HOF |
-| 8 | [Summertime]({{ '/songs/' | relative_url }}summertime/) | [47:36](https://youtu.be/BOcDB0UTT54?t=2856) | Funk |  |
-| 9 | [What'll I Do?]({{ '/songs/' | relative_url }}whatll-i-do/) | [55:43](https://youtu.be/BOcDB0UTT54?t=3343) | Ballad |  |

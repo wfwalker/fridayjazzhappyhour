@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/85OXSWzyCHU"
 image: "/assets/images/title-slides/episode-247.jpg"
+setlist:
+  - song_num: "1"
+    name: "I Can't get started"
+    slug: "i-cant-get-started"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "It might as well be spring"
+    slug: "it-might-as-well-be-spring"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "My Favorite Things"
+    slug: "my-favorite-things"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Samba e Amor"
+    slug: "samba-e-amor"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Bluesette"
+    slug: "bluesette"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Estate"
+    slug: "estate"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Frog"
+    slug: "frog"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "We'll be together again closer"
+    slug: "well-be-together-again-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 247 (February 21, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/85OXSWzyCHU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [I Can't get started]({{ '/songs/' | relative_url }}i-cant-get-started/) |  | Swing |  |
-| 2 | [It might as well be spring]({{ '/songs/' | relative_url }}it-might-as-well-be-spring/) |  | Bossa |  |
-| 3 | [My Favorite Things]({{ '/songs/' | relative_url }}my-favorite-things/) |  | Swing |  |
-| 4 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) |  | Samba |  |
-| 5 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) |  | Swing |  |
-| 6 | [Estate]({{ '/songs/' | relative_url }}estate/) |  | Techno |  |
-| 7 | [Frog]({{ '/songs/' | relative_url }}frog/) |  | Funk |  |
-| 8 | [We'll be together again closer]({{ '/one-off-songs.html' | relative_url }}#well-be-together-again-closer) |  |  |  |

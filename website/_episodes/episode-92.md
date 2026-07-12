@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/-MgcGR7PIMg"
 image: "/assets/images/title-slides/episode-92.jpg"
+setlist:
+  - song_num: "1"
+    name: "Have yourself a Merry little Christmas"
+    slug: "have-yourself-a-merry-little-christmas"
+    url: "https://youtu.be/-MgcGR7PIMg?t=200"
+    time: "03:20"
+    style: "Christmas"
+    composer: ""
+    notes: "swingin'"
+    hof: true
+  - song_num: "2"
+    name: "Look to the Sky"
+    slug: "look-to-the-sky"
+    url: "https://youtu.be/-MgcGR7PIMg?t=594"
+    time: "09:54"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "It Don’t Mean a Thing (If It Ain't Got That Swing)"
+    slug: "it-dont-mean-a-thing-if-it-aint-got-that-swing"
+    url: "https://youtu.be/-MgcGR7PIMg?t=944"
+    time: "15:44"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Christmas is Coming"
+    slug: "christmas-is-coming"
+    url: "https://youtu.be/-MgcGR7PIMg?t=1308"
+    time: "21:48"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: "https://youtu.be/-MgcGR7PIMg?t=1762"
+    time: "29:22"
+    style: "Latin"
+    composer: ""
+    notes: "bass solo fail"
+    hof: true
+  - song_num: "6"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtu.be/-MgcGR7PIMg?t=2185"
+    time: "36:25"
+    style: "Swing"
+    composer: ""
+    notes: "sloppy but interesting"
+    hof: true
+  - song_num: "7"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: "https://youtu.be/-MgcGR7PIMg?t=2575"
+    time: "42:55"
+    style: "Funk"
+    composer: ""
+    notes: "o come o come sort of"
+    hof: true
+  - song_num: "8"
+    name: "Closer Dec 17"
+    slug: "closer-dec-17"
+    url: "https://youtu.be/-MgcGR7PIMg?t=3065"
+    time: "51:05"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 92 (December 17, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/-MgcGR7PIMg)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Have yourself a Merry little Christmas]({{ '/songs/' | relative_url }}have-yourself-a-merry-little-christmas/) | [03:20](https://youtu.be/-MgcGR7PIMg?t=200) | Christmas | swingin' |
-| 2 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) | [09:54](https://youtu.be/-MgcGR7PIMg?t=594) | Bossa |  |
-| 3 | [It Don’t Mean a Thing (If It Ain't Got That Swing)]({{ '/songs/' | relative_url }}it-dont-mean-a-thing-if-it-aint-got-that-swing/) | [15:44](https://youtu.be/-MgcGR7PIMg?t=944) | Swing |  |
-| 4 | [Christmas is Coming]({{ '/songs/' | relative_url }}christmas-is-coming/) | [21:48](https://youtu.be/-MgcGR7PIMg?t=1308) | Christmas |  |
-| 5 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [29:22](https://youtu.be/-MgcGR7PIMg?t=1762) | Latin | bass solo fail |
-| 6 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [36:25](https://youtu.be/-MgcGR7PIMg?t=2185) | Swing | sloppy but interesting |
-| 7 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [42:55](https://youtu.be/-MgcGR7PIMg?t=2575) | Funk | o come o come sort of |
-| 8 | [Closer Dec 17]({{ '/one-off-songs.html' | relative_url }}#closer-dec-17) | [51:05](https://youtu.be/-MgcGR7PIMg?t=3065) |  |  |

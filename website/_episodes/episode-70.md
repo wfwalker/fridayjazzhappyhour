@@ -12,19 +12,59 @@ tip_jar: "h+H"
 notes: ""
 youtube_url: "https://youtu.be/yaLXVIw0nxE"
 image: "/assets/images/title-slides/episode-70.jpg"
+setlist:
+  - song_num: "1"
+    name: "Montara"
+    slug: "montara"
+    url: "https://youtu.be/yaLXVIw0nxE?t=50"
+    time: "00:50"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: "https://youtu.be/yaLXVIw0nxE?t=367"
+    time: "06:07"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Sugar"
+    slug: "sugar"
+    url: "https://youtu.be/yaLXVIw0nxE?t=715"
+    time: "11:55"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "If I were a bell"
+    slug: "if-i-were-a-bell"
+    url: "https://youtu.be/yaLXVIw0nxE?t=1026"
+    time: "17:06"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Samba de Orfeu"
+    slug: "samba-de-orfeu"
+    url: "https://youtu.be/yaLXVIw0nxE?t=1297"
+    time: "21:37"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Peace Piece"
+    slug: "peace-piece"
+    url: "https://youtu.be/yaLXVIw0nxE?t=1632"
+    time: "27:12"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 70 (July 16, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/yaLXVIw0nxE)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Montara]({{ '/songs/' | relative_url }}montara/) | [00:50](https://youtu.be/yaLXVIw0nxE?t=50) | Downtempo |  |
-| 2 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [06:07](https://youtu.be/yaLXVIw0nxE?t=367) | Funk |  |
-| 3 | [Sugar]({{ '/songs/' | relative_url }}sugar/) | [11:55](https://youtu.be/yaLXVIw0nxE?t=715) | Swing |  |
-| 4 | [If I were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) | [17:06](https://youtu.be/yaLXVIw0nxE?t=1026) | Swing |  |
-| 5 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [21:37](https://youtu.be/yaLXVIw0nxE?t=1297) | Samba |  |
-| 6 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) | [27:12](https://youtu.be/yaLXVIw0nxE?t=1632) | Ballad |  |

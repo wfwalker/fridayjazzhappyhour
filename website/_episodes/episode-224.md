@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/q7YgLQqeilg"
 image: "/assets/images/title-slides/episode-224.jpg"
+setlist:
+  - song_num: "1"
+    name: "It's only a paper moon"
+    slug: "its-only-a-paper-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Road Song"
+    slug: "road-song"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "What is this thing called love"
+    slug: "what-is-this-thing-called-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Sister Sadie"
+    slug: "sister-sadie"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Ternura"
+    slug: "ternura"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "St. Thomas"
+    slug: "st-thomas"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Agua de Beber"
+    slug: "agua-de-beber"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "shipping news ambient closer"
+    slug: "shipping-news-ambient-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 224 (September 13, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/q7YgLQqeilg)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [It's only a paper moon]({{ '/songs/' | relative_url }}its-only-a-paper-moon/) |  | Swing |  |
-| 2 | [Road Song]({{ '/songs/' | relative_url }}road-song/) |  | Pop |  |
-| 3 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) |  | Swing |  |
-| 4 | [Sister Sadie]({{ '/songs/' | relative_url }}sister-sadie/) |  | Swing |  |
-| 5 | [Ternura]({{ '/songs/' | relative_url }}ternura/) |  | Latin |  |
-| 6 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) |  | Latin |  |
-| 7 | [Agua de Beber]({{ '/songs/' | relative_url }}agua-de-beber/) |  | Latin |  |
-| 8 | [shipping news ambient closer]({{ '/one-off-songs.html' | relative_url }}#shipping-news-ambient-closer) |  |  |  |

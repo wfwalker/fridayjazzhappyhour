@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/kPqhJAREXfo"
 image: "/assets/images/title-slides/episode-203.jpg"
+setlist:
+  - song_num: "1"
+    name: "It's only a paper moon"
+    slug: "its-only-a-paper-moon"
+    url: "https://youtube.com/live/kPqhJAREXfo?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "The Egg and You"
+    slug: "the-egg-and-you"
+    url: "https://youtube.com/live/kPqhJAREXfo?t=715"
+    time: "11:55"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Desafinado"
+    slug: "desafinado"
+    url: "https://youtube.com/live/kPqhJAREXfo?t=1158"
+    time: "19:18"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Newsky Bluesky"
+    slug: "newsky-bluesky"
+    url: "https://youtube.com/live/kPqhJAREXfo?t=1533"
+    time: "25:33"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtube.com/live/kPqhJAREXfo?t=1859"
+    time: "30:59"
+    style: "Swing"
+    composer: "`"
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Zero-Nineteen"
+    slug: "zero-nineteen"
+    url: "https://youtube.com/live/kPqhJAREXfo?t=2350"
+    time: "39:10"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Sunny"
+    slug: "sunny"
+    url: "https://youtube.com/live/kPqhJAREXfo?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Bladerunner improv march 22"
+    slug: "bladerunner-improv-march-22"
+    url: "https://youtube.com/live/kPqhJAREXfo?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 203 (March 22, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/kPqhJAREXfo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [It's only a paper moon]({{ '/songs/' | relative_url }}its-only-a-paper-moon/) | [04:28](https://youtube.com/live/kPqhJAREXfo?t=268) | Swing |  |
-| 2 | [The Egg and You]({{ '/songs/' | relative_url }}the-egg-and-you/) | [11:55](https://youtube.com/live/kPqhJAREXfo?t=715) | Pop |  |
-| 3 | [Desafinado]({{ '/songs/' | relative_url }}desafinado/) | [19:18](https://youtube.com/live/kPqhJAREXfo?t=1158) | Bossa |  |
-| 4 | [Newsky Bluesky]({{ '/songs/' | relative_url }}newsky-bluesky/) | [25:33](https://youtube.com/live/kPqhJAREXfo?t=1533) | Downtempo |  |
-| 5 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [30:59](https://youtube.com/live/kPqhJAREXfo?t=1859) | Swing<br><small style='color:var(--text-secondary);'>by `</small> |  |
-| 6 | [Zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) | [39:10](https://youtube.com/live/kPqhJAREXfo?t=2350) | Techno |  |
-| 7 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [44:22](https://youtube.com/live/kPqhJAREXfo?t=2662) | Funk |  |
-| 8 | [Bladerunner improv march 22]({{ '/one-off-songs.html' | relative_url }}#bladerunner-improv-march-22) | [50:23](https://youtube.com/live/kPqhJAREXfo?t=3023) |  |  |

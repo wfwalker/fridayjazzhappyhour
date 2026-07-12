@@ -12,21 +12,77 @@ tip_jar: "SCVAS birdathon"
 notes: "yes"
 youtube_url: "https://youtu.be/l0R4TcCeMAY"
 image: "/assets/images/title-slides/episode-57.jpg"
+setlist:
+  - song_num: "1"
+    name: "Minor Swing"
+    slug: "minor-swing"
+    url: "https://youtu.be/l0R4TcCeMAY?t=322"
+    time: "05:22"
+    style: "Swing"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "2"
+    name: "Burbling"
+    slug: "burbling"
+    url: "https://youtu.be/l0R4TcCeMAY?t=610"
+    time: "10:10"
+    style: "World"
+    composer: ""
+    notes: "miami vice in the afternoon; tangerine beverley hills"
+    hof: true
+  - song_num: "3"
+    name: "Brazil"
+    slug: "brazil"
+    url: "https://youtu.be/l0R4TcCeMAY?t=1100"
+    time: "18:20"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Au Privave"
+    slug: "au-privave"
+    url: "https://youtu.be/l0R4TcCeMAY?t=1642"
+    time: "27:22"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Pocket Calculator"
+    slug: "pocket-calculator"
+    url: "https://youtu.be/l0R4TcCeMAY?t=2000"
+    time: "33:20"
+    style: "Techno"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "6"
+    name: "Isn't It Romantic"
+    slug: "isnt-it-romantic"
+    url: "https://youtu.be/l0R4TcCeMAY?t=2348"
+    time: "39:08"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "La Fiesta"
+    slug: "la-fiesta"
+    url: "https://youtu.be/l0R4TcCeMAY?t=2858"
+    time: "47:38"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Peace Piece"
+    slug: "peace-piece"
+    url: "https://youtu.be/l0R4TcCeMAY?t=3350"
+    time: "55:50"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 57 (April 16, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/l0R4TcCeMAY)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Minor Swing]({{ '/songs/' | relative_url }}minor-swing/) | [05:22](https://youtu.be/l0R4TcCeMAY?t=322) | Swing | HOF |
-| 2 | [Burbling]({{ '/songs/' | relative_url }}burbling/) | [10:10](https://youtu.be/l0R4TcCeMAY?t=610) | World | miami vice in the afternoon; tangerine beverley hills |
-| 3 | [Brazil]({{ '/songs/' | relative_url }}brazil/) | [18:20](https://youtu.be/l0R4TcCeMAY?t=1100) | Bossa |  |
-| 4 | [Au Privave]({{ '/songs/' | relative_url }}au-privave/) | [27:22](https://youtu.be/l0R4TcCeMAY?t=1642) | Swing |  |
-| 5 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) | [33:20](https://youtu.be/l0R4TcCeMAY?t=2000) | Techno | HOF |
-| 6 | [Isn't It Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) | [39:08](https://youtu.be/l0R4TcCeMAY?t=2348) | Swing |  |
-| 7 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [47:38](https://youtu.be/l0R4TcCeMAY?t=2858) | Latin |  |
-| 8 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) | [55:50](https://youtu.be/l0R4TcCeMAY?t=3350) | Ballad |  |

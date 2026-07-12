@@ -12,23 +12,95 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/6jjYZ-PG--g"
 image: "/assets/images/title-slides/episode-255.jpg"
+setlist:
+  - song_num: "1"
+    name: "Fly me to the moon"
+    slug: "fly-me-to-the-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Gentle Rain"
+    slug: "gentle-rain"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Samba de Orfeu"
+    slug: "samba-de-orfeu"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "How Insensitive"
+    slug: "how-insensitive"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Impressions"
+    slug: "impressions"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Montara"
+    slug: "montara"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Monkey Pants"
+    slug: "monkey-pants"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Some Day My Prince will Come"
+    slug: "some-day-my-prince-will-come"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Sunny"
+    slug: "sunny"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "10"
+    name: "Mo Better Blues"
+    slug: "mo-better-blues"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 255 (May 9, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/6jjYZ-PG--g)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Fly me to the moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) |  | Swing |  |
-| 2 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) |  | Bossa |  |
-| 3 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) |  | Samba |  |
-| 4 | [How Insensitive]({{ '/songs/' | relative_url }}how-insensitive/) |  | Bossa |  |
-| 5 | [Impressions]({{ '/songs/' | relative_url }}impressions/) |  | Techno |  |
-| 6 | [Montara]({{ '/songs/' | relative_url }}montara/) |  | Downtempo |  |
-| 7 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) |  | Funk |  |
-| 8 | [Some Day My Prince will Come]({{ '/songs/' | relative_url }}some-day-my-prince-will-come/) |  | Swing |  |
-| 9 | [Sunny]({{ '/songs/' | relative_url }}sunny/) |  | Funk |  |
-| 10 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) |  | Pop |  |

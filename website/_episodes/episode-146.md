@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/_UbYlUluq8M"
 image: "/assets/images/title-slides/episode-146.jpg"
+setlist:
+  - song_num: "1"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: "https://youtube.com/live/_UbYlUluq8M?t=215"
+    time: "03:35"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Canto de Osshana"
+    slug: "canto-de-osshana"
+    url: "https://youtube.com/live/_UbYlUluq8M?t=594"
+    time: "09:54"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Fly me to the Moon"
+    slug: "fly-me-to-the-moon"
+    url: "https://youtube.com/live/_UbYlUluq8M?t=1037"
+    time: "17:17"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Them Funky Changes"
+    slug: "them-funky-changes"
+    url: "https://youtube.com/live/_UbYlUluq8M?t=1370"
+    time: "22:50"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "This Can't Be Love"
+    slug: "this-cant-be-love"
+    url: "https://youtube.com/live/_UbYlUluq8M?t=1762"
+    time: "29:22"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Goodbye Look"
+    slug: "goodbye-look"
+    url: "https://youtube.com/live/_UbYlUluq8M?t=2100"
+    time: "35:00"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Solsbury Hill"
+    slug: "solsbury-hill"
+    url: "https://youtube.com/live/_UbYlUluq8M?t=2540"
+    time: "42:20"
+    style: "Pop"
+    composer: ""
+    notes: "fix mix, add comping"
+    hof: true
+  - song_num: "8"
+    name: "When I Fall in Love"
+    slug: "when-i-fall-in-love"
+    url: "https://youtube.com/live/_UbYlUluq8M?t=2925"
+    time: "48:45"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 146 (January 20, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/_UbYlUluq8M)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) | [03:35](https://youtube.com/live/_UbYlUluq8M?t=215) | Swing |  |
-| 2 | [Canto de Osshana]({{ '/songs/' | relative_url }}canto-de-osshana/) | [09:54](https://youtube.com/live/_UbYlUluq8M?t=594) | Samba |  |
-| 3 | [Fly me to the Moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) | [17:17](https://youtube.com/live/_UbYlUluq8M?t=1037) | Swing |  |
-| 4 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) | [22:50](https://youtube.com/live/_UbYlUluq8M?t=1370) | Funk |  |
-| 5 | [This Can't Be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) | [29:22](https://youtube.com/live/_UbYlUluq8M?t=1762) | Swing |  |
-| 6 | [Goodbye Look]({{ '/songs/' | relative_url }}goodbye-look/) | [35:00](https://youtube.com/live/_UbYlUluq8M?t=2100) | Pop |  |
-| 7 | [Solsbury Hill]({{ '/songs/' | relative_url }}solsbury-hill/) | [42:20](https://youtube.com/live/_UbYlUluq8M?t=2540) | Pop | fix mix, add comping |
-| 8 | [When I Fall in Love]({{ '/songs/' | relative_url }}when-i-fall-in-love/) | [48:45](https://youtube.com/live/_UbYlUluq8M?t=2925) | Ballad |  |

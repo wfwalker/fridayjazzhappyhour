@@ -12,21 +12,77 @@ tip_jar: "CASA"
 notes: "yes"
 youtube_url: "https://youtu.be/ItLGYec3rkE"
 image: "/assets/images/title-slides/episode-59.jpg"
+setlist:
+  - song_num: "1"
+    name: "Lucky Southern"
+    slug: "lucky-southern"
+    url: "https://youtu.be/ItLGYec3rkE?t=350"
+    time: "05:50"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Take Five (King Tubby)"
+    slug: "take-five-king-tubby"
+    url: "https://youtu.be/ItLGYec3rkE?t=630"
+    time: "10:30"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "One Note Samba"
+    slug: "one-note-samba"
+    url: "https://youtu.be/ItLGYec3rkE?t=1107"
+    time: "18:27"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "4"
+    name: "Trans Europe Express"
+    slug: "trans-europe-express"
+    url: "https://youtu.be/ItLGYec3rkE?t=1420"
+    time: "23:40"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Begin the Beguine"
+    slug: "begin-the-beguine"
+    url: "https://youtu.be/ItLGYec3rkE?t=1940"
+    time: "32:20"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Coming Home"
+    slug: "coming-home"
+    url: "https://youtu.be/ItLGYec3rkE?t=2565"
+    time: "42:45"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Footprints"
+    slug: "footprints"
+    url: "https://youtu.be/ItLGYec3rkE?t=2925"
+    time: "48:45"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: "https://youtu.be/ItLGYec3rkE?t=3391"
+    time: "56:31"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 59 (April 30, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/ItLGYec3rkE)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) | [05:50](https://youtu.be/ItLGYec3rkE?t=350) | Pop |  |
-| 2 | [Take Five (King Tubby)]({{ '/songs/' | relative_url }}take-five-king-tubby/) | [10:30](https://youtu.be/ItLGYec3rkE?t=630) | Downtempo |  |
-| 3 | [One Note Samba]({{ '/one-off-songs.html' | relative_url }}#one-note-samba) | [18:27](https://youtu.be/ItLGYec3rkE?t=1107) | Bossa |  |
-| 4 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) | [23:40](https://youtu.be/ItLGYec3rkE?t=1420) | Techno |  |
-| 5 | [Begin the Beguine]({{ '/songs/' | relative_url }}begin-the-beguine/) | [32:20](https://youtu.be/ItLGYec3rkE?t=1940) | Bossa |  |
-| 6 | [Coming Home]({{ '/songs/' | relative_url }}coming-home/) | [42:45](https://youtu.be/ItLGYec3rkE?t=2565) | Pop |  |
-| 7 | [Footprints]({{ '/songs/' | relative_url }}footprints/) | [48:45](https://youtu.be/ItLGYec3rkE?t=2925) | Swing |  |
-| 8 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) | [56:31](https://youtu.be/ItLGYec3rkE?t=3391) | Swing |  |

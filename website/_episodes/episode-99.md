@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/gK7O90mHgQ4"
 image: "/assets/images/title-slides/episode-99.jpg"
+setlist:
+  - song_num: "1"
+    name: "Angel Eyes"
+    slug: "angel-eyes"
+    url: "https://youtu.be/gK7O90mHgQ4?t=475"
+    time: "07:55"
+    style: "Swing"
+    composer: ""
+    notes: "tasty"
+    hof: true
+  - song_num: "2"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: "https://youtu.be/gK7O90mHgQ4?t=925"
+    time: "15:25"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Nearness of you"
+    slug: "nearness-of-you"
+    url: "https://youtu.be/gK7O90mHgQ4?t=1505"
+    time: "25:05"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Road Song"
+    slug: "road-song"
+    url: "https://youtu.be/gK7O90mHgQ4?t=1930"
+    time: "32:10"
+    style: "Pop"
+    composer: ""
+    notes: "keys + horns too loud; drums sound halftime"
+    hof: true
+  - song_num: "5"
+    name: "Coming Home"
+    slug: "coming-home"
+    url: "https://youtu.be/gK7O90mHgQ4?t=2360"
+    time: "39:20"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Saga of Harrison Crabfeathers"
+    slug: "saga-of-harrison-crabfeathers"
+    url: "https://youtu.be/gK7O90mHgQ4?t=2760"
+    time: "46:00"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Rise"
+    slug: "rise"
+    url: "https://youtu.be/gK7O90mHgQ4?t=3105"
+    time: "51:45"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Pendulums"
+    slug: "pendulums"
+    url: "https://youtu.be/gK7O90mHgQ4?t=3626"
+    time: "01:00:26"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 99 (February 4, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/gK7O90mHgQ4)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) | [07:55](https://youtu.be/gK7O90mHgQ4?t=475) | Swing | tasty |
-| 2 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) | [15:25](https://youtu.be/gK7O90mHgQ4?t=925) | Techno |  |
-| 3 | [Nearness of you]({{ '/songs/' | relative_url }}nearness-of-you/) | [25:05](https://youtu.be/gK7O90mHgQ4?t=1505) | Bossa |  |
-| 4 | [Road Song]({{ '/songs/' | relative_url }}road-song/) | [32:10](https://youtu.be/gK7O90mHgQ4?t=1930) | Pop | keys + horns too loud; drums sound halftime |
-| 5 | [Coming Home]({{ '/songs/' | relative_url }}coming-home/) | [39:20](https://youtu.be/gK7O90mHgQ4?t=2360) | Pop |  |
-| 6 | [Saga of Harrison Crabfeathers]({{ '/songs/' | relative_url }}saga-of-harrison-crabfeathers/) | [46:00](https://youtu.be/gK7O90mHgQ4?t=2760) | Swing |  |
-| 7 | [Rise]({{ '/songs/' | relative_url }}rise/) | [51:45](https://youtu.be/gK7O90mHgQ4?t=3105) | Funk |  |
-| 8 | [Pendulums]({{ '/one-off-songs.html' | relative_url }}#pendulums) | [01:00:26](https://youtu.be/gK7O90mHgQ4?t=3626) |  |  |

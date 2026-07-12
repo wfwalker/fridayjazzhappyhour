@@ -12,21 +12,77 @@ tip_jar: "aicls.org"
 notes: ""
 youtube_url: "https://youtu.be/reLwPwmrFZk"
 image: "/assets/images/title-slides/episode-84.jpg"
+setlist:
+  - song_num: "1"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: "https://youtu.be/reLwPwmrFZk?t=205"
+    time: "03:25"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Little Sunflower"
+    slug: "little-sunflower"
+    url: "https://youtu.be/reLwPwmrFZk?t=528"
+    time: "08:48"
+    style: "Techno"
+    composer: ""
+    notes: "i like it, different chords from Impressions tho"
+    hof: true
+  - song_num: "3"
+    name: "There will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: "https://youtu.be/reLwPwmrFZk?t=918"
+    time: "15:18"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Cissy Strut"
+    slug: "cissy-strut"
+    url: "https://youtu.be/reLwPwmrFZk?t=1292"
+    time: "21:32"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "New Phone Who Dis"
+    slug: "new-phone-who-dis"
+    url: "https://youtu.be/reLwPwmrFZk?t=1740"
+    time: "29:00"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Corcovado"
+    slug: "corcovado"
+    url: "https://youtu.be/reLwPwmrFZk?t=2214"
+    time: "36:54"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Impressions"
+    slug: "impressions"
+    url: "https://youtu.be/reLwPwmrFZk?t=2620"
+    time: "43:40"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Improv Oct 22"
+    slug: "closer-improv-oct-22"
+    url: "https://youtu.be/reLwPwmrFZk?t=3063"
+    time: "51:03"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 84 (October 22, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/reLwPwmrFZk)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [03:25](https://youtu.be/reLwPwmrFZk?t=205) | Bossa |  |
-| 2 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) | [08:48](https://youtu.be/reLwPwmrFZk?t=528) | Techno | i like it, different chords from Impressions tho |
-| 3 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) | [15:18](https://youtu.be/reLwPwmrFZk?t=918) | Swing |  |
-| 4 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) | [21:32](https://youtu.be/reLwPwmrFZk?t=1292) | Funk |  |
-| 5 | [New Phone Who Dis]({{ '/songs/' | relative_url }}new-phone-who-dis/) | [29:00](https://youtu.be/reLwPwmrFZk?t=1740) | Downtempo |  |
-| 6 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) | [36:54](https://youtu.be/reLwPwmrFZk?t=2214) | Bossa |  |
-| 7 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [43:40](https://youtu.be/reLwPwmrFZk?t=2620) | Techno |  |
-| 8 | [Closer Improv Oct 22]({{ '/one-off-songs.html' | relative_url }}#closer-improv-oct-22) | [51:03](https://youtu.be/reLwPwmrFZk?t=3063) |  |  |

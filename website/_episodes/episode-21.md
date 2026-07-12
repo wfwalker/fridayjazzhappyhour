@@ -12,21 +12,77 @@ tip_jar: "PATH San Jose"
 notes: ""
 youtube_url: "https://youtu.be/jqycjkIUaCs"
 image: "/assets/images/title-slides/episode-21.png"
+setlist:
+  - song_num: "1"
+    name: "Don't Get Around Much Anymore"
+    slug: "dont-get-around-much-anymore"
+    url: "https://youtu.be/jqycjkIUaCs?t=168"
+    time: "02:48"
+    style: "swing"
+    composer: "Duke Ellington"
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: "https://youtu.be/jqycjkIUaCs?t=1005"
+    time: "16:45"
+    style: "Funk"
+    composer: "Bill Walker"
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Morning"
+    slug: "morning"
+    url: "https://youtu.be/jqycjkIUaCs?t=572"
+    time: "09:32"
+    style: "Latin"
+    composer: "Clare Fischer"
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: "https://youtu.be/jqycjkIUaCs?t=1443"
+    time: "24:03"
+    style: "Techno"
+    composer: "Herbie Hancock"
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Fretless Improvisation"
+    slug: "fretless-improvisation"
+    url: "https://youtu.be/jqycjkIUaCs?t=2473"
+    time: "41:13"
+    style: ""
+    composer: "Bill Walker"
+    notes: "rhodes + fretless"
+    hof: false
+  - song_num: "6"
+    name: "Septimus Prime"
+    slug: "septimus-prime"
+    url: "https://youtu.be/jqycjkIUaCs?t=2853"
+    time: "47:33"
+    style: "Funk"
+    composer: "Bill Walker"
+    notes: "redo"
+    hof: true
+  - song_num: "7"
+    name: "Hi Lili, Hi Lo"
+    slug: "hi-lili-hi-lo"
+    url: "https://youtu.be/jqycjkIUaCs?t=3330"
+    time: "55:30"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "My Romance"
+    slug: "my-romance"
+    url: "https://youtu.be/jqycjkIUaCs?t=1927"
+    time: "32:07"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 21 (August 7, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/jqycjkIUaCs)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Don't Get Around Much Anymore]({{ '/one-off-songs.html' | relative_url }}#dont-get-around-much-anymore) | [02:48](https://youtu.be/jqycjkIUaCs?t=168) | swing<br><small style='color:var(--text-secondary);'>by Duke Ellington</small> |  |
-| 2 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) | [16:45](https://youtu.be/jqycjkIUaCs?t=1005) | Funk<br><small style='color:var(--text-secondary);'>by Bill Walker</small> |  |
-| 3 | [Morning]({{ '/songs/' | relative_url }}morning/) | [09:32](https://youtu.be/jqycjkIUaCs?t=572) | Latin<br><small style='color:var(--text-secondary);'>by Clare Fischer</small> |  |
-| 4 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [24:03](https://youtu.be/jqycjkIUaCs?t=1443) | Techno<br><small style='color:var(--text-secondary);'>by Herbie Hancock</small> |  |
-| 5 | [Fretless Improvisation]({{ '/one-off-songs.html' | relative_url }}#fretless-improvisation) | [41:13](https://youtu.be/jqycjkIUaCs?t=2473) | <br><small style='color:var(--text-secondary);'>by Bill Walker</small> | rhodes + fretless |
-| 6 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [47:33](https://youtu.be/jqycjkIUaCs?t=2853) | Funk<br><small style='color:var(--text-secondary);'>by Bill Walker</small> | redo |
-| 7 | [Hi Lili, Hi Lo]({{ '/songs/' | relative_url }}hi-lili-hi-lo/) | [55:30](https://youtu.be/jqycjkIUaCs?t=3330) | Ballad |  |
-| 8 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) | [32:07](https://youtu.be/jqycjkIUaCs?t=1927) | Swing |  |

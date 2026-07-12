@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/ytDJeP4KC4M"
 image: "/assets/images/title-slides/episode-200.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bye Bye Blackbird"
+    slug: "bye-bye-blackbird"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Gentle Rain"
+    slug: "gentle-rain"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "There will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Deacon Blues"
+    slug: "deacon-blues"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Waters of March"
+    slug: "waters-of-march"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Alphabet Game"
+    slug: "alphabet-game"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 200 (March 1, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/ytDJeP4KC4M)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) |  | Swing |  |
-| 2 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) |  | Bossa |  |
-| 3 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) |  | Techno |  |
-| 4 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) |  | Swing |  |
-| 5 | [Deacon Blues]({{ '/songs/' | relative_url }}deacon-blues/) |  | Pop |  |
-| 6 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) |  | Funk |  |
-| 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) |  | Funk |  |
-| 8 | [Waters of March]({{ '/songs/' | relative_url }}waters-of-march/) |  | Bossa |  |
-| 9 | [Alphabet Game]({{ '/one-off-songs.html' | relative_url }}#alphabet-game) |  |  |  |

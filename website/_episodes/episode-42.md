@@ -12,22 +12,86 @@ tip_jar: "crowdsourced"
 notes: "yes"
 youtube_url: "https://youtu.be/i7H03-9N1As"
 image: "/assets/images/title-slides/episode-42.jpg"
+setlist:
+  - song_num: "1"
+    name: "Starshine (Fretless Improvisation)"
+    slug: "starshine-fretless-improvisation"
+    url: "https://youtu.be/i7H03-9N1As?t=305"
+    time: "05:05"
+    style: ""
+    composer: ""
+    notes: "organ is good"
+    hof: false
+  - song_num: "2"
+    name: "Little Samba"
+    slug: "little-samba"
+    url: "https://youtu.be/i7H03-9N1As?t=578"
+    time: "09:38"
+    style: ""
+    composer: ""
+    notes: "gtr too repetitive; organ + vibes good"
+    hof: false
+  - song_num: "3"
+    name: "Some Other Funk"
+    slug: "some-other-funk"
+    url: "https://youtu.be/i7H03-9N1As?t=950"
+    time: "15:50"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Midnight"
+    slug: "midnight"
+    url: "https://youtu.be/i7H03-9N1As?t=1328"
+    time: "22:08"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "LOFi Improvisation"
+    slug: "lofi-improvisation"
+    url: "https://youtu.be/i7H03-9N1As?t=1767"
+    time: "29:27"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "Monkey Pants"
+    slug: "monkey-pants"
+    url: "https://youtu.be/i7H03-9N1As?t=2144"
+    time: "35:44"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Jarrettesque Piano Improv"
+    slug: "jarrettesque-piano-improv"
+    url: "https://youtu.be/i7H03-9N1As?t=2492"
+    time: "41:32"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "8"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: "https://youtu.be/i7H03-9N1As?t=2916"
+    time: "48:36"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Dinosaur Night"
+    slug: "dinosaur-night"
+    url: "https://youtu.be/i7H03-9N1As?t=3350"
+    time: "55:50"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 42 (January 1, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/i7H03-9N1As)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Starshine (Fretless Improvisation)]({{ '/one-off-songs.html' | relative_url }}#starshine-fretless-improvisation) | [05:05](https://youtu.be/i7H03-9N1As?t=305) |  | organ is good |
-| 2 | [Little Samba]({{ '/one-off-songs.html' | relative_url }}#little-samba) | [09:38](https://youtu.be/i7H03-9N1As?t=578) |  | gtr too repetitive; organ + vibes good |
-| 3 | [Some Other Funk]({{ '/songs/' | relative_url }}some-other-funk/) | [15:50](https://youtu.be/i7H03-9N1As?t=950) | Funk |  |
-| 4 | [Midnight]({{ '/songs/' | relative_url }}midnight/) | [22:08](https://youtu.be/i7H03-9N1As?t=1328) | Techno |  |
-| 5 | [LOFi Improvisation]({{ '/one-off-songs.html' | relative_url }}#lofi-improvisation) | [29:27](https://youtu.be/i7H03-9N1As?t=1767) |  |  |
-| 6 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) | [35:44](https://youtu.be/i7H03-9N1As?t=2144) | Funk |  |
-| 7 | [Jarrettesque Piano Improv]({{ '/one-off-songs.html' | relative_url }}#jarrettesque-piano-improv) | [41:32](https://youtu.be/i7H03-9N1As?t=2492) |  |  |
-| 8 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [48:36](https://youtu.be/i7H03-9N1As?t=2916) | Funk |  |
-| 9 | [Dinosaur Night]({{ '/one-off-songs.html' | relative_url }}#dinosaur-night) | [55:50](https://youtu.be/i7H03-9N1As?t=3350) |  |  |

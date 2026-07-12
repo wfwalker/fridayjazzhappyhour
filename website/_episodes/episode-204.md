@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/615Te08Ru0U?"
 image: "/assets/images/title-slides/episode-204.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bossa Antigua"
+    slug: "bossa-antigua"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "The Touch of your Lips"
+    slug: "the-touch-of-your-lips"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "This Masquerade"
+    slug: "this-masquerade"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "River Man"
+    slug: "river-man"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Au Privave"
+    slug: "au-privave"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "How Deep is the Ocean"
+    slug: "how-deep-is-the-ocean"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Amphibious"
+    slug: "amphibious"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "improv closer apr 12"
+    slug: "improv-closer-apr-12"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 204 (April 12, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/615Te08Ru0U?)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bossa Antigua]({{ '/songs/' | relative_url }}bossa-antigua/) |  | Bossa |  |
-| 2 | [The Touch of your Lips]({{ '/songs/' | relative_url }}the-touch-of-your-lips/) |  | Swing |  |
-| 3 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) |  | Funk |  |
-| 4 | [River Man]({{ '/songs/' | relative_url }}river-man/) |  | Pop |  |
-| 5 | [Au Privave]({{ '/songs/' | relative_url }}au-privave/) |  | Swing |  |
-| 6 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) |  | Ballad |  |
-| 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  | Funk |  |
-| 8 | [improv closer apr 12]({{ '/one-off-songs.html' | relative_url }}#improv-closer-apr-12) |  |  |  |

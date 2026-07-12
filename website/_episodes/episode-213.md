@@ -12,21 +12,95 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-213.jpg"
+setlist:
+  - song_num: "1"
+    name: "Alberta"
+    slug: "alberta"
+    url: ""
+    time: ""
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Morning"
+    slug: "morning"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "All Blues"
+    slug: "all-blues"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Montara"
+    slug: "montara"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Bye Bye Blackbird"
+    slug: "bye-bye-blackbird"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Caravan"
+    slug: "caravan"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "VCV arpeggio wash"
+    slug: "vcv-arpeggio-wash"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "10"
+    name: "Sacto closer"
+    slug: "sacto-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 213 (June 14, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Alberta]({{ '/songs/' | relative_url }}alberta/) |  | World |  |
-| 2 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) |  | Swing |  |
-| 3 | [Morning]({{ '/songs/' | relative_url }}morning/) |  | Latin |  |
-| 4 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) |  | Swing |  |
-| 5 | [Montara]({{ '/songs/' | relative_url }}montara/) |  | Downtempo |  |
-| 6 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) |  | Swing |  |
-| 7 | [Caravan]({{ '/songs/' | relative_url }}caravan/) |  | Swing |  |
-| 8 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) |  | Funk |  |
-| 9 | [VCV arpeggio wash]({{ '/one-off-songs.html' | relative_url }}#vcv-arpeggio-wash) |  |  |  |
-| 10 | [Sacto closer]({{ '/one-off-songs.html' | relative_url }}#sacto-closer) |  |  |  |

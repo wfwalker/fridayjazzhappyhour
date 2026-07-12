@@ -11,20 +11,68 @@ shirt: "thailand"
 tip_jar: "second harvest"
 notes: "yes"
 youtube_url: "https://youtu.be/-1SJwJrjwd0"
+setlist:
+  - song_num: "1"
+    name: "St. Thomas"
+    slug: "st-thomas"
+    url: "https://youtu.be/-1SJwJrjwd0?t=132"
+    time: "02:12"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "All the things you are"
+    slug: "all-the-things-you-are"
+    url: "https://youtu.be/-1SJwJrjwd0?t=450"
+    time: "07:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: "https://youtu.be/-1SJwJrjwd0?t=804"
+    time: "13:24"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Coming Home"
+    slug: "coming-home"
+    url: "https://youtu.be/-1SJwJrjwd0?t=1140"
+    time: "19:00"
+    style: "Pop"
+    composer: ""
+    notes: "HOF?"
+    hof: true
+  - song_num: "5"
+    name: "Dindi"
+    slug: "dindi"
+    url: "https://youtu.be/-1SJwJrjwd0?t=1475"
+    time: "24:35"
+    style: "Techno"
+    composer: ""
+    notes: "HOF?"
+    hof: true
+  - song_num: "6"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtu.be/-1SJwJrjwd0?t=1945"
+    time: "32:25"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Over the Rainbow"
+    slug: "over-the-rainbow"
+    url: "https://youtu.be/-1SJwJrjwd0?t=2394"
+    time: "39:54"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 35 (November 13, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/-1SJwJrjwd0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) | [02:12](https://youtu.be/-1SJwJrjwd0?t=132) | Latin |  |
-| 2 | [All the things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) | [07:30](https://youtu.be/-1SJwJrjwd0?t=450) | Swing |  |
-| 3 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [13:24](https://youtu.be/-1SJwJrjwd0?t=804) | Latin |  |
-| 4 | [Coming Home]({{ '/songs/' | relative_url }}coming-home/) | [19:00](https://youtu.be/-1SJwJrjwd0?t=1140) | Pop | HOF? |
-| 5 | [Dindi]({{ '/songs/' | relative_url }}dindi/) | [24:35](https://youtu.be/-1SJwJrjwd0?t=1475) | Techno | HOF? |
-| 6 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [32:25](https://youtu.be/-1SJwJrjwd0?t=1945) | Swing |  |
-| 7 | [Over the Rainbow]({{ '/songs/' | relative_url }}over-the-rainbow/) | [39:54](https://youtu.be/-1SJwJrjwd0?t=2394) | Ballad |  |

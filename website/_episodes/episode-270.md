@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/6JQ4VUCD0Wg"
 image: "/assets/images/title-slides/episode-270.jpg"
+setlist:
+  - song_num: "1"
+    name: "What is this thing called love"
+    slug: "what-is-this-thing-called-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Begin the Beguine"
+    slug: "begin-the-beguine"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Naima"
+    slug: "naima"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "The Touch of your Lips"
+    slug: "the-touch-of-your-lips"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "What'll I do?"
+    slug: "whatll-i-do"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Forrozinho em Cazadero"
+    slug: "forrozinho-em-cazadero"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "How Insensitive closer"
+    slug: "how-insensitive-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 270 (September 5, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/6JQ4VUCD0Wg)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) |  | Swing |  |
-| 2 | [Begin the Beguine]({{ '/songs/' | relative_url }}begin-the-beguine/) |  | Bossa |  |
-| 3 | [Naima]({{ '/songs/' | relative_url }}naima/) |  | Downtempo |  |
-| 4 | [The Touch of your Lips]({{ '/songs/' | relative_url }}the-touch-of-your-lips/) |  | Swing |  |
-| 5 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) |  | Bossa |  |
-| 6 | [What'll I do?]({{ '/songs/' | relative_url }}whatll-i-do/) |  | Ballad |  |
-| 7 | [Forrozinho em Cazadero]({{ '/songs/' | relative_url }}forrozinho-em-cazadero/) |  | Latin |  |
-| 8 | [How Insensitive closer]({{ '/one-off-songs.html' | relative_url }}#how-insensitive-closer) |  |  |  |

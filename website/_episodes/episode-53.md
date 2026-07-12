@@ -12,21 +12,77 @@ tip_jar: "Honor the Earth"
 notes: "yes"
 youtube_url: "https://youtu.be/ZgfrgSTJNSo"
 image: "/assets/images/title-slides/episode-53.jpg"
+setlist:
+  - song_num: "1"
+    name: "Look to the Sky"
+    slug: "look-to-the-sky"
+    url: "https://youtu.be/ZgfrgSTJNSo?t=205"
+    time: "03:25"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Moanin"
+    slug: "moanin"
+    url: "https://youtu.be/ZgfrgSTJNSo?t=690"
+    time: "11:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Canto de Osshana"
+    slug: "canto-de-osshana"
+    url: "https://youtu.be/ZgfrgSTJNSo?t=1175"
+    time: "19:35"
+    style: "Samba"
+    composer: ""
+    notes: "build up energy better during solo; more contrast with bridge"
+    hof: true
+  - song_num: "4"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: "https://youtu.be/ZgfrgSTJNSo?t=1742"
+    time: "29:02"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: "https://youtu.be/ZgfrgSTJNSo?t=2172"
+    time: "36:12"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtu.be/ZgfrgSTJNSo?t=2671"
+    time: "44:31"
+    style: "Swing"
+    composer: ""
+    notes: "comping meh"
+    hof: true
+  - song_num: "7"
+    name: "Septimus Prime"
+    slug: "septimus-prime"
+    url: "https://youtu.be/ZgfrgSTJNSo?t=3160"
+    time: "52:40"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "These Foolish Things Remind me of You"
+    slug: "these-foolish-things-remind-me-of-you"
+    url: "https://youtu.be/ZgfrgSTJNSo?t=3635"
+    time: "01:00:35"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 53 (March 19, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/ZgfrgSTJNSo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) | [03:25](https://youtu.be/ZgfrgSTJNSo?t=205) | Bossa |  |
-| 2 | [Moanin]({{ '/songs/' | relative_url }}moanin/) | [11:30](https://youtu.be/ZgfrgSTJNSo?t=690) | Swing |  |
-| 3 | [Canto de Osshana]({{ '/songs/' | relative_url }}canto-de-osshana/) | [19:35](https://youtu.be/ZgfrgSTJNSo?t=1175) | Samba | build up energy better during solo; more contrast with bridge |
-| 4 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) | [29:02](https://youtu.be/ZgfrgSTJNSo?t=1742) | Swing |  |
-| 5 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [36:12](https://youtu.be/ZgfrgSTJNSo?t=2172) | Techno |  |
-| 6 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [44:31](https://youtu.be/ZgfrgSTJNSo?t=2671) | Swing | comping meh |
-| 7 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [52:40](https://youtu.be/ZgfrgSTJNSo?t=3160) | Funk |  |
-| 8 | [These Foolish Things Remind me of You]({{ '/songs/' | relative_url }}these-foolish-things-remind-me-of-you/) | [01:00:35](https://youtu.be/ZgfrgSTJNSo?t=3635) | Ballad |  |

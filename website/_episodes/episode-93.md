@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/oIJ5iubhwRg"
 image: "/assets/images/title-slides/episode-93.jpg"
+setlist:
+  - song_num: "1"
+    name: "Go Tell it on the Mountain"
+    slug: "go-tell-it-on-the-mountain"
+    url: "https://youtu.be/oIJ5iubhwRg?t=288"
+    time: "04:48"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Have yourself a Merry Little Christmas"
+    slug: "have-yourself-a-merry-little-christmas"
+    url: "https://youtu.be/oIJ5iubhwRg?t=600"
+    time: "10:00"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "O Christmas Tree"
+    slug: "o-christmas-tree"
+    url: "https://youtu.be/oIJ5iubhwRg?t=1140"
+    time: "19:00"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "O Come O Come Emmanuel"
+    slug: "o-come-o-come-emmanuel"
+    url: "https://youtu.be/oIJ5iubhwRg?t=1530"
+    time: "25:30"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "White Christmas"
+    slug: "white-christmas"
+    url: "https://youtu.be/oIJ5iubhwRg?t=1880"
+    time: "31:20"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "God Rest Ye Merry Gentlemen"
+    slug: "god-rest-ye-merry-gentlemen"
+    url: "https://youtu.be/oIJ5iubhwRg?t=2234"
+    time: "37:14"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "I'll be home for Christmas"
+    slug: "ill-be-home-for-christmas"
+    url: "https://youtu.be/oIJ5iubhwRg?t=2610"
+    time: "43:30"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Christmas is Coming"
+    slug: "christmas-is-coming"
+    url: "https://youtu.be/oIJ5iubhwRg?t=2973"
+    time: "49:33"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "O Holy Night"
+    slug: "o-holy-night"
+    url: "https://youtu.be/oIJ5iubhwRg?t=3240"
+    time: "54:00"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 93 (December 24, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/oIJ5iubhwRg)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Go Tell it on the Mountain]({{ '/songs/' | relative_url }}go-tell-it-on-the-mountain/) | [04:48](https://youtu.be/oIJ5iubhwRg?t=288) | Christmas |  |
-| 2 | [Have yourself a Merry Little Christmas]({{ '/songs/' | relative_url }}have-yourself-a-merry-little-christmas/) | [10:00](https://youtu.be/oIJ5iubhwRg?t=600) | Christmas |  |
-| 3 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) | [19:00](https://youtu.be/oIJ5iubhwRg?t=1140) | Christmas |  |
-| 4 | [O Come O Come Emmanuel]({{ '/songs/' | relative_url }}o-come-o-come-emmanuel/) | [25:30](https://youtu.be/oIJ5iubhwRg?t=1530) | Christmas |  |
-| 5 | [White Christmas]({{ '/songs/' | relative_url }}white-christmas/) | [31:20](https://youtu.be/oIJ5iubhwRg?t=1880) | Christmas |  |
-| 6 | [God Rest Ye Merry Gentlemen]({{ '/songs/' | relative_url }}god-rest-ye-merry-gentlemen/) | [37:14](https://youtu.be/oIJ5iubhwRg?t=2234) | Christmas |  |
-| 7 | [I'll be home for Christmas]({{ '/songs/' | relative_url }}ill-be-home-for-christmas/) | [43:30](https://youtu.be/oIJ5iubhwRg?t=2610) | Christmas |  |
-| 8 | [Christmas is Coming]({{ '/songs/' | relative_url }}christmas-is-coming/) | [49:33](https://youtu.be/oIJ5iubhwRg?t=2973) | Christmas |  |
-| 9 | [O Holy Night]({{ '/one-off-songs.html' | relative_url }}#o-holy-night) | [54:00](https://youtu.be/oIJ5iubhwRg?t=3240) |  |  |

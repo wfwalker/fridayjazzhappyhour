@@ -12,21 +12,77 @@ tip_jar: "musicforautism.org"
 notes: ""
 youtube_url: "https://youtu.be/iRH85IdbcpY"
 image: "/assets/images/title-slides/episode-86.jpg"
+setlist:
+  - song_num: "1"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: "https://youtu.be/iRH85IdbcpY?t=231"
+    time: "03:51"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "I Love Paris"
+    slug: "i-love-paris"
+    url: "https://youtu.be/iRH85IdbcpY?t=620"
+    time: "10:20"
+    style: "Techno"
+    composer: ""
+    notes: "drums and field rec. too quiet"
+    hof: true
+  - song_num: "3"
+    name: "Take Five (King Tubby)"
+    slug: "take-five-king-tubby"
+    url: "https://youtu.be/iRH85IdbcpY?t=1040"
+    time: "17:20"
+    style: "Downtempo"
+    composer: ""
+    notes: "better than last time; try adding horns?"
+    hof: true
+  - song_num: "4"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: "https://youtu.be/iRH85IdbcpY?t=1475"
+    time: "24:35"
+    style: "Swing"
+    composer: ""
+    notes: "was pretty short"
+    hof: true
+  - song_num: "5"
+    name: "Estate"
+    slug: "estate"
+    url: "https://youtu.be/iRH85IdbcpY?t=1855"
+    time: "30:55"
+    style: "Techno"
+    composer: ""
+    notes: "backing too quiet, melodica too loud"
+    hof: true
+  - song_num: "6"
+    name: "Mo Better Blues"
+    slug: "mo-better-blues"
+    url: "https://youtu.be/iRH85IdbcpY?t=2455"
+    time: "40:55"
+    style: "Pop"
+    composer: ""
+    notes: "flatten horns to samples"
+    hof: true
+  - song_num: "7"
+    name: "Sunny"
+    slug: "sunny"
+    url: "https://youtu.be/iRH85IdbcpY?t=2890"
+    time: "48:10"
+    style: "Funk"
+    composer: ""
+    notes: "BASS SOLO; good intro; mary wants better lead into head; piano too loud, backing too quiet"
+    hof: true
+  - song_num: "8"
+    name: "Quin's Closer"
+    slug: "quins-closer"
+    url: "https://youtu.be/iRH85IdbcpY?t=3490"
+    time: "58:10"
+    style: "Ambient"
+    composer: ""
+    notes: "grains too quiet"
+    hof: true
 ---
-
-# Episode 86 (November 5, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/iRH85IdbcpY)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) | [03:51](https://youtu.be/iRH85IdbcpY?t=231) | Bossa |  |
-| 2 | [I Love Paris]({{ '/songs/' | relative_url }}i-love-paris/) | [10:20](https://youtu.be/iRH85IdbcpY?t=620) | Techno | drums and field rec. too quiet |
-| 3 | [Take Five (King Tubby)]({{ '/songs/' | relative_url }}take-five-king-tubby/) | [17:20](https://youtu.be/iRH85IdbcpY?t=1040) | Downtempo | better than last time; try adding horns? |
-| 4 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [24:35](https://youtu.be/iRH85IdbcpY?t=1475) | Swing | was pretty short |
-| 5 | [Estate]({{ '/songs/' | relative_url }}estate/) | [30:55](https://youtu.be/iRH85IdbcpY?t=1855) | Techno | backing too quiet, melodica too loud |
-| 6 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) | [40:55](https://youtu.be/iRH85IdbcpY?t=2455) | Pop | flatten horns to samples |
-| 7 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [48:10](https://youtu.be/iRH85IdbcpY?t=2890) | Funk | BASS SOLO; good intro; mary wants better lead into head; piano too loud, backing too quiet |
-| 8 | [Quin's Closer]({{ '/songs/' | relative_url }}quins-closer/) | [58:10](https://youtu.be/iRH85IdbcpY?t=3490) | Ambient | grains too quiet |

@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/mIqp0kq__Ck"
 image: "/assets/images/title-slides/episode-169.jpg"
+setlist:
+  - song_num: "1"
+    name: "Days of Wine and Roses"
+    slug: "days-of-wine-and-roses"
+    url: "https://youtube.com/live/mIqp0kq__Ck?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Freedom Jazz Dance"
+    slug: "freedom-jazz-dance"
+    url: "https://youtube.com/live/mIqp0kq__Ck?t=715"
+    time: "11:55"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Meditation"
+    slug: "meditation"
+    url: "https://youtube.com/live/mIqp0kq__Ck?t=1158"
+    time: "19:18"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Minor Swing"
+    slug: "minor-swing"
+    url: "https://youtube.com/live/mIqp0kq__Ck?t=1533"
+    time: "25:33"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Axel F"
+    slug: "axel-f"
+    url: "https://youtube.com/live/mIqp0kq__Ck?t=1859"
+    time: "30:59"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Nardis"
+    slug: "nardis"
+    url: "https://youtube.com/live/mIqp0kq__Ck?t=2240"
+    time: "37:20"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: "https://youtube.com/live/mIqp0kq__Ck?t=2662"
+    time: "44:22"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Pick up the Pieces"
+    slug: "pick-up-the-pieces"
+    url: "https://youtube.com/live/mIqp0kq__Ck?t=3023"
+    time: "50:23"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Ode to Missing Sustain Pedal"
+    slug: "ode-to-missing-sustain-pedal"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 169 (June 30, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/mIqp0kq__Ck)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Days of Wine and Roses]({{ '/songs/' | relative_url }}days-of-wine-and-roses/) | [04:28](https://youtube.com/live/mIqp0kq__Ck?t=268) | Swing |  |
-| 2 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) | [11:55](https://youtube.com/live/mIqp0kq__Ck?t=715) | Funk |  |
-| 3 | [Meditation]({{ '/songs/' | relative_url }}meditation/) | [19:18](https://youtube.com/live/mIqp0kq__Ck?t=1158) | Latin |  |
-| 4 | [Minor Swing]({{ '/songs/' | relative_url }}minor-swing/) | [25:33](https://youtube.com/live/mIqp0kq__Ck?t=1533) | Swing |  |
-| 5 | [Axel F]({{ '/songs/' | relative_url }}axel-f/) | [30:59](https://youtube.com/live/mIqp0kq__Ck?t=1859) | Funk |  |
-| 6 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [37:20](https://youtube.com/live/mIqp0kq__Ck?t=2240) | Downtempo |  |
-| 7 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [44:22](https://youtube.com/live/mIqp0kq__Ck?t=2662) | Bossa |  |
-| 8 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) | [50:23](https://youtube.com/live/mIqp0kq__Ck?t=3023) | Funk |  |
-| 9 | [Ode to Missing Sustain Pedal]({{ '/one-off-songs.html' | relative_url }}#ode-to-missing-sustain-pedal) |  |  |  |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/yr0e-0JaG4U"
 image: "/assets/images/title-slides/episode-121.jpg"
+setlist:
+  - song_num: "1"
+    name: "Lullaby of Birdland"
+    slug: "lullaby-of-birdland"
+    url: "https://youtu.be/yr0e-0JaG4U?t=212"
+    time: "03:32"
+    style: "Swing"
+    composer: ""
+    notes: "nice solo"
+    hof: true
+  - song_num: "2"
+    name: "The Egg and You"
+    slug: "the-egg-and-you"
+    url: "https://youtu.be/yr0e-0JaG4U?t=564"
+    time: "09:24"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "O Barquinho"
+    slug: "o-barquinho"
+    url: "https://youtu.be/yr0e-0JaG4U?t=936"
+    time: "15:36"
+    style: "Bossa"
+    composer: ""
+    notes: "practice solos!"
+    hof: true
+  - song_num: "4"
+    name: "Avalon"
+    slug: "avalon"
+    url: "https://youtu.be/yr0e-0JaG4U?t=1325"
+    time: "22:05"
+    style: "Swing"
+    composer: ""
+    notes: "play less"
+    hof: true
+  - song_num: "5"
+    name: "Little Sunflower"
+    slug: "little-sunflower"
+    url: "https://youtu.be/yr0e-0JaG4U?t=1900"
+    time: "31:40"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "All the things you are"
+    slug: "all-the-things-you-are"
+    url: "https://youtu.be/yr0e-0JaG4U?t=2293"
+    time: "38:13"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: "https://youtu.be/yr0e-0JaG4U?t=2780"
+    time: "46:20"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Inch Worm"
+    slug: "inch-worm"
+    url: "https://youtu.be/yr0e-0JaG4U?t=3190"
+    time: "53:10"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 121 (July 8, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/yr0e-0JaG4U)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Lullaby of Birdland]({{ '/songs/' | relative_url }}lullaby-of-birdland/) | [03:32](https://youtu.be/yr0e-0JaG4U?t=212) | Swing | nice solo |
-| 2 | [The Egg and You]({{ '/songs/' | relative_url }}the-egg-and-you/) | [09:24](https://youtu.be/yr0e-0JaG4U?t=564) | Pop |  |
-| 3 | [O Barquinho]({{ '/songs/' | relative_url }}o-barquinho/) | [15:36](https://youtu.be/yr0e-0JaG4U?t=936) | Bossa | practice solos! |
-| 4 | [Avalon]({{ '/songs/' | relative_url }}avalon/) | [22:05](https://youtu.be/yr0e-0JaG4U?t=1325) | Swing | play less |
-| 5 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) | [31:40](https://youtu.be/yr0e-0JaG4U?t=1900) | Techno |  |
-| 6 | [All the things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) | [38:13](https://youtu.be/yr0e-0JaG4U?t=2293) | Swing |  |
-| 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) | [46:20](https://youtu.be/yr0e-0JaG4U?t=2780) | Funk |  |
-| 8 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) | [53:10](https://youtu.be/yr0e-0JaG4U?t=3190) | Ballad |  |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/J3Z7I-c9vaQ"
 image: "/assets/images/title-slides/episode-252.jpg"
+setlist:
+  - song_num: "1"
+    name: "Emily"
+    slug: "emily"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "This Can't Be Love"
+    slug: "this-cant-be-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Desde"
+    slug: "desde"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Coming Home"
+    slug: "coming-home"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "My Funny Valentine"
+    slug: "my-funny-valentine"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Were You There"
+    slug: "were-you-there"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 252 (April 18, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/J3Z7I-c9vaQ)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Emily]({{ '/songs/' | relative_url }}emily/) |  | Swing |  |
-| 2 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) |  | Bossa |  |
-| 3 | [This Can't Be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) |  | Swing |  |
-| 4 | [Desde]({{ '/songs/' | relative_url }}desde/) |  | Bossa |  |
-| 5 | [Coming Home]({{ '/songs/' | relative_url }}coming-home/) |  | Pop |  |
-| 6 | [My Funny Valentine]({{ '/songs/' | relative_url }}my-funny-valentine/) |  | Swing |  |
-| 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) |  | Funk |  |
-| 8 | [Were You There]({{ '/one-off-songs.html' | relative_url }}#were-you-there) |  |  |  |

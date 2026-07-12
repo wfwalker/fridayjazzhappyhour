@@ -12,22 +12,86 @@ tip_jar: "PATH San Jose"
 notes: ""
 youtube_url: "https://youtu.be/sTwgRPVLycU"
 image: "/assets/images/title-slides/episode-20.png"
+setlist:
+  - song_num: "1"
+    name: "L'Indifference"
+    slug: "lindifference"
+    url: "https://youtu.be/sTwgRPVLycU?t=384"
+    time: "06:24"
+    style: ""
+    composer: ""
+    notes: "practice, man, practice"
+    hof: false
+  - song_num: "2"
+    name: "Paranoimia"
+    slug: "paranoimia"
+    url: "https://youtu.be/sTwgRPVLycU?t=1173"
+    time: "19:33"
+    style: ""
+    composer: ""
+    notes: "live looping! fix it up and try again"
+    hof: false
+  - song_num: "3"
+    name: "Hymn to Freedom"
+    slug: "hymn-to-freedom"
+    url: "https://youtu.be/sTwgRPVLycU?t=1590"
+    time: "26:30"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "4"
+    name: "Hearts of Space"
+    slug: "hearts-of-space"
+    url: "https://youtu.be/sTwgRPVLycU?t=2790"
+    time: "46:30"
+    style: "Downtempo"
+    composer: "Bill Walker"
+    notes: "nice"
+    hof: true
+  - song_num: "5"
+    name: "Autumn in New York"
+    slug: "autumn-in-new-york"
+    url: "https://youtu.be/sTwgRPVLycU?t=3476"
+    time: "57:56"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "Desde"
+    slug: "desde"
+    url: "https://youtu.be/sTwgRPVLycU?t=2365"
+    time: "39:25"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: "https://youtu.be/sTwgRPVLycU?t=1994"
+    time: "33:14"
+    style: "Swing"
+    composer: ""
+    notes: "redo; drums to open up, swing little less"
+    hof: true
+  - song_num: "8"
+    name: "Goodbye Pork Pie Hat"
+    slug: "goodbye-pork-pie-hat"
+    url: "https://youtu.be/sTwgRPVLycU?t=733"
+    time: "12:13"
+    style: "Swing"
+    composer: ""
+    notes: "nice drums hits"
+    hof: true
+  - song_num: "9"
+    name: "Summertime"
+    slug: "summertime"
+    url: "https://youtu.be/sTwgRPVLycU?t=3077"
+    time: "51:17"
+    style: "Funk"
+    composer: ""
+    notes: "oh heck yeah"
+    hof: true
 ---
-
-# Episode 20 (July 31, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/sTwgRPVLycU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [L'Indifference]({{ '/one-off-songs.html' | relative_url }}#lindifference) | [06:24](https://youtu.be/sTwgRPVLycU?t=384) |  | practice, man, practice |
-| 2 | [Paranoimia]({{ '/one-off-songs.html' | relative_url }}#paranoimia) | [19:33](https://youtu.be/sTwgRPVLycU?t=1173) |  | live looping! fix it up and try again |
-| 3 | [Hymn to Freedom]({{ '/one-off-songs.html' | relative_url }}#hymn-to-freedom) | [26:30](https://youtu.be/sTwgRPVLycU?t=1590) |  |  |
-| 4 | [Hearts of Space]({{ '/songs/' | relative_url }}hearts-of-space/) | [46:30](https://youtu.be/sTwgRPVLycU?t=2790) | Downtempo<br><small style='color:var(--text-secondary);'>by Bill Walker</small> | nice |
-| 5 | [Autumn in New York]({{ '/one-off-songs.html' | relative_url }}#autumn-in-new-york) | [57:56](https://youtu.be/sTwgRPVLycU?t=3476) |  |  |
-| 6 | [Desde]({{ '/songs/' | relative_url }}desde/) | [39:25](https://youtu.be/sTwgRPVLycU?t=2365) | Bossa |  |
-| 7 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [33:14](https://youtu.be/sTwgRPVLycU?t=1994) | Swing | redo; drums to open up, swing little less |
-| 8 | [Goodbye Pork Pie Hat]({{ '/songs/' | relative_url }}goodbye-pork-pie-hat/) | [12:13](https://youtu.be/sTwgRPVLycU?t=733) | Swing | nice drums hits |
-| 9 | [Summertime]({{ '/songs/' | relative_url }}summertime/) | [51:17](https://youtu.be/sTwgRPVLycU?t=3077) | Funk | oh heck yeah |

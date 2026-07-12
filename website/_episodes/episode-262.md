@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/WD3UXe_wpDc"
 image: "/assets/images/title-slides/episode-262.jpg"
+setlist:
+  - song_num: "1"
+    name: "Up Jumped Spring"
+    slug: "up-jumped-spring"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Icarus"
+    slug: "icarus"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Limehouse Blues"
+    slug: "limehouse-blues"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "So Nice"
+    slug: "so-nice"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Freedom Jazz Dance"
+    slug: "freedom-jazz-dance"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Stella by Starlight"
+    slug: "stella-by-starlight"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Them Funky Changes"
+    slug: "them-funky-changes"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Pack Ice Video"
+    slug: "pack-ice-video"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 262 (June 27, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/WD3UXe_wpDc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Up Jumped Spring]({{ '/songs/' | relative_url }}up-jumped-spring/) |  | Swing |  |
-| 2 | [Icarus]({{ '/songs/' | relative_url }}icarus/) |  | Latin |  |
-| 3 | [Limehouse Blues]({{ '/songs/' | relative_url }}limehouse-blues/) |  | Swing |  |
-| 4 | [So Nice]({{ '/songs/' | relative_url }}so-nice/) |  | Bossa |  |
-| 5 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) |  | Funk |  |
-| 6 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) |  | Swing |  |
-| 7 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) |  | Funk |  |
-| 8 | [Pack Ice Video]({{ '/one-off-songs.html' | relative_url }}#pack-ice-video) |  |  |  |

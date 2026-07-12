@@ -12,19 +12,77 @@ tip_jar: ""
 notes: "RERUN"
 youtube_url: ""
 image: "/assets/images/title-slides/episode-105-rerun-7112025.jpg"
+setlist:
+  - song_num: "1"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "I Love Paris"
+    slug: "i-love-paris"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Bluesette"
+    slug: "bluesette"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Isn't It Romantic"
+    slug: "isnt-it-romantic"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "The Chicken"
+    slug: "the-chicken"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer March 18"
+    slug: "closer-march-18"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 105 (July 11, 2025) (Rerun)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) |  | Bossa |  |
-| 2 | [I Love Paris]({{ '/songs/' | relative_url }}i-love-paris/) |  | Techno |  |
-| 3 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) |  | Swing |  |
-| 4 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) |  | Latin |  |
-| 5 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) |  | Techno |  |
-| 6 | [Isn't It Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) |  | Swing |  |
-| 7 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) |  | Funk |  |
-| 8 | [Closer March 18]({{ '/one-off-songs.html' | relative_url }}#closer-march-18) |  |  |  |

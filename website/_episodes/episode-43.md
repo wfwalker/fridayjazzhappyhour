@@ -12,21 +12,77 @@ tip_jar: "blackgirlscode.org"
 notes: "yes"
 youtube_url: "https://youtu.be/PcZFKARMaQo"
 image: "/assets/images/title-slides/episode-43.jpg"
+setlist:
+  - song_num: "1"
+    name: "We Shall Overcome"
+    slug: "we-shall-overcome"
+    url: "https://youtu.be/PcZFKARMaQo?t=237"
+    time: "03:57"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "Georgia on my Mind"
+    slug: "georgia-on-my-mind"
+    url: "https://youtu.be/PcZFKARMaQo?t=515"
+    time: "08:35"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Our Spanish Love Song"
+    slug: "our-spanish-love-song"
+    url: "https://youtu.be/PcZFKARMaQo?t=908"
+    time: "15:08"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: "https://youtu.be/PcZFKARMaQo?t=1435"
+    time: "23:55"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Montara"
+    slug: "montara"
+    url: "https://youtu.be/PcZFKARMaQo?t=1845"
+    time: "30:45"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "They Can’t take that away from me"
+    slug: "they-cant-take-that-away-from-me"
+    url: "https://youtu.be/PcZFKARMaQo?t=2275"
+    time: "37:55"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "The Chicken"
+    slug: "the-chicken"
+    url: "https://youtu.be/PcZFKARMaQo?t=2644"
+    time: "44:04"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "All You Fascists Bound to Lose"
+    slug: "all-you-fascists-bound-to-lose"
+    url: "https://youtu.be/PcZFKARMaQo?t=3165"
+    time: "52:45"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 43 (January 8, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/PcZFKARMaQo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [We Shall Overcome]({{ '/one-off-songs.html' | relative_url }}#we-shall-overcome) | [03:57](https://youtu.be/PcZFKARMaQo?t=237) |  |  |
-| 2 | [Georgia on my Mind]({{ '/songs/' | relative_url }}georgia-on-my-mind/) | [08:35](https://youtu.be/PcZFKARMaQo?t=515) | Ballad |  |
-| 3 | [Our Spanish Love Song]({{ '/songs/' | relative_url }}our-spanish-love-song/) | [15:08](https://youtu.be/PcZFKARMaQo?t=908) | Latin |  |
-| 4 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) | [23:55](https://youtu.be/PcZFKARMaQo?t=1435) | Swing |  |
-| 5 | [Montara]({{ '/songs/' | relative_url }}montara/) | [30:45](https://youtu.be/PcZFKARMaQo?t=1845) | Downtempo |  |
-| 6 | [They Can’t take that away from me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) | [37:55](https://youtu.be/PcZFKARMaQo?t=2275) | Swing |  |
-| 7 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) | [44:04](https://youtu.be/PcZFKARMaQo?t=2644) | Funk |  |
-| 8 | [All You Fascists Bound to Lose]({{ '/one-off-songs.html' | relative_url }}#all-you-fascists-bound-to-lose) | [52:45](https://youtu.be/PcZFKARMaQo?t=3165) |  |  |

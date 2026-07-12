@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/-d7DqBvKUPI"
 image: "/assets/images/title-slides/episode-268.jpg"
+setlist:
+  - song_num: "1"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Cold Duck time"
+    slug: "cold-duck-time"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "O Barquinho"
+    slug: "o-barquinho"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Road Song"
+    slug: "road-song"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Axel F"
+    slug: "axel-f"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "EuroRack Piano 1"
+    slug: "eurorack-piano-1"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "8"
+    name: "EuroRack Piano 2"
+    slug: "eurorack-piano-2"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "9"
+    name: "EuroRack Piano 3"
+    slug: "eurorack-piano-3"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 268 (August 15, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/-d7DqBvKUPI)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) |  | Swing |  |
-| 2 | [Cold Duck time]({{ '/songs/' | relative_url }}cold-duck-time/) |  | Funk |  |
-| 3 | [O Barquinho]({{ '/songs/' | relative_url }}o-barquinho/) |  | Bossa |  |
-| 4 | [Road Song]({{ '/songs/' | relative_url }}road-song/) |  | Pop |  |
-| 5 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) |  | Swing |  |
-| 6 | [Axel F]({{ '/songs/' | relative_url }}axel-f/) |  | Funk |  |
-| 7 | [EuroRack Piano 1]({{ '/one-off-songs.html' | relative_url }}#eurorack-piano-1) |  |  |  |
-| 8 | [EuroRack Piano 2]({{ '/one-off-songs.html' | relative_url }}#eurorack-piano-2) |  |  |  |
-| 9 | [EuroRack Piano 3]({{ '/one-off-songs.html' | relative_url }}#eurorack-piano-3) |  |  |  |

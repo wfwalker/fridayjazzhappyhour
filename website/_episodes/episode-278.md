@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/WALVIY_XN8E"
 image: "/assets/images/title-slides/episode-278.jpg"
+setlist:
+  - song_num: "1"
+    name: "The Egg and You"
+    slug: "the-egg-and-you"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Up Jumped Spring"
+    slug: "up-jumped-spring"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Triste"
+    slug: "triste"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Limehouse Blues"
+    slug: "limehouse-blues"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "New Phone Who Dis"
+    slug: "new-phone-who-dis"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Caminhos Cruzados"
+    slug: "caminhos-cruzados"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "pams pro workout debut closer"
+    slug: "pams-pro-workout-debut-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 278 (November 21, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/WALVIY_XN8E)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [The Egg and You]({{ '/songs/' | relative_url }}the-egg-and-you/) |  | Pop |  |
-| 2 | [Up Jumped Spring]({{ '/songs/' | relative_url }}up-jumped-spring/) |  | Swing |  |
-| 3 | [Triste]({{ '/songs/' | relative_url }}triste/) |  | Bossa |  |
-| 4 | [Limehouse Blues]({{ '/songs/' | relative_url }}limehouse-blues/) |  | Swing |  |
-| 5 | [New Phone Who Dis]({{ '/songs/' | relative_url }}new-phone-who-dis/) |  | Downtempo |  |
-| 6 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) |  | Bossa |  |
-| 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) |  | Funk |  |
-| 8 | [pams pro workout debut closer]({{ '/one-off-songs.html' | relative_url }}#pams-pro-workout-debut-closer) |  |  |  |

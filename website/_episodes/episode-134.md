@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/i_sLaxvBK_E"
 image: "/assets/images/title-slides/episode-134.jpg"
+setlist:
+  - song_num: "1"
+    name: "I Love Paris"
+    slug: "i-love-paris"
+    url: "https://youtu.be/i_sLaxvBK_E?t=140"
+    time: "02:20"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: "https://youtu.be/i_sLaxvBK_E?t=462"
+    time: "07:42"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: "https://youtu.be/i_sLaxvBK_E?t=821"
+    time: "13:41"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: "https://youtu.be/i_sLaxvBK_E?t=1080"
+    time: "18:00"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Soul Sauce"
+    slug: "soul-sauce"
+    url: "https://youtu.be/i_sLaxvBK_E?t=1545"
+    time: "25:45"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Road Song"
+    slug: "road-song"
+    url: "https://youtu.be/i_sLaxvBK_E?t=1871"
+    time: "31:11"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: "https://youtu.be/i_sLaxvBK_E?t=2193"
+    time: "36:33"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Isn't It Romantic"
+    slug: "isnt-it-romantic"
+    url: "https://youtu.be/i_sLaxvBK_E?t=2638"
+    time: "43:58"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 134 (October 7, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/i_sLaxvBK_E)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [I Love Paris]({{ '/songs/' | relative_url }}i-love-paris/) | [02:20](https://youtu.be/i_sLaxvBK_E?t=140) | Techno |  |
-| 2 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [07:42](https://youtu.be/i_sLaxvBK_E?t=462) | Swing |  |
-| 3 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) | [13:41](https://youtu.be/i_sLaxvBK_E?t=821) | Funk |  |
-| 4 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) | [18:00](https://youtu.be/i_sLaxvBK_E?t=1080) | Bossa |  |
-| 5 | [Soul Sauce]({{ '/songs/' | relative_url }}soul-sauce/) | [25:45](https://youtu.be/i_sLaxvBK_E?t=1545) | Latin |  |
-| 6 | [Road Song]({{ '/songs/' | relative_url }}road-song/) | [31:11](https://youtu.be/i_sLaxvBK_E?t=1871) | Pop |  |
-| 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) | [36:33](https://youtu.be/i_sLaxvBK_E?t=2193) | Funk |  |
-| 8 | [Isn't It Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) | [43:58](https://youtu.be/i_sLaxvBK_E?t=2638) | Swing |  |

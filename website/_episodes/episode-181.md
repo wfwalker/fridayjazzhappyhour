@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/72lHM0ID4_8"
 image: "/assets/images/title-slides/episode-181.jpg"
+setlist:
+  - song_num: "1"
+    name: "A Child is Born"
+    slug: "a-child-is-born"
+    url: "https://youtube.com/live/72lHM0ID4_8?t=268"
+    time: "04:28"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "I Mean You"
+    slug: "i-mean-you"
+    url: "https://youtube.com/live/72lHM0ID4_8?t=715"
+    time: "11:55"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "There will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: "https://youtube.com/live/72lHM0ID4_8?t=1158"
+    time: "19:18"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: "https://youtube.com/live/72lHM0ID4_8?t=1533"
+    time: "25:33"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Memories of Tomorrow"
+    slug: "memories-of-tomorrow"
+    url: "https://youtube.com/live/72lHM0ID4_8?t=1859"
+    time: "30:59"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: "https://youtube.com/live/72lHM0ID4_8?t=2240"
+    time: "37:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Amphibious"
+    slug: "amphibious"
+    url: "https://youtube.com/live/72lHM0ID4_8?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "variations on inchworm"
+    slug: "variations-on-inchworm"
+    url: "https://youtube.com/live/72lHM0ID4_8?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 181 (October 6, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/72lHM0ID4_8)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [A Child is Born]({{ '/songs/' | relative_url }}a-child-is-born/) | [04:28](https://youtube.com/live/72lHM0ID4_8?t=268) | Latin |  |
-| 2 | [I Mean You]({{ '/songs/' | relative_url }}i-mean-you/) | [11:55](https://youtube.com/live/72lHM0ID4_8?t=715) | Pop |  |
-| 3 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) | [19:18](https://youtube.com/live/72lHM0ID4_8?t=1158) | Swing |  |
-| 4 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) | [25:33](https://youtube.com/live/72lHM0ID4_8?t=1533) | Swing |  |
-| 5 | [Memories of Tomorrow]({{ '/songs/' | relative_url }}memories-of-tomorrow/) | [30:59](https://youtube.com/live/72lHM0ID4_8?t=1859) | Pop |  |
-| 6 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) | [37:20](https://youtube.com/live/72lHM0ID4_8?t=2240) | Swing |  |
-| 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) | [44:22](https://youtube.com/live/72lHM0ID4_8?t=2662) | Funk |  |
-| 8 | [variations on inchworm]({{ '/one-off-songs.html' | relative_url }}#variations-on-inchworm) | [50:23](https://youtube.com/live/72lHM0ID4_8?t=3023) |  |  |

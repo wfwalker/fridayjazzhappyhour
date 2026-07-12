@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/kpeegmRL7tI"
 image: "/assets/images/title-slides/episode-264.jpg"
+setlist:
+  - song_num: "1"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Chega de Saudade"
+    slug: "chega-de-saudade"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "I can't get Started"
+    slug: "i-cant-get-started"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Our Spanish Love Song"
+    slug: "our-spanish-love-song"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "My Romance"
+    slug: "my-romance"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Caminhos Cruzados"
+    slug: "caminhos-cruzados"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Love Boat"
+    slug: "love-boat"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer July 18"
+    slug: "closer-july-18"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 264 (July 18, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/kpeegmRL7tI)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) |  | Swing |  |
-| 2 | [Chega de Saudade]({{ '/songs/' | relative_url }}chega-de-saudade/) |  | Bossa |  |
-| 3 | [I can't get Started]({{ '/songs/' | relative_url }}i-cant-get-started/) |  | Swing |  |
-| 4 | [Our Spanish Love Song]({{ '/songs/' | relative_url }}our-spanish-love-song/) |  | Latin |  |
-| 5 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) |  | Swing |  |
-| 6 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) |  | Bossa |  |
-| 7 | [Love Boat]({{ '/songs/' | relative_url }}love-boat/) |  | Samba |  |
-| 8 | [Closer July 18]({{ '/one-off-songs.html' | relative_url }}#closer-july-18) |  |  |  |

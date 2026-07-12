@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/6MVWBYqXsLQ"
 image: "/assets/images/title-slides/episode-229.jpg"
+setlist:
+  - song_num: "1"
+    name: "This Can't be Love"
+    slug: "this-cant-be-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Nardis"
+    slug: "nardis"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Meditation"
+    slug: "meditation"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "If you want me to stay"
+    slug: "if-you-want-me-to-stay"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "De Volta ao Samba"
+    slug: "de-volta-ao-samba"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Mad World"
+    slug: "mad-world"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "closer oct 22"
+    slug: "closer-oct-22"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 229 (October 18, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/6MVWBYqXsLQ)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [This Can't be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) |  | Swing |  |
-| 2 | [Nardis]({{ '/songs/' | relative_url }}nardis/) |  | Downtempo |  |
-| 3 | [Meditation]({{ '/songs/' | relative_url }}meditation/) |  | Latin |  |
-| 4 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) |  | Funk |  |
-| 5 | [De Volta ao Samba]({{ '/songs/' | relative_url }}de-volta-ao-samba/) |  | Bossa |  |
-| 6 | [Mad World]({{ '/songs/' | relative_url }}mad-world/) |  | Pop |  |
-| 7 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) |  | Funk |  |
-| 8 | [closer oct 22]({{ '/one-off-songs.html' | relative_url }}#closer-oct-22) |  |  |  |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/wGGM6kfvYyo"
 image: "/assets/images/title-slides/episode-237.jpg"
+setlist:
+  - song_num: "1"
+    name: "O Christmas Tree"
+    slug: "o-christmas-tree"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "O Come O Come Emmanuel"
+    slug: "o-come-o-come-emmanuel"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Santa Claus is Coming to Town"
+    slug: "santa-claus-is-coming-to-town"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "4"
+    name: "God Bless the Child"
+    slug: "god-bless-the-child"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "I Can't get started"
+    slug: "i-cant-get-started"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Morning"
+    slug: "morning"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "closer dec 13"
+    slug: "closer-dec-13"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 237 (December 13, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/wGGM6kfvYyo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) |  | Christmas |  |
-| 2 | [O Come O Come Emmanuel]({{ '/songs/' | relative_url }}o-come-o-come-emmanuel/) |  | Christmas |  |
-| 3 | [Santa Claus is Coming to Town]({{ '/one-off-songs.html' | relative_url }}#santa-claus-is-coming-to-town) |  |  |  |
-| 4 | [God Bless the Child]({{ '/songs/' | relative_url }}god-bless-the-child/) |  | Funk |  |
-| 5 | [I Can't get started]({{ '/songs/' | relative_url }}i-cant-get-started/) |  | Swing |  |
-| 6 | [Morning]({{ '/songs/' | relative_url }}morning/) |  | Latin |  |
-| 7 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) |  | Bossa |  |
-| 8 | [closer dec 13]({{ '/one-off-songs.html' | relative_url }}#closer-dec-13) |  |  |  |

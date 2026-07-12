@@ -12,20 +12,68 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/7M092e2XoLI"
 image: "/assets/images/title-slides/episode-1.png"
+setlist:
+  - song_num: "1"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: "https://youtu.be/7M092e2XoLI?t=86"
+    time: "01:26"
+    style: "Techno"
+    composer: ""
+    notes: "alt drums are fun; REDO"
+    hof: true
+  - song_num: "2"
+    name: "How Insensitive"
+    slug: "how-insensitive"
+    url: "https://youtu.be/7M092e2XoLI?t=442"
+    time: "07:22"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Icarus"
+    slug: "icarus"
+    url: "https://youtu.be/7M092e2XoLI?t=1207"
+    time: "20:07"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "So What"
+    slug: "so-what"
+    url: "https://youtu.be/7M092e2XoLI?t=1708"
+    time: "28:28"
+    style: "Swing"
+    composer: "Miles Davis"
+    notes: "REDO"
+    hof: true
+  - song_num: "5"
+    name: "Freedom Jazz Dance"
+    slug: "freedom-jazz-dance"
+    url: "https://youtu.be/7M092e2XoLI?t=801"
+    time: "13:21"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "The Egg and You"
+    slug: "the-egg-and-you"
+    url: "https://youtu.be/7M092e2XoLI?t=2373"
+    time: "39:33"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Little Sunflower"
+    slug: "little-sunflower"
+    url: "https://youtu.be/7M092e2XoLI?t=2051"
+    time: "34:11"
+    style: "Techno"
+    composer: ""
+    notes: "cool lead, needs backing WOW"
+    hof: true
 ---
-
-# Episode 1 (March 20, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/7M092e2XoLI)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) | [01:26](https://youtu.be/7M092e2XoLI?t=86) | Techno | alt drums are fun; REDO |
-| 2 | [How Insensitive]({{ '/songs/' | relative_url }}how-insensitive/) | [07:22](https://youtu.be/7M092e2XoLI?t=442) | Bossa |  |
-| 3 | [Icarus]({{ '/songs/' | relative_url }}icarus/) | [20:07](https://youtu.be/7M092e2XoLI?t=1207) | Latin |  |
-| 4 | [So What]({{ '/songs/' | relative_url }}so-what/) | [28:28](https://youtu.be/7M092e2XoLI?t=1708) | Swing<br><small style='color:var(--text-secondary);'>by Miles Davis</small> | REDO |
-| 5 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) | [13:21](https://youtu.be/7M092e2XoLI?t=801) | Funk |  |
-| 6 | [The Egg and You]({{ '/songs/' | relative_url }}the-egg-and-you/) | [39:33](https://youtu.be/7M092e2XoLI?t=2373) | Pop |  |
-| 7 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) | [34:11](https://youtu.be/7M092e2XoLI?t=2051) | Techno | cool lead, needs backing WOW |

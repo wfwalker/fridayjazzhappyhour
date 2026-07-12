@@ -12,28 +12,140 @@ tip_jar: "loavesfishes.org"
 notes: "yes"
 youtube_url: "https://youtu.be/hfljJ87kgbs"
 image: "/assets/images/title-slides/episode-39.jpg"
+setlist:
+  - song_num: "1"
+    name: "O Christmas Tree"
+    slug: "o-christmas-tree"
+    url: "https://youtu.be/hfljJ87kgbs?t=260"
+    time: "04:20"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "1"
+    name: "O Christmas Tree"
+    slug: "o-christmas-tree"
+    url: "https://youtu.be/hfljJ87kgbs?t=260"
+    time: "04:20"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Cast your fate to the wind"
+    slug: "cast-your-fate-to-the-wind"
+    url: "https://youtu.be/hfljJ87kgbs?t=610"
+    time: "10:10"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Cast your fate to the Wind"
+    slug: "cast-your-fate-to-the-wind"
+    url: "https://youtu.be/hfljJ87kgbs?t=612"
+    time: "10:12"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Samba De Orfeu"
+    slug: "samba-de-orfeu"
+    url: "https://youtu.be/hfljJ87kgbs?t=1035"
+    time: "17:15"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Samba de Orfeu"
+    slug: "samba-de-orfeu"
+    url: "https://youtu.be/hfljJ87kgbs?t=1040"
+    time: "17:20"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "The Christmas Song (Chestnuts...)"
+    slug: "the-christmas-song-chestnuts"
+    url: "https://youtu.be/hfljJ87kgbs?t=1634"
+    time: "27:14"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "4"
+    name: "The Christmas Song"
+    slug: "the-christmas-song"
+    url: "https://youtu.be/hfljJ87kgbs?t=1625"
+    time: "27:05"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Sunny"
+    slug: "sunny"
+    url: "https://youtu.be/hfljJ87kgbs?t=1956"
+    time: "32:36"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Sunny"
+    slug: "sunny"
+    url: "https://youtu.be/hfljJ87kgbs?t=1954"
+    time: "32:34"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Have yourself a Merry little Christmas"
+    slug: "have-yourself-a-merry-little-christmas"
+    url: "https://youtu.be/hfljJ87kgbs?t=2390"
+    time: "39:50"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Have yourself a Merry little Christmas"
+    slug: "have-yourself-a-merry-little-christmas"
+    url: "https://youtu.be/hfljJ87kgbs?t=2390"
+    time: "39:50"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Night and Day"
+    slug: "night-and-day"
+    url: "https://youtu.be/hfljJ87kgbs?t=2765"
+    time: "46:05"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Night and Day"
+    slug: "night-and-day"
+    url: "https://youtu.be/hfljJ87kgbs?t=2755"
+    time: "45:55"
+    style: "Techno"
+    composer: ""
+    notes: "scratching!"
+    hof: true
+  - song_num: "8"
+    name: "The Holly and the Ivy"
+    slug: "the-holly-and-the-ivy"
+    url: "https://youtu.be/hfljJ87kgbs?t=3283"
+    time: "54:43"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 39 (December 11, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/hfljJ87kgbs)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) | [04:20](https://youtu.be/hfljJ87kgbs?t=260) | Christmas |  |
-| 1 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) | [04:20](https://youtu.be/hfljJ87kgbs?t=260) | Christmas |  |
-| 2 | [Cast your fate to the wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) | [10:10](https://youtu.be/hfljJ87kgbs?t=610) | Pop |  |
-| 2 | [Cast your fate to the Wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) | [10:12](https://youtu.be/hfljJ87kgbs?t=612) | Pop |  |
-| 3 | [Samba De Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [17:15](https://youtu.be/hfljJ87kgbs?t=1035) | Samba |  |
-| 3 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [17:20](https://youtu.be/hfljJ87kgbs?t=1040) | Samba |  |
-| 4 | [The Christmas Song (Chestnuts...)]({{ '/one-off-songs.html' | relative_url }}#the-christmas-song-chestnuts) | [27:14](https://youtu.be/hfljJ87kgbs?t=1634) |  |  |
-| 4 | [The Christmas Song]({{ '/one-off-songs.html' | relative_url }}#the-christmas-song) | [27:05](https://youtu.be/hfljJ87kgbs?t=1625) |  |  |
-| 5 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [32:36](https://youtu.be/hfljJ87kgbs?t=1956) | Funk |  |
-| 5 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [32:34](https://youtu.be/hfljJ87kgbs?t=1954) | Funk |  |
-| 6 | [Have yourself a Merry little Christmas]({{ '/songs/' | relative_url }}have-yourself-a-merry-little-christmas/) | [39:50](https://youtu.be/hfljJ87kgbs?t=2390) | Christmas |  |
-| 6 | [Have yourself a Merry little Christmas]({{ '/songs/' | relative_url }}have-yourself-a-merry-little-christmas/) | [39:50](https://youtu.be/hfljJ87kgbs?t=2390) | Christmas |  |
-| 7 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) | [46:05](https://youtu.be/hfljJ87kgbs?t=2765) | Techno |  |
-| 7 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) | [45:55](https://youtu.be/hfljJ87kgbs?t=2755) | Techno | scratching! |
-| 8 | [The Holly and the Ivy]({{ '/songs/' | relative_url }}the-holly-and-the-ivy/) | [54:43](https://youtu.be/hfljJ87kgbs?t=3283) | Christmas |  |

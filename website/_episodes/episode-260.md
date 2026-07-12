@@ -12,26 +12,122 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/zbLwS4UYioo"
 image: "/assets/images/title-slides/episode-260.jpg"
+setlist:
+  - song_num: "1"
+    name: "Also Sprach Zarathustra"
+    slug: "also-sprach-zarathustra"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Lucky Southern"
+    slug: "lucky-southern"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "All the Things you Are"
+    slug: "all-the-things-you-are"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Gee Baby, Ain’t I Good to You"
+    slug: "gee-baby-aint-i-good-to-you"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "How High the Moon"
+    slug: "how-high-the-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Septimus Prime"
+    slug: "septimus-prime"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Song for my Father"
+    slug: "song-for-my-father"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Very Early"
+    slug: "very-early"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Memories of Tomorrow"
+    slug: "memories-of-tomorrow"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "10"
+    name: "Some Other Funk"
+    slug: "some-other-funk"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "11"
+    name: "All Blues"
+    slug: "all-blues"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "12"
+    name: "Caravan"
+    slug: "caravan"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "13"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 260 (June 13, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/zbLwS4UYioo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) |  | Funk |  |
-| 2 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) |  | Pop |  |
-| 3 | [All the Things you Are]({{ '/songs/' | relative_url }}all-the-things-you-are/) |  | Swing |  |
-| 4 | [Gee Baby, Ain’t I Good to You]({{ '/songs/' | relative_url }}gee-baby-aint-i-good-to-you/) |  | Swing |  |
-| 5 | [How High the Moon]({{ '/songs/' | relative_url }}how-high-the-moon/) |  | Swing |  |
-| 6 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) |  | Funk |  |
-| 7 | [Song for my Father]({{ '/songs/' | relative_url }}song-for-my-father/) |  | Latin |  |
-| 8 | [Very Early]({{ '/songs/' | relative_url }}very-early/) |  | Swing |  |
-| 9 | [Memories of Tomorrow]({{ '/songs/' | relative_url }}memories-of-tomorrow/) |  | Pop |  |
-| 10 | [Some Other Funk]({{ '/songs/' | relative_url }}some-other-funk/) |  | Funk |  |
-| 11 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) |  | Swing |  |
-| 12 | [Caravan]({{ '/songs/' | relative_url }}caravan/) |  | Swing |  |
-| 13 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) |  | Funk |  |

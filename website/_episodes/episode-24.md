@@ -12,21 +12,77 @@ tip_jar: "Community Foundation Santa Cruz County"
 notes: "yes"
 youtube_url: "https://youtu.be/oLyXU2T1ZuA"
 image: "/assets/images/title-slides/episode-24.jpg"
+setlist:
+  - song_num: "1"
+    name: "We Shall Overcome"
+    slug: "we-shall-overcome"
+    url: "https://youtu.be/oLyXU2T1ZuA?t=300"
+    time: "05:00"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "Moanin"
+    slug: "moanin"
+    url: "https://youtu.be/oLyXU2T1ZuA?t=603"
+    time: "10:03"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: "https://youtu.be/oLyXU2T1ZuA?t=1045"
+    time: "17:25"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "I Love You"
+    slug: "i-love-you"
+    url: "https://youtu.be/oLyXU2T1ZuA?t=1550"
+    time: "25:50"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "I Mean You"
+    slug: "i-mean-you"
+    url: "https://youtu.be/oLyXU2T1ZuA?t=1890"
+    time: "31:30"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Sunny"
+    slug: "sunny"
+    url: "https://youtu.be/oLyXU2T1ZuA?t=2313"
+    time: "38:33"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "My Romance"
+    slug: "my-romance"
+    url: "https://youtu.be/oLyXU2T1ZuA?t=2845"
+    time: "47:25"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Get Up, Stand Up"
+    slug: "get-up-stand-up"
+    url: "https://youtu.be/oLyXU2T1ZuA?t=3175"
+    time: "52:55"
+    style: ""
+    composer: "Bob Marley"
+    notes: ""
+    hof: false
 ---
-
-# Episode 24 (August 28, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/oLyXU2T1ZuA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [We Shall Overcome]({{ '/one-off-songs.html' | relative_url }}#we-shall-overcome) | [05:00](https://youtu.be/oLyXU2T1ZuA?t=300) |  |  |
-| 2 | [Moanin]({{ '/songs/' | relative_url }}moanin/) | [10:03](https://youtu.be/oLyXU2T1ZuA?t=603) | Swing |  |
-| 3 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) | [17:25](https://youtu.be/oLyXU2T1ZuA?t=1045) | Bossa |  |
-| 4 | [I Love You]({{ '/one-off-songs.html' | relative_url }}#i-love-you) | [25:50](https://youtu.be/oLyXU2T1ZuA?t=1550) |  |  |
-| 5 | [I Mean You]({{ '/songs/' | relative_url }}i-mean-you/) | [31:30](https://youtu.be/oLyXU2T1ZuA?t=1890) | Pop |  |
-| 6 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [38:33](https://youtu.be/oLyXU2T1ZuA?t=2313) | Funk |  |
-| 7 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) | [47:25](https://youtu.be/oLyXU2T1ZuA?t=2845) | Swing |  |
-| 8 | [Get Up, Stand Up]({{ '/one-off-songs.html' | relative_url }}#get-up-stand-up) | [52:55](https://youtu.be/oLyXU2T1ZuA?t=3175) | <br><small style='color:var(--text-secondary);'>by Bob Marley</small> |  |

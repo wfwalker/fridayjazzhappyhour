@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/a4gNgXrypis"
 image: "/assets/images/title-slides/episode-248.jpg"
+setlist:
+  - song_num: "1"
+    name: "Look to the Sky"
+    slug: "look-to-the-sky"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Burbling"
+    slug: "burbling"
+    url: ""
+    time: ""
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Bonita"
+    slug: "bonita"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "These Foolish Things Remind me of You"
+    slug: "these-foolish-things-remind-me-of-you"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Zero-Nineteen"
+    slug: "zero-nineteen"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Newsky Bluesky"
+    slug: "newsky-bluesky"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Sister Sadie"
+    slug: "sister-sadie"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Lawns"
+    slug: "lawns"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 248 (February 28, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/a4gNgXrypis)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) |  | Bossa |  |
-| 2 | [Burbling]({{ '/songs/' | relative_url }}burbling/) |  | World |  |
-| 3 | [Bonita]({{ '/songs/' | relative_url }}bonita/) |  | Bossa |  |
-| 4 | [These Foolish Things Remind me of You]({{ '/songs/' | relative_url }}these-foolish-things-remind-me-of-you/) |  | Ballad |  |
-| 5 | [Zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) |  | Techno |  |
-| 6 | [Newsky Bluesky]({{ '/songs/' | relative_url }}newsky-bluesky/) |  | Downtempo |  |
-| 7 | [Sister Sadie]({{ '/songs/' | relative_url }}sister-sadie/) |  | Swing |  |
-| 8 | [Lawns]({{ '/songs/' | relative_url }}lawns/) |  | Ballad |  |

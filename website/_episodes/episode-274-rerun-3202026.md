@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-274-rerun-3202026.jpg"
+setlist:
+  - song_num: "1"
+    name: "Desafinado"
+    slug: "desafinado"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Zero-Nineteen"
+    slug: "zero-nineteen"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Very Early"
+    slug: "very-early"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Nardis"
+    slug: "nardis"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Avalon"
+    slug: "avalon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Camilla (The Old, Old Story)"
+    slug: "camilla-the-old-old-story"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Euclidian Dub Techno"
+    slug: "euclidian-dub-techno"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "8"
+    name: "When I Fall in Love"
+    slug: "when-i-fall-in-love"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 274 (March 20, 2026) (Rerun)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Desafinado]({{ '/songs/' | relative_url }}desafinado/) |  | Bossa |  |
-| 2 | [Zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) |  | Techno |  |
-| 3 | [Very Early]({{ '/songs/' | relative_url }}very-early/) |  | Swing |  |
-| 4 | [Nardis]({{ '/songs/' | relative_url }}nardis/) |  | Downtempo |  |
-| 5 | [Avalon]({{ '/songs/' | relative_url }}avalon/) |  | Swing |  |
-| 6 | [Camilla (The Old, Old Story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) |  | Downtempo |  |
-| 7 | [Euclidian Dub Techno]({{ '/one-off-songs.html' | relative_url }}#euclidian-dub-techno) |  |  |  |
-| 8 | [When I Fall in Love]({{ '/songs/' | relative_url }}when-i-fall-in-love/) |  | Ballad |  |

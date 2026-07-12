@@ -544,9 +544,38 @@ def write_single_episode_page(epi, date, data, rerun_keys, canonical_dates, meta
     shirt_escaped = shirt.replace('"', '\\"')
     tip_jar_escaped = tip_jar.replace('"', '\\"')
     notes_escaped = notes.replace('"', '\\"')
-    
     image_fm = f'\nimage: "{image_url}"' if image_url else ""
     
+    # Build YAML setlist front-matter
+    setlist_fm = ""
+    if setlist:
+        setlist_fm += "\nsetlist:"
+        for item in setlist:
+            slug_song = item["slug"]
+            is_hof = slug_song in hof_data
+            if is_hof:
+                style_val = hof_data[slug_song] if hof_data[slug_song] else item["style"]
+            else:
+                style_val = item["style"]
+                
+            time_str = format_offset_time(item["offset"])
+            
+            # Escape strings for YAML
+            name_esc = item["name"].replace('"', '\\"')
+            style_esc = style_val.replace('"', '\\"') if style_val else ""
+            comp_esc = item["composer"].replace('"', '\\"') if item["composer"] else ""
+            notes_esc = item["notes"].replace('"', '\\"') if item["notes"] else ""
+            
+            setlist_fm += f"\n  - song_num: \"{item['song_num']}\""
+            setlist_fm += f"\n    name: \"{name_esc}\""
+            setlist_fm += f"\n    slug: \"{slug_song}\""
+            setlist_fm += f"\n    url: \"{item['url']}\""
+            setlist_fm += f"\n    time: \"{time_str}\""
+            setlist_fm += f"\n    style: \"{style_esc}\""
+            setlist_fm += f"\n    composer: \"{comp_esc}\""
+            setlist_fm += f"\n    notes: \"{notes_esc}\""
+            setlist_fm += f"\n    hof: {str(is_hof).lower()}"
+
     md_content = f"""---
 layout: episode
 title: "{title_escaped}"
@@ -559,38 +588,9 @@ theme: "{theme_escaped}"
 shirt: "{shirt_escaped}"
 tip_jar: "{tip_jar_escaped}"
 notes: "{notes_escaped}"
-youtube_url: "{yt_url}"{image_fm}
+youtube_url: "{yt_url}"{image_fm}{setlist_fm}
 ---
-
-# {title}
-
 """
-    if yt_url:
-        md_content += f"[Watch Full Stream on YouTube &rarr;]({yt_url})\n\n"
-        
-    md_content += """### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-"""
-    for item in setlist:
-        slug_song = item["slug"]
-        if slug_song in hof_data:
-            song_link = "[%s]({{ '/songs/' | relative_url }}%s/)" % (item['name'], slug_song)
-            style_val = hof_data[slug_song] if hof_data[slug_song] else item["style"]
-        else:
-            song_link = "[%s]({{ '/one-off-songs.html' | relative_url }}#%s)" % (item['name'], slug_song)
-            style_val = item["style"]
-            
-        time_str = format_offset_time(item["offset"])
-        time_link = f"[{time_str}]({item['url']})" if item['url'] else time_str
-        
-        style_str = style_val
-        if item["composer"]:
-            style_str += f"<br><small style='color:var(--text-secondary);'>by {item['composer']}</small>"
-            
-        md_content += f"| {item['song_num']} | {song_link} | {time_link} | {style_str} | {item['notes']} |\n"
-        
     file_path = os.path.join(out_dir, f"{slug}.md")
     with open(file_path, mode='w', encoding='utf-8') as f:
         f.write(md_content)

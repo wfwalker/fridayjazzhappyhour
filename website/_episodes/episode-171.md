@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/fKV5HywfAsw"
 image: "/assets/images/title-slides/episode-171.jpg"
+setlist:
+  - song_num: "1"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: "https://youtube.com/live/fKV5HywfAsw?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Chega de Saudade"
+    slug: "chega-de-saudade"
+    url: "https://youtube.com/live/fKV5HywfAsw?t=715"
+    time: "11:55"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Fulani Chant (WFW Isolation Remix)"
+    slug: "fulani-chant-wfw-isolation-remix"
+    url: "https://youtube.com/live/fKV5HywfAsw?t=1158"
+    time: "19:18"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Stella by Starlight"
+    slug: "stella-by-starlight"
+    url: "https://youtube.com/live/fKV5HywfAsw?t=1533"
+    time: "25:33"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Footprints"
+    slug: "footprints"
+    url: "https://youtube.com/live/fKV5HywfAsw?t=1859"
+    time: "30:59"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Feel like going home"
+    slug: "feel-like-going-home"
+    url: "https://youtube.com/live/fKV5HywfAsw?t=2240"
+    time: "37:20"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "If you want me to stay"
+    slug: "if-you-want-me-to-stay"
+    url: "https://youtube.com/live/fKV5HywfAsw?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Quin's Closer"
+    slug: "quins-closer"
+    url: "https://youtube.com/live/fKV5HywfAsw?t=3023"
+    time: "50:23"
+    style: "Ambient"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 171 (July 14, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/fKV5HywfAsw)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) | [04:28](https://youtube.com/live/fKV5HywfAsw?t=268) | Swing |  |
-| 2 | [Chega de Saudade]({{ '/songs/' | relative_url }}chega-de-saudade/) | [11:55](https://youtube.com/live/fKV5HywfAsw?t=715) | Bossa |  |
-| 3 | [Fulani Chant (WFW Isolation Remix)]({{ '/songs/' | relative_url }}fulani-chant-wfw-isolation-remix/) | [19:18](https://youtube.com/live/fKV5HywfAsw?t=1158) | Techno |  |
-| 4 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) | [25:33](https://youtube.com/live/fKV5HywfAsw?t=1533) | Swing |  |
-| 5 | [Footprints]({{ '/songs/' | relative_url }}footprints/) | [30:59](https://youtube.com/live/fKV5HywfAsw?t=1859) | Swing |  |
-| 6 | [Feel like going home]({{ '/songs/' | relative_url }}feel-like-going-home/) | [37:20](https://youtube.com/live/fKV5HywfAsw?t=2240) | Pop |  |
-| 7 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) | [44:22](https://youtube.com/live/fKV5HywfAsw?t=2662) | Funk |  |
-| 8 | [Quin's Closer]({{ '/songs/' | relative_url }}quins-closer/) | [50:23](https://youtube.com/live/fKV5HywfAsw?t=3023) | Ambient |  |

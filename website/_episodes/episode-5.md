@@ -12,19 +12,59 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/mlWuikMRDGo"
 image: "/assets/images/title-slides/episode-5.png"
+setlist:
+  - song_num: "1"
+    name: "Emotional Weather Report"
+    slug: "emotional-weather-report"
+    url: "https://youtu.be/mlWuikMRDGo?t=335"
+    time: "05:35"
+    style: "swing"
+    composer: "Tom Waits"
+    notes: "REDO with jazz dummer"
+    hof: false
+  - song_num: "2"
+    name: "Eye in the Sky"
+    slug: "eye-in-the-sky"
+    url: "https://youtu.be/mlWuikMRDGo?t=655"
+    time: "10:55"
+    style: "pop"
+    composer: "Alan Parsons"
+    notes: "REDO"
+    hof: false
+  - song_num: "3"
+    name: "Shake It Off"
+    slug: "shake-it-off"
+    url: "https://youtu.be/mlWuikMRDGo?t=1452"
+    time: "24:12"
+    style: "pop"
+    composer: "Taylor Swift"
+    notes: "sing or dont sing"
+    hof: false
+  - song_num: "4"
+    name: "In walked Bud"
+    slug: "in-walked-bud"
+    url: "https://youtu.be/mlWuikMRDGo?t=1860"
+    time: "31:00"
+    style: "funk"
+    composer: "Thelonius Monk"
+    notes: "REDO (fuzz gtr?)"
+    hof: false
+  - song_num: "5"
+    name: "Close your Eyes"
+    slug: "close-your-eyes"
+    url: "https://youtu.be/mlWuikMRDGo?t=1085"
+    time: "18:05"
+    style: "Latin"
+    composer: "Berenice Petkere"
+    notes: "needs fills! accordion?"
+    hof: true
+  - song_num: "6"
+    name: "Watermelon Man"
+    slug: "watermelon-man"
+    url: "https://youtu.be/mlWuikMRDGo?t=2202"
+    time: "36:42"
+    style: "Latin"
+    composer: "Herbie Hancock"
+    notes: "REDO add fills!"
+    hof: true
 ---
-
-# Episode 5 (April 17, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/mlWuikMRDGo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Emotional Weather Report]({{ '/one-off-songs.html' | relative_url }}#emotional-weather-report) | [05:35](https://youtu.be/mlWuikMRDGo?t=335) | swing<br><small style='color:var(--text-secondary);'>by Tom Waits</small> | REDO with jazz dummer |
-| 2 | [Eye in the Sky]({{ '/one-off-songs.html' | relative_url }}#eye-in-the-sky) | [10:55](https://youtu.be/mlWuikMRDGo?t=655) | pop<br><small style='color:var(--text-secondary);'>by Alan Parsons</small> | REDO |
-| 3 | [Shake It Off]({{ '/one-off-songs.html' | relative_url }}#shake-it-off) | [24:12](https://youtu.be/mlWuikMRDGo?t=1452) | pop<br><small style='color:var(--text-secondary);'>by Taylor Swift</small> | sing or dont sing |
-| 4 | [In walked Bud]({{ '/one-off-songs.html' | relative_url }}#in-walked-bud) | [31:00](https://youtu.be/mlWuikMRDGo?t=1860) | funk<br><small style='color:var(--text-secondary);'>by Thelonius Monk</small> | REDO (fuzz gtr?) |
-| 5 | [Close your Eyes]({{ '/songs/' | relative_url }}close-your-eyes/) | [18:05](https://youtu.be/mlWuikMRDGo?t=1085) | Latin<br><small style='color:var(--text-secondary);'>by Berenice Petkere</small> | needs fills! accordion? |
-| 6 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [36:42](https://youtu.be/mlWuikMRDGo?t=2202) | Latin<br><small style='color:var(--text-secondary);'>by Herbie Hancock</small> | REDO add fills! |

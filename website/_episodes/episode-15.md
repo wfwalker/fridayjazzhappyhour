@@ -12,19 +12,59 @@ tip_jar: "Outdoor Afro"
 notes: ""
 youtube_url: "https://youtu.be/LCcBhJKB8YA"
 image: "/assets/images/title-slides/episode-15.png"
+setlist:
+  - song_num: "1"
+    name: "Lucky Southern"
+    slug: "lucky-southern"
+    url: "https://youtu.be/LCcBhJKB8YA?t=88"
+    time: "01:28"
+    style: "Pop"
+    composer: "Keith Jarrett"
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Blue Bossa"
+    slug: "blue-bossa"
+    url: "https://youtu.be/LCcBhJKB8YA?t=825"
+    time: "13:45"
+    style: "bossa"
+    composer: "Kenny Dorham"
+    notes: "(see Week14 file on disk"
+    hof: false
+  - song_num: "3"
+    name: "When I Fall in Love"
+    slug: "when-i-fall-in-love"
+    url: "https://youtu.be/LCcBhJKB8YA?t=1192"
+    time: "19:52"
+    style: "Ballad"
+    composer: "Victor Young"
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "We’ll Be Together Again"
+    slug: "well-be-together-again"
+    url: "https://youtu.be/LCcBhJKB8YA?t=2125"
+    time: "35:25"
+    style: "ballad"
+    composer: "Carl Fischer"
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Memories of Tomorrow"
+    slug: "memories-of-tomorrow"
+    url: "https://youtu.be/LCcBhJKB8YA?t=1694"
+    time: "28:14"
+    style: "Pop"
+    composer: "Keith Jarrett"
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: "https://youtu.be/LCcBhJKB8YA?t=377"
+    time: "06:17"
+    style: "Swing"
+    composer: "Victor Young"
+    notes: ""
+    hof: true
 ---
-
-# Episode 15 (June 26, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/LCcBhJKB8YA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) | [01:28](https://youtu.be/LCcBhJKB8YA?t=88) | Pop<br><small style='color:var(--text-secondary);'>by Keith Jarrett</small> |  |
-| 2 | [Blue Bossa]({{ '/one-off-songs.html' | relative_url }}#blue-bossa) | [13:45](https://youtu.be/LCcBhJKB8YA?t=825) | bossa<br><small style='color:var(--text-secondary);'>by Kenny Dorham</small> | (see Week14 file on disk |
-| 3 | [When I Fall in Love]({{ '/songs/' | relative_url }}when-i-fall-in-love/) | [19:52](https://youtu.be/LCcBhJKB8YA?t=1192) | Ballad<br><small style='color:var(--text-secondary);'>by Victor Young</small> |  |
-| 4 | [We’ll Be Together Again]({{ '/one-off-songs.html' | relative_url }}#well-be-together-again) | [35:25](https://youtu.be/LCcBhJKB8YA?t=2125) | ballad<br><small style='color:var(--text-secondary);'>by Carl Fischer</small> |  |
-| 5 | [Memories of Tomorrow]({{ '/songs/' | relative_url }}memories-of-tomorrow/) | [28:14](https://youtu.be/LCcBhJKB8YA?t=1694) | Pop<br><small style='color:var(--text-secondary);'>by Keith Jarrett</small> |  |
-| 6 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) | [06:17](https://youtu.be/LCcBhJKB8YA?t=377) | Swing<br><small style='color:var(--text-secondary);'>by Victor Young</small> |  |

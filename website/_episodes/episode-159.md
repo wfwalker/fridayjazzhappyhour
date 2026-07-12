@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/YOlVjS1rPFY"
 image: "/assets/images/title-slides/episode-159.jpg"
+setlist:
+  - song_num: "1"
+    name: "What is this thing called love"
+    slug: "what-is-this-thing-called-love"
+    url: "https://youtube.com/live/YOlVjS1rPFY?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "How Insensitive"
+    slug: "how-insensitive"
+    url: "https://youtube.com/live/YOlVjS1rPFY?t=715"
+    time: "11:55"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "I Mean You"
+    slug: "i-mean-you"
+    url: "https://youtube.com/live/YOlVjS1rPFY?t=1158"
+    time: "19:18"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "With or Without you"
+    slug: "with-or-without-you"
+    url: "https://youtube.com/live/YOlVjS1rPFY?t=1533"
+    time: "25:33"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Give me the Night"
+    slug: "give-me-the-night"
+    url: "https://youtube.com/live/YOlVjS1rPFY?t=1859"
+    time: "30:59"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Waters of March"
+    slug: "waters-of-march"
+    url: "https://youtube.com/live/YOlVjS1rPFY?t=2240"
+    time: "37:20"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Spring can really hang you up the most"
+    slug: "spring-can-really-hang-you-up-the-most"
+    url: "https://youtube.com/live/YOlVjS1rPFY?t=2662"
+    time: "44:22"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "8"
+    name: "If you want me to stay"
+    slug: "if-you-want-me-to-stay"
+    url: "https://youtube.com/live/YOlVjS1rPFY?t=3023"
+    time: "50:23"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Closer April 21"
+    slug: "closer-april-21"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 159 (April 21, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/YOlVjS1rPFY)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) | [04:28](https://youtube.com/live/YOlVjS1rPFY?t=268) | Swing |  |
-| 2 | [How Insensitive]({{ '/songs/' | relative_url }}how-insensitive/) | [11:55](https://youtube.com/live/YOlVjS1rPFY?t=715) | Bossa |  |
-| 3 | [I Mean You]({{ '/songs/' | relative_url }}i-mean-you/) | [19:18](https://youtube.com/live/YOlVjS1rPFY?t=1158) | Pop |  |
-| 4 | [With or Without you]({{ '/songs/' | relative_url }}with-or-without-you/) | [25:33](https://youtube.com/live/YOlVjS1rPFY?t=1533) | Pop |  |
-| 5 | [Give me the Night]({{ '/songs/' | relative_url }}give-me-the-night/) | [30:59](https://youtube.com/live/YOlVjS1rPFY?t=1859) | Funk |  |
-| 6 | [Waters of March]({{ '/songs/' | relative_url }}waters-of-march/) | [37:20](https://youtube.com/live/YOlVjS1rPFY?t=2240) | Bossa |  |
-| 7 | [Spring can really hang you up the most]({{ '/one-off-songs.html' | relative_url }}#spring-can-really-hang-you-up-the-most) | [44:22](https://youtube.com/live/YOlVjS1rPFY?t=2662) |  |  |
-| 8 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) | [50:23](https://youtube.com/live/YOlVjS1rPFY?t=3023) | Funk |  |
-| 9 | [Closer April 21]({{ '/one-off-songs.html' | relative_url }}#closer-april-21) |  |  |  |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/e2uTWkQT0TE"
 image: "/assets/images/title-slides/episode-235.jpg"
+setlist:
+  - song_num: "1"
+    name: "Skating"
+    slug: "skating"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "Christmastime is Here"
+    slug: "christmastime-is-here"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Christmas is Coming"
+    slug: "christmas-is-coming"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Mo Better Blues"
+    slug: "mo-better-blues"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Nearness of You"
+    slug: "nearness-of-you"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "So Danco Samba"
+    slug: "so-danco-samba"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Song for my Father"
+    slug: "song-for-my-father"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Nov 29"
+    slug: "closer-nov-29"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 235 (November 29, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/e2uTWkQT0TE)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Skating]({{ '/one-off-songs.html' | relative_url }}#skating) |  |  |  |
-| 2 | [Christmastime is Here]({{ '/songs/' | relative_url }}christmastime-is-here/) |  | Christmas |  |
-| 3 | [Christmas is Coming]({{ '/songs/' | relative_url }}christmas-is-coming/) |  | Christmas |  |
-| 4 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) |  | Pop |  |
-| 5 | [Nearness of You]({{ '/songs/' | relative_url }}nearness-of-you/) |  | Bossa |  |
-| 6 | [So Danco Samba]({{ '/songs/' | relative_url }}so-danco-samba/) |  | Samba |  |
-| 7 | [Song for my Father]({{ '/songs/' | relative_url }}song-for-my-father/) |  | Latin |  |
-| 8 | [Closer Nov 29]({{ '/one-off-songs.html' | relative_url }}#closer-nov-29) |  |  |  |

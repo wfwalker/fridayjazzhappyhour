@@ -12,20 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-210.jpg"
+setlist:
+  - song_num: "1"
+    name: "The Egg and You"
+    slug: "the-egg-and-you"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "All the Things You Are"
+    slug: "all-the-things-you-are"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Nearness of You"
+    slug: "nearness-of-you"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Avalon"
+    slug: "avalon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "My Romance"
+    slug: "my-romance"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Camilla (The Old, Old Story)"
+    slug: "camilla-the-old-old-story"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "So Danco Samba"
+    slug: "so-danco-samba"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "God Bless the Child"
+    slug: "god-bless-the-child"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Improv Closer may 24"
+    slug: "improv-closer-may-24"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 210 (May 24, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [The Egg and You]({{ '/songs/' | relative_url }}the-egg-and-you/) |  | Pop |  |
-| 2 | [All the Things You Are]({{ '/songs/' | relative_url }}all-the-things-you-are/) |  | Swing |  |
-| 3 | [Nearness of You]({{ '/songs/' | relative_url }}nearness-of-you/) |  | Bossa |  |
-| 4 | [Avalon]({{ '/songs/' | relative_url }}avalon/) |  | Swing |  |
-| 5 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) |  | Swing |  |
-| 6 | [Camilla (The Old, Old Story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) |  | Downtempo |  |
-| 7 | [So Danco Samba]({{ '/songs/' | relative_url }}so-danco-samba/) |  | Samba |  |
-| 8 | [God Bless the Child]({{ '/songs/' | relative_url }}god-bless-the-child/) |  | Funk |  |
-| 9 | [Improv Closer may 24]({{ '/one-off-songs.html' | relative_url }}#improv-closer-may-24) |  |  |  |

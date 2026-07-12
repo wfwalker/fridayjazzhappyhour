@@ -12,21 +12,77 @@ tip_jar: "Youth Spirit Artworks"
 notes: "yes"
 youtube_url: "https://youtu.be/Wxw626FLkDw"
 image: "/assets/images/title-slides/episode-51.jpg"
+setlist:
+  - song_num: "1"
+    name: "There will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: "https://youtu.be/Wxw626FLkDw?t=262"
+    time: "04:22"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Meditation"
+    slug: "meditation"
+    url: "https://youtu.be/Wxw626FLkDw?t=604"
+    time: "10:04"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "In Walked Bud"
+    slug: "in-walked-bud"
+    url: "https://youtu.be/Wxw626FLkDw?t=1230"
+    time: "20:30"
+    style: ""
+    composer: ""
+    notes: "v messy, organ too loud"
+    hof: false
+  - song_num: "4"
+    name: "Scrapple from the Apple"
+    slug: "scrapple-from-the-apple"
+    url: "https://youtu.be/Wxw626FLkDw?t=1703"
+    time: "28:23"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Secret Love"
+    slug: "secret-love"
+    url: "https://youtu.be/Wxw626FLkDw?t=2217"
+    time: "36:57"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "Waltz for Debby"
+    slug: "waltz-for-debby"
+    url: "https://youtu.be/Wxw626FLkDw?t=2660"
+    time: "44:20"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "7"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: "https://youtu.be/Wxw626FLkDw?t=2995"
+    time: "49:55"
+    style: "Funk"
+    composer: ""
+    notes: "organ too loud; organ + sax = crazy delicious"
+    hof: true
+  - song_num: "8"
+    name: "Stella by Starlight"
+    slug: "stella-by-starlight"
+    url: "https://youtu.be/Wxw626FLkDw?t=3530"
+    time: "58:50"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 51 (March 5, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/Wxw626FLkDw)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) | [04:22](https://youtu.be/Wxw626FLkDw?t=262) | Swing |  |
-| 2 | [Meditation]({{ '/songs/' | relative_url }}meditation/) | [10:04](https://youtu.be/Wxw626FLkDw?t=604) | Latin |  |
-| 3 | [In Walked Bud]({{ '/one-off-songs.html' | relative_url }}#in-walked-bud) | [20:30](https://youtu.be/Wxw626FLkDw?t=1230) |  | v messy, organ too loud |
-| 4 | [Scrapple from the Apple]({{ '/songs/' | relative_url }}scrapple-from-the-apple/) | [28:23](https://youtu.be/Wxw626FLkDw?t=1703) | Swing |  |
-| 5 | [Secret Love]({{ '/one-off-songs.html' | relative_url }}#secret-love) | [36:57](https://youtu.be/Wxw626FLkDw?t=2217) |  |  |
-| 6 | [Waltz for Debby]({{ '/one-off-songs.html' | relative_url }}#waltz-for-debby) | [44:20](https://youtu.be/Wxw626FLkDw?t=2660) |  |  |
-| 7 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [49:55](https://youtu.be/Wxw626FLkDw?t=2995) | Funk | organ too loud; organ + sax = crazy delicious |
-| 8 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) | [58:50](https://youtu.be/Wxw626FLkDw?t=3530) | Swing |  |

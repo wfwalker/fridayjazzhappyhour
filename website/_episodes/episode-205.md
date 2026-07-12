@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-205.jpg"
+setlist:
+  - song_num: "1"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Chega de Saudade"
+    slug: "chega-de-saudade"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "This Can't be Love"
+    slug: "this-cant-be-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Ternura"
+    slug: "ternura"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Some day My Prince will Come"
+    slug: "some-day-my-prince-will-come"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Caminhos Cruzados"
+    slug: "caminhos-cruzados"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Here Comes the Flood"
+    slug: "here-comes-the-flood"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Frisell VCV closer April 19"
+    slug: "frisell-vcv-closer-april-19"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 205 (April 19, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) |  | Funk |  |
-| 2 | [Chega de Saudade]({{ '/songs/' | relative_url }}chega-de-saudade/) |  | Bossa |  |
-| 3 | [This Can't be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) |  | Swing |  |
-| 4 | [Ternura]({{ '/songs/' | relative_url }}ternura/) |  | Latin |  |
-| 5 | [Some day My Prince will Come]({{ '/songs/' | relative_url }}some-day-my-prince-will-come/) |  | Swing |  |
-| 6 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) |  | Bossa |  |
-| 7 | [Here Comes the Flood]({{ '/songs/' | relative_url }}here-comes-the-flood/) |  | Pop |  |
-| 8 | [Frisell VCV closer April 19]({{ '/one-off-songs.html' | relative_url }}#frisell-vcv-closer-april-19) |  |  |  |

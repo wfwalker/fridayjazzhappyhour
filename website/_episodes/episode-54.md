@@ -12,21 +12,77 @@ tip_jar: "Humane Society Silicon Valley"
 notes: "yes"
 youtube_url: "https://youtu.be/L9jDIlX7bjs"
 image: "/assets/images/title-slides/episode-54.jpg"
+setlist:
+  - song_num: "1"
+    name: "Naima"
+    slug: "naima"
+    url: "https://youtu.be/L9jDIlX7bjs?t=395"
+    time: "06:35"
+    style: "Downtempo"
+    composer: ""
+    notes: "more variety?"
+    hof: true
+  - song_num: "2"
+    name: "La Mer"
+    slug: "la-mer"
+    url: "https://youtu.be/L9jDIlX7bjs?t=839"
+    time: "13:59"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "3"
+    name: "Cantaloupe Island"
+    slug: "cantaloupe-island"
+    url: "https://youtu.be/L9jDIlX7bjs?t=1428"
+    time: "23:48"
+    style: "Funk"
+    composer: ""
+    notes: "vocal samples?"
+    hof: true
+  - song_num: "4"
+    name: "Nardis"
+    slug: "nardis"
+    url: "https://youtu.be/L9jDIlX7bjs?t=1890"
+    time: "31:30"
+    style: "Downtempo"
+    composer: ""
+    notes: "HOF?"
+    hof: true
+  - song_num: "5"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: "https://youtu.be/L9jDIlX7bjs?t=2320"
+    time: "38:40"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Alberta"
+    slug: "alberta"
+    url: "https://youtu.be/L9jDIlX7bjs?t=2760"
+    time: "46:00"
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Cissy Strut"
+    slug: "cissy-strut"
+    url: "https://youtu.be/L9jDIlX7bjs?t=3175"
+    time: "52:55"
+    style: "Funk"
+    composer: ""
+    notes: "messy but still HOF"
+    hof: true
+  - song_num: "8"
+    name: "But Beautiful"
+    slug: "but-beautiful"
+    url: "https://youtu.be/L9jDIlX7bjs?t=3553"
+    time: "59:13"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 54 (March 26, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/L9jDIlX7bjs)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Naima]({{ '/songs/' | relative_url }}naima/) | [06:35](https://youtu.be/L9jDIlX7bjs?t=395) | Downtempo | more variety? |
-| 2 | [La Mer]({{ '/one-off-songs.html' | relative_url }}#la-mer) | [13:59](https://youtu.be/L9jDIlX7bjs?t=839) |  |  |
-| 3 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) | [23:48](https://youtu.be/L9jDIlX7bjs?t=1428) | Funk | vocal samples? |
-| 4 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [31:30](https://youtu.be/L9jDIlX7bjs?t=1890) | Downtempo | HOF? |
-| 5 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [38:40](https://youtu.be/L9jDIlX7bjs?t=2320) | Bossa |  |
-| 6 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [46:00](https://youtu.be/L9jDIlX7bjs?t=2760) | World |  |
-| 7 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) | [52:55](https://youtu.be/L9jDIlX7bjs?t=3175) | Funk | messy but still HOF |
-| 8 | [But Beautiful]({{ '/one-off-songs.html' | relative_url }}#but-beautiful) | [59:13](https://youtu.be/L9jDIlX7bjs?t=3553) | Ballad |  |

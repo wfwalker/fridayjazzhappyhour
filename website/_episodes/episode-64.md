@@ -12,21 +12,77 @@ tip_jar: "hamiltonfamilies.org"
 notes: ""
 youtube_url: "https://youtu.be/S_oefge4qcQ"
 image: "/assets/images/title-slides/episode-64.jpg"
+setlist:
+  - song_num: "1"
+    name: "Blades"
+    slug: "blades"
+    url: "https://youtu.be/S_oefge4qcQ?t=246"
+    time: "04:06"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Watermelon Man"
+    slug: "watermelon-man"
+    url: "https://youtu.be/S_oefge4qcQ?t=650"
+    time: "10:50"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtu.be/S_oefge4qcQ?t=1128"
+    time: "18:48"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "free improv (captain's log)"
+    slug: "free-improv-captains-log"
+    url: "https://youtu.be/S_oefge4qcQ?t=1581"
+    time: "26:21"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: "https://youtu.be/S_oefge4qcQ?t=2031"
+    time: "33:51"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Nardis"
+    slug: "nardis"
+    url: "https://youtu.be/S_oefge4qcQ?t=2568"
+    time: "42:48"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Septimus Prime"
+    slug: "septimus-prime"
+    url: "https://youtu.be/S_oefge4qcQ?t=3011"
+    time: "50:11"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: "https://youtu.be/S_oefge4qcQ?t=3530"
+    time: "58:50"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 64 (June 4, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/S_oefge4qcQ)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Blades]({{ '/songs/' | relative_url }}blades/) | [04:06](https://youtu.be/S_oefge4qcQ?t=246) | Downtempo |  |
-| 2 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [10:50](https://youtu.be/S_oefge4qcQ?t=650) | Latin |  |
-| 3 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [18:48](https://youtu.be/S_oefge4qcQ?t=1128) | Swing |  |
-| 4 | [free improv (captain's log)]({{ '/one-off-songs.html' | relative_url }}#free-improv-captains-log) | [26:21](https://youtu.be/S_oefge4qcQ?t=1581) | Techno |  |
-| 5 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [33:51](https://youtu.be/S_oefge4qcQ?t=2031) | Techno |  |
-| 6 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [42:48](https://youtu.be/S_oefge4qcQ?t=2568) | Downtempo |  |
-| 7 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [50:11](https://youtu.be/S_oefge4qcQ?t=3011) | Funk |  |
-| 8 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [58:50](https://youtu.be/S_oefge4qcQ?t=3530) | Bossa |  |

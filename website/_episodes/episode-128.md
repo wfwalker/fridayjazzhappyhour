@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/O9QM80LF2bA"
 image: "/assets/images/title-slides/episode-128.jpg"
+setlist:
+  - song_num: "1"
+    name: "Footprints"
+    slug: "footprints"
+    url: "https://youtu.be/O9QM80LF2bA?t=85"
+    time: "01:25"
+    style: "Swing"
+    composer: ""
+    notes: "e pno too hot"
+    hof: true
+  - song_num: "2"
+    name: "Moanin"
+    slug: "moanin"
+    url: "https://youtu.be/O9QM80LF2bA?t=450"
+    time: "07:30"
+    style: "Swing"
+    composer: ""
+    notes: "solo ended but then kept going"
+    hof: true
+  - song_num: "3"
+    name: "Corcovado"
+    slug: "corcovado"
+    url: "https://youtu.be/O9QM80LF2bA?t=876"
+    time: "14:36"
+    style: "Bossa"
+    composer: ""
+    notes: "nice piano solo; organ seems too dry, fix random drum end"
+    hof: true
+  - song_num: "4"
+    name: "Samba de Orfeu"
+    slug: "samba-de-orfeu"
+    url: "https://youtu.be/O9QM80LF2bA?t=1322"
+    time: "22:02"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Naima"
+    slug: "naima"
+    url: "https://youtu.be/O9QM80LF2bA?t=1658"
+    time: "27:38"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Samba e Amor"
+    slug: "samba-e-amor"
+    url: "https://youtu.be/O9QM80LF2bA?t=2075"
+    time: "34:35"
+    style: "Samba"
+    composer: ""
+    notes: "try melodica"
+    hof: true
+  - song_num: "7"
+    name: "Septimus Prime"
+    slug: "septimus-prime"
+    url: "https://youtu.be/O9QM80LF2bA?t=2525"
+    time: "42:05"
+    style: "Funk"
+    composer: ""
+    notes: "tambourine too loud"
+    hof: true
+  - song_num: "8"
+    name: "Stella by Starlight"
+    slug: "stella-by-starlight"
+    url: "https://youtu.be/O9QM80LF2bA?t=2908"
+    time: "48:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 128 (August 26, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/O9QM80LF2bA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Footprints]({{ '/songs/' | relative_url }}footprints/) | [01:25](https://youtu.be/O9QM80LF2bA?t=85) | Swing | e pno too hot |
-| 2 | [Moanin]({{ '/songs/' | relative_url }}moanin/) | [07:30](https://youtu.be/O9QM80LF2bA?t=450) | Swing | solo ended but then kept going |
-| 3 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) | [14:36](https://youtu.be/O9QM80LF2bA?t=876) | Bossa | nice piano solo; organ seems too dry, fix random drum end |
-| 4 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [22:02](https://youtu.be/O9QM80LF2bA?t=1322) | Samba |  |
-| 5 | [Naima]({{ '/songs/' | relative_url }}naima/) | [27:38](https://youtu.be/O9QM80LF2bA?t=1658) | Downtempo |  |
-| 6 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) | [34:35](https://youtu.be/O9QM80LF2bA?t=2075) | Samba | try melodica |
-| 7 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [42:05](https://youtu.be/O9QM80LF2bA?t=2525) | Funk | tambourine too loud |
-| 8 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) | [48:28](https://youtu.be/O9QM80LF2bA?t=2908) | Swing |  |

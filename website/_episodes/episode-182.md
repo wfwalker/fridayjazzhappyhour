@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/3gn7cZOMOqA"
 image: "/assets/images/title-slides/episode-182.jpg"
+setlist:
+  - song_num: "1"
+    name: "Little Sunflower"
+    slug: "little-sunflower"
+    url: "https://youtu.be/3gn7cZOMOqA?t=69"
+    time: "01:09"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Bossa Antigua"
+    slug: "bossa-antigua"
+    url: "https://youtu.be/3gn7cZOMOqA?t=715"
+    time: "11:55"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Feel like going home"
+    slug: "feel-like-going-home"
+    url: "https://youtu.be/3gn7cZOMOqA?t=1158"
+    time: "19:18"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "So Nice"
+    slug: "so-nice"
+    url: "https://youtu.be/3gn7cZOMOqA?t=1533"
+    time: "25:33"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Midnight"
+    slug: "midnight"
+    url: "https://youtu.be/3gn7cZOMOqA?t=1859"
+    time: "30:59"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Gee Baby, Ain’t I Good to You"
+    slug: "gee-baby-aint-i-good-to-you"
+    url: "https://youtu.be/3gn7cZOMOqA?t=2240"
+    time: "37:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Brazil"
+    slug: "brazil"
+    url: "https://youtu.be/3gn7cZOMOqA?t=2662"
+    time: "44:22"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "CQ"
+    slug: "cq"
+    url: "https://youtu.be/3gn7cZOMOqA?t=3023"
+    time: "50:23"
+    style: "Ambient"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 182 (October 13, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/3gn7cZOMOqA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) | [01:09](https://youtu.be/3gn7cZOMOqA?t=69) | Techno |  |
-| 2 | [Bossa Antigua]({{ '/songs/' | relative_url }}bossa-antigua/) | [11:55](https://youtu.be/3gn7cZOMOqA?t=715) | Bossa |  |
-| 3 | [Feel like going home]({{ '/songs/' | relative_url }}feel-like-going-home/) | [19:18](https://youtu.be/3gn7cZOMOqA?t=1158) | Pop |  |
-| 4 | [So Nice]({{ '/songs/' | relative_url }}so-nice/) | [25:33](https://youtu.be/3gn7cZOMOqA?t=1533) | Bossa |  |
-| 5 | [Midnight]({{ '/songs/' | relative_url }}midnight/) | [30:59](https://youtu.be/3gn7cZOMOqA?t=1859) | Techno |  |
-| 6 | [Gee Baby, Ain’t I Good to You]({{ '/songs/' | relative_url }}gee-baby-aint-i-good-to-you/) | [37:20](https://youtu.be/3gn7cZOMOqA?t=2240) | Swing |  |
-| 7 | [Brazil]({{ '/songs/' | relative_url }}brazil/) | [44:22](https://youtu.be/3gn7cZOMOqA?t=2662) | Bossa |  |
-| 8 | [CQ]({{ '/songs/' | relative_url }}cq/) | [50:23](https://youtu.be/3gn7cZOMOqA?t=3023) | Ambient |  |

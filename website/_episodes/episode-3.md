@@ -12,20 +12,68 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/s0MwmoMYKj8"
 image: "/assets/images/title-slides/episode-3.png"
+setlist:
+  - song_num: "1"
+    name: "St. Thomas"
+    slug: "st-thomas"
+    url: "https://youtu.be/s0MwmoMYKj8?t=100"
+    time: "01:40"
+    style: "Latin"
+    composer: "Sonny Rollins"
+    notes: "needs something else in arrangement)"
+    hof: true
+  - song_num: "2"
+    name: "Peter Gunn / Trouble Comin’ Everyday"
+    slug: "peter-gunn-trouble-comin-everyday"
+    url: "https://youtu.be/s0MwmoMYKj8?t=1130"
+    time: "18:50"
+    style: "funk"
+    composer: "Henry Mancini"
+    notes: "REDO"
+    hof: false
+  - song_num: "3"
+    name: "Time After Time"
+    slug: "time-after-time"
+    url: "https://youtu.be/s0MwmoMYKj8?t=1490"
+    time: "24:50"
+    style: "Pop"
+    composer: "Cyndi Lauper"
+    notes: "REDO"
+    hof: true
+  - song_num: "4"
+    name: "Dinosaur Night"
+    slug: "dinosaur-night"
+    url: "https://youtu.be/s0MwmoMYKj8?t=2242"
+    time: "37:22"
+    style: "accordion"
+    composer: "Bill Walker"
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Nightingale Sang in Berkeley Square"
+    slug: "nightingale-sang-in-berkeley-square"
+    url: "https://youtu.be/s0MwmoMYKj8?t=435"
+    time: "07:15"
+    style: "Ballad"
+    composer: ""
+    notes: "bass wrong tempo!"
+    hof: true
+  - song_num: "6"
+    name: "Softly as in a Morning Sunrise"
+    slug: "softly-as-in-a-morning-sunrise"
+    url: "https://youtu.be/s0MwmoMYKj8?t=808"
+    time: "13:28"
+    style: "Techno"
+    composer: "Hammerstein"
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Cold Duck Time"
+    slug: "cold-duck-time"
+    url: "https://youtu.be/s0MwmoMYKj8?t=1770"
+    time: "29:30"
+    style: "Funk"
+    composer: "Eddie Harris"
+    notes: ""
+    hof: true
 ---
-
-# Episode 3 (April 3, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/s0MwmoMYKj8)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) | [01:40](https://youtu.be/s0MwmoMYKj8?t=100) | Latin<br><small style='color:var(--text-secondary);'>by Sonny Rollins</small> | needs something else in arrangement) |
-| 2 | [Peter Gunn / Trouble Comin’ Everyday]({{ '/one-off-songs.html' | relative_url }}#peter-gunn-trouble-comin-everyday) | [18:50](https://youtu.be/s0MwmoMYKj8?t=1130) | funk<br><small style='color:var(--text-secondary);'>by Henry Mancini</small> | REDO |
-| 3 | [Time After Time]({{ '/songs/' | relative_url }}time-after-time/) | [24:50](https://youtu.be/s0MwmoMYKj8?t=1490) | Pop<br><small style='color:var(--text-secondary);'>by Cyndi Lauper</small> | REDO |
-| 4 | [Dinosaur Night]({{ '/one-off-songs.html' | relative_url }}#dinosaur-night) | [37:22](https://youtu.be/s0MwmoMYKj8?t=2242) | accordion<br><small style='color:var(--text-secondary);'>by Bill Walker</small> |  |
-| 5 | [Nightingale Sang in Berkeley Square]({{ '/songs/' | relative_url }}nightingale-sang-in-berkeley-square/) | [07:15](https://youtu.be/s0MwmoMYKj8?t=435) | Ballad | bass wrong tempo! |
-| 6 | [Softly as in a Morning Sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) | [13:28](https://youtu.be/s0MwmoMYKj8?t=808) | Techno<br><small style='color:var(--text-secondary);'>by Hammerstein</small> |  |
-| 7 | [Cold Duck Time]({{ '/songs/' | relative_url }}cold-duck-time/) | [29:30](https://youtu.be/s0MwmoMYKj8?t=1770) | Funk<br><small style='color:var(--text-secondary);'>by Eddie Harris</small> |  |

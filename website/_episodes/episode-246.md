@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/77mES0-RJsc"
 image: "/assets/images/title-slides/episode-246.jpg"
+setlist:
+  - song_num: "1"
+    name: "Cantaloupe Island"
+    slug: "cantaloupe-island"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Stella by Starlight"
+    slug: "stella-by-starlight"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Au Privave"
+    slug: "au-privave"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "The Chicken"
+    slug: "the-chicken"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Time Remembered"
+    slug: "time-remembered"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Sing Sing Sing"
+    slug: "sing-sing-sing"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "My Romance"
+    slug: "my-romance"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 246 (February 14, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/77mES0-RJsc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) |  | Funk |  |
-| 2 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) |  | Swing |  |
-| 3 | [Au Privave]({{ '/songs/' | relative_url }}au-privave/) |  | Swing |  |
-| 4 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) |  | Funk |  |
-| 5 | [Time Remembered]({{ '/songs/' | relative_url }}time-remembered/) |  | Swing |  |
-| 6 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) |  | Bossa |  |
-| 7 | [Sing Sing Sing]({{ '/songs/' | relative_url }}sing-sing-sing/) |  | Pop |  |
-| 8 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) |  | Swing |  |

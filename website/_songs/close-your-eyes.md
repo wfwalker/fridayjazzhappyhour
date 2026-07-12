@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "Close your eyes"
+title: "Close your Eyes"
 composer: "Berenice Petkere"
 style: "Latin"
 play_count: 10
@@ -8,7 +8,7 @@ hall_of_fame: true
 ready_rating: 4
 ---
 
-# Close your eyes
+# Close your Eyes
 
 Played **10** times in the live shows.
 

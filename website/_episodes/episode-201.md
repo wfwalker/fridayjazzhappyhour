@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/LbsjAeA49TU"
 image: "/assets/images/title-slides/episode-201.jpg"
+setlist:
+  - song_num: "1"
+    name: "Stars Fell on Alabama"
+    slug: "stars-fell-on-alabama"
+    url: "https://youtu.be/LbsjAeA49TU?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Cold Duck Time"
+    slug: "cold-duck-time"
+    url: "https://youtu.be/LbsjAeA49TU?t=715"
+    time: "11:55"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Icarus"
+    slug: "icarus"
+    url: "https://youtu.be/LbsjAeA49TU?t=1158"
+    time: "19:18"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Brazil"
+    slug: "brazil"
+    url: "https://youtu.be/LbsjAeA49TU?t=1533"
+    time: "25:33"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Camilla (The Old, Old Story)"
+    slug: "camilla-the-old-old-story"
+    url: "https://youtu.be/LbsjAeA49TU?t=1859"
+    time: "30:59"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Isn't it Romantic"
+    slug: "isnt-it-romantic"
+    url: "https://youtu.be/LbsjAeA49TU?t=2240"
+    time: "37:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: "https://youtu.be/LbsjAeA49TU?t=2662"
+    time: "44:22"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "VCV wobbly chords closer"
+    slug: "vcv-wobbly-chords-closer"
+    url: "https://youtu.be/LbsjAeA49TU?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 201 (March 8, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/LbsjAeA49TU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Stars Fell on Alabama]({{ '/songs/' | relative_url }}stars-fell-on-alabama/) | [04:28](https://youtu.be/LbsjAeA49TU?t=268) | Swing |  |
-| 2 | [Cold Duck Time]({{ '/songs/' | relative_url }}cold-duck-time/) | [11:55](https://youtu.be/LbsjAeA49TU?t=715) | Funk |  |
-| 3 | [Icarus]({{ '/songs/' | relative_url }}icarus/) | [19:18](https://youtu.be/LbsjAeA49TU?t=1158) | Latin |  |
-| 4 | [Brazil]({{ '/songs/' | relative_url }}brazil/) | [25:33](https://youtu.be/LbsjAeA49TU?t=1533) | Bossa |  |
-| 5 | [Camilla (The Old, Old Story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [30:59](https://youtu.be/LbsjAeA49TU?t=1859) | Downtempo |  |
-| 6 | [Isn't it Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) | [37:20](https://youtu.be/LbsjAeA49TU?t=2240) | Swing |  |
-| 7 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [44:22](https://youtu.be/LbsjAeA49TU?t=2662) | Latin |  |
-| 8 | [VCV wobbly chords closer]({{ '/one-off-songs.html' | relative_url }}#vcv-wobbly-chords-closer) | [50:23](https://youtu.be/LbsjAeA49TU?t=3023) |  |  |

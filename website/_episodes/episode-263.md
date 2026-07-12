@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/hhGsnvxRRAQ"
 image: "/assets/images/title-slides/episode-263.jpg"
+setlist:
+  - song_num: "1"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Sister Sadie"
+    slug: "sister-sadie"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "This Masquerade"
+    slug: "this-masquerade"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Dindi"
+    slug: "dindi"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Beat 70"
+    slug: "beat-70"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "A Lotus on Irish Streams"
+    slug: "a-lotus-on-irish-streams"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Jean Pierre in Egypt"
+    slug: "jean-pierre-in-egypt"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Tuvan robot closer"
+    slug: "tuvan-robot-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 263 (July 4, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/hhGsnvxRRAQ)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) |  | Techno |  |
-| 2 | [Sister Sadie]({{ '/songs/' | relative_url }}sister-sadie/) |  | Swing |  |
-| 3 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) |  | Funk |  |
-| 4 | [Dindi]({{ '/songs/' | relative_url }}dindi/) |  | Techno |  |
-| 5 | [Beat 70]({{ '/songs/' | relative_url }}beat-70/) |  | Bossa |  |
-| 6 | [A Lotus on Irish Streams]({{ '/songs/' | relative_url }}a-lotus-on-irish-streams/) |  | Ballad |  |
-| 7 | [Jean Pierre in Egypt]({{ '/songs/' | relative_url }}jean-pierre-in-egypt/) |  | Funk |  |
-| 8 | [Tuvan robot closer]({{ '/one-off-songs.html' | relative_url }}#tuvan-robot-closer) |  |  |  |

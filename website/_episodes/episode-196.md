@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/THYDMtV4MT0"
 image: "/assets/images/title-slides/episode-196.jpg"
+setlist:
+  - song_num: "1"
+    name: "Mad World"
+    slug: "mad-world"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Bossa Antigua"
+    slug: "bossa-antigua"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "If i were a bell"
+    slug: "if-i-were-a-bell"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "La Fiesta"
+    slug: "la-fiesta"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Look to the Sky"
+    slug: "look-to-the-sky"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Sister Sadie"
+    slug: "sister-sadie"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "improv on Look of Love"
+    slug: "improv-on-look-of-love"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "8"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Quin's Closer"
+    slug: "quins-closer"
+    url: ""
+    time: ""
+    style: "Ambient"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 196 (January 19, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/THYDMtV4MT0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Mad World]({{ '/songs/' | relative_url }}mad-world/) |  | Pop |  |
-| 2 | [Bossa Antigua]({{ '/songs/' | relative_url }}bossa-antigua/) |  | Bossa |  |
-| 3 | [If i were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) |  | Swing |  |
-| 4 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) |  | Latin |  |
-| 5 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) |  | Bossa |  |
-| 6 | [Sister Sadie]({{ '/songs/' | relative_url }}sister-sadie/) |  | Swing |  |
-| 7 | [improv on Look of Love]({{ '/one-off-songs.html' | relative_url }}#improv-on-look-of-love) |  |  |  |
-| 8 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) |  | Funk |  |
-| 9 | [Quin's Closer]({{ '/songs/' | relative_url }}quins-closer/) |  | Ambient |  |

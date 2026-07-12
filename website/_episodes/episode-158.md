@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/dXjYvp477_M"
 image: "/assets/images/title-slides/episode-158.jpg"
+setlist:
+  - song_num: "1"
+    name: "Stella by Starlight"
+    slug: "stella-by-starlight"
+    url: "https://youtube.com/live/dXjYvp477_M?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Cantaloupe Island"
+    slug: "cantaloupe-island"
+    url: "https://youtube.com/live/dXjYvp477_M?t=715"
+    time: "11:55"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Some Day My Prince will Come"
+    slug: "some-day-my-prince-will-come"
+    url: "https://youtube.com/live/dXjYvp477_M?t=1158"
+    time: "19:18"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: "https://youtube.com/live/dXjYvp477_M?t=1533"
+    time: "25:33"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "The Touch of your Lips"
+    slug: "the-touch-of-your-lips"
+    url: "https://youtube.com/live/dXjYvp477_M?t=1859"
+    time: "30:59"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Lucky Southern"
+    slug: "lucky-southern"
+    url: "https://youtube.com/live/dXjYvp477_M?t=2240"
+    time: "37:20"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Watermelon Man"
+    slug: "watermelon-man"
+    url: "https://youtube.com/live/dXjYvp477_M?t=2662"
+    time: "44:22"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Crystal Silence"
+    slug: "crystal-silence"
+    url: "https://youtube.com/live/dXjYvp477_M?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 158 (April 14, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/dXjYvp477_M)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) | [04:28](https://youtube.com/live/dXjYvp477_M?t=268) | Swing |  |
-| 2 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) | [11:55](https://youtube.com/live/dXjYvp477_M?t=715) | Funk |  |
-| 3 | [Some Day My Prince will Come]({{ '/songs/' | relative_url }}some-day-my-prince-will-come/) | [19:18](https://youtube.com/live/dXjYvp477_M?t=1158) | Swing |  |
-| 4 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [25:33](https://youtube.com/live/dXjYvp477_M?t=1533) | Techno |  |
-| 5 | [The Touch of your Lips]({{ '/songs/' | relative_url }}the-touch-of-your-lips/) | [30:59](https://youtube.com/live/dXjYvp477_M?t=1859) | Swing |  |
-| 6 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) | [37:20](https://youtube.com/live/dXjYvp477_M?t=2240) | Pop |  |
-| 7 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [44:22](https://youtube.com/live/dXjYvp477_M?t=2662) | Latin |  |
-| 8 | [Crystal Silence]({{ '/one-off-songs.html' | relative_url }}#crystal-silence) | [50:23](https://youtube.com/live/dXjYvp477_M?t=3023) |  |  |

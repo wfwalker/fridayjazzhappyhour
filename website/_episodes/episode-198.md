@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/aYw8t_zg3-k"
 image: "/assets/images/title-slides/episode-198.jpg"
+setlist:
+  - song_num: "1"
+    name: "St. Thomas"
+    slug: "st-thomas"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "What is this thing called love"
+    slug: "what-is-this-thing-called-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "I Love Paris"
+    slug: "i-love-paris"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Stella by Starlight"
+    slug: "stella-by-starlight"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "O Barquinho"
+    slug: "o-barquinho"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Solsbury Hill"
+    slug: "solsbury-hill"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Orba with VCV swirling"
+    slug: "orba-with-vcv-swirling"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 198 (February 2, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/aYw8t_zg3-k)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) |  | Latin |  |
-| 2 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) |  | Swing |  |
-| 3 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) |  | Bossa |  |
-| 4 | [I Love Paris]({{ '/songs/' | relative_url }}i-love-paris/) |  | Techno |  |
-| 5 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) |  | Swing |  |
-| 6 | [O Barquinho]({{ '/songs/' | relative_url }}o-barquinho/) |  | Bossa |  |
-| 7 | [Solsbury Hill]({{ '/songs/' | relative_url }}solsbury-hill/) |  | Pop |  |
-| 8 | [Orba with VCV swirling]({{ '/one-off-songs.html' | relative_url }}#orba-with-vcv-swirling) |  |  |  |

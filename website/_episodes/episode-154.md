@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/iD4kGZuXLYA"
 image: "/assets/images/title-slides/episode-154.jpg"
+setlist:
+  - song_num: "1"
+    name: "Angel Eyes"
+    slug: "angel-eyes"
+    url: "https://youtube.com/live/iD4kGZuXLYA?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Agua de Beber"
+    slug: "agua-de-beber"
+    url: "https://youtube.com/live/iD4kGZuXLYA?t=715"
+    time: "11:55"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "A night in Tunisia"
+    slug: "a-night-in-tunisia"
+    url: "https://youtube.com/live/iD4kGZuXLYA?t=1158"
+    time: "19:18"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "4"
+    name: "Bad Reputation"
+    slug: "bad-reputation"
+    url: "https://youtube.com/live/iD4kGZuXLYA?t=1533"
+    time: "25:33"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Mo Better Blues"
+    slug: "mo-better-blues"
+    url: "https://youtube.com/live/iD4kGZuXLYA?t=1859"
+    time: "30:59"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "La Fiesta"
+    slug: "la-fiesta"
+    url: "https://youtube.com/live/iD4kGZuXLYA?t=2240"
+    time: "37:20"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: "https://youtube.com/live/iD4kGZuXLYA?t=2662"
+    time: "44:22"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Root Down (and Get it)"
+    slug: "root-down-and-get-it"
+    url: "https://youtube.com/live/iD4kGZuXLYA?t=3023"
+    time: "50:23"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Summer Rain"
+    slug: "summer-rain"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 154 (March 17, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/iD4kGZuXLYA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) | [04:28](https://youtube.com/live/iD4kGZuXLYA?t=268) | Swing |  |
-| 2 | [Agua de Beber]({{ '/songs/' | relative_url }}agua-de-beber/) | [11:55](https://youtube.com/live/iD4kGZuXLYA?t=715) | Latin |  |
-| 3 | [A night in Tunisia]({{ '/one-off-songs.html' | relative_url }}#a-night-in-tunisia) | [19:18](https://youtube.com/live/iD4kGZuXLYA?t=1158) |  |  |
-| 4 | [Bad Reputation]({{ '/songs/' | relative_url }}bad-reputation/) | [25:33](https://youtube.com/live/iD4kGZuXLYA?t=1533) | Pop |  |
-| 5 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) | [30:59](https://youtube.com/live/iD4kGZuXLYA?t=1859) | Pop |  |
-| 6 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [37:20](https://youtube.com/live/iD4kGZuXLYA?t=2240) | Latin |  |
-| 7 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) | [44:22](https://youtube.com/live/iD4kGZuXLYA?t=2662) | Bossa |  |
-| 8 | [Root Down (and Get it)]({{ '/songs/' | relative_url }}root-down-and-get-it/) | [50:23](https://youtube.com/live/iD4kGZuXLYA?t=3023) | Funk |  |
-| 9 | [Summer Rain]({{ '/one-off-songs.html' | relative_url }}#summer-rain) |  |  |  |

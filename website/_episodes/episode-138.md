@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/8XM8B7y4T_Q"
 image: "/assets/images/title-slides/episode-138.jpg"
+setlist:
+  - song_num: "1"
+    name: "All Blues"
+    slug: "all-blues"
+    url: "https://youtu.be/8XM8B7y4T_Q?t=52"
+    time: "00:52"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: "https://youtu.be/8XM8B7y4T_Q?t=539"
+    time: "08:59"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "What is this thing called love"
+    slug: "what-is-this-thing-called-love"
+    url: "https://youtu.be/8XM8B7y4T_Q?t=986"
+    time: "16:26"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Watermelon Man"
+    slug: "watermelon-man"
+    url: "https://youtu.be/8XM8B7y4T_Q?t=1185"
+    time: "19:45"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtu.be/8XM8B7y4T_Q?t=1605"
+    time: "26:45"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Camilla (the Old, Old story)"
+    slug: "camilla-the-old-old-story"
+    url: "https://youtu.be/8XM8B7y4T_Q?t=1958"
+    time: "32:38"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: "https://youtu.be/8XM8B7y4T_Q?t=2341"
+    time: "39:01"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Nov 4"
+    slug: "closer-nov-4"
+    url: "https://youtu.be/8XM8B7y4T_Q?t=2665"
+    time: "44:25"
+    style: ""
+    composer: ""
+    notes: "organ!"
+    hof: false
 ---
-
-# Episode 138 (November 4, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/8XM8B7y4T_Q)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) | [00:52](https://youtu.be/8XM8B7y4T_Q?t=52) | Swing |  |
-| 2 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [08:59](https://youtu.be/8XM8B7y4T_Q?t=539) | Bossa |  |
-| 3 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) | [16:26](https://youtu.be/8XM8B7y4T_Q?t=986) | Swing |  |
-| 4 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [19:45](https://youtu.be/8XM8B7y4T_Q?t=1185) | Latin |  |
-| 5 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [26:45](https://youtu.be/8XM8B7y4T_Q?t=1605) | Swing |  |
-| 6 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [32:38](https://youtu.be/8XM8B7y4T_Q?t=1958) | Downtempo |  |
-| 7 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [39:01](https://youtu.be/8XM8B7y4T_Q?t=2341) | Funk |  |
-| 8 | [Closer Nov 4]({{ '/one-off-songs.html' | relative_url }}#closer-nov-4) | [44:25](https://youtu.be/8XM8B7y4T_Q?t=2665) |  | organ! |

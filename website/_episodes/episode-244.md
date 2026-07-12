@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/5GfH_utLXZM"
 image: "/assets/images/title-slides/episode-244.jpg"
+setlist:
+  - song_num: "1"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "River Man"
+    slug: "river-man"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "So Nice"
+    slug: "so-nice"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "There will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Deacon Blues"
+    slug: "deacon-blues"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Chega de Saudade"
+    slug: "chega-de-saudade"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Baby Elephant Walk"
+    slug: "baby-elephant-walk"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Look of Love"
+    slug: "look-of-love"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 244 (January 31, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/5GfH_utLXZM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) |  | Techno |  |
-| 2 | [River Man]({{ '/songs/' | relative_url }}river-man/) |  | Pop |  |
-| 3 | [So Nice]({{ '/songs/' | relative_url }}so-nice/) |  | Bossa |  |
-| 4 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) |  | Swing |  |
-| 5 | [Deacon Blues]({{ '/songs/' | relative_url }}deacon-blues/) |  | Pop |  |
-| 6 | [Chega de Saudade]({{ '/songs/' | relative_url }}chega-de-saudade/) |  | Bossa |  |
-| 7 | [Baby Elephant Walk]({{ '/songs/' | relative_url }}baby-elephant-walk/) |  | Techno |  |
-| 8 | [Look of Love]({{ '/songs/' | relative_url }}look-of-love/) |  | Ballad |  |

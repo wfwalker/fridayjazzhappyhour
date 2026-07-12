@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/4JSpJDLIYKI"
 image: "/assets/images/title-slides/episode-173.jpg"
+setlist:
+  - song_num: "1"
+    name: "Angel Eyes"
+    slug: "angel-eyes"
+    url: "https://youtube.com/live/4JSpJDLIYKI?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Cast your fate to the wind"
+    slug: "cast-your-fate-to-the-wind"
+    url: "https://youtube.com/live/4JSpJDLIYKI?t=715"
+    time: "11:55"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Goodbye Look"
+    slug: "goodbye-look"
+    url: "https://youtube.com/live/4JSpJDLIYKI?t=1158"
+    time: "19:18"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Georgia on my Mind"
+    slug: "georgia-on-my-mind"
+    url: "https://youtube.com/live/4JSpJDLIYKI?t=1533"
+    time: "25:33"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Simplismente"
+    slug: "simplismente"
+    url: "https://youtube.com/live/4JSpJDLIYKI?t=1859"
+    time: "30:59"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Some day My Prince will Come"
+    slug: "some-day-my-prince-will-come"
+    url: "https://youtube.com/live/4JSpJDLIYKI?t=2240"
+    time: "37:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Give me the Night"
+    slug: "give-me-the-night"
+    url: "https://youtube.com/live/4JSpJDLIYKI?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Inch Worm"
+    slug: "inch-worm"
+    url: "https://youtube.com/live/4JSpJDLIYKI?t=3023"
+    time: "50:23"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 173 (July 28, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/4JSpJDLIYKI)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) | [04:28](https://youtube.com/live/4JSpJDLIYKI?t=268) | Swing |  |
-| 2 | [Cast your fate to the wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) | [11:55](https://youtube.com/live/4JSpJDLIYKI?t=715) | Pop |  |
-| 3 | [Goodbye Look]({{ '/songs/' | relative_url }}goodbye-look/) | [19:18](https://youtube.com/live/4JSpJDLIYKI?t=1158) | Pop |  |
-| 4 | [Georgia on my Mind]({{ '/songs/' | relative_url }}georgia-on-my-mind/) | [25:33](https://youtube.com/live/4JSpJDLIYKI?t=1533) | Ballad |  |
-| 5 | [Simplismente]({{ '/songs/' | relative_url }}simplismente/) | [30:59](https://youtube.com/live/4JSpJDLIYKI?t=1859) | Techno |  |
-| 6 | [Some day My Prince will Come]({{ '/songs/' | relative_url }}some-day-my-prince-will-come/) | [37:20](https://youtube.com/live/4JSpJDLIYKI?t=2240) | Swing |  |
-| 7 | [Give me the Night]({{ '/songs/' | relative_url }}give-me-the-night/) | [44:22](https://youtube.com/live/4JSpJDLIYKI?t=2662) | Funk |  |
-| 8 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) | [50:23](https://youtube.com/live/4JSpJDLIYKI?t=3023) | Ballad |  |

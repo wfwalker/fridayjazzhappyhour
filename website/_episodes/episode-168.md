@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/w28RQAWi17U"
 image: "/assets/images/title-slides/episode-168.jpg"
+setlist:
+  - song_num: "1"
+    name: "They Can't Take that away from me"
+    slug: "they-cant-take-that-away-from-me"
+    url: "https://www.youtube.com/watch?v=w28RQAWi17U?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Caminhos Cruzados"
+    slug: "caminhos-cruzados"
+    url: "https://www.youtube.com/watch?v=w28RQAWi17U?t=715"
+    time: "11:55"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Night in Tunisia"
+    slug: "night-in-tunisia"
+    url: "https://www.youtube.com/watch?v=w28RQAWi17U?t=1158"
+    time: "19:18"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Saga of Harrison Crabfeathers"
+    slug: "saga-of-harrison-crabfeathers"
+    url: "https://www.youtube.com/watch?v=w28RQAWi17U?t=1533"
+    time: "25:33"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Seven Steps to Heaven"
+    slug: "seven-steps-to-heaven"
+    url: "https://www.youtube.com/watch?v=w28RQAWi17U?t=1859"
+    time: "30:59"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: "https://www.youtube.com/watch?v=w28RQAWi17U?t=2240"
+    time: "37:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Root Down (and Get it)"
+    slug: "root-down-and-get-it"
+    url: "https://www.youtube.com/watch?v=w28RQAWi17U?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Peace Piece"
+    slug: "peace-piece"
+    url: "https://www.youtube.com/watch?v=w28RQAWi17U?t=3023"
+    time: "50:23"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 168 (June 23, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/w28RQAWi17U)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [They Can't Take that away from me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) | [04:28](https://www.youtube.com/watch?v=w28RQAWi17U?t=268) | Swing |  |
-| 2 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) | [11:55](https://www.youtube.com/watch?v=w28RQAWi17U?t=715) | Bossa |  |
-| 3 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) | [19:18](https://www.youtube.com/watch?v=w28RQAWi17U?t=1158) | Downtempo |  |
-| 4 | [Saga of Harrison Crabfeathers]({{ '/songs/' | relative_url }}saga-of-harrison-crabfeathers/) | [25:33](https://www.youtube.com/watch?v=w28RQAWi17U?t=1533) | Swing |  |
-| 5 | [Seven Steps to Heaven]({{ '/songs/' | relative_url }}seven-steps-to-heaven/) | [30:59](https://www.youtube.com/watch?v=w28RQAWi17U?t=1859) | Pop |  |
-| 6 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) | [37:20](https://www.youtube.com/watch?v=w28RQAWi17U?t=2240) | Swing |  |
-| 7 | [Root Down (and Get it)]({{ '/songs/' | relative_url }}root-down-and-get-it/) | [44:22](https://www.youtube.com/watch?v=w28RQAWi17U?t=2662) | Funk |  |
-| 8 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) | [50:23](https://www.youtube.com/watch?v=w28RQAWi17U?t=3023) | Ballad |  |

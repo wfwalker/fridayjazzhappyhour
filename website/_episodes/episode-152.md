@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/sRh_m871lEU"
 image: "/assets/images/title-slides/episode-152.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bluesette"
+    slug: "bluesette"
+    url: "https://youtube.com/live/sRh_m871lEU?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Lucky Southern"
+    slug: "lucky-southern"
+    url: "https://youtube.com/live/sRh_m871lEU?t=715"
+    time: "11:55"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Time Remembered"
+    slug: "time-remembered"
+    url: "https://youtube.com/live/sRh_m871lEU?t=1158"
+    time: "19:18"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Coming Home"
+    slug: "coming-home"
+    url: "https://youtube.com/live/sRh_m871lEU?t=1533"
+    time: "25:33"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "All the Things you ARe"
+    slug: "all-the-things-you-are"
+    url: "https://youtube.com/live/sRh_m871lEU?t=1859"
+    time: "30:59"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Newsky Bluesky"
+    slug: "newsky-bluesky"
+    url: "https://youtube.com/live/sRh_m871lEU?t=2240"
+    time: "37:20"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Samba de Orfeu"
+    slug: "samba-de-orfeu"
+    url: "https://youtube.com/live/sRh_m871lEU?t=2662"
+    time: "44:22"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Bathing Exercise 1"
+    slug: "bathing-exercise-1"
+    url: "https://youtube.com/live/sRh_m871lEU?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 152 (March 3, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/sRh_m871lEU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) | [04:28](https://youtube.com/live/sRh_m871lEU?t=268) | Swing |  |
-| 2 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) | [11:55](https://youtube.com/live/sRh_m871lEU?t=715) | Pop |  |
-| 3 | [Time Remembered]({{ '/songs/' | relative_url }}time-remembered/) | [19:18](https://youtube.com/live/sRh_m871lEU?t=1158) | Swing |  |
-| 4 | [Coming Home]({{ '/songs/' | relative_url }}coming-home/) | [25:33](https://youtube.com/live/sRh_m871lEU?t=1533) | Pop |  |
-| 5 | [All the Things you ARe]({{ '/songs/' | relative_url }}all-the-things-you-are/) | [30:59](https://youtube.com/live/sRh_m871lEU?t=1859) | Swing |  |
-| 6 | [Newsky Bluesky]({{ '/songs/' | relative_url }}newsky-bluesky/) | [37:20](https://youtube.com/live/sRh_m871lEU?t=2240) | Downtempo |  |
-| 7 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [44:22](https://youtube.com/live/sRh_m871lEU?t=2662) | Samba |  |
-| 8 | [Bathing Exercise 1]({{ '/one-off-songs.html' | relative_url }}#bathing-exercise-1) | [50:23](https://youtube.com/live/sRh_m871lEU?t=3023) |  |  |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/gojpuqP3s6A"
 image: "/assets/images/title-slides/episode-89.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bluesette"
+    slug: "bluesette"
+    url: "https://youtu.be/gojpuqP3s6A?t=84"
+    time: "01:24"
+    style: "Swing"
+    composer: ""
+    notes: "harmonize melody good"
+    hof: true
+  - song_num: "2"
+    name: "Softly as in a Morning Sunrise"
+    slug: "softly-as-in-a-morning-sunrise"
+    url: "https://youtu.be/gojpuqP3s6A?t=365"
+    time: "06:05"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Mambo Inn"
+    slug: "mambo-inn"
+    url: "https://youtu.be/gojpuqP3s6A?t=750"
+    time: "12:30"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: "https://youtu.be/gojpuqP3s6A?t=1250"
+    time: "20:50"
+    style: "Funk"
+    composer: ""
+    notes: "let's walk down that hill and..."
+    hof: true
+  - song_num: "5"
+    name: "St. Thomas"
+    slug: "st-thomas"
+    url: "https://youtu.be/gojpuqP3s6A?t=1574"
+    time: "26:14"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Samba e Amor"
+    slug: "samba-e-amor"
+    url: "https://youtu.be/gojpuqP3s6A?t=1967"
+    time: "32:47"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: "https://youtu.be/gojpuqP3s6A?t=2372"
+    time: "39:32"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Nov 19"
+    slug: "closer-nov-19"
+    url: "https://youtu.be/gojpuqP3s6A?t=2793"
+    time: "46:33"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 89 (November 26, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/gojpuqP3s6A)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) | [01:24](https://youtu.be/gojpuqP3s6A?t=84) | Swing | harmonize melody good |
-| 2 | [Softly as in a Morning Sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) | [06:05](https://youtu.be/gojpuqP3s6A?t=365) | Techno |  |
-| 3 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) | [12:30](https://youtu.be/gojpuqP3s6A?t=750) | Latin |  |
-| 4 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [20:50](https://youtu.be/gojpuqP3s6A?t=1250) | Funk | let's walk down that hill and... |
-| 5 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) | [26:14](https://youtu.be/gojpuqP3s6A?t=1574) | Latin |  |
-| 6 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) | [32:47](https://youtu.be/gojpuqP3s6A?t=1967) | Samba |  |
-| 7 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [39:32](https://youtu.be/gojpuqP3s6A?t=2372) | Techno |  |
-| 8 | [Closer Nov 19]({{ '/one-off-songs.html' | relative_url }}#closer-nov-19) | [46:33](https://youtu.be/gojpuqP3s6A?t=2793) |  |  |

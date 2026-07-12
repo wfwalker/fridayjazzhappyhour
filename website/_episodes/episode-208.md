@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-208.jpg"
+setlist:
+  - song_num: "1"
+    name: "How High the Moon"
+    slug: "how-high-the-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Saga of Harrison Crabfeathers"
+    slug: "saga-of-harrison-crabfeathers"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Gee Baby, Ain’t I Good to You"
+    slug: "gee-baby-aint-i-good-to-you"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Samba e Amor"
+    slug: "samba-e-amor"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "New Day LoFi"
+    slug: "new-day-lofi"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Mo Better Blues"
+    slug: "mo-better-blues"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Frog"
+    slug: "frog"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Look of Love"
+    slug: "look-of-love"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 208 (May 10, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [How High the Moon]({{ '/songs/' | relative_url }}how-high-the-moon/) |  | Swing |  |
-| 2 | [Saga of Harrison Crabfeathers]({{ '/songs/' | relative_url }}saga-of-harrison-crabfeathers/) |  | Swing |  |
-| 3 | [Gee Baby, Ain’t I Good to You]({{ '/songs/' | relative_url }}gee-baby-aint-i-good-to-you/) |  | Swing |  |
-| 4 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) |  | Samba |  |
-| 5 | [New Day LoFi]({{ '/songs/' | relative_url }}new-day-lofi/) |  | Downtempo |  |
-| 6 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) |  | Pop |  |
-| 7 | [Frog]({{ '/songs/' | relative_url }}frog/) |  | Funk |  |
-| 8 | [Look of Love]({{ '/songs/' | relative_url }}look-of-love/) |  | Ballad |  |

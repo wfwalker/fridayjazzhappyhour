@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/NOudqih6OCU"
 image: "/assets/images/title-slides/episode-279.jpg"
+setlist:
+  - song_num: "1"
+    name: "Alberta"
+    slug: "alberta"
+    url: ""
+    time: ""
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Won't you be my Neighbor?"
+    slug: "wont-you-be-my-neighbor"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Samba de Orfeu"
+    slug: "samba-de-orfeu"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "They can't take that away from me"
+    slug: "they-cant-take-that-away-from-me"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Pocket Calculator"
+    slug: "pocket-calculator"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Sugar"
+    slug: "sugar"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Cissy Strut"
+    slug: "cissy-strut"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Gratitude euorack closer"
+    slug: "gratitude-euorack-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 279 (November 28, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/NOudqih6OCU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Alberta]({{ '/songs/' | relative_url }}alberta/) |  | World |  |
-| 2 | [Won't you be my Neighbor?]({{ '/songs/' | relative_url }}wont-you-be-my-neighbor/) |  | Swing |  |
-| 3 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) |  | Samba |  |
-| 4 | [They can't take that away from me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) |  | Swing |  |
-| 5 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) |  | Techno |  |
-| 6 | [Sugar]({{ '/songs/' | relative_url }}sugar/) |  | Swing |  |
-| 7 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) |  | Funk |  |
-| 8 | [Gratitude euorack closer]({{ '/one-off-songs.html' | relative_url }}#gratitude-euorack-closer) |  |  |  |

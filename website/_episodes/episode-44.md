@@ -12,21 +12,77 @@ tip_jar: "urban tilth"
 notes: "yes"
 youtube_url: "https://youtu.be/QkxGwvZFrt8"
 image: "/assets/images/title-slides/episode-44.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bluesette"
+    slug: "bluesette"
+    url: "https://youtu.be/QkxGwvZFrt8?t=219"
+    time: "03:39"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Road Song"
+    slug: "road-song"
+    url: "https://youtu.be/QkxGwvZFrt8?t=524"
+    time: "08:44"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Desafinado"
+    slug: "desafinado"
+    url: "https://youtu.be/QkxGwvZFrt8?t=930"
+    time: "15:30"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Take Five (King Tubby)"
+    slug: "take-five-king-tubby"
+    url: "https://youtu.be/QkxGwvZFrt8?t=1656"
+    time: "27:36"
+    style: "Downtempo"
+    composer: ""
+    notes: "instant HOF"
+    hof: true
+  - song_num: "5"
+    name: "Begin the Beguine"
+    slug: "begin-the-beguine"
+    url: "https://youtu.be/QkxGwvZFrt8?t=1970"
+    time: "32:50"
+    style: "Bossa"
+    composer: ""
+    notes: "instant HOF"
+    hof: true
+  - song_num: "6"
+    name: "Bemsha Swing"
+    slug: "bemsha-swing"
+    url: "https://youtu.be/QkxGwvZFrt8?t=2575"
+    time: "42:55"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Watermelon Man"
+    slug: "watermelon-man"
+    url: "https://youtu.be/QkxGwvZFrt8?t=2910"
+    time: "48:30"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: "https://youtu.be/QkxGwvZFrt8?t=3250"
+    time: "54:10"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 44 (January 15, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/QkxGwvZFrt8)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) | [03:39](https://youtu.be/QkxGwvZFrt8?t=219) | Swing |  |
-| 2 | [Road Song]({{ '/songs/' | relative_url }}road-song/) | [08:44](https://youtu.be/QkxGwvZFrt8?t=524) | Pop |  |
-| 3 | [Desafinado]({{ '/songs/' | relative_url }}desafinado/) | [15:30](https://youtu.be/QkxGwvZFrt8?t=930) | Bossa |  |
-| 4 | [Take Five (King Tubby)]({{ '/songs/' | relative_url }}take-five-king-tubby/) | [27:36](https://youtu.be/QkxGwvZFrt8?t=1656) | Downtempo | instant HOF |
-| 5 | [Begin the Beguine]({{ '/songs/' | relative_url }}begin-the-beguine/) | [32:50](https://youtu.be/QkxGwvZFrt8?t=1970) | Bossa | instant HOF |
-| 6 | [Bemsha Swing]({{ '/songs/' | relative_url }}bemsha-swing/) | [42:55](https://youtu.be/QkxGwvZFrt8?t=2575) | Swing |  |
-| 7 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [48:30](https://youtu.be/QkxGwvZFrt8?t=2910) | Latin |  |
-| 8 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) | [54:10](https://youtu.be/QkxGwvZFrt8?t=3250) | Swing |  |

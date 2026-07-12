@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/pv1DuIvoWIQ"
 image: "/assets/images/title-slides/episode-232.jpg"
+setlist:
+  - song_num: "1"
+    name: "Emily"
+    slug: "emily"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Bonita"
+    slug: "bonita"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Freedom Jazz Dance"
+    slug: "freedom-jazz-dance"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Alberta"
+    slug: "alberta"
+    url: ""
+    time: ""
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Mambo Inn"
+    slug: "mambo-inn"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Take Five (King Tubby)"
+    slug: "take-five-king-tubby"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Manteca"
+    slug: "manteca"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "closer waltz"
+    slug: "closer-waltz"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 232 (November 8, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/pv1DuIvoWIQ)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Emily]({{ '/songs/' | relative_url }}emily/) |  | Swing |  |
-| 2 | [Bonita]({{ '/songs/' | relative_url }}bonita/) |  | Bossa |  |
-| 3 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) |  | Funk |  |
-| 4 | [Alberta]({{ '/songs/' | relative_url }}alberta/) |  | World |  |
-| 5 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) |  | Latin |  |
-| 6 | [Take Five (King Tubby)]({{ '/songs/' | relative_url }}take-five-king-tubby/) |  | Downtempo |  |
-| 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) |  | Latin |  |
-| 8 | [closer waltz]({{ '/one-off-songs.html' | relative_url }}#closer-waltz) |  |  |  |

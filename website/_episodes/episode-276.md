@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/PlpRCyt8Bx8"
 image: "/assets/images/title-slides/episode-276.jpg"
+setlist:
+  - song_num: "1"
+    name: "A Child is Born"
+    slug: "a-child-is-born"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "A Lotus on Irish Streams"
+    slug: "a-lotus-on-irish-streams"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "God Bless the Child"
+    slug: "god-bless-the-child"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Scrapple from the Apple"
+    slug: "scrapple-from-the-apple"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Gentle Rain"
+    slug: "gentle-rain"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "A Foggy Day (in London town)"
+    slug: "a-foggy-day-in-london-town"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Monkey Pants"
+    slug: "monkey-pants"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer"
+    slug: "closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 276 (October 24, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/PlpRCyt8Bx8)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [A Child is Born]({{ '/songs/' | relative_url }}a-child-is-born/) |  | Latin |  |
-| 2 | [A Lotus on Irish Streams]({{ '/songs/' | relative_url }}a-lotus-on-irish-streams/) |  | Ballad |  |
-| 3 | [God Bless the Child]({{ '/songs/' | relative_url }}god-bless-the-child/) |  | Funk |  |
-| 4 | [Scrapple from the Apple]({{ '/songs/' | relative_url }}scrapple-from-the-apple/) |  | Swing |  |
-| 5 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) |  | Bossa |  |
-| 6 | [A Foggy Day (in London town)]({{ '/songs/' | relative_url }}a-foggy-day-in-london-town/) |  | Swing |  |
-| 7 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) |  | Funk |  |
-| 8 | [Closer]({{ '/one-off-songs.html' | relative_url }}#closer) |  |  |  |

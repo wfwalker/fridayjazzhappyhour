@@ -11,22 +11,86 @@ shirt: ""
 tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/Hua1nZI9UyY"
+setlist:
+  - song_num: "1"
+    name: "Emily"
+    slug: "emily"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Look to the Sky"
+    slug: "look-to-the-sky"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Fly me to the moon"
+    slug: "fly-me-to-the-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Little Sunflower"
+    slug: "little-sunflower"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "What is this thing called love"
+    slug: "what-is-this-thing-called-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Inch Worm"
+    slug: "inch-worm"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Some Other time"
+    slug: "some-other-time"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Sunny"
+    slug: "sunny"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 267 (August 8, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/Hua1nZI9UyY)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Emily]({{ '/songs/' | relative_url }}emily/) |  | Swing |  |
-| 2 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) |  | Bossa |  |
-| 3 | [Fly me to the moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) |  | Swing |  |
-| 4 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) |  | Techno |  |
-| 5 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) |  | Swing |  |
-| 6 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) |  | Ballad |  |
-| 7 | [Some Other time]({{ '/songs/' | relative_url }}some-other-time/) |  | Ballad |  |
-| 8 | [Sunny]({{ '/songs/' | relative_url }}sunny/) |  | Funk |  |
-| 9 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) |  | Swing |  |

@@ -12,20 +12,68 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/leI4x1fedrQ"
 image: "/assets/images/title-slides/episode-111.jpg"
+setlist:
+  - song_num: "1"
+    name: "Cold Duck Time"
+    slug: "cold-duck-time"
+    url: "https://youtu.be/leI4x1fedrQ?t=244"
+    time: "04:04"
+    style: "Funk"
+    composer: ""
+    notes: "sax solo comp?"
+    hof: true
+  - song_num: "2"
+    name: "All The things you are"
+    slug: "all-the-things-you-are"
+    url: "https://youtu.be/leI4x1fedrQ?t=673"
+    time: "11:13"
+    style: "Swing"
+    composer: ""
+    notes: "whiffed intro pickup ; add verbal count?"
+    hof: true
+  - song_num: "3"
+    name: "La Fiesta"
+    slug: "la-fiesta"
+    url: "https://youtu.be/leI4x1fedrQ?t=1250"
+    time: "20:50"
+    style: "Latin"
+    composer: ""
+    notes: "drums too quiet? mix weird"
+    hof: true
+  - song_num: "4"
+    name: "Newsky Bluesky"
+    slug: "newsky-bluesky"
+    url: "https://youtu.be/leI4x1fedrQ?t=1840"
+    time: "30:40"
+    style: "Downtempo"
+    composer: ""
+    notes: "more fun to play than to listen? needs more shape"
+    hof: true
+  - song_num: "5"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: "https://youtu.be/leI4x1fedrQ?t=2315"
+    time: "38:35"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Saga of Harrison Crabfeathers"
+    slug: "saga-of-harrison-crabfeathers"
+    url: "https://youtu.be/leI4x1fedrQ?t=2776"
+    time: "46:16"
+    style: "Swing"
+    composer: ""
+    notes: "stop melody from looping? GTR? breakdown?"
+    hof: true
+  - song_num: "7"
+    name: "You and the Night and the Music"
+    slug: "you-and-the-night-and-the-music"
+    url: "https://youtu.be/leI4x1fedrQ?t=3225"
+    time: "53:45"
+    style: "Ballad"
+    composer: ""
+    notes: "nice"
+    hof: true
 ---
-
-# Episode 111 (April 29, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/leI4x1fedrQ)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Cold Duck Time]({{ '/songs/' | relative_url }}cold-duck-time/) | [04:04](https://youtu.be/leI4x1fedrQ?t=244) | Funk | sax solo comp? |
-| 2 | [All The things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) | [11:13](https://youtu.be/leI4x1fedrQ?t=673) | Swing | whiffed intro pickup ; add verbal count? |
-| 3 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [20:50](https://youtu.be/leI4x1fedrQ?t=1250) | Latin | drums too quiet? mix weird |
-| 4 | [Newsky Bluesky]({{ '/songs/' | relative_url }}newsky-bluesky/) | [30:40](https://youtu.be/leI4x1fedrQ?t=1840) | Downtempo | more fun to play than to listen? needs more shape |
-| 5 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) | [38:35](https://youtu.be/leI4x1fedrQ?t=2315) | Bossa |  |
-| 6 | [Saga of Harrison Crabfeathers]({{ '/songs/' | relative_url }}saga-of-harrison-crabfeathers/) | [46:16](https://youtu.be/leI4x1fedrQ?t=2776) | Swing | stop melody from looping? GTR? breakdown? |
-| 7 | [You and the Night and the Music]({{ '/songs/' | relative_url }}you-and-the-night-and-the-music/) | [53:45](https://youtu.be/leI4x1fedrQ?t=3225) | Ballad | nice |

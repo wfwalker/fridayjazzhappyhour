@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-127-rerun-442025.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bye Bye Blackbird"
+    slug: "bye-bye-blackbird"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Nardis"
+    slug: "nardis"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Close your eyes"
+    slug: "close-your-eyes"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Alberta"
+    slug: "alberta"
+    url: ""
+    time: ""
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Umbrella"
+    slug: "umbrella"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Aug 19"
+    slug: "closer-aug-19"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 127 (April 4, 2025) (Rerun)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) |  | Swing |  |
-| 2 | [Nardis]({{ '/songs/' | relative_url }}nardis/) |  | Downtempo |  |
-| 3 | [Close your eyes]({{ '/songs/' | relative_url }}close-your-eyes/) |  | Latin |  |
-| 4 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) |  | Swing |  |
-| 5 | [Alberta]({{ '/songs/' | relative_url }}alberta/) |  | World |  |
-| 6 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) |  | Bossa |  |
-| 7 | [Umbrella]({{ '/songs/' | relative_url }}umbrella/) |  | Pop |  |
-| 8 | [Closer Aug 19]({{ '/one-off-songs.html' | relative_url }}#closer-aug-19) |  |  |  |

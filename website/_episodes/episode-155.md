@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/5m_WeGR1fNA"
 image: "/assets/images/title-slides/episode-155.jpg"
+setlist:
+  - song_num: "1"
+    name: "There Will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: "https://youtu.be/5m_WeGR1fNA?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Dindi"
+    slug: "dindi"
+    url: "https://youtu.be/5m_WeGR1fNA?t=715"
+    time: "11:55"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Moments in Love"
+    slug: "moments-in-love"
+    url: "https://youtu.be/5m_WeGR1fNA?t=1158"
+    time: "19:18"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Impressions"
+    slug: "impressions"
+    url: "https://youtu.be/5m_WeGR1fNA?t=1533"
+    time: "25:33"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Isn't It Romantic"
+    slug: "isnt-it-romantic"
+    url: "https://youtu.be/5m_WeGR1fNA?t=1859"
+    time: "30:59"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: "https://youtu.be/5m_WeGR1fNA?t=2240"
+    time: "37:20"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: "https://youtu.be/5m_WeGR1fNA?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer March 30"
+    slug: "closer-march-30"
+    url: "https://youtu.be/5m_WeGR1fNA?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 155 (March 24, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/5m_WeGR1fNA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [There Will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) | [04:28](https://youtu.be/5m_WeGR1fNA?t=268) | Swing |  |
-| 2 | [Dindi]({{ '/songs/' | relative_url }}dindi/) | [11:55](https://youtu.be/5m_WeGR1fNA?t=715) | Techno |  |
-| 3 | [Moments in Love]({{ '/songs/' | relative_url }}moments-in-love/) | [19:18](https://youtu.be/5m_WeGR1fNA?t=1158) | Techno |  |
-| 4 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [25:33](https://youtu.be/5m_WeGR1fNA?t=1533) | Techno |  |
-| 5 | [Isn't It Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) | [30:59](https://youtu.be/5m_WeGR1fNA?t=1859) | Swing |  |
-| 6 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) | [37:20](https://youtu.be/5m_WeGR1fNA?t=2240) | Bossa |  |
-| 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) | [44:22](https://youtu.be/5m_WeGR1fNA?t=2662) | Funk |  |
-| 8 | [Closer March 30]({{ '/one-off-songs.html' | relative_url }}#closer-march-30) | [50:23](https://youtu.be/5m_WeGR1fNA?t=3023) |  |  |

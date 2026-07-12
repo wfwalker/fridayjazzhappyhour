@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/91wBjKNK_A0"
 image: "/assets/images/title-slides/episode-226.jpg"
+setlist:
+  - song_num: "1"
+    name: "Caminhos Cruzados"
+    slug: "caminhos-cruzados"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Moanin"
+    slug: "moanin"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Zero-Nineteen"
+    slug: "zero-nineteen"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Night in Tunisia"
+    slug: "night-in-tunisia"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "A Child is Born"
+    slug: "a-child-is-born"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "The Touch of your Lips"
+    slug: "the-touch-of-your-lips"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "La Fiesta"
+    slug: "la-fiesta"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "VCV closer sept 27"
+    slug: "vcv-closer-sept-27"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 226 (September 27, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/91wBjKNK_A0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) |  | Bossa |  |
-| 2 | [Moanin]({{ '/songs/' | relative_url }}moanin/) |  | Swing |  |
-| 3 | [Zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) |  | Techno |  |
-| 4 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) |  | Downtempo |  |
-| 5 | [A Child is Born]({{ '/songs/' | relative_url }}a-child-is-born/) |  | Latin |  |
-| 6 | [The Touch of your Lips]({{ '/songs/' | relative_url }}the-touch-of-your-lips/) |  | Swing |  |
-| 7 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) |  | Latin |  |
-| 8 | [VCV closer sept 27]({{ '/one-off-songs.html' | relative_url }}#vcv-closer-sept-27) |  |  |  |

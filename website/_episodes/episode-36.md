@@ -12,21 +12,77 @@ tip_jar: "Navajo Nation COVID GoFundMe"
 notes: "yes"
 youtube_url: "https://youtu.be/FgUbgdPd9pw"
 image: "/assets/images/title-slides/episode-36.jpg"
+setlist:
+  - song_num: "1"
+    name: "Stella by Starlight"
+    slug: "stella-by-starlight"
+    url: "https://youtu.be/FgUbgdPd9pw?t=270"
+    time: "04:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: "https://youtu.be/FgUbgdPd9pw?t=630"
+    time: "10:30"
+    style: "Bossa"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "3"
+    name: "Fly me to the moon"
+    slug: "fly-me-to-the-moon"
+    url: "https://youtu.be/FgUbgdPd9pw?t=1083"
+    time: "18:03"
+    style: "Swing"
+    composer: ""
+    notes: "add landmarks! horns?"
+    hof: true
+  - song_num: "4"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: "https://youtu.be/FgUbgdPd9pw?t=1415"
+    time: "23:35"
+    style: "Funk"
+    composer: "Bill Walker"
+    notes: "HOF; fix guitar solo MIDI velocity"
+    hof: true
+  - song_num: "5"
+    name: "Larry Fast Improv"
+    slug: "larry-fast-improv"
+    url: "https://youtu.be/FgUbgdPd9pw?t=1795"
+    time: "29:55"
+    style: ""
+    composer: "Bill Walker"
+    notes: "needs shape and structure; organ surprisingly good"
+    hof: false
+  - song_num: "6"
+    name: "All Blues"
+    slug: "all-blues"
+    url: "https://youtu.be/FgUbgdPd9pw?t=2140"
+    time: "35:40"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "TSOP"
+    slug: "tsop"
+    url: "https://youtu.be/FgUbgdPd9pw?t=2520"
+    time: "42:00"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Where or When"
+    slug: "where-or-when"
+    url: "https://youtu.be/FgUbgdPd9pw?t=3060"
+    time: "51:00"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 36 (November 20, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/FgUbgdPd9pw)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Stella by Starlight]({{ '/songs/' | relative_url }}stella-by-starlight/) | [04:30](https://youtu.be/FgUbgdPd9pw?t=270) | Swing |  |
-| 2 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [10:30](https://youtu.be/FgUbgdPd9pw?t=630) | Bossa | HOF |
-| 3 | [Fly me to the moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) | [18:03](https://youtu.be/FgUbgdPd9pw?t=1083) | Swing | add landmarks! horns? |
-| 4 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) | [23:35](https://youtu.be/FgUbgdPd9pw?t=1415) | Funk<br><small style='color:var(--text-secondary);'>by Bill Walker</small> | HOF; fix guitar solo MIDI velocity |
-| 5 | [Larry Fast Improv]({{ '/one-off-songs.html' | relative_url }}#larry-fast-improv) | [29:55](https://youtu.be/FgUbgdPd9pw?t=1795) | <br><small style='color:var(--text-secondary);'>by Bill Walker</small> | needs shape and structure; organ surprisingly good |
-| 6 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) | [35:40](https://youtu.be/FgUbgdPd9pw?t=2140) | Swing |  |
-| 7 | [TSOP]({{ '/songs/' | relative_url }}tsop/) | [42:00](https://youtu.be/FgUbgdPd9pw?t=2520) | Funk |  |
-| 8 | [Where or When]({{ '/one-off-songs.html' | relative_url }}#where-or-when) | [51:00](https://youtu.be/FgUbgdPd9pw?t=3060) |  |  |

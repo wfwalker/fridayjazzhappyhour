@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/XqvwkYOvH7A"
 image: "/assets/images/title-slides/episode-230.jpg"
+setlist:
+  - song_num: "1"
+    name: "Angel Eyes"
+    slug: "angel-eyes"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Newsky Bluesky"
+    slug: "newsky-bluesky"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Lucky Southern"
+    slug: "lucky-southern"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "These Foolish Things Remind me of You"
+    slug: "these-foolish-things-remind-me-of-you"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Triste"
+    slug: "triste"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Moon River"
+    slug: "moon-river"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 230 (October 25, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/XqvwkYOvH7A)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) |  | Swing |  |
-| 2 | [Newsky Bluesky]({{ '/songs/' | relative_url }}newsky-bluesky/) |  | Downtempo |  |
-| 3 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) |  | Pop |  |
-| 4 | [These Foolish Things Remind me of You]({{ '/songs/' | relative_url }}these-foolish-things-remind-me-of-you/) |  | Ballad |  |
-| 5 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) |  | Funk |  |
-| 6 | [Triste]({{ '/songs/' | relative_url }}triste/) |  | Bossa |  |
-| 7 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) |  | Latin |  |
-| 8 | [Moon River]({{ '/one-off-songs.html' | relative_url }}#moon-river) |  |  |  |

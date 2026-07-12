@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/Br0IvlZAJVs"
 image: "/assets/images/title-slides/episode-147.jpg"
+setlist:
+  - song_num: "1"
+    name: "Stars Fell on Alabama"
+    slug: "stars-fell-on-alabama"
+    url: "https://youtube.com/live/Br0IvlZAJVs?t=295"
+    time: "04:55"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Meditation"
+    slug: "meditation"
+    url: "https://youtube.com/live/Br0IvlZAJVs?t=664"
+    time: "11:04"
+    style: "Latin"
+    composer: ""
+    notes: "add ride cymbal, more comping?"
+    hof: true
+  - song_num: "3"
+    name: "Icarus"
+    slug: "icarus"
+    url: "https://youtube.com/live/Br0IvlZAJVs?t=1055"
+    time: "17:35"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Root Down (and Get it)"
+    slug: "root-down-and-get-it"
+    url: "https://youtube.com/live/Br0IvlZAJVs?t=1560"
+    time: "26:00"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Lovely Day"
+    slug: "lovely-day"
+    url: "https://youtube.com/live/Br0IvlZAJVs?t=2160"
+    time: "36:00"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: "https://youtube.com/live/Br0IvlZAJVs?t=2574"
+    time: "42:54"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Give me the Night"
+    slug: "give-me-the-night"
+    url: "https://youtube.com/live/Br0IvlZAJVs?t=2940"
+    time: "49:00"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Hi Lili, Hi Lo"
+    slug: "hi-lili-hi-lo"
+    url: "https://youtube.com/live/Br0IvlZAJVs?t=3460"
+    time: "57:40"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 147 (January 27, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/Br0IvlZAJVs)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Stars Fell on Alabama]({{ '/songs/' | relative_url }}stars-fell-on-alabama/) | [04:55](https://youtube.com/live/Br0IvlZAJVs?t=295) | Swing |  |
-| 2 | [Meditation]({{ '/songs/' | relative_url }}meditation/) | [11:04](https://youtube.com/live/Br0IvlZAJVs?t=664) | Latin | add ride cymbal, more comping? |
-| 3 | [Icarus]({{ '/songs/' | relative_url }}icarus/) | [17:35](https://youtube.com/live/Br0IvlZAJVs?t=1055) | Latin |  |
-| 4 | [Root Down (and Get it)]({{ '/songs/' | relative_url }}root-down-and-get-it/) | [26:00](https://youtube.com/live/Br0IvlZAJVs?t=1560) | Funk |  |
-| 5 | [Lovely Day]({{ '/songs/' | relative_url }}lovely-day/) | [36:00](https://youtube.com/live/Br0IvlZAJVs?t=2160) | Pop |  |
-| 6 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [42:54](https://youtube.com/live/Br0IvlZAJVs?t=2574) | Swing |  |
-| 7 | [Give me the Night]({{ '/songs/' | relative_url }}give-me-the-night/) | [49:00](https://youtube.com/live/Br0IvlZAJVs?t=2940) | Funk |  |
-| 8 | [Hi Lili, Hi Lo]({{ '/songs/' | relative_url }}hi-lili-hi-lo/) | [57:40](https://youtube.com/live/Br0IvlZAJVs?t=3460) | Ballad |  |

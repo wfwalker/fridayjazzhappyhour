@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/IYPkv1FJGOo"
 image: "/assets/images/title-slides/episode-55-rerun-3292024.jpg"
+setlist:
+  - song_num: "1"
+    name: "Forty Days"
+    slug: "forty-days"
+    url: "https://youtu.be/brtK3KrZ6Io?t=268"
+    time: "04:28"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "Estate"
+    slug: "estate"
+    url: "https://youtu.be/brtK3KrZ6Io?t=715"
+    time: "11:55"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Angel Eyes"
+    slug: "angel-eyes"
+    url: "https://youtu.be/brtK3KrZ6Io?t=1158"
+    time: "19:18"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Just the Two of Us"
+    slug: "just-the-two-of-us"
+    url: "https://youtu.be/brtK3KrZ6Io?t=1533"
+    time: "25:33"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Arpeggio Improv"
+    slug: "arpeggio-improv"
+    url: "https://youtu.be/brtK3KrZ6Io?t=1859"
+    time: "30:59"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "Little Sunflower"
+    slug: "little-sunflower"
+    url: "https://youtu.be/brtK3KrZ6Io?t=2671"
+    time: "44:31"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Cold Duck Time"
+    slug: "cold-duck-time"
+    url: "https://youtu.be/brtK3KrZ6Io?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "My Lord, What a Morning"
+    slug: "my-lord-what-a-morning"
+    url: "https://youtu.be/brtK3KrZ6Io?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 55 (March 29, 2024) (Rerun)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/IYPkv1FJGOo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Forty Days]({{ '/one-off-songs.html' | relative_url }}#forty-days) | [04:28](https://youtu.be/brtK3KrZ6Io?t=268) |  |  |
-| 2 | [Estate]({{ '/songs/' | relative_url }}estate/) | [11:55](https://youtu.be/brtK3KrZ6Io?t=715) | Techno |  |
-| 3 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) | [19:18](https://youtu.be/brtK3KrZ6Io?t=1158) | Swing |  |
-| 4 | [Just the Two of Us]({{ '/songs/' | relative_url }}just-the-two-of-us/) | [25:33](https://youtu.be/brtK3KrZ6Io?t=1533) | Funk |  |
-| 5 | [Arpeggio Improv]({{ '/one-off-songs.html' | relative_url }}#arpeggio-improv) | [30:59](https://youtu.be/brtK3KrZ6Io?t=1859) |  |  |
-| 6 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) | [44:31](https://youtu.be/brtK3KrZ6Io?t=2671) | Techno |  |
-| 7 | [Cold Duck Time]({{ '/songs/' | relative_url }}cold-duck-time/) | [44:22](https://youtu.be/brtK3KrZ6Io?t=2662) | Funk |  |
-| 8 | [My Lord, What a Morning]({{ '/one-off-songs.html' | relative_url }}#my-lord-what-a-morning) | [50:23](https://youtu.be/brtK3KrZ6Io?t=3023) |  |  |

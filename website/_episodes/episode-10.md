@@ -12,21 +12,77 @@ tip_jar: "FAVO"
 notes: ""
 youtube_url: "https://youtu.be/Wa5KVG0iCKM"
 image: "/assets/images/title-slides/episode-10.png"
+setlist:
+  - song_num: "1"
+    name: "Sister Sadie"
+    slug: "sister-sadie"
+    url: "https://youtu.be/Wa5KVG0iCKM?t=310"
+    time: "05:10"
+    style: "Swing"
+    composer: "Horace Silver"
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: "https://youtu.be/Wa5KVG0iCKM?t=2265"
+    time: "37:45"
+    style: "Swing"
+    composer: "Oliver Nelson"
+    notes: "REDO"
+    hof: true
+  - song_num: "3"
+    name: "Quiet Now"
+    slug: "quiet-now"
+    url: "https://youtu.be/Wa5KVG0iCKM?t=3150"
+    time: "52:30"
+    style: "ballad"
+    composer: "Denny Zeitlin"
+    notes: ""
+    hof: false
+  - song_num: "4"
+    name: "Pocket Calculator"
+    slug: "pocket-calculator"
+    url: "https://youtu.be/Wa5KVG0iCKM?t=1792"
+    time: "29:52"
+    style: "Techno"
+    composer: "Kraftwerk"
+    notes: "REDO, more percussion"
+    hof: true
+  - song_num: "5"
+    name: "Nightingale Sang in Berkeley Square"
+    slug: "nightingale-sang-in-berkeley-square"
+    url: "https://youtu.be/Wa5KVG0iCKM?t=1375"
+    time: "22:55"
+    style: "Ballad"
+    composer: "Eric Maschwitz"
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Secret Love"
+    slug: "secret-love"
+    url: "https://youtu.be/Wa5KVG0iCKM?t=2687"
+    time: "44:47"
+    style: ""
+    composer: "Sammy Fein"
+    notes: "REDO"
+    hof: false
+  - song_num: "7"
+    name: "With or without you"
+    slug: "with-or-without-you"
+    url: "https://youtu.be/Wa5KVG0iCKM?t=595"
+    time: "09:55"
+    style: "Pop"
+    composer: "U2"
+    notes: "REDO"
+    hof: true
+  - song_num: "8"
+    name: "Morning"
+    slug: "morning"
+    url: "https://youtu.be/Wa5KVG0iCKM?t=960"
+    time: "16:00"
+    style: "Latin"
+    composer: "Clare Fischer"
+    notes: ""
+    hof: true
 ---
-
-# Episode 10 (May 22, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/Wa5KVG0iCKM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Sister Sadie]({{ '/songs/' | relative_url }}sister-sadie/) | [05:10](https://youtu.be/Wa5KVG0iCKM?t=310) | Swing<br><small style='color:var(--text-secondary);'>by Horace Silver</small> |  |
-| 2 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) | [37:45](https://youtu.be/Wa5KVG0iCKM?t=2265) | Swing<br><small style='color:var(--text-secondary);'>by Oliver Nelson</small> | REDO |
-| 3 | [Quiet Now]({{ '/one-off-songs.html' | relative_url }}#quiet-now) | [52:30](https://youtu.be/Wa5KVG0iCKM?t=3150) | ballad<br><small style='color:var(--text-secondary);'>by Denny Zeitlin</small> |  |
-| 4 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) | [29:52](https://youtu.be/Wa5KVG0iCKM?t=1792) | Techno<br><small style='color:var(--text-secondary);'>by Kraftwerk</small> | REDO, more percussion |
-| 5 | [Nightingale Sang in Berkeley Square]({{ '/songs/' | relative_url }}nightingale-sang-in-berkeley-square/) | [22:55](https://youtu.be/Wa5KVG0iCKM?t=1375) | Ballad<br><small style='color:var(--text-secondary);'>by Eric Maschwitz</small> |  |
-| 6 | [Secret Love]({{ '/one-off-songs.html' | relative_url }}#secret-love) | [44:47](https://youtu.be/Wa5KVG0iCKM?t=2687) | <br><small style='color:var(--text-secondary);'>by Sammy Fein</small> | REDO |
-| 7 | [With or without you]({{ '/songs/' | relative_url }}with-or-without-you/) | [09:55](https://youtu.be/Wa5KVG0iCKM?t=595) | Pop<br><small style='color:var(--text-secondary);'>by U2</small> | REDO |
-| 8 | [Morning]({{ '/songs/' | relative_url }}morning/) | [16:00](https://youtu.be/Wa5KVG0iCKM?t=960) | Latin<br><small style='color:var(--text-secondary);'>by Clare Fischer</small> |  |

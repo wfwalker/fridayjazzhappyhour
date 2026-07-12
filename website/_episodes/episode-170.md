@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/V1eMn0Axslw"
 image: "/assets/images/title-slides/episode-170.jpg"
+setlist:
+  - song_num: "1"
+    name: "My Funny Valentine"
+    slug: "my-funny-valentine"
+    url: "https://youtube.com/live/V1eMn0Axslw?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Corcovado"
+    slug: "corcovado"
+    url: "https://youtube.com/live/V1eMn0Axslw?t=715"
+    time: "11:55"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Close your Eyes"
+    slug: "close-your-eyes"
+    url: "https://youtube.com/live/V1eMn0Axslw?t=1158"
+    time: "19:18"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Sister Sadie"
+    slug: "sister-sadie"
+    url: "https://youtube.com/live/V1eMn0Axslw?t=1533"
+    time: "25:33"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "New Phone Who Dis"
+    slug: "new-phone-who-dis"
+    url: "https://youtube.com/live/V1eMn0Axslw?t=1859"
+    time: "30:59"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Coming Home"
+    slug: "coming-home"
+    url: "https://youtube.com/live/V1eMn0Axslw?t=2240"
+    time: "37:20"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Take me to the River"
+    slug: "take-me-to-the-river"
+    url: "https://youtube.com/live/V1eMn0Axslw?t=2662"
+    time: "44:22"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Look of Love"
+    slug: "look-of-love"
+    url: "https://youtube.com/live/V1eMn0Axslw?t=3023"
+    time: "50:23"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 170 (July 7, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/V1eMn0Axslw)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [My Funny Valentine]({{ '/songs/' | relative_url }}my-funny-valentine/) | [04:28](https://youtube.com/live/V1eMn0Axslw?t=268) | Swing |  |
-| 2 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) | [11:55](https://youtube.com/live/V1eMn0Axslw?t=715) | Bossa |  |
-| 3 | [Close your Eyes]({{ '/songs/' | relative_url }}close-your-eyes/) | [19:18](https://youtube.com/live/V1eMn0Axslw?t=1158) | Latin |  |
-| 4 | [Sister Sadie]({{ '/songs/' | relative_url }}sister-sadie/) | [25:33](https://youtube.com/live/V1eMn0Axslw?t=1533) | Swing |  |
-| 5 | [New Phone Who Dis]({{ '/songs/' | relative_url }}new-phone-who-dis/) | [30:59](https://youtube.com/live/V1eMn0Axslw?t=1859) | Downtempo |  |
-| 6 | [Coming Home]({{ '/songs/' | relative_url }}coming-home/) | [37:20](https://youtube.com/live/V1eMn0Axslw?t=2240) | Pop |  |
-| 7 | [Take me to the River]({{ '/songs/' | relative_url }}take-me-to-the-river/) | [44:22](https://youtube.com/live/V1eMn0Axslw?t=2662) | Pop |  |
-| 8 | [Look of Love]({{ '/songs/' | relative_url }}look-of-love/) | [50:23](https://youtube.com/live/V1eMn0Axslw?t=3023) | Ballad |  |

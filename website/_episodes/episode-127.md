@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/VXmjfiJz2ZM"
 image: "/assets/images/title-slides/episode-127.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bye Bye Blackbird"
+    slug: "bye-bye-blackbird"
+    url: "https://youtu.be/VXmjfiJz2ZM?t=200"
+    time: "03:20"
+    style: "Swing"
+    composer: ""
+    notes: "swingin'! done!"
+    hof: true
+  - song_num: "2"
+    name: "Nardis"
+    slug: "nardis"
+    url: "https://youtu.be/VXmjfiJz2ZM?t=527"
+    time: "08:47"
+    style: "Downtempo"
+    composer: ""
+    notes: "done"
+    hof: true
+  - song_num: "3"
+    name: "Close your eyes"
+    slug: "close-your-eyes"
+    url: "https://youtu.be/VXmjfiJz2ZM?t=963"
+    time: "16:03"
+    style: "Latin"
+    composer: ""
+    notes: "accordion too loud? more drums, more reverb"
+    hof: true
+  - song_num: "4"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: "https://youtu.be/VXmjfiJz2ZM?t=1350"
+    time: "22:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Alberta"
+    slug: "alberta"
+    url: "https://youtu.be/VXmjfiJz2ZM?t=1792"
+    time: "29:52"
+    style: "World"
+    composer: ""
+    notes: "fix some drum fills"
+    hof: true
+  - song_num: "6"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: "https://youtu.be/VXmjfiJz2ZM?t=2250"
+    time: "37:30"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Umbrella"
+    slug: "umbrella"
+    url: "https://youtu.be/VXmjfiJz2ZM?t=2754"
+    time: "45:54"
+    style: "Pop"
+    composer: ""
+    notes: "try Rock Drummer? bring up organ? horns?"
+    hof: true
+  - song_num: "8"
+    name: "Closer Aug 19"
+    slug: "closer-aug-19"
+    url: "https://youtu.be/VXmjfiJz2ZM?t=3175"
+    time: "52:55"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 127 (August 19, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/VXmjfiJz2ZM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) | [03:20](https://youtu.be/VXmjfiJz2ZM?t=200) | Swing | swingin'! done! |
-| 2 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [08:47](https://youtu.be/VXmjfiJz2ZM?t=527) | Downtempo | done |
-| 3 | [Close your eyes]({{ '/songs/' | relative_url }}close-your-eyes/) | [16:03](https://youtu.be/VXmjfiJz2ZM?t=963) | Latin | accordion too loud? more drums, more reverb |
-| 4 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) | [22:30](https://youtu.be/VXmjfiJz2ZM?t=1350) | Swing |  |
-| 5 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [29:52](https://youtu.be/VXmjfiJz2ZM?t=1792) | World | fix some drum fills |
-| 6 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) | [37:30](https://youtu.be/VXmjfiJz2ZM?t=2250) | Bossa |  |
-| 7 | [Umbrella]({{ '/songs/' | relative_url }}umbrella/) | [45:54](https://youtu.be/VXmjfiJz2ZM?t=2754) | Pop | try Rock Drummer? bring up organ? horns? |
-| 8 | [Closer Aug 19]({{ '/one-off-songs.html' | relative_url }}#closer-aug-19) | [52:55](https://youtu.be/VXmjfiJz2ZM?t=3175) |  |  |

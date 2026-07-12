@@ -12,20 +12,68 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/fpoUmPOQ62o"
 image: "/assets/images/title-slides/episode-286.jpg"
+setlist:
+  - song_num: "1"
+    name: "Fly me to the moon"
+    slug: "fly-me-to-the-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "So What"
+    slug: "so-what"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Mambo Inn"
+    slug: "mambo-inn"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Dindi"
+    slug: "dindi"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "The Chicken"
+    slug: "the-chicken"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Emily"
+    slug: "emily"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "EMOM SC set"
+    slug: "emom-sc-set"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 286 (January 23, 2026)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/fpoUmPOQ62o)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Fly me to the moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) |  | Swing |  |
-| 2 | [So What]({{ '/songs/' | relative_url }}so-what/) |  | Swing |  |
-| 3 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) |  | Latin |  |
-| 4 | [Dindi]({{ '/songs/' | relative_url }}dindi/) |  | Techno |  |
-| 5 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) |  | Funk |  |
-| 6 | [Emily]({{ '/songs/' | relative_url }}emily/) |  | Swing |  |
-| 7 | [EMOM SC set]({{ '/one-off-songs.html' | relative_url }}#emom-sc-set) |  |  |  |

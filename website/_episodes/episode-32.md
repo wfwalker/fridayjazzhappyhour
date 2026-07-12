@@ -12,21 +12,77 @@ tip_jar: "raices"
 notes: "yes"
 youtube_url: "https://youtu.be/fk8JSTyNEfM"
 image: "/assets/images/title-slides/episode-32.jpg"
+setlist:
+  - song_num: "1"
+    name: "I could write a book"
+    slug: "i-could-write-a-book"
+    url: "https://youtu.be/fk8JSTyNEfM?t=282"
+    time: "04:42"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "Secret Love"
+    slug: "secret-love"
+    url: "https://youtu.be/fk8JSTyNEfM?t=843"
+    time: "14:03"
+    style: "pop"
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "3"
+    name: "Naima"
+    slug: "naima"
+    url: "https://youtu.be/fk8JSTyNEfM?t=1277"
+    time: "21:17"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "You and the Night and the Music"
+    slug: "you-and-the-night-and-the-music"
+    url: "https://youtu.be/fk8JSTyNEfM?t=1790"
+    time: "29:50"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "This Masquerade"
+    slug: "this-masquerade"
+    url: "https://youtu.be/fk8JSTyNEfM?t=2060"
+    time: "34:20"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "People Get Ready"
+    slug: "people-get-ready"
+    url: "https://youtu.be/fk8JSTyNEfM?t=2487"
+    time: "41:27"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Watermelon Man"
+    slug: "watermelon-man"
+    url: "https://youtu.be/fk8JSTyNEfM?t=2863"
+    time: "47:43"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "My Foolish Heart"
+    slug: "my-foolish-heart"
+    url: "https://youtu.be/fk8JSTyNEfM?t=3318"
+    time: "55:18"
+    style: "ballad"
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 32 (October 23, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/fk8JSTyNEfM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [I could write a book]({{ '/one-off-songs.html' | relative_url }}#i-could-write-a-book) | [04:42](https://youtu.be/fk8JSTyNEfM?t=282) |  |  |
-| 2 | [Secret Love]({{ '/one-off-songs.html' | relative_url }}#secret-love) | [14:03](https://youtu.be/fk8JSTyNEfM?t=843) | pop |  |
-| 3 | [Naima]({{ '/songs/' | relative_url }}naima/) | [21:17](https://youtu.be/fk8JSTyNEfM?t=1277) | Downtempo |  |
-| 4 | [You and the Night and the Music]({{ '/songs/' | relative_url }}you-and-the-night-and-the-music/) | [29:50](https://youtu.be/fk8JSTyNEfM?t=1790) | Ballad |  |
-| 5 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) | [34:20](https://youtu.be/fk8JSTyNEfM?t=2060) | Funk |  |
-| 6 | [People Get Ready]({{ '/songs/' | relative_url }}people-get-ready/) | [41:27](https://youtu.be/fk8JSTyNEfM?t=2487) | Pop |  |
-| 7 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [47:43](https://youtu.be/fk8JSTyNEfM?t=2863) | Latin |  |
-| 8 | [My Foolish Heart]({{ '/one-off-songs.html' | relative_url }}#my-foolish-heart) | [55:18](https://youtu.be/fk8JSTyNEfM?t=3318) | ballad |  |

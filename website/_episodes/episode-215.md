@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-215.jpg"
+setlist:
+  - song_num: "1"
+    name: "Very Early"
+    slug: "very-early"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Well You Needn’t"
+    slug: "well-you-neednt"
+    url: ""
+    time: ""
+    style: "Reggae"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Love Boat"
+    slug: "love-boat"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Close your Eyes"
+    slug: "close-your-eyes"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Minor Swing"
+    slug: "minor-swing"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "It might as well be spring"
+    slug: "it-might-as-well-be-spring"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Freedom Jazz Dance"
+    slug: "freedom-jazz-dance"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "fuzzy vcv chord closer"
+    slug: "fuzzy-vcv-chord-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 215 (June 28, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Very Early]({{ '/songs/' | relative_url }}very-early/) |  | Swing |  |
-| 2 | [Well You Needn’t]({{ '/songs/' | relative_url }}well-you-neednt/) |  | Reggae |  |
-| 3 | [Love Boat]({{ '/songs/' | relative_url }}love-boat/) |  | Samba |  |
-| 4 | [Close your Eyes]({{ '/songs/' | relative_url }}close-your-eyes/) |  | Latin |  |
-| 5 | [Minor Swing]({{ '/songs/' | relative_url }}minor-swing/) |  | Swing |  |
-| 6 | [It might as well be spring]({{ '/songs/' | relative_url }}it-might-as-well-be-spring/) |  | Bossa |  |
-| 7 | [Freedom Jazz Dance]({{ '/songs/' | relative_url }}freedom-jazz-dance/) |  | Funk |  |
-| 8 | [fuzzy vcv chord closer]({{ '/one-off-songs.html' | relative_url }}#fuzzy-vcv-chord-closer) |  |  |  |

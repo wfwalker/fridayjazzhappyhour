@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/twnyETfghJY"
 image: "/assets/images/title-slides/episode-145.jpg"
+setlist:
+  - song_num: "1"
+    name: "Nearness of you"
+    slug: "nearness-of-you"
+    url: "https://youtube.com/live/twnyETfghJY?t=126"
+    time: "02:06"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: "https://youtube.com/live/twnyETfghJY?t=535"
+    time: "08:55"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Very Early"
+    slug: "very-early"
+    url: "https://youtube.com/live/twnyETfghJY?t=910"
+    time: "15:10"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Night and Day"
+    slug: "night-and-day"
+    url: "https://youtube.com/live/twnyETfghJY?t=1312"
+    time: "21:52"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Goodbye Pork Pie Hat"
+    slug: "goodbye-pork-pie-hat"
+    url: "https://youtube.com/live/twnyETfghJY?t=1800"
+    time: "30:00"
+    style: "Swing"
+    composer: ""
+    notes: "intro?"
+    hof: true
+  - song_num: "6"
+    name: "Avalon"
+    slug: "avalon"
+    url: "https://youtube.com/live/twnyETfghJY?t=2275"
+    time: "37:55"
+    style: "Swing"
+    composer: ""
+    notes: "ride cymbal? needs varity"
+    hof: true
+  - song_num: "7"
+    name: "Manteca"
+    slug: "manteca"
+    url: "https://youtube.com/live/twnyETfghJY?t=2662"
+    time: "44:22"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Jan 13"
+    slug: "closer-jan-13"
+    url: "https://youtube.com/live/twnyETfghJY?t=3200"
+    time: "53:20"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 145 (January 13, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/twnyETfghJY)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Nearness of you]({{ '/songs/' | relative_url }}nearness-of-you/) | [02:06](https://youtube.com/live/twnyETfghJY?t=126) | Bossa |  |
-| 2 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [08:55](https://youtube.com/live/twnyETfghJY?t=535) | Latin |  |
-| 3 | [Very Early]({{ '/songs/' | relative_url }}very-early/) | [15:10](https://youtube.com/live/twnyETfghJY?t=910) | Swing |  |
-| 4 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) | [21:52](https://youtube.com/live/twnyETfghJY?t=1312) | Techno |  |
-| 5 | [Goodbye Pork Pie Hat]({{ '/songs/' | relative_url }}goodbye-pork-pie-hat/) | [30:00](https://youtube.com/live/twnyETfghJY?t=1800) | Swing | intro? |
-| 6 | [Avalon]({{ '/songs/' | relative_url }}avalon/) | [37:55](https://youtube.com/live/twnyETfghJY?t=2275) | Swing | ride cymbal? needs varity |
-| 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) | [44:22](https://youtube.com/live/twnyETfghJY?t=2662) | Latin |  |
-| 8 | [Closer Jan 13]({{ '/one-off-songs.html' | relative_url }}#closer-jan-13) | [53:20](https://youtube.com/live/twnyETfghJY?t=3200) |  |  |

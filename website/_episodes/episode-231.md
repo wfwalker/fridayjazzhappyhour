@@ -12,21 +12,77 @@ tip_jar: "fourcornersvote.com"
 notes: ""
 youtube_url: "https://youtu.be/CVmejQedxHM"
 image: "/assets/images/title-slides/episode-231.jpg"
+setlist:
+  - song_num: "1"
+    name: "How High the Moon"
+    slug: "how-high-the-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "How Insensitive"
+    slug: "how-insensitive"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Avalon"
+    slug: "avalon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "You and the Night and the Music"
+    slug: "you-and-the-night-and-the-music"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Pick up the Pieces"
+    slug: "pick-up-the-pieces"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Gee Baby, Ain’t I Good to You"
+    slug: "gee-baby-aint-i-good-to-you"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "A Lotus on Irish Streams"
+    slug: "a-lotus-on-irish-streams"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 231 (November 1, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/CVmejQedxHM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [How High the Moon]({{ '/songs/' | relative_url }}how-high-the-moon/) |  | Swing |  |
-| 2 | [How Insensitive]({{ '/songs/' | relative_url }}how-insensitive/) |  | Bossa |  |
-| 3 | [Avalon]({{ '/songs/' | relative_url }}avalon/) |  | Swing |  |
-| 4 | [You and the Night and the Music]({{ '/songs/' | relative_url }}you-and-the-night-and-the-music/) |  | Ballad |  |
-| 5 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) |  | Funk |  |
-| 6 | [Gee Baby, Ain’t I Good to You]({{ '/songs/' | relative_url }}gee-baby-aint-i-good-to-you/) |  | Swing |  |
-| 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) |  | Funk |  |
-| 8 | [A Lotus on Irish Streams]({{ '/songs/' | relative_url }}a-lotus-on-irish-streams/) |  | Ballad |  |

@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/yCoLXwxjmz8"
 image: "/assets/images/title-slides/episode-228.jpg"
+setlist:
+  - song_num: "1"
+    name: "Cold Duck Time"
+    slug: "cold-duck-time"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "A Foggy Day (in London Town)"
+    slug: "a-foggy-day-in-london-town"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "O Barquinho"
+    slug: "o-barquinho"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Frog"
+    slug: "frog"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Stars Fell on Alabama"
+    slug: "stars-fell-on-alabama"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "We’ll be together again"
+    slug: "well-be-together-again"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "8"
+    name: "Also Sprach Zarathustra"
+    slug: "also-sprach-zarathustra"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Peace Piece"
+    slug: "peace-piece"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 228 (October 11, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/yCoLXwxjmz8)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Cold Duck Time]({{ '/songs/' | relative_url }}cold-duck-time/) |  | Funk |  |
-| 2 | [A Foggy Day (in London Town)]({{ '/songs/' | relative_url }}a-foggy-day-in-london-town/) |  | Swing |  |
-| 3 | [O Barquinho]({{ '/songs/' | relative_url }}o-barquinho/) |  | Bossa |  |
-| 4 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) |  | Swing |  |
-| 5 | [Frog]({{ '/songs/' | relative_url }}frog/) |  | Funk |  |
-| 6 | [Stars Fell on Alabama]({{ '/songs/' | relative_url }}stars-fell-on-alabama/) |  | Swing |  |
-| 7 | [We’ll be together again]({{ '/one-off-songs.html' | relative_url }}#well-be-together-again) |  |  |  |
-| 8 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) |  | Funk |  |
-| 9 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) |  | Ballad |  |

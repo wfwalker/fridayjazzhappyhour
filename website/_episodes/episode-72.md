@@ -12,21 +12,77 @@ tip_jar: "h+h, zebra youth"
 notes: ""
 youtube_url: "https://youtu.be/SFHGArSt8qo"
 image: "/assets/images/title-slides/episode-72.jpg"
+setlist:
+  - song_num: "1"
+    name: "All Blues"
+    slug: "all-blues"
+    url: "https://youtu.be/SFHGArSt8qo?t=189"
+    time: "03:09"
+    style: "Swing"
+    composer: ""
+    notes: "relaxed; nice bass solo"
+    hof: true
+  - song_num: "2"
+    name: "Triste"
+    slug: "triste"
+    url: "https://youtu.be/SFHGArSt8qo?t=629"
+    time: "10:29"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtu.be/SFHGArSt8qo?t=1176"
+    time: "19:36"
+    style: "Swing"
+    composer: ""
+    notes: "energy flow good, ups and downs"
+    hof: true
+  - song_num: "4"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: "https://youtu.be/SFHGArSt8qo?t=1573"
+    time: "26:13"
+    style: "Techno"
+    composer: ""
+    notes: "sloppy but good energy; TODO repeat lengths?"
+    hof: true
+  - song_num: "5"
+    name: "La Fiesta"
+    slug: "la-fiesta"
+    url: "https://youtu.be/SFHGArSt8qo?t=2115"
+    time: "35:15"
+    style: "Latin"
+    composer: ""
+    notes: "woohoo, cool ending"
+    hof: true
+  - song_num: "6"
+    name: "Camilla (the Old, Old story)"
+    slug: "camilla-the-old-old-story"
+    url: "https://youtu.be/SFHGArSt8qo?t=2624"
+    time: "43:44"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Sunny"
+    slug: "sunny"
+    url: "https://youtu.be/SFHGArSt8qo?t=2984"
+    time: "49:44"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "My Foolish Heart"
+    slug: "my-foolish-heart"
+    url: "https://youtu.be/SFHGArSt8qo?t=3450"
+    time: "57:30"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 72 (July 30, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/SFHGArSt8qo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) | [03:09](https://youtu.be/SFHGArSt8qo?t=189) | Swing | relaxed; nice bass solo |
-| 2 | [Triste]({{ '/songs/' | relative_url }}triste/) | [10:29](https://youtu.be/SFHGArSt8qo?t=629) | Bossa |  |
-| 3 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [19:36](https://youtu.be/SFHGArSt8qo?t=1176) | Swing | energy flow good, ups and downs |
-| 4 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) | [26:13](https://youtu.be/SFHGArSt8qo?t=1573) | Techno | sloppy but good energy; TODO repeat lengths? |
-| 5 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [35:15](https://youtu.be/SFHGArSt8qo?t=2115) | Latin | woohoo, cool ending |
-| 6 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [43:44](https://youtu.be/SFHGArSt8qo?t=2624) | Downtempo |  |
-| 7 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [49:44](https://youtu.be/SFHGArSt8qo?t=2984) | Funk |  |
-| 8 | [My Foolish Heart]({{ '/one-off-songs.html' | relative_url }}#my-foolish-heart) | [57:30](https://youtu.be/SFHGArSt8qo?t=3450) |  |  |

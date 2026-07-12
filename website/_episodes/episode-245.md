@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/MyJ3ADimRnw"
 image: "/assets/images/title-slides/episode-245.jpg"
+setlist:
+  - song_num: "1"
+    name: "The Egg and You"
+    slug: "the-egg-and-you"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Saga of Harrison Crabfeathers"
+    slug: "saga-of-harrison-crabfeathers"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Girl from Ipanema"
+    slug: "girl-from-ipanema"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Road Song"
+    slug: "road-song"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Here's that Rainy Day"
+    slug: "heres-that-rainy-day"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Watermelon Man"
+    slug: "watermelon-man"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "A Lotus on Irish Streams"
+    slug: "a-lotus-on-irish-streams"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Surf the Fog"
+    slug: "surf-the-fog"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 245 (February 7, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/MyJ3ADimRnw)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [The Egg and You]({{ '/songs/' | relative_url }}the-egg-and-you/) |  | Pop |  |
-| 2 | [Saga of Harrison Crabfeathers]({{ '/songs/' | relative_url }}saga-of-harrison-crabfeathers/) |  | Swing |  |
-| 3 | [Girl from Ipanema]({{ '/songs/' | relative_url }}girl-from-ipanema/) |  | Bossa |  |
-| 4 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) |  | Swing |  |
-| 5 | [Road Song]({{ '/songs/' | relative_url }}road-song/) |  | Pop |  |
-| 6 | [Here's that Rainy Day]({{ '/songs/' | relative_url }}heres-that-rainy-day/) |  | Ballad |  |
-| 7 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) |  | Latin |  |
-| 8 | [A Lotus on Irish Streams]({{ '/songs/' | relative_url }}a-lotus-on-irish-streams/) |  | Ballad |  |
-| 9 | [Surf the Fog]({{ '/one-off-songs.html' | relative_url }}#surf-the-fog) |  |  |  |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/SFolC-t-G-I"
 image: "/assets/images/title-slides/episode-287.jpg"
+setlist:
+  - song_num: "1"
+    name: "Also Sprach Zarathustra"
+    slug: "also-sprach-zarathustra"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Gee Baby, Ain't I good to you"
+    slug: "gee-baby-aint-i-good-to-you"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "I Love Paris"
+    slug: "i-love-paris"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "The Touch of your Lips"
+    slug: "the-touch-of-your-lips"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Estate"
+    slug: "estate"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mas Que Nada"
+    slug: "mas-que-nada"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "De Volta Ao Samba"
+    slug: "de-volta-ao-samba"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 287 (January 30, 2026)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/SFolC-t-G-I)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) |  | Funk |  |
-| 2 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) |  | Bossa |  |
-| 3 | [Gee Baby, Ain't I good to you]({{ '/songs/' | relative_url }}gee-baby-aint-i-good-to-you/) |  | Swing |  |
-| 4 | [I Love Paris]({{ '/songs/' | relative_url }}i-love-paris/) |  | Techno |  |
-| 5 | [The Touch of your Lips]({{ '/songs/' | relative_url }}the-touch-of-your-lips/) |  | Swing |  |
-| 6 | [Estate]({{ '/songs/' | relative_url }}estate/) |  | Techno |  |
-| 7 | [Mas Que Nada]({{ '/songs/' | relative_url }}mas-que-nada/) |  | Latin |  |
-| 8 | [De Volta Ao Samba]({{ '/songs/' | relative_url }}de-volta-ao-samba/) |  | Bossa |  |

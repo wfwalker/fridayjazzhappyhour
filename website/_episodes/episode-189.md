@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/KMzVPH-MDDE"
 image: "/assets/images/title-slides/episode-189.jpg"
+setlist:
+  - song_num: "1"
+    name: "Angel Eyes"
+    slug: "angel-eyes"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Beat 70"
+    slug: "beat-70"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Triste"
+    slug: "triste"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Christmas is Coming"
+    slug: "christmas-is-coming"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Lucky Southern"
+    slug: "lucky-southern"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Stars Fell on Alabama"
+    slug: "stars-fell-on-alabama"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Amphibious"
+    slug: "amphibious"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Christmastime is Here"
+    slug: "christmastime-is-here"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 189 (December 1, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/KMzVPH-MDDE)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) |  | Swing |  |
-| 2 | [Beat 70]({{ '/songs/' | relative_url }}beat-70/) |  | Bossa |  |
-| 3 | [Triste]({{ '/songs/' | relative_url }}triste/) |  | Bossa |  |
-| 4 | [Christmas is Coming]({{ '/songs/' | relative_url }}christmas-is-coming/) |  | Christmas |  |
-| 5 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) |  | Pop |  |
-| 6 | [Stars Fell on Alabama]({{ '/songs/' | relative_url }}stars-fell-on-alabama/) |  | Swing |  |
-| 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  | Funk |  |
-| 8 | [Christmastime is Here]({{ '/songs/' | relative_url }}christmastime-is-here/) |  | Christmas |  |

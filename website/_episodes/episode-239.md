@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/1jD6fxeWhWc"
 image: "/assets/images/title-slides/episode-239.jpg"
+setlist:
+  - song_num: "1"
+    name: "A Child is Born"
+    slug: "a-child-is-born"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "I Mean You"
+    slug: "i-mean-you"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Eu Quero E Sossego"
+    slug: "eu-quero-e-sossego"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Scrapple from the Apple"
+    slug: "scrapple-from-the-apple"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "This Masquerade"
+    slug: "this-masquerade"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Beat 70"
+    slug: "beat-70"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Cissy Strut"
+    slug: "cissy-strut"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "What are you doing New Year's Eve?"
+    slug: "what-are-you-doing-new-years-eve"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 239 (December 27, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/1jD6fxeWhWc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [A Child is Born]({{ '/songs/' | relative_url }}a-child-is-born/) |  | Latin |  |
-| 2 | [I Mean You]({{ '/songs/' | relative_url }}i-mean-you/) |  | Pop |  |
-| 3 | [Eu Quero E Sossego]({{ '/songs/' | relative_url }}eu-quero-e-sossego/) |  | Bossa |  |
-| 4 | [Scrapple from the Apple]({{ '/songs/' | relative_url }}scrapple-from-the-apple/) |  | Swing |  |
-| 5 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) |  | Funk |  |
-| 6 | [Beat 70]({{ '/songs/' | relative_url }}beat-70/) |  | Bossa |  |
-| 7 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) |  | Funk |  |
-| 8 | [What are you doing New Year's Eve?]({{ '/one-off-songs.html' | relative_url }}#what-are-you-doing-new-years-eve) |  |  |  |

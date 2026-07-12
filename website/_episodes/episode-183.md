@@ -11,21 +11,77 @@ shirt: ""
 tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/z1UiNHukhkc"
+setlist:
+  - song_num: "1"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "This Can't Be Love"
+    slug: "this-cant-be-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Look of Love"
+    slug: "look-of-love"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Inch Worm"
+    slug: "inch-worm"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "The Bay"
+    slug: "the-bay"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "Wood and Grassland"
+    slug: "wood-and-grassland"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "7"
+    name: "The City"
+    slug: "the-city"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "8"
+    name: "The Ocean"
+    slug: "the-ocean"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 183 (October 20, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/z1UiNHukhkc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) |  | Swing |  |
-| 2 | [This Can't Be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) |  | Swing |  |
-| 3 | [Look of Love]({{ '/songs/' | relative_url }}look-of-love/) |  | Ballad |  |
-| 4 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) |  | Ballad |  |
-| 5 | [The Bay]({{ '/one-off-songs.html' | relative_url }}#the-bay) |  |  |  |
-| 6 | [Wood and Grassland]({{ '/one-off-songs.html' | relative_url }}#wood-and-grassland) |  |  |  |
-| 7 | [The City]({{ '/one-off-songs.html' | relative_url }}#the-city) |  |  |  |
-| 8 | [The Ocean]({{ '/one-off-songs.html' | relative_url }}#the-ocean) |  |  |  |

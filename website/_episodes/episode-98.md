@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/zEpV0UCl2es"
 image: "/assets/images/title-slides/episode-98.jpg"
+setlist:
+  - song_num: "1"
+    name: "Corcovado"
+    slug: "corcovado"
+    url: "https://youtu.be/zEpV0UCl2es?t=65"
+    time: "01:05"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Impressions"
+    slug: "impressions"
+    url: "https://youtu.be/zEpV0UCl2es?t=430"
+    time: "07:10"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Memories of Tomorrow"
+    slug: "memories-of-tomorrow"
+    url: "https://youtu.be/zEpV0UCl2es?t=775"
+    time: "12:55"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Nardis"
+    slug: "nardis"
+    url: "https://youtu.be/zEpV0UCl2es?t=1142"
+    time: "19:02"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Mo Better Blues"
+    slug: "mo-better-blues"
+    url: "https://youtu.be/zEpV0UCl2es?t=1528"
+    time: "25:28"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Camilla (the Old, Old story)"
+    slug: "camilla-the-old-old-story"
+    url: "https://youtu.be/zEpV0UCl2es?t=1790"
+    time: "29:50"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Watermelon Man"
+    slug: "watermelon-man"
+    url: "https://youtu.be/zEpV0UCl2es?t=2154"
+    time: "35:54"
+    style: "Latin"
+    composer: ""
+    notes: "rockin"
+    hof: true
+  - song_num: "8"
+    name: "Closer improvise jan 28"
+    slug: "closer-improvise-jan-28"
+    url: "https://youtu.be/zEpV0UCl2es?t=2592"
+    time: "43:12"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 98 (January 28, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/zEpV0UCl2es)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) | [01:05](https://youtu.be/zEpV0UCl2es?t=65) | Bossa |  |
-| 2 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [07:10](https://youtu.be/zEpV0UCl2es?t=430) | Techno |  |
-| 3 | [Memories of Tomorrow]({{ '/songs/' | relative_url }}memories-of-tomorrow/) | [12:55](https://youtu.be/zEpV0UCl2es?t=775) | Pop |  |
-| 4 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [19:02](https://youtu.be/zEpV0UCl2es?t=1142) | Downtempo |  |
-| 5 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) | [25:28](https://youtu.be/zEpV0UCl2es?t=1528) | Pop |  |
-| 6 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [29:50](https://youtu.be/zEpV0UCl2es?t=1790) | Downtempo |  |
-| 7 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [35:54](https://youtu.be/zEpV0UCl2es?t=2154) | Latin | rockin |
-| 8 | [Closer improvise jan 28]({{ '/one-off-songs.html' | relative_url }}#closer-improvise-jan-28) | [43:12](https://youtu.be/zEpV0UCl2es?t=2592) |  |  |

@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-256-rerun-652026.jpg"
+setlist:
+  - song_num: "1"
+    name: "Girl Talk"
+    slug: "girl-talk"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Meditation"
+    slug: "meditation"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Mad World"
+    slug: "mad-world"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Waters of March"
+    slug: "waters-of-march"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "The Touch of your Lips"
+    slug: "the-touch-of-your-lips"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Cissy Strut"
+    slug: "cissy-strut"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Viva La Money"
+    slug: "viva-la-money"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Berlin Streetscape closer"
+    slug: "berlin-streetscape-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 256 (June 5, 2026) (Rerun)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Girl Talk]({{ '/songs/' | relative_url }}girl-talk/) |  | Swing |  |
-| 2 | [Meditation]({{ '/songs/' | relative_url }}meditation/) |  | Latin |  |
-| 3 | [Mad World]({{ '/songs/' | relative_url }}mad-world/) |  | Pop |  |
-| 4 | [Waters of March]({{ '/songs/' | relative_url }}waters-of-march/) |  | Bossa |  |
-| 5 | [The Touch of your Lips]({{ '/songs/' | relative_url }}the-touch-of-your-lips/) |  | Swing |  |
-| 6 | [Cissy Strut]({{ '/songs/' | relative_url }}cissy-strut/) |  | Funk |  |
-| 7 | [Viva La Money]({{ '/songs/' | relative_url }}viva-la-money/) |  | Funk |  |
-| 8 | [Berlin Streetscape closer]({{ '/one-off-songs.html' | relative_url }}#berlin-streetscape-closer) |  |  |  |

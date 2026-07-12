@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/LxZ1Zn87-6c"
 image: "/assets/images/title-slides/episode-219.jpg"
+setlist:
+  - song_num: "1"
+    name: "Desafinado"
+    slug: "desafinado"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Waters of March"
+    slug: "waters-of-march"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Impressions"
+    slug: "impressions"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Look of Love"
+    slug: "look-of-love"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Deacon Blues"
+    slug: "deacon-blues"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Trans Europe Express"
+    slug: "trans-europe-express"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Amphibious"
+    slug: "amphibious"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "ambient accordion closer Aug 2"
+    slug: "ambient-accordion-closer-aug-2"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 219 (August 2, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/LxZ1Zn87-6c)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Desafinado]({{ '/songs/' | relative_url }}desafinado/) |  | Bossa |  |
-| 2 | [Waters of March]({{ '/songs/' | relative_url }}waters-of-march/) |  | Bossa |  |
-| 3 | [Impressions]({{ '/songs/' | relative_url }}impressions/) |  | Techno |  |
-| 4 | [Look of Love]({{ '/songs/' | relative_url }}look-of-love/) |  | Ballad |  |
-| 5 | [Deacon Blues]({{ '/songs/' | relative_url }}deacon-blues/) |  | Pop |  |
-| 6 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) |  | Techno |  |
-| 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  | Funk |  |
-| 8 | [ambient accordion closer Aug 2]({{ '/one-off-songs.html' | relative_url }}#ambient-accordion-closer-aug-2) |  |  |  |

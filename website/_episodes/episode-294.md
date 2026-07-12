@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/RdINPa3ryLM"
 image: "/assets/images/title-slides/episode-294.jpg"
+setlist:
+  - song_num: "1"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Love Boat"
+    slug: "love-boat"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Forrozinho em Cazadero"
+    slug: "forrozinho-em-cazadero"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Road Song"
+    slug: "road-song"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Naima"
+    slug: "naima"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Rise"
+    slug: "rise"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Sonic Circuits practice april 10"
+    slug: "sonic-circuits-practice-april-10"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 294 (April 10, 2026)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/RdINPa3ryLM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) |  | Swing |  |
-| 2 | [Love Boat]({{ '/songs/' | relative_url }}love-boat/) |  | Samba |  |
-| 3 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) |  | Swing |  |
-| 4 | [Forrozinho em Cazadero]({{ '/songs/' | relative_url }}forrozinho-em-cazadero/) |  | Latin |  |
-| 5 | [Road Song]({{ '/songs/' | relative_url }}road-song/) |  | Pop |  |
-| 6 | [Naima]({{ '/songs/' | relative_url }}naima/) |  | Downtempo |  |
-| 7 | [Rise]({{ '/songs/' | relative_url }}rise/) |  | Funk |  |
-| 8 | [Sonic Circuits practice april 10]({{ '/one-off-songs.html' | relative_url }}#sonic-circuits-practice-april-10) |  |  |  |

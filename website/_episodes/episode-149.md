@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/9WTFsLMNhHk"
 image: "/assets/images/title-slides/episode-149.jpg"
+setlist:
+  - song_num: "1"
+    name: "Look of Love"
+    slug: "look-of-love"
+    url: "https://youtube.com/live/9WTFsLMNhHk?t=248"
+    time: "04:08"
+    style: "Ballad"
+    composer: ""
+    notes: "yah good"
+    hof: true
+  - song_num: "2"
+    name: "Emily"
+    slug: "emily"
+    url: "https://youtube.com/live/9WTFsLMNhHk?t=720"
+    time: "12:00"
+    style: "Swing"
+    composer: ""
+    notes: "practice man practice"
+    hof: true
+  - song_num: "3"
+    name: "It Might as Well be Spring"
+    slug: "it-might-as-well-be-spring"
+    url: "https://youtube.com/live/9WTFsLMNhHk?t=1045"
+    time: "17:25"
+    style: "Bossa"
+    composer: ""
+    notes: "practice please"
+    hof: true
+  - song_num: "4"
+    name: "Cold Duck Time"
+    slug: "cold-duck-time"
+    url: "https://youtube.com/live/9WTFsLMNhHk?t=1450"
+    time: "24:10"
+    style: "Funk"
+    composer: ""
+    notes: "transitions not great"
+    hof: true
+  - song_num: "5"
+    name: "Days of Wine and Roses"
+    slug: "days-of-wine-and-roses"
+    url: "https://youtube.com/live/9WTFsLMNhHk?t=1890"
+    time: "31:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Hearts of Space"
+    slug: "hearts-of-space"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "If you want me to stay"
+    slug: "if-you-want-me-to-stay"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 149 (February 10, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/9WTFsLMNhHk)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Look of Love]({{ '/songs/' | relative_url }}look-of-love/) | [04:08](https://youtube.com/live/9WTFsLMNhHk?t=248) | Ballad | yah good |
-| 2 | [Emily]({{ '/songs/' | relative_url }}emily/) | [12:00](https://youtube.com/live/9WTFsLMNhHk?t=720) | Swing | practice man practice |
-| 3 | [It Might as Well be Spring]({{ '/songs/' | relative_url }}it-might-as-well-be-spring/) | [17:25](https://youtube.com/live/9WTFsLMNhHk?t=1045) | Bossa | practice please |
-| 4 | [Cold Duck Time]({{ '/songs/' | relative_url }}cold-duck-time/) | [24:10](https://youtube.com/live/9WTFsLMNhHk?t=1450) | Funk | transitions not great |
-| 5 | [Days of Wine and Roses]({{ '/songs/' | relative_url }}days-of-wine-and-roses/) | [31:30](https://youtube.com/live/9WTFsLMNhHk?t=1890) | Swing |  |
-| 6 | [Hearts of Space]({{ '/songs/' | relative_url }}hearts-of-space/) |  | Downtempo |  |
-| 7 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) |  | Funk |  |
-| 8 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) |  | Swing |  |

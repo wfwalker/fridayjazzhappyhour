@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-299b.jpg"
+setlist:
+  - song_num: "1"
+    name: "Night and Day"
+    slug: "night-and-day"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Bossa Antigua"
+    slug: "bossa-antigua"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "My Favorite Things"
+    slug: "my-favorite-things"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "They Can't Take that away from me"
+    slug: "they-cant-take-that-away-from-me"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Once I loved"
+    slug: "once-i-loved"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "All the Things you are"
+    slug: "all-the-things-you-are"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "This Masquerade"
+    slug: "this-masquerade"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Rhodes and Euro closer"
+    slug: "rhodes-and-euro-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 299B (June 12, 2026)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) |  | Techno |  |
-| 2 | [Bossa Antigua]({{ '/songs/' | relative_url }}bossa-antigua/) |  | Bossa |  |
-| 3 | [My Favorite Things]({{ '/songs/' | relative_url }}my-favorite-things/) |  | Swing |  |
-| 4 | [They Can't Take that away from me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) |  | Swing |  |
-| 5 | [Once I loved]({{ '/songs/' | relative_url }}once-i-loved/) |  | Bossa |  |
-| 6 | [All the Things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) |  | Swing |  |
-| 7 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) |  | Funk |  |
-| 8 | [Rhodes and Euro closer]({{ '/one-off-songs.html' | relative_url }}#rhodes-and-euro-closer) |  |  |  |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/Z7yciUtcOsk"
 image: "/assets/images/title-slides/episode-115.jpg"
+setlist:
+  - song_num: "1"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: "https://youtu.be/Z7yciUtcOsk?t=172"
+    time: "02:52"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: "https://youtu.be/Z7yciUtcOsk?t=612"
+    time: "10:12"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Caminhos Cruzados"
+    slug: "caminhos-cruzados"
+    url: "https://youtu.be/Z7yciUtcOsk?t=1005"
+    time: "16:45"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "So What"
+    slug: "so-what"
+    url: "https://youtu.be/Z7yciUtcOsk?t=1680"
+    time: "28:00"
+    style: "Swing"
+    composer: ""
+    notes: "too slow, too dry? add ride cymbal? melodica?"
+    hof: true
+  - song_num: "5"
+    name: "Close your eyes"
+    slug: "close-your-eyes"
+    url: "https://youtu.be/Z7yciUtcOsk?t=2270"
+    time: "37:50"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "If I were a bell"
+    slug: "if-i-were-a-bell"
+    url: "https://youtu.be/Z7yciUtcOsk?t=2672"
+    time: "44:32"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: "https://youtu.be/Z7yciUtcOsk?t=3034"
+    time: "50:34"
+    style: "Techno"
+    composer: ""
+    notes: "floaty organ is good"
+    hof: true
+  - song_num: "8"
+    name: "Quin's Closer"
+    slug: "quins-closer"
+    url: "https://youtu.be/Z7yciUtcOsk?t=3218"
+    time: "53:38"
+    style: "Ambient"
+    composer: ""
+    notes: "fun stuff"
+    hof: true
 ---
-
-# Episode 115 (May 27, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/Z7yciUtcOsk)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) | [02:52](https://youtu.be/Z7yciUtcOsk?t=172) | Swing |  |
-| 2 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [10:12](https://youtu.be/Z7yciUtcOsk?t=612) | Funk |  |
-| 3 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) | [16:45](https://youtu.be/Z7yciUtcOsk?t=1005) | Bossa |  |
-| 4 | [So What]({{ '/songs/' | relative_url }}so-what/) | [28:00](https://youtu.be/Z7yciUtcOsk?t=1680) | Swing | too slow, too dry? add ride cymbal? melodica? |
-| 5 | [Close your eyes]({{ '/songs/' | relative_url }}close-your-eyes/) | [37:50](https://youtu.be/Z7yciUtcOsk?t=2270) | Latin |  |
-| 6 | [If I were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) | [44:32](https://youtu.be/Z7yciUtcOsk?t=2672) | Swing |  |
-| 7 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [50:34](https://youtu.be/Z7yciUtcOsk?t=3034) | Techno | floaty organ is good |
-| 8 | [Quin's Closer]({{ '/songs/' | relative_url }}quins-closer/) | [53:38](https://youtu.be/Z7yciUtcOsk?t=3218) | Ambient | fun stuff |

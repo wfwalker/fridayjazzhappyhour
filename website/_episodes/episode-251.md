@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/xojQZBi4_2M"
 image: "/assets/images/title-slides/episode-251.jpg"
+setlist:
+  - song_num: "1"
+    name: "Lullaby of Birdland"
+    slug: "lullaby-of-birdland"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "O Barquinho"
+    slug: "o-barquinho"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "So Danco Samba"
+    slug: "so-danco-samba"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Night in Tunisia"
+    slug: "night-in-tunisia"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Softly as in a morning Sunrise"
+    slug: "softly-as-in-a-morning-sunrise"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Moanin"
+    slug: "moanin"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "April 11 closer"
+    slug: "april-11-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 251 (April 11, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/xojQZBi4_2M)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Lullaby of Birdland]({{ '/songs/' | relative_url }}lullaby-of-birdland/) |  | Swing |  |
-| 2 | [O Barquinho]({{ '/songs/' | relative_url }}o-barquinho/) |  | Bossa |  |
-| 3 | [So Danco Samba]({{ '/songs/' | relative_url }}so-danco-samba/) |  | Samba |  |
-| 4 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) |  | Downtempo |  |
-| 5 | [Softly as in a morning Sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) |  | Techno |  |
-| 6 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) |  | Bossa |  |
-| 7 | [Moanin]({{ '/songs/' | relative_url }}moanin/) |  | Swing |  |
-| 8 | [April 11 closer]({{ '/one-off-songs.html' | relative_url }}#april-11-closer) |  |  |  |

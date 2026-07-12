@@ -12,22 +12,86 @@ tip_jar: "saved by nature"
 notes: ""
 youtube_url: "https://youtu.be/Um0wMxG_j1k"
 image: "/assets/images/title-slides/episode-117.jpg"
+setlist:
+  - song_num: "1"
+    name: "How Insensitive"
+    slug: "how-insensitive"
+    url: "https://youtu.be/Um0wMxG_j1k?t=65"
+    time: "01:05"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Jean Pierre in Egypt"
+    slug: "jean-pierre-in-egypt"
+    url: "https://youtu.be/Um0wMxG_j1k?t=392"
+    time: "06:32"
+    style: "Funk"
+    composer: ""
+    notes: "pretty good mix w/fuzz gtr; WTF ending?"
+    hof: true
+  - song_num: "3"
+    name: "There will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: "https://youtu.be/Um0wMxG_j1k?t=773"
+    time: "12:53"
+    style: "Swing"
+    composer: ""
+    notes: "pno too loud."
+    hof: true
+  - song_num: "4"
+    name: "Nardis"
+    slug: "nardis"
+    url: "https://youtu.be/Um0wMxG_j1k?t=1193"
+    time: "19:53"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "The Touch of your Lips"
+    slug: "the-touch-of-your-lips"
+    url: "https://youtu.be/Um0wMxG_j1k?t=1514"
+    time: "25:14"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Mad World"
+    slug: "mad-world"
+    url: "https://youtu.be/Um0wMxG_j1k?t=1880"
+    time: "31:20"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Them Funky Changes"
+    slug: "them-funky-changes"
+    url: "https://youtu.be/Um0wMxG_j1k?t=2235"
+    time: "37:15"
+    style: "Funk"
+    composer: ""
+    notes: "horn solo"
+    hof: true
+  - song_num: "8"
+    name: "Skating in Central Park"
+    slug: "skating-in-central-park"
+    url: "https://youtu.be/Um0wMxG_j1k?t=2670"
+    time: "44:30"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "9"
+    name: "When I fall in Love"
+    slug: "when-i-fall-in-love"
+    url: "https://youtu.be/Um0wMxG_j1k?t=2955"
+    time: "49:15"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 117 (June 10, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/Um0wMxG_j1k)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [How Insensitive]({{ '/songs/' | relative_url }}how-insensitive/) | [01:05](https://youtu.be/Um0wMxG_j1k?t=65) | Bossa |  |
-| 2 | [Jean Pierre in Egypt]({{ '/songs/' | relative_url }}jean-pierre-in-egypt/) | [06:32](https://youtu.be/Um0wMxG_j1k?t=392) | Funk | pretty good mix w/fuzz gtr; WTF ending? |
-| 3 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) | [12:53](https://youtu.be/Um0wMxG_j1k?t=773) | Swing | pno too loud. |
-| 4 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [19:53](https://youtu.be/Um0wMxG_j1k?t=1193) | Downtempo |  |
-| 5 | [The Touch of your Lips]({{ '/songs/' | relative_url }}the-touch-of-your-lips/) | [25:14](https://youtu.be/Um0wMxG_j1k?t=1514) | Swing |  |
-| 6 | [Mad World]({{ '/songs/' | relative_url }}mad-world/) | [31:20](https://youtu.be/Um0wMxG_j1k?t=1880) | Pop |  |
-| 7 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) | [37:15](https://youtu.be/Um0wMxG_j1k?t=2235) | Funk | horn solo |
-| 8 | [Skating in Central Park]({{ '/one-off-songs.html' | relative_url }}#skating-in-central-park) | [44:30](https://youtu.be/Um0wMxG_j1k?t=2670) |  |  |
-| 9 | [When I fall in Love]({{ '/songs/' | relative_url }}when-i-fall-in-love/) | [49:15](https://youtu.be/Um0wMxG_j1k?t=2955) | Ballad |  |

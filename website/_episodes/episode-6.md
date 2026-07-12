@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/9EwAG0vUho8"
 image: "/assets/images/title-slides/episode-6.png"
+setlist:
+  - song_num: "1"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: "https://youtu.be/9EwAG0vUho8?t=715"
+    time: "11:55"
+    style: "Latin"
+    composer: "Mongo Santamaria"
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Sing Sing Sing"
+    slug: "sing-sing-sing"
+    url: "https://youtu.be/9EwAG0vUho8?t=2345"
+    time: "39:05"
+    style: "Pop"
+    composer: "Louis Prima"
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Here comes the Flood"
+    slug: "here-comes-the-flood"
+    url: "https://youtu.be/9EwAG0vUho8?t=3020"
+    time: "50:20"
+    style: "Pop"
+    composer: "Peter Gabriel"
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Corcovado"
+    slug: "corcovado"
+    url: "https://youtu.be/9EwAG0vUho8?t=375"
+    time: "06:15"
+    style: "Bossa"
+    composer: "Jobim"
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Surrey with the Fringe on Top"
+    slug: "surrey-with-the-fringe-on-top"
+    url: "https://youtu.be/9EwAG0vUho8?t=2648"
+    time: "44:08"
+    style: "swing"
+    composer: "Hammerstein"
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "When I fall in love"
+    slug: "when-i-fall-in-love"
+    url: "https://youtu.be/9EwAG0vUho8?t=1153"
+    time: "19:13"
+    style: "Ballad"
+    composer: "Victor Young"
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: "https://youtu.be/9EwAG0vUho8?t=1646"
+    time: "27:26"
+    style: "Bossa"
+    composer: "Luiz Bonfa"
+    notes: "synth bass"
+    hof: true
+  - song_num: "8"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: "https://youtu.be/9EwAG0vUho8?t=2070"
+    time: "34:30"
+    style: "Swing"
+    composer: "Miles Davis"
+    notes: ""
+    hof: true
 ---
-
-# Episode 6 (April 24, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/9EwAG0vUho8)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [11:55](https://youtu.be/9EwAG0vUho8?t=715) | Latin<br><small style='color:var(--text-secondary);'>by Mongo Santamaria</small> |  |
-| 2 | [Sing Sing Sing]({{ '/songs/' | relative_url }}sing-sing-sing/) | [39:05](https://youtu.be/9EwAG0vUho8?t=2345) | Pop<br><small style='color:var(--text-secondary);'>by Louis Prima</small> |  |
-| 3 | [Here comes the Flood]({{ '/songs/' | relative_url }}here-comes-the-flood/) | [50:20](https://youtu.be/9EwAG0vUho8?t=3020) | Pop<br><small style='color:var(--text-secondary);'>by Peter Gabriel</small> |  |
-| 4 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) | [06:15](https://youtu.be/9EwAG0vUho8?t=375) | Bossa<br><small style='color:var(--text-secondary);'>by Jobim</small> |  |
-| 5 | [Surrey with the Fringe on Top]({{ '/one-off-songs.html' | relative_url }}#surrey-with-the-fringe-on-top) | [44:08](https://youtu.be/9EwAG0vUho8?t=2648) | swing<br><small style='color:var(--text-secondary);'>by Hammerstein</small> |  |
-| 6 | [When I fall in love]({{ '/songs/' | relative_url }}when-i-fall-in-love/) | [19:13](https://youtu.be/9EwAG0vUho8?t=1153) | Ballad<br><small style='color:var(--text-secondary);'>by Victor Young</small> |  |
-| 7 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) | [27:26](https://youtu.be/9EwAG0vUho8?t=1646) | Bossa<br><small style='color:var(--text-secondary);'>by Luiz Bonfa</small> | synth bass |
-| 8 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) | [34:30](https://youtu.be/9EwAG0vUho8?t=2070) | Swing<br><small style='color:var(--text-secondary);'>by Miles Davis</small> |  |

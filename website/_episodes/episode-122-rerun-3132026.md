@@ -12,18 +12,68 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-122-rerun-3132026.jpg"
+setlist:
+  - song_num: "1"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "It Might as Well be Spring"
+    slug: "it-might-as-well-be-spring"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Isn't It Romantic"
+    slug: "isnt-it-romantic"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Soul Sauce"
+    slug: "soul-sauce"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Lovely Day"
+    slug: "lovely-day"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Arpeggios for Lent, meditation on \"Wilderness\""
+    slug: "arpeggios-for-lent-meditation-on-wilderness"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "7"
+    name: "Closer July 15"
+    slug: "closer-july-15"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 122 (March 13, 2026) (Rerun)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) |  | Funk |  |
-| 2 | [It Might as Well be Spring]({{ '/songs/' | relative_url }}it-might-as-well-be-spring/) |  | Bossa |  |
-| 3 | [Isn't It Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) |  | Swing |  |
-| 4 | [Soul Sauce]({{ '/songs/' | relative_url }}soul-sauce/) |  | Latin |  |
-| 5 | [Lovely Day]({{ '/songs/' | relative_url }}lovely-day/) |  | Pop |  |
-| 6 | [Arpeggios for Lent, meditation on "Wilderness"]({{ '/one-off-songs.html' | relative_url }}#arpeggios-for-lent-meditation-on-wilderness) |  |  |  |
-| 7 | [Closer July 15]({{ '/one-off-songs.html' | relative_url }}#closer-july-15) |  |  |  |

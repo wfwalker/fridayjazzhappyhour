@@ -12,21 +12,77 @@ tip_jar: "The Healing WELL"
 notes: "yes"
 youtube_url: "https://youtu.be/0LJTLQOLZQM"
 image: "/assets/images/title-slides/episode-27.jpg"
+setlist:
+  - song_num: "1"
+    name: "Starshine (Fretless Improvisation)"
+    slug: "starshine-fretless-improvisation"
+    url: "https://youtu.be/0LJTLQOLZQM?t=198"
+    time: "03:18"
+    style: ""
+    composer: "Bill Walker"
+    notes: "add one more element, more parameter automation"
+    hof: false
+  - song_num: "2"
+    name: "My Funny Valentine"
+    slug: "my-funny-valentine"
+    url: "https://youtu.be/0LJTLQOLZQM?t=620"
+    time: "10:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Nearness of you"
+    slug: "nearness-of-you"
+    url: "https://youtu.be/0LJTLQOLZQM?t=1020"
+    time: "17:00"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Gee Baby, Ain’t I Good to You"
+    slug: "gee-baby-aint-i-good-to-you"
+    url: "https://youtu.be/0LJTLQOLZQM?t=1423"
+    time: "23:43"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Night in Tunisia"
+    slug: "night-in-tunisia"
+    url: "https://youtu.be/0LJTLQOLZQM?t=1785"
+    time: "29:45"
+    style: "Downtempo"
+    composer: ""
+    notes: "too slow? too long"
+    hof: true
+  - song_num: "6"
+    name: "Caminhos Cruzados"
+    slug: "caminhos-cruzados"
+    url: "https://youtu.be/0LJTLQOLZQM?t=2345"
+    time: "39:05"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "On Broadway"
+    slug: "on-broadway"
+    url: "https://youtu.be/0LJTLQOLZQM?t=2806"
+    time: "46:46"
+    style: "Pop"
+    composer: ""
+    notes: "faster? mic lower in mix; scat kinda fun"
+    hof: true
+  - song_num: "8"
+    name: "Young and Foolish"
+    slug: "young-and-foolish"
+    url: "https://youtu.be/0LJTLQOLZQM?t=3196"
+    time: "53:16"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 27 (September 18, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/0LJTLQOLZQM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Starshine (Fretless Improvisation)]({{ '/one-off-songs.html' | relative_url }}#starshine-fretless-improvisation) | [03:18](https://youtu.be/0LJTLQOLZQM?t=198) | <br><small style='color:var(--text-secondary);'>by Bill Walker</small> | add one more element, more parameter automation |
-| 2 | [My Funny Valentine]({{ '/songs/' | relative_url }}my-funny-valentine/) | [10:20](https://youtu.be/0LJTLQOLZQM?t=620) | Swing |  |
-| 3 | [Nearness of you]({{ '/songs/' | relative_url }}nearness-of-you/) | [17:00](https://youtu.be/0LJTLQOLZQM?t=1020) | Bossa |  |
-| 4 | [Gee Baby, Ain’t I Good to You]({{ '/songs/' | relative_url }}gee-baby-aint-i-good-to-you/) | [23:43](https://youtu.be/0LJTLQOLZQM?t=1423) | Swing |  |
-| 5 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) | [29:45](https://youtu.be/0LJTLQOLZQM?t=1785) | Downtempo | too slow? too long |
-| 6 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) | [39:05](https://youtu.be/0LJTLQOLZQM?t=2345) | Bossa |  |
-| 7 | [On Broadway]({{ '/songs/' | relative_url }}on-broadway/) | [46:46](https://youtu.be/0LJTLQOLZQM?t=2806) | Pop | faster? mic lower in mix; scat kinda fun |
-| 8 | [Young and Foolish]({{ '/one-off-songs.html' | relative_url }}#young-and-foolish) | [53:16](https://youtu.be/0LJTLQOLZQM?t=3196) |  |  |

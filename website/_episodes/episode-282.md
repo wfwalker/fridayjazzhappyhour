@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/ymINXCQpjmI"
 image: "/assets/images/title-slides/episode-282.jpg"
+setlist:
+  - song_num: "1"
+    name: "Skating"
+    slug: "skating"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "Night in Tunisia"
+    slug: "night-in-tunisia"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Desde"
+    slug: "desde"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "So Nice"
+    slug: "so-nice"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "O Come O Come Emmanuel"
+    slug: "o-come-o-come-emmanuel"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Christmas is Coming"
+    slug: "christmas-is-coming"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Some Children See Him"
+    slug: "some-children-see-him"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 282 (December 19, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/ymINXCQpjmI)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Skating]({{ '/one-off-songs.html' | relative_url }}#skating) |  |  |  |
-| 2 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) |  | Downtempo |  |
-| 3 | [Desde]({{ '/songs/' | relative_url }}desde/) |  | Bossa |  |
-| 4 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) |  | Funk |  |
-| 5 | [So Nice]({{ '/songs/' | relative_url }}so-nice/) |  | Bossa |  |
-| 6 | [O Come O Come Emmanuel]({{ '/songs/' | relative_url }}o-come-o-come-emmanuel/) |  | Christmas |  |
-| 7 | [Christmas is Coming]({{ '/songs/' | relative_url }}christmas-is-coming/) |  | Christmas |  |
-| 8 | [Some Children See Him]({{ '/one-off-songs.html' | relative_url }}#some-children-see-him) |  |  |  |

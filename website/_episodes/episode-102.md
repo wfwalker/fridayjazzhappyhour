@@ -12,21 +12,77 @@ tip_jar: ""
 notes: "yes"
 youtube_url: "https://youtu.be/f8SEdxjiIMM"
 image: "/assets/images/title-slides/episode-102.jpg"
+setlist:
+  - song_num: "1"
+    name: "If I were a bell"
+    slug: "if-i-were-a-bell"
+    url: "https://youtu.be/f8SEdxjiIMM?t=216"
+    time: "03:36"
+    style: "Swing"
+    composer: ""
+    notes: "tpt mel + comping good; does not gel opening head"
+    hof: true
+  - song_num: "2"
+    name: "Footprints"
+    slug: "footprints"
+    url: "https://youtu.be/f8SEdxjiIMM?t=504"
+    time: "08:24"
+    style: "Swing"
+    composer: ""
+    notes: "nice mix, i think"
+    hof: true
+  - song_num: "3"
+    name: "Fly me to the Moon"
+    slug: "fly-me-to-the-moon"
+    url: "https://youtu.be/f8SEdxjiIMM?t=919"
+    time: "15:19"
+    style: "Swing"
+    composer: ""
+    notes: "opening head good, scatting needs work"
+    hof: true
+  - song_num: "4"
+    name: "Samba de Orfeu"
+    slug: "samba-de-orfeu"
+    url: "https://youtu.be/f8SEdxjiIMM?t=1355"
+    time: "22:35"
+    style: "Samba"
+    composer: ""
+    notes: "nice groove, organ too hot"
+    hof: true
+  - song_num: "5"
+    name: "Belet's Last Tape Piece"
+    slug: "belets-last-tape-piece"
+    url: "https://youtu.be/f8SEdxjiIMM?t=1810"
+    time: "30:10"
+    style: ""
+    composer: ""
+    notes: "Belet liked it!"
+    hof: false
+  - song_num: "6"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: "https://youtu.be/f8SEdxjiIMM?t=2325"
+    time: "38:45"
+    style: "Bossa"
+    composer: ""
+    notes: "experiment with compressing / vel curve for sax"
+    hof: true
+  - song_num: "7"
+    name: "Some other funk"
+    slug: "some-other-funk"
+    url: "https://youtu.be/f8SEdxjiIMM?t=2785"
+    time: "46:25"
+    style: "Funk"
+    composer: ""
+    notes: "ending sounds like a mistake; add bari sax"
+    hof: true
+  - song_num: "8"
+    name: "Feb 25 Closer"
+    slug: "feb-25-closer"
+    url: "https://youtu.be/f8SEdxjiIMM?t=3191"
+    time: "53:11"
+    style: ""
+    composer: ""
+    notes: "waltz!"
+    hof: false
 ---
-
-# Episode 102 (February 25, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/f8SEdxjiIMM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [If I were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) | [03:36](https://youtu.be/f8SEdxjiIMM?t=216) | Swing | tpt mel + comping good; does not gel opening head |
-| 2 | [Footprints]({{ '/songs/' | relative_url }}footprints/) | [08:24](https://youtu.be/f8SEdxjiIMM?t=504) | Swing | nice mix, i think |
-| 3 | [Fly me to the Moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) | [15:19](https://youtu.be/f8SEdxjiIMM?t=919) | Swing | opening head good, scatting needs work |
-| 4 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [22:35](https://youtu.be/f8SEdxjiIMM?t=1355) | Samba | nice groove, organ too hot |
-| 5 | [Belet's Last Tape Piece]({{ '/one-off-songs.html' | relative_url }}#belets-last-tape-piece) | [30:10](https://youtu.be/f8SEdxjiIMM?t=1810) |  | Belet liked it! |
-| 6 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) | [38:45](https://youtu.be/f8SEdxjiIMM?t=2325) | Bossa | experiment with compressing / vel curve for sax |
-| 7 | [Some other funk]({{ '/songs/' | relative_url }}some-other-funk/) | [46:25](https://youtu.be/f8SEdxjiIMM?t=2785) | Funk | ending sounds like a mistake; add bari sax |
-| 8 | [Feb 25 Closer]({{ '/one-off-songs.html' | relative_url }}#feb-25-closer) | [53:11](https://youtu.be/f8SEdxjiIMM?t=3191) |  | waltz! |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/iSBCTTvF5RM"
 image: "/assets/images/title-slides/episode-161.jpg"
+setlist:
+  - song_num: "1"
+    name: "Night and Day"
+    slug: "night-and-day"
+    url: "https://youtube.com/live/iSBCTTvF5RM?t=454"
+    time: "07:34"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Won't you be my neighbor?"
+    slug: "wont-you-be-my-neighbor"
+    url: "https://youtube.com/live/iSBCTTvF5RM?t=859"
+    time: "14:19"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Monkey Pants"
+    slug: "monkey-pants"
+    url: "https://youtube.com/live/iSBCTTvF5RM?t=1271"
+    time: "21:11"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Desafinado"
+    slug: "desafinado"
+    url: "https://youtube.com/live/iSBCTTvF5RM?t=1800"
+    time: "30:00"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Little Sunflower"
+    slug: "little-sunflower"
+    url: "https://youtube.com/live/iSBCTTvF5RM?t=2323"
+    time: "38:43"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Piano Improv May 5"
+    slug: "piano-improv-may-5"
+    url: "https://youtube.com/live/iSBCTTvF5RM?t=2863"
+    time: "47:43"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "7"
+    name: "Manteca"
+    slug: "manteca"
+    url: "https://youtube.com/live/iSBCTTvF5RM?t=3071"
+    time: "51:11"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Nightingale Sang in Berkeley Square"
+    slug: "nightingale-sang-in-berkeley-square"
+    url: "https://youtube.com/live/iSBCTTvF5RM?t=3570"
+    time: "59:30"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 161 (May 5, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/iSBCTTvF5RM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) | [07:34](https://youtube.com/live/iSBCTTvF5RM?t=454) | Techno |  |
-| 2 | [Won't you be my neighbor?]({{ '/songs/' | relative_url }}wont-you-be-my-neighbor/) | [14:19](https://youtube.com/live/iSBCTTvF5RM?t=859) | Swing |  |
-| 3 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) | [21:11](https://youtube.com/live/iSBCTTvF5RM?t=1271) | Funk |  |
-| 4 | [Desafinado]({{ '/songs/' | relative_url }}desafinado/) | [30:00](https://youtube.com/live/iSBCTTvF5RM?t=1800) | Bossa |  |
-| 5 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) | [38:43](https://youtube.com/live/iSBCTTvF5RM?t=2323) | Techno |  |
-| 6 | [Piano Improv May 5]({{ '/one-off-songs.html' | relative_url }}#piano-improv-may-5) | [47:43](https://youtube.com/live/iSBCTTvF5RM?t=2863) |  |  |
-| 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) | [51:11](https://youtube.com/live/iSBCTTvF5RM?t=3071) | Latin |  |
-| 8 | [Nightingale Sang in Berkeley Square]({{ '/songs/' | relative_url }}nightingale-sang-in-berkeley-square/) | [59:30](https://youtube.com/live/iSBCTTvF5RM?t=3570) | Ballad |  |

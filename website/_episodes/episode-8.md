@@ -12,21 +12,77 @@ tip_jar: "Social Justice Sewing Academy"
 notes: ""
 youtube_url: "https://youtu.be/ODap9wBMyeU"
 image: "/assets/images/title-slides/episode-8.png"
+setlist:
+  - song_num: "1"
+    name: "Coming Home"
+    slug: "coming-home"
+    url: "https://youtu.be/ODap9wBMyeU?t=255"
+    time: "04:15"
+    style: "Pop"
+    composer: "Erik Turkman"
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Fulani Chant (WFW Isolation Remix)"
+    slug: "fulani-chant-wfw-isolation-remix"
+    url: "https://youtu.be/ODap9wBMyeU?t=1458"
+    time: "24:18"
+    style: "Techno"
+    composer: "Bill Walker"
+    notes: "REDO practice man practice"
+    hof: true
+  - song_num: "3"
+    name: "They can’t take that away from me"
+    slug: "they-cant-take-that-away-from-me"
+    url: "https://youtu.be/ODap9wBMyeU?t=2360"
+    time: "39:20"
+    style: "Swing"
+    composer: "George Gerswin"
+    notes: "nice swing drums; more comping? REDO"
+    hof: true
+  - song_num: "4"
+    name: "We’ll be together again"
+    slug: "well-be-together-again"
+    url: "https://youtu.be/ODap9wBMyeU?t=3222"
+    time: "53:42"
+    style: "ballad"
+    composer: "Carl Fischer"
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Where or When"
+    slug: "where-or-when"
+    url: "https://youtu.be/ODap9wBMyeU?t=1867"
+    time: "31:07"
+    style: ""
+    composer: "Rogers and Hart"
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "Sunny"
+    slug: "sunny"
+    url: "https://youtu.be/ODap9wBMyeU?t=2813"
+    time: "46:53"
+    style: "Funk"
+    composer: "Bobby Hebb"
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "The Chicken"
+    slug: "the-chicken"
+    url: "https://youtu.be/ODap9wBMyeU?t=662"
+    time: "11:02"
+    style: "Funk"
+    composer: "Pee Wee Ellis"
+    notes: "REDO"
+    hof: true
+  - song_num: "8"
+    name: "Samba De Orfeu"
+    slug: "samba-de-orfeu"
+    url: "https://youtu.be/ODap9wBMyeU?t=1080"
+    time: "18:00"
+    style: "Samba"
+    composer: "Luiz Bonfa"
+    notes: "REDO better drums"
+    hof: true
 ---
-
-# Episode 8 (May 8, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/ODap9wBMyeU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Coming Home]({{ '/songs/' | relative_url }}coming-home/) | [04:15](https://youtu.be/ODap9wBMyeU?t=255) | Pop<br><small style='color:var(--text-secondary);'>by Erik Turkman</small> |  |
-| 2 | [Fulani Chant (WFW Isolation Remix)]({{ '/songs/' | relative_url }}fulani-chant-wfw-isolation-remix/) | [24:18](https://youtu.be/ODap9wBMyeU?t=1458) | Techno<br><small style='color:var(--text-secondary);'>by Bill Walker</small> | REDO practice man practice |
-| 3 | [They can’t take that away from me]({{ '/songs/' | relative_url }}they-cant-take-that-away-from-me/) | [39:20](https://youtu.be/ODap9wBMyeU?t=2360) | Swing<br><small style='color:var(--text-secondary);'>by George Gerswin</small> | nice swing drums; more comping? REDO |
-| 4 | [We’ll be together again]({{ '/one-off-songs.html' | relative_url }}#well-be-together-again) | [53:42](https://youtu.be/ODap9wBMyeU?t=3222) | ballad<br><small style='color:var(--text-secondary);'>by Carl Fischer</small> |  |
-| 5 | [Where or When]({{ '/one-off-songs.html' | relative_url }}#where-or-when) | [31:07](https://youtu.be/ODap9wBMyeU?t=1867) | <br><small style='color:var(--text-secondary);'>by Rogers and Hart</small> |  |
-| 6 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [46:53](https://youtu.be/ODap9wBMyeU?t=2813) | Funk<br><small style='color:var(--text-secondary);'>by Bobby Hebb</small> |  |
-| 7 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) | [11:02](https://youtu.be/ODap9wBMyeU?t=662) | Funk<br><small style='color:var(--text-secondary);'>by Pee Wee Ellis</small> | REDO |
-| 8 | [Samba De Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [18:00](https://youtu.be/ODap9wBMyeU?t=1080) | Samba<br><small style='color:var(--text-secondary);'>by Luiz Bonfa</small> | REDO better drums |

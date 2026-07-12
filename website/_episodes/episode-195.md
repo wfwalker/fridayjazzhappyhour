@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/dkMgQ_pHYNk"
 image: "/assets/images/title-slides/episode-195.jpg"
+setlist:
+  - song_num: "1"
+    name: "Dindi"
+    slug: "dindi"
+    url: "https://youtube.com/live/dkMgQ_pHYNk?t=268"
+    time: "04:28"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Alberta"
+    slug: "alberta"
+    url: "https://youtube.com/live/dkMgQ_pHYNk?t=715"
+    time: "11:55"
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Caminhos Cruzados"
+    slug: "caminhos-cruzados"
+    url: "https://youtube.com/live/dkMgQ_pHYNk?t=1158"
+    time: "19:18"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "The Chicken"
+    slug: "the-chicken"
+    url: "https://youtube.com/live/dkMgQ_pHYNk?t=1533"
+    time: "25:33"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Emily"
+    slug: "emily"
+    url: "https://youtube.com/live/dkMgQ_pHYNk?t=1859"
+    time: "30:59"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "A Foggy Day (in London Town)"
+    slug: "a-foggy-day-in-london-town"
+    url: "https://youtube.com/live/dkMgQ_pHYNk?t=2240"
+    time: "37:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "If you want me to stay"
+    slug: "if-you-want-me-to-stay"
+    url: "https://youtube.com/live/dkMgQ_pHYNk?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Melodica looper and VCV"
+    slug: "melodica-looper-and-vcv"
+    url: "https://youtube.com/live/dkMgQ_pHYNk?t=3339"
+    time: "55:39"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 195 (January 12, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/dkMgQ_pHYNk)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Dindi]({{ '/songs/' | relative_url }}dindi/) | [04:28](https://youtube.com/live/dkMgQ_pHYNk?t=268) | Techno |  |
-| 2 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [11:55](https://youtube.com/live/dkMgQ_pHYNk?t=715) | World |  |
-| 3 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) | [19:18](https://youtube.com/live/dkMgQ_pHYNk?t=1158) | Bossa |  |
-| 4 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) | [25:33](https://youtube.com/live/dkMgQ_pHYNk?t=1533) | Funk |  |
-| 5 | [Emily]({{ '/songs/' | relative_url }}emily/) | [30:59](https://youtube.com/live/dkMgQ_pHYNk?t=1859) | Swing |  |
-| 6 | [A Foggy Day (in London Town)]({{ '/songs/' | relative_url }}a-foggy-day-in-london-town/) | [37:20](https://youtube.com/live/dkMgQ_pHYNk?t=2240) | Swing |  |
-| 7 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) | [44:22](https://youtube.com/live/dkMgQ_pHYNk?t=2662) | Funk |  |
-| 8 | [Melodica looper and VCV]({{ '/one-off-songs.html' | relative_url }}#melodica-looper-and-vcv) | [55:39](https://youtube.com/live/dkMgQ_pHYNk?t=3339) |  |  |

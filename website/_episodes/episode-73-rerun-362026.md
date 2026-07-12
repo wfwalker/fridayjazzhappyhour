@@ -12,20 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-73-rerun-362026.jpg"
+setlist:
+  - song_num: "1"
+    name: "My Funny Valentine"
+    slug: "my-funny-valentine"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Well You Needn’t"
+    slug: "well-you-neednt"
+    url: ""
+    time: ""
+    style: "Reggae"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Begin the Beguine"
+    slug: "begin-the-beguine"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Moanin"
+    slug: "moanin"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Burbling"
+    slug: "burbling"
+    url: ""
+    time: ""
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Piano Improv"
+    slug: "piano-improv"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "8"
+    name: "Manteca"
+    slug: "manteca"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "How Deep is the Ocean"
+    slug: "how-deep-is-the-ocean"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 73 (March 6, 2026) (Rerun)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [My Funny Valentine]({{ '/songs/' | relative_url }}my-funny-valentine/) |  | Swing |  |
-| 2 | [Well You Needn’t]({{ '/songs/' | relative_url }}well-you-neednt/) |  | Reggae |  |
-| 3 | [Begin the Beguine]({{ '/songs/' | relative_url }}begin-the-beguine/) |  | Bossa |  |
-| 4 | [Moanin]({{ '/songs/' | relative_url }}moanin/) |  | Swing |  |
-| 5 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) |  | Latin |  |
-| 6 | [Burbling]({{ '/songs/' | relative_url }}burbling/) |  | World |  |
-| 7 | [Piano Improv]({{ '/one-off-songs.html' | relative_url }}#piano-improv) |  |  |  |
-| 8 | [Manteca]({{ '/songs/' | relative_url }}manteca/) |  | Latin |  |
-| 9 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) |  | Ballad |  |

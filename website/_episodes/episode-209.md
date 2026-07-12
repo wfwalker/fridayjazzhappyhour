@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-209.jpg"
+setlist:
+  - song_num: "1"
+    name: "A Foggy Day (in London Town)"
+    slug: "a-foggy-day-in-london-town"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Take Five (King Tubby)"
+    slug: "take-five-king-tubby"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "New Phone Who Dis"
+    slug: "new-phone-who-dis"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Song for My Father"
+    slug: "song-for-my-father"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Triste"
+    slug: "triste"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "SummerTime"
+    slug: "summertime"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Were you There Improv"
+    slug: "were-you-there-improv"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 209 (May 17, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [A Foggy Day (in London Town)]({{ '/songs/' | relative_url }}a-foggy-day-in-london-town/) |  | Swing |  |
-| 2 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) |  | Bossa |  |
-| 3 | [Take Five (King Tubby)]({{ '/songs/' | relative_url }}take-five-king-tubby/) |  | Downtempo |  |
-| 4 | [New Phone Who Dis]({{ '/songs/' | relative_url }}new-phone-who-dis/) |  | Downtempo |  |
-| 5 | [Song for My Father]({{ '/songs/' | relative_url }}song-for-my-father/) |  | Latin |  |
-| 6 | [Triste]({{ '/songs/' | relative_url }}triste/) |  | Bossa |  |
-| 7 | [SummerTime]({{ '/songs/' | relative_url }}summertime/) |  | Funk |  |
-| 8 | [Were you There Improv]({{ '/one-off-songs.html' | relative_url }}#were-you-there-improv) |  |  |  |

@@ -12,19 +12,59 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/8OIItLaezQk"
 image: "/assets/images/title-slides/episode-2.png"
+setlist:
+  - song_num: "1"
+    name: "Zero-Nineteen"
+    slug: "zero-nineteen"
+    url: "https://youtu.be/8OIItLaezQk?t=923"
+    time: "15:23"
+    style: "Techno"
+    composer: "Bill Walker"
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Dindi"
+    slug: "dindi"
+    url: "https://youtu.be/8OIItLaezQk?t=2080"
+    time: "34:40"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Naima"
+    slug: "naima"
+    url: "https://youtu.be/8OIItLaezQk?t=505"
+    time: "08:25"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Jean Pierre in Egypt"
+    slug: "jean-pierre-in-egypt"
+    url: "https://youtu.be/8OIItLaezQk?t=1639"
+    time: "27:19"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Well You Needn’t"
+    slug: "well-you-neednt"
+    url: "https://youtu.be/8OIItLaezQk?t=1296"
+    time: "21:36"
+    style: "Reggae"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Little Samba"
+    slug: "little-samba"
+    url: "https://youtu.be/8OIItLaezQk?t=200"
+    time: "03:20"
+    style: "samba"
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 2 (March 27, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/8OIItLaezQk)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Zero-Nineteen]({{ '/songs/' | relative_url }}zero-nineteen/) | [15:23](https://youtu.be/8OIItLaezQk?t=923) | Techno<br><small style='color:var(--text-secondary);'>by Bill Walker</small> |  |
-| 2 | [Dindi]({{ '/songs/' | relative_url }}dindi/) | [34:40](https://youtu.be/8OIItLaezQk?t=2080) | Techno |  |
-| 3 | [Naima]({{ '/songs/' | relative_url }}naima/) | [08:25](https://youtu.be/8OIItLaezQk?t=505) | Downtempo |  |
-| 4 | [Jean Pierre in Egypt]({{ '/songs/' | relative_url }}jean-pierre-in-egypt/) | [27:19](https://youtu.be/8OIItLaezQk?t=1639) | Funk |  |
-| 5 | [Well You Needn’t]({{ '/songs/' | relative_url }}well-you-neednt/) | [21:36](https://youtu.be/8OIItLaezQk?t=1296) | Reggae |  |
-| 6 | [Little Samba]({{ '/one-off-songs.html' | relative_url }}#little-samba) | [03:20](https://youtu.be/8OIItLaezQk?t=200) | samba |  |

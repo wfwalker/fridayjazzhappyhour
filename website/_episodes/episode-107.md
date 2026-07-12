@@ -12,21 +12,77 @@ tip_jar: "Rich City Rides"
 notes: "yes"
 youtube_url: "https://youtu.be/XB_QekGAhUU"
 image: "/assets/images/title-slides/episode-107.jpg"
+setlist:
+  - song_num: "1"
+    name: "Desde"
+    slug: "desde"
+    url: "https://youtu.be/XB_QekGAhUU?t=229"
+    time: "03:49"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: "https://youtu.be/XB_QekGAhUU?t=697"
+    time: "11:37"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Moanin"
+    slug: "moanin"
+    url: "https://youtu.be/XB_QekGAhUU?t=1137"
+    time: "18:57"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Nardis"
+    slug: "nardis"
+    url: "https://youtu.be/XB_QekGAhUU?t=1565"
+    time: "26:05"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "There will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: "https://youtu.be/XB_QekGAhUU?t=1967"
+    time: "32:47"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Swim Shebang"
+    slug: "swim-shebang"
+    url: "https://youtu.be/XB_QekGAhUU?t=2280"
+    time: "38:00"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: "https://youtu.be/XB_QekGAhUU?t=2654"
+    time: "44:14"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Lovesong"
+    slug: "lovesong"
+    url: "https://youtu.be/XB_QekGAhUU?t=3210"
+    time: "53:30"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 107 (April 1, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/XB_QekGAhUU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Desde]({{ '/songs/' | relative_url }}desde/) | [03:49](https://youtu.be/XB_QekGAhUU?t=229) | Bossa |  |
-| 2 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [11:37](https://youtu.be/XB_QekGAhUU?t=697) | Swing |  |
-| 3 | [Moanin]({{ '/songs/' | relative_url }}moanin/) | [18:57](https://youtu.be/XB_QekGAhUU?t=1137) | Swing |  |
-| 4 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [26:05](https://youtu.be/XB_QekGAhUU?t=1565) | Downtempo |  |
-| 5 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) | [32:47](https://youtu.be/XB_QekGAhUU?t=1967) | Swing |  |
-| 6 | [Swim Shebang]({{ '/songs/' | relative_url }}swim-shebang/) | [38:00](https://youtu.be/XB_QekGAhUU?t=2280) | Funk |  |
-| 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) | [44:14](https://youtu.be/XB_QekGAhUU?t=2654) | Funk |  |
-| 8 | [Lovesong]({{ '/songs/' | relative_url }}lovesong/) | [53:30](https://youtu.be/XB_QekGAhUU?t=3210) | Pop |  |

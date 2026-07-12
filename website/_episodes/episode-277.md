@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/TipLOuuu09k"
 image: "/assets/images/title-slides/episode-277.jpg"
+setlist:
+  - song_num: "1"
+    name: "Is you is or is you ain't my baby?"
+    slug: "is-you-is-or-is-you-aint-my-baby"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Give me the Night"
+    slug: "give-me-the-night"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "There will never be another you"
+    slug: "there-will-never-be-another-you"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Samba e Amor"
+    slug: "samba-e-amor"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Viva La Money"
+    slug: "viva-la-money"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Scottish Lament"
+    slug: "scottish-lament"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "People get Ready"
+    slug: "people-get-ready"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Oct 31"
+    slug: "closer-oct-31"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 277 (October 31, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/TipLOuuu09k)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Is you is or is you ain't my baby?]({{ '/songs/' | relative_url }}is-you-is-or-is-you-aint-my-baby/) |  | Pop |  |
-| 2 | [Give me the Night]({{ '/songs/' | relative_url }}give-me-the-night/) |  | Funk |  |
-| 3 | [There will never be another you]({{ '/songs/' | relative_url }}there-will-never-be-another-you/) |  | Swing |  |
-| 4 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) |  | Samba |  |
-| 5 | [Viva La Money]({{ '/songs/' | relative_url }}viva-la-money/) |  | Funk |  |
-| 6 | [Scottish Lament]({{ '/songs/' | relative_url }}scottish-lament/) |  | Downtempo |  |
-| 7 | [People get Ready]({{ '/songs/' | relative_url }}people-get-ready/) |  | Pop |  |
-| 8 | [Closer Oct 31]({{ '/one-off-songs.html' | relative_url }}#closer-oct-31) |  |  |  |

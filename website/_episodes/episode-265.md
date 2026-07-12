@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/BlV0reNDuQ0"
 image: "/assets/images/title-slides/episode-265.jpg"
+setlist:
+  - song_num: "1"
+    name: "So What"
+    slug: "so-what"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Watermelon Man"
+    slug: "watermelon-man"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "I Mean You"
+    slug: "i-mean-you"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Midnight"
+    slug: "midnight"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Look of Love"
+    slug: "look-of-love"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Eu Quero E Sossego"
+    slug: "eu-quero-e-sossego"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "If you want me to stay"
+    slug: "if-you-want-me-to-stay"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Shipping News Closer"
+    slug: "shipping-news-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 265 (July 25, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/BlV0reNDuQ0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [So What]({{ '/songs/' | relative_url }}so-what/) |  | Swing |  |
-| 2 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) |  | Latin |  |
-| 3 | [I Mean You]({{ '/songs/' | relative_url }}i-mean-you/) |  | Pop |  |
-| 4 | [Midnight]({{ '/songs/' | relative_url }}midnight/) |  | Techno |  |
-| 5 | [Look of Love]({{ '/songs/' | relative_url }}look-of-love/) |  | Ballad |  |
-| 6 | [Eu Quero E Sossego]({{ '/songs/' | relative_url }}eu-quero-e-sossego/) |  | Bossa |  |
-| 7 | [If you want me to stay]({{ '/songs/' | relative_url }}if-you-want-me-to-stay/) |  | Funk |  |
-| 8 | [Shipping News Closer]({{ '/one-off-songs.html' | relative_url }}#shipping-news-closer) |  |  |  |

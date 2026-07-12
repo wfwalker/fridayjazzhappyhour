@@ -12,20 +12,68 @@ tip_jar: "Second Harvest Food Bank"
 notes: ""
 youtube_url: "https://youtu.be/zAtVGrsiOCc"
 image: "/assets/images/title-slides/episode-13.png"
+setlist:
+  - song_num: "1"
+    name: "New phone Who Dis"
+    slug: "new-phone-who-dis"
+    url: "https://youtu.be/zAtVGrsiOCc?t=655"
+    time: "10:55"
+    style: "Downtempo"
+    composer: "Bill Walker"
+    notes: "REDO more different sounds"
+    hof: true
+  - song_num: "2"
+    name: "Waters of March"
+    slug: "waters-of-march"
+    url: "https://youtu.be/zAtVGrsiOCc?t=1454"
+    time: "24:14"
+    style: "Bossa"
+    composer: "Jobim"
+    notes: "REDO ; mix down vocals"
+    hof: true
+  - song_num: "3"
+    name: "Alberta"
+    slug: "alberta"
+    url: "https://youtu.be/zAtVGrsiOCc?t=2203"
+    time: "36:43"
+    style: "World"
+    composer: "Bill Walker"
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Pentafunkular 5opolis"
+    slug: "pentafunkular-5opolis"
+    url: "https://youtu.be/zAtVGrsiOCc?t=1070"
+    time: "17:50"
+    style: "Funk"
+    composer: "Bill Walker"
+    notes: "REDO slower?"
+    hof: true
+  - song_num: "5"
+    name: "A Lotus on Irish Streams"
+    slug: "a-lotus-on-irish-streams"
+    url: "https://youtu.be/zAtVGrsiOCc?t=2700"
+    time: "45:00"
+    style: "Ballad"
+    composer: "John McLaughlin"
+    notes: "REDO"
+    hof: true
+  - song_num: "6"
+    name: "My Funny Valentine"
+    slug: "my-funny-valentine"
+    url: "https://youtu.be/zAtVGrsiOCc?t=244"
+    time: "04:04"
+    style: "Swing"
+    composer: "Rogers and Hart"
+    notes: "REDO"
+    hof: true
+  - song_num: "7"
+    name: "Gee Baby, Ain’t I Good to You"
+    slug: "gee-baby-aint-i-good-to-you"
+    url: "https://youtu.be/zAtVGrsiOCc?t=1810"
+    time: "30:10"
+    style: "Swing"
+    composer: "Andy Razaf"
+    notes: "REDO"
+    hof: true
 ---
-
-# Episode 13 (June 12, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/zAtVGrsiOCc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [New phone Who Dis]({{ '/songs/' | relative_url }}new-phone-who-dis/) | [10:55](https://youtu.be/zAtVGrsiOCc?t=655) | Downtempo<br><small style='color:var(--text-secondary);'>by Bill Walker</small> | REDO more different sounds |
-| 2 | [Waters of March]({{ '/songs/' | relative_url }}waters-of-march/) | [24:14](https://youtu.be/zAtVGrsiOCc?t=1454) | Bossa<br><small style='color:var(--text-secondary);'>by Jobim</small> | REDO ; mix down vocals |
-| 3 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [36:43](https://youtu.be/zAtVGrsiOCc?t=2203) | World<br><small style='color:var(--text-secondary);'>by Bill Walker</small> |  |
-| 4 | [Pentafunkular 5opolis]({{ '/songs/' | relative_url }}pentafunkular-5opolis/) | [17:50](https://youtu.be/zAtVGrsiOCc?t=1070) | Funk<br><small style='color:var(--text-secondary);'>by Bill Walker</small> | REDO slower? |
-| 5 | [A Lotus on Irish Streams]({{ '/songs/' | relative_url }}a-lotus-on-irish-streams/) | [45:00](https://youtu.be/zAtVGrsiOCc?t=2700) | Ballad<br><small style='color:var(--text-secondary);'>by John McLaughlin</small> | REDO |
-| 6 | [My Funny Valentine]({{ '/songs/' | relative_url }}my-funny-valentine/) | [04:04](https://youtu.be/zAtVGrsiOCc?t=244) | Swing<br><small style='color:var(--text-secondary);'>by Rogers and Hart</small> | REDO |
-| 7 | [Gee Baby, Ain’t I Good to You]({{ '/songs/' | relative_url }}gee-baby-aint-i-good-to-you/) | [30:10](https://youtu.be/zAtVGrsiOCc?t=1810) | Swing<br><small style='color:var(--text-secondary);'>by Andy Razaf</small> | REDO |

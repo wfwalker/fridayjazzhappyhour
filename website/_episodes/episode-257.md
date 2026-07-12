@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/kUqk9AqDzsY"
 image: "/assets/images/title-slides/episode-257.jpg"
+setlist:
+  - song_num: "1"
+    name: "A Child is Born"
+    slug: "a-child-is-born"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Once I loved"
+    slug: "once-i-loved"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Killer Joe"
+    slug: "killer-joe"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Mas Que Nada"
+    slug: "mas-que-nada"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Bossa Antigua"
+    slug: "bossa-antigua"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "It's only a paper Moon"
+    slug: "its-only-a-paper-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Root Down (and Get it)"
+    slug: "root-down-and-get-it"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "ambient melodica closer"
+    slug: "ambient-melodica-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 257 (May 23, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/kUqk9AqDzsY)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [A Child is Born]({{ '/songs/' | relative_url }}a-child-is-born/) |  | Latin |  |
-| 2 | [Once I loved]({{ '/songs/' | relative_url }}once-i-loved/) |  | Bossa |  |
-| 3 | [Killer Joe]({{ '/songs/' | relative_url }}killer-joe/) |  | Swing |  |
-| 4 | [Mas Que Nada]({{ '/songs/' | relative_url }}mas-que-nada/) |  | Latin |  |
-| 5 | [Bossa Antigua]({{ '/songs/' | relative_url }}bossa-antigua/) |  | Bossa |  |
-| 6 | [It's only a paper Moon]({{ '/songs/' | relative_url }}its-only-a-paper-moon/) |  | Swing |  |
-| 7 | [Root Down (and Get it)]({{ '/songs/' | relative_url }}root-down-and-get-it/) |  | Funk |  |
-| 8 | [ambient melodica closer]({{ '/one-off-songs.html' | relative_url }}#ambient-melodica-closer) |  |  |  |

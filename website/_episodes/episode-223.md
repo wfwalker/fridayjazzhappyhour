@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-223.jpg"
+setlist:
+  - song_num: "1"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Estate"
+    slug: "estate"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Time Remembered"
+    slug: "time-remembered"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Chega de Saudade"
+    slug: "chega-de-saudade"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Midnight"
+    slug: "midnight"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Lullaby of Birdland"
+    slug: "lullaby-of-birdland"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Them Funky Changes"
+    slug: "them-funky-changes"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Heather closer"
+    slug: "heather-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 223 (September 7, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) |  | Swing |  |
-| 2 | [Estate]({{ '/songs/' | relative_url }}estate/) |  | Techno |  |
-| 3 | [Time Remembered]({{ '/songs/' | relative_url }}time-remembered/) |  | Swing |  |
-| 4 | [Chega de Saudade]({{ '/songs/' | relative_url }}chega-de-saudade/) |  | Bossa |  |
-| 5 | [Midnight]({{ '/songs/' | relative_url }}midnight/) |  | Techno |  |
-| 6 | [Lullaby of Birdland]({{ '/songs/' | relative_url }}lullaby-of-birdland/) |  | Swing |  |
-| 7 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) |  | Funk |  |
-| 8 | [Heather closer]({{ '/one-off-songs.html' | relative_url }}#heather-closer) |  |  |  |

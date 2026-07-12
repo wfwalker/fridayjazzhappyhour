@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/P0K91reQi7o"
 image: "/assets/images/title-slides/episode-297.jpg"
+setlist:
+  - song_num: "1"
+    name: "Sister Sadie"
+    slug: "sister-sadie"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Corcovado"
+    slug: "corcovado"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Alberta"
+    slug: "alberta"
+    url: ""
+    time: ""
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "My Romance"
+    slug: "my-romance"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Newsky Bluesky"
+    slug: "newsky-bluesky"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Limehouse Blues"
+    slug: "limehouse-blues"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Trans Europe Express"
+    slug: "trans-europe-express"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Gentle Rain"
+    slug: "gentle-rain"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 297 (May 1, 2026)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/P0K91reQi7o)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Sister Sadie]({{ '/songs/' | relative_url }}sister-sadie/) |  | Swing |  |
-| 2 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) |  | Bossa |  |
-| 3 | [Alberta]({{ '/songs/' | relative_url }}alberta/) |  | World |  |
-| 4 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) |  | Swing |  |
-| 5 | [Newsky Bluesky]({{ '/songs/' | relative_url }}newsky-bluesky/) |  | Downtempo |  |
-| 6 | [Limehouse Blues]({{ '/songs/' | relative_url }}limehouse-blues/) |  | Swing |  |
-| 7 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) |  | Techno |  |
-| 8 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) |  | Bossa |  |

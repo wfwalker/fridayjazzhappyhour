@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/w-5w8Kx2P6U"
 image: "/assets/images/title-slides/episode-194.jpg"
+setlist:
+  - song_num: "1"
+    name: "Desde"
+    slug: "desde"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Moanin"
+    slug: "moanin"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Soul Sauce"
+    slug: "soul-sauce"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "My Funny Valentine"
+    slug: "my-funny-valentine"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Simplismente"
+    slug: "simplismente"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "My Romance"
+    slug: "my-romance"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Trans Europe Express"
+    slug: "trans-europe-express"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Dust makes Rain with Accordion"
+    slug: "dust-makes-rain-with-accordion"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 194 (January 5, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/w-5w8Kx2P6U)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Desde]({{ '/songs/' | relative_url }}desde/) |  | Bossa |  |
-| 2 | [Moanin]({{ '/songs/' | relative_url }}moanin/) |  | Swing |  |
-| 3 | [Soul Sauce]({{ '/songs/' | relative_url }}soul-sauce/) |  | Latin |  |
-| 4 | [My Funny Valentine]({{ '/songs/' | relative_url }}my-funny-valentine/) |  | Swing |  |
-| 5 | [Simplismente]({{ '/songs/' | relative_url }}simplismente/) |  | Techno |  |
-| 6 | [My Romance]({{ '/songs/' | relative_url }}my-romance/) |  | Swing |  |
-| 7 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) |  | Techno |  |
-| 8 | [Dust makes Rain with Accordion]({{ '/one-off-songs.html' | relative_url }}#dust-makes-rain-with-accordion) |  |  |  |

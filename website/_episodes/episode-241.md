@@ -12,18 +12,68 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-241.jpg"
+setlist:
+  - song_num: "1"
+    name: "So What"
+    slug: "so-what"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Dindi"
+    slug: "dindi"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Fly me to the moon"
+    slug: "fly-me-to-the-moon"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Georgia on my Mind"
+    slug: "georgia-on-my-mind"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Very Early"
+    slug: "very-early"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Them Funky Changes"
+    slug: "them-funky-changes"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Birding Down Under Soundtrack"
+    slug: "birding-down-under-soundtrack"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 241 (January 3, 2025)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [So What]({{ '/songs/' | relative_url }}so-what/) |  | Swing |  |
-| 2 | [Dindi]({{ '/songs/' | relative_url }}dindi/) |  | Techno |  |
-| 3 | [Fly me to the moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) |  | Swing |  |
-| 4 | [Georgia on my Mind]({{ '/songs/' | relative_url }}georgia-on-my-mind/) |  | Ballad |  |
-| 5 | [Very Early]({{ '/songs/' | relative_url }}very-early/) |  | Swing |  |
-| 6 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) |  | Funk |  |
-| 7 | [Birding Down Under Soundtrack]({{ '/one-off-songs.html' | relative_url }}#birding-down-under-soundtrack) |  |  |  |

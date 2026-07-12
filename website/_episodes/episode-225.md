@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/rMb-isSUH_g"
 image: "/assets/images/title-slides/episode-225.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bossa Antigua"
+    slug: "bossa-antigua"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Limehouse Blues"
+    slug: "limehouse-blues"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Seven Steps to Heaven"
+    slug: "seven-steps-to-heaven"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Once I Loved"
+    slug: "once-i-loved"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Simplismente"
+    slug: "simplismente"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Lovely Day"
+    slug: "lovely-day"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Hi Lili, Hi Lo"
+    slug: "hi-lili-hi-lo"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 225 (September 20, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/rMb-isSUH_g)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bossa Antigua]({{ '/songs/' | relative_url }}bossa-antigua/) |  | Bossa |  |
-| 2 | [Limehouse Blues]({{ '/songs/' | relative_url }}limehouse-blues/) |  | Swing |  |
-| 3 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) |  | Swing |  |
-| 4 | [Seven Steps to Heaven]({{ '/songs/' | relative_url }}seven-steps-to-heaven/) |  | Pop |  |
-| 5 | [Once I Loved]({{ '/songs/' | relative_url }}once-i-loved/) |  | Bossa |  |
-| 6 | [Simplismente]({{ '/songs/' | relative_url }}simplismente/) |  | Techno |  |
-| 7 | [Lovely Day]({{ '/songs/' | relative_url }}lovely-day/) |  | Pop |  |
-| 8 | [Hi Lili, Hi Lo]({{ '/songs/' | relative_url }}hi-lili-hi-lo/) |  | Ballad |  |

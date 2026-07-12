@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/Wmyvd2LlVw0"
 image: "/assets/images/title-slides/episode-114.jpg"
+setlist:
+  - song_num: "1"
+    name: "So Nice"
+    slug: "so-nice"
+    url: "https://youtu.be/Wmyvd2LlVw0?t=228"
+    time: "03:48"
+    style: "Bossa"
+    composer: ""
+    notes: "fix head phrasing, don't try both sounds at once?"
+    hof: true
+  - song_num: "2"
+    name: "Goodbye Pork Pie Hat"
+    slug: "goodbye-pork-pie-hat"
+    url: "https://youtu.be/Wmyvd2LlVw0?t=662"
+    time: "11:02"
+    style: "Swing"
+    composer: ""
+    notes: "nice breakdown"
+    hof: true
+  - song_num: "3"
+    name: "Samba de Orfeu"
+    slug: "samba-de-orfeu"
+    url: "https://youtu.be/Wmyvd2LlVw0?t=1065"
+    time: "17:45"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Blades"
+    slug: "blades"
+    url: "https://youtu.be/Wmyvd2LlVw0?t=1498"
+    time: "24:58"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Fly me to the Moon"
+    slug: "fly-me-to-the-moon"
+    url: "https://youtu.be/Wmyvd2LlVw0?t=1960"
+    time: "32:40"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Pocket Calculator"
+    slug: "pocket-calculator"
+    url: "https://youtu.be/Wmyvd2LlVw0?t=2335"
+    time: "38:55"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Also Sprach Zarathustra"
+    slug: "also-sprach-zarathustra"
+    url: "https://youtu.be/Wmyvd2LlVw0?t=2655"
+    time: "44:15"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Peace Piece"
+    slug: "peace-piece"
+    url: "https://youtu.be/Wmyvd2LlVw0?t=3127"
+    time: "52:07"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 114 (May 20, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/Wmyvd2LlVw0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [So Nice]({{ '/songs/' | relative_url }}so-nice/) | [03:48](https://youtu.be/Wmyvd2LlVw0?t=228) | Bossa | fix head phrasing, don't try both sounds at once? |
-| 2 | [Goodbye Pork Pie Hat]({{ '/songs/' | relative_url }}goodbye-pork-pie-hat/) | [11:02](https://youtu.be/Wmyvd2LlVw0?t=662) | Swing | nice breakdown |
-| 3 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [17:45](https://youtu.be/Wmyvd2LlVw0?t=1065) | Samba |  |
-| 4 | [Blades]({{ '/songs/' | relative_url }}blades/) | [24:58](https://youtu.be/Wmyvd2LlVw0?t=1498) | Downtempo |  |
-| 5 | [Fly me to the Moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) | [32:40](https://youtu.be/Wmyvd2LlVw0?t=1960) | Swing |  |
-| 6 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) | [38:55](https://youtu.be/Wmyvd2LlVw0?t=2335) | Techno |  |
-| 7 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) | [44:15](https://youtu.be/Wmyvd2LlVw0?t=2655) | Funk |  |
-| 8 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) | [52:07](https://youtu.be/Wmyvd2LlVw0?t=3127) | Ballad |  |

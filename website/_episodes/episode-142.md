@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/iH6lwOJ7Gb4"
 image: "/assets/images/title-slides/episode-142.jpg"
+setlist:
+  - song_num: "1"
+    name: "O Christmas Tree"
+    slug: "o-christmas-tree"
+    url: "https://youtube.com/live/iH6lwOJ7Gb4?t=201"
+    time: "03:21"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: "https://youtube.com/live/iH6lwOJ7Gb4?t=542"
+    time: "09:02"
+    style: "Bossa"
+    composer: ""
+    notes: "melodica"
+    hof: true
+  - song_num: "3"
+    name: "Go Tell It on the Mountain"
+    slug: "go-tell-it-on-the-mountain"
+    url: "https://youtube.com/live/iH6lwOJ7Gb4?t=846"
+    time: "14:06"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "God Rest Ye Merry Gentlemen"
+    slug: "god-rest-ye-merry-gentlemen"
+    url: "https://youtube.com/live/iH6lwOJ7Gb4?t=1137"
+    time: "18:57"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Some Other Funk"
+    slug: "some-other-funk"
+    url: "https://youtube.com/live/iH6lwOJ7Gb4?t=1578"
+    time: "26:18"
+    style: "Funk"
+    composer: ""
+    notes: "groovy combinations of sounds"
+    hof: true
+  - song_num: "6"
+    name: "De Volta Ao Samba"
+    slug: "de-volta-ao-samba"
+    url: "https://youtube.com/live/iH6lwOJ7Gb4?t=1985"
+    time: "33:05"
+    style: "Bossa"
+    composer: ""
+    notes: "accordion quiet, piano loud"
+    hof: true
+  - song_num: "7"
+    name: "O Come O Come Emmanuel"
+    slug: "o-come-o-come-emmanuel"
+    url: "https://youtube.com/live/iH6lwOJ7Gb4?t=2524"
+    time: "42:04"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "What'll I Do?"
+    slug: "whatll-i-do"
+    url: "https://youtube.com/live/iH6lwOJ7Gb4?t=3050"
+    time: "50:50"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "White Christmas"
+    slug: "white-christmas"
+    url: "https://youtube.com/live/iH6lwOJ7Gb4?t=3428"
+    time: "57:08"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 142 (December 23, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/iH6lwOJ7Gb4)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) | [03:21](https://youtube.com/live/iH6lwOJ7Gb4?t=201) | Christmas |  |
-| 2 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) | [09:02](https://youtube.com/live/iH6lwOJ7Gb4?t=542) | Bossa | melodica |
-| 3 | [Go Tell It on the Mountain]({{ '/songs/' | relative_url }}go-tell-it-on-the-mountain/) | [14:06](https://youtube.com/live/iH6lwOJ7Gb4?t=846) | Christmas |  |
-| 4 | [God Rest Ye Merry Gentlemen]({{ '/songs/' | relative_url }}god-rest-ye-merry-gentlemen/) | [18:57](https://youtube.com/live/iH6lwOJ7Gb4?t=1137) | Christmas |  |
-| 5 | [Some Other Funk]({{ '/songs/' | relative_url }}some-other-funk/) | [26:18](https://youtube.com/live/iH6lwOJ7Gb4?t=1578) | Funk | groovy combinations of sounds |
-| 6 | [De Volta Ao Samba]({{ '/songs/' | relative_url }}de-volta-ao-samba/) | [33:05](https://youtube.com/live/iH6lwOJ7Gb4?t=1985) | Bossa | accordion quiet, piano loud |
-| 7 | [O Come O Come Emmanuel]({{ '/songs/' | relative_url }}o-come-o-come-emmanuel/) | [42:04](https://youtube.com/live/iH6lwOJ7Gb4?t=2524) | Christmas |  |
-| 8 | [What'll I Do?]({{ '/songs/' | relative_url }}whatll-i-do/) | [50:50](https://youtube.com/live/iH6lwOJ7Gb4?t=3050) | Ballad |  |
-| 9 | [White Christmas]({{ '/songs/' | relative_url }}white-christmas/) | [57:08](https://youtube.com/live/iH6lwOJ7Gb4?t=3428) | Christmas |  |

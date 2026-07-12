@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/le4SSqcmJHM"
 image: "/assets/images/title-slides/episode-130.jpg"
+setlist:
+  - song_num: "1"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: "https://youtu.be/le4SSqcmJHM?t=198"
+    time: "03:18"
+    style: "Swing"
+    composer: ""
+    notes: "accordion (too dry); use accordion LH and drop gtr"
+    hof: true
+  - song_num: "2"
+    name: "Desde"
+    slug: "desde"
+    url: "https://youtu.be/le4SSqcmJHM?t=608"
+    time: "10:08"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Beat 70"
+    slug: "beat-70"
+    url: "https://youtu.be/le4SSqcmJHM?t=1095"
+    time: "18:15"
+    style: "Bossa"
+    composer: ""
+    notes: "melodica good, practice more"
+    hof: true
+  - song_num: "4"
+    name: "Night in Tunisia"
+    slug: "night-in-tunisia"
+    url: "https://youtu.be/le4SSqcmJHM?t=1585"
+    time: "26:25"
+    style: "Downtempo"
+    composer: ""
+    notes: "nice ebb and flow of energy"
+    hof: true
+  - song_num: "5"
+    name: "If I were a bell"
+    slug: "if-i-were-a-bell"
+    url: "https://youtu.be/le4SSqcmJHM?t=2084"
+    time: "34:44"
+    style: "Swing"
+    composer: ""
+    notes: "might be FINISHED arrangement"
+    hof: true
+  - song_num: "6"
+    name: "Bluesette"
+    slug: "bluesette"
+    url: "https://youtu.be/le4SSqcmJHM?t=2437"
+    time: "40:37"
+    style: "Swing"
+    composer: ""
+    notes: "really nice head"
+    hof: true
+  - song_num: "7"
+    name: "Manteca"
+    slug: "manteca"
+    url: "https://youtu.be/le4SSqcmJHM?t=2760"
+    time: "46:00"
+    style: "Latin"
+    composer: ""
+    notes: "oh yeah"
+    hof: true
+  - song_num: "8"
+    name: "How Deep is the Ocean"
+    slug: "how-deep-is-the-ocean"
+    url: "https://youtu.be/le4SSqcmJHM?t=3215"
+    time: "53:35"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 130 (September 9, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/le4SSqcmJHM)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) | [03:18](https://youtu.be/le4SSqcmJHM?t=198) | Swing | accordion (too dry); use accordion LH and drop gtr |
-| 2 | [Desde]({{ '/songs/' | relative_url }}desde/) | [10:08](https://youtu.be/le4SSqcmJHM?t=608) | Bossa |  |
-| 3 | [Beat 70]({{ '/songs/' | relative_url }}beat-70/) | [18:15](https://youtu.be/le4SSqcmJHM?t=1095) | Bossa | melodica good, practice more |
-| 4 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) | [26:25](https://youtu.be/le4SSqcmJHM?t=1585) | Downtempo | nice ebb and flow of energy |
-| 5 | [If I were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) | [34:44](https://youtu.be/le4SSqcmJHM?t=2084) | Swing | might be FINISHED arrangement |
-| 6 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) | [40:37](https://youtu.be/le4SSqcmJHM?t=2437) | Swing | really nice head |
-| 7 | [Manteca]({{ '/songs/' | relative_url }}manteca/) | [46:00](https://youtu.be/le4SSqcmJHM?t=2760) | Latin | oh yeah |
-| 8 | [How Deep is the Ocean]({{ '/songs/' | relative_url }}how-deep-is-the-ocean/) | [53:35](https://youtu.be/le4SSqcmJHM?t=3215) | Ballad |  |

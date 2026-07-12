@@ -12,21 +12,77 @@ tip_jar: "Project WeHope"
 notes: ""
 youtube_url: "https://youtu.be/QGkAB6VG8VU"
 image: "/assets/images/title-slides/episode-7.png"
+setlist:
+  - song_num: "1"
+    name: "Our Love is here to Stay"
+    slug: "our-love-is-here-to-stay"
+    url: "https://youtu.be/QGkAB6VG8VU?t=260"
+    time: "04:20"
+    style: ""
+    composer: "George Gerswin"
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "NovembeRain"
+    slug: "novemberain"
+    url: "https://youtu.be/QGkAB6VG8VU?t=603"
+    time: "10:03"
+    style: ""
+    composer: "Bill Walker"
+    notes: ""
+    hof: false
+  - song_num: "3"
+    name: "Over the Rainbow"
+    slug: "over-the-rainbow"
+    url: "https://youtu.be/QGkAB6VG8VU?t=3462"
+    time: "57:42"
+    style: "Ballad"
+    composer: "Harold Arlen"
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Desafinado"
+    slug: "desafinado"
+    url: "https://youtu.be/QGkAB6VG8VU?t=1340"
+    time: "22:20"
+    style: "Bossa"
+    composer: "Jobim"
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Midnight"
+    slug: "midnight"
+    url: "https://youtu.be/QGkAB6VG8VU?t=1925"
+    time: "32:05"
+    style: "Techno"
+    composer: "Bill Walker"
+    notes: "REDO TOO LONG"
+    hof: true
+  - song_num: "6"
+    name: "Well You Needn’t"
+    slug: "well-you-neednt"
+    url: "https://youtu.be/QGkAB6VG8VU?t=945"
+    time: "15:45"
+    style: "Reggae"
+    composer: "Thelonius Monk"
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "All Blues"
+    slug: "all-blues"
+    url: "https://youtu.be/QGkAB6VG8VU?t=2480"
+    time: "41:20"
+    style: "Swing"
+    composer: "Miles Davis"
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Pick up the Pieces"
+    slug: "pick-up-the-pieces"
+    url: "https://youtu.be/QGkAB6VG8VU?t=2915"
+    time: "48:35"
+    style: "Funk"
+    composer: "Average White Band"
+    notes: "heartfelt trainwreck"
+    hof: true
 ---
-
-# Episode 7 (May 1, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/QGkAB6VG8VU)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Our Love is here to Stay]({{ '/one-off-songs.html' | relative_url }}#our-love-is-here-to-stay) | [04:20](https://youtu.be/QGkAB6VG8VU?t=260) | <br><small style='color:var(--text-secondary);'>by George Gerswin</small> |  |
-| 2 | [NovembeRain]({{ '/one-off-songs.html' | relative_url }}#novemberain) | [10:03](https://youtu.be/QGkAB6VG8VU?t=603) | <br><small style='color:var(--text-secondary);'>by Bill Walker</small> |  |
-| 3 | [Over the Rainbow]({{ '/songs/' | relative_url }}over-the-rainbow/) | [57:42](https://youtu.be/QGkAB6VG8VU?t=3462) | Ballad<br><small style='color:var(--text-secondary);'>by Harold Arlen</small> |  |
-| 4 | [Desafinado]({{ '/songs/' | relative_url }}desafinado/) | [22:20](https://youtu.be/QGkAB6VG8VU?t=1340) | Bossa<br><small style='color:var(--text-secondary);'>by Jobim</small> |  |
-| 5 | [Midnight]({{ '/songs/' | relative_url }}midnight/) | [32:05](https://youtu.be/QGkAB6VG8VU?t=1925) | Techno<br><small style='color:var(--text-secondary);'>by Bill Walker</small> | REDO TOO LONG |
-| 6 | [Well You Needn’t]({{ '/songs/' | relative_url }}well-you-neednt/) | [15:45](https://youtu.be/QGkAB6VG8VU?t=945) | Reggae<br><small style='color:var(--text-secondary);'>by Thelonius Monk</small> |  |
-| 7 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) | [41:20](https://youtu.be/QGkAB6VG8VU?t=2480) | Swing<br><small style='color:var(--text-secondary);'>by Miles Davis</small> |  |
-| 8 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) | [48:35](https://youtu.be/QGkAB6VG8VU?t=2915) | Funk<br><small style='color:var(--text-secondary);'>by Average White Band</small> | heartfelt trainwreck |

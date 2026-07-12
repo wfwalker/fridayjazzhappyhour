@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/Ob4J0wJZpyI"
 image: "/assets/images/title-slides/episode-151.jpg"
+setlist:
+  - song_num: "1"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: "https://youtube.com/live/Ob4J0wJZpyI?t=268"
+    time: "04:28"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Sister Sadie"
+    slug: "sister-sadie"
+    url: "https://youtube.com/live/Ob4J0wJZpyI?t=715"
+    time: "11:55"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Once I Loved"
+    slug: "once-i-loved"
+    url: "https://youtube.com/live/Ob4J0wJZpyI?t=1158"
+    time: "19:18"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "It's only a paper moon"
+    slug: "its-only-a-paper-moon"
+    url: "https://youtube.com/live/Ob4J0wJZpyI?t=1533"
+    time: "25:33"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Seven Steps to Heaven"
+    slug: "seven-steps-to-heaven"
+    url: "https://youtube.com/live/Ob4J0wJZpyI?t=1859"
+    time: "30:59"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Georgia on my Mind"
+    slug: "georgia-on-my-mind"
+    url: "https://youtube.com/live/Ob4J0wJZpyI?t=2240"
+    time: "37:20"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Frog"
+    slug: "frog"
+    url: "https://youtube.com/live/Ob4J0wJZpyI?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Inch Worm"
+    slug: "inch-worm"
+    url: "https://youtube.com/live/Ob4J0wJZpyI?t=3023"
+    time: "50:23"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 151 (February 24, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/Ob4J0wJZpyI)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) | [04:28](https://youtube.com/live/Ob4J0wJZpyI?t=268) | Bossa |  |
-| 2 | [Sister Sadie]({{ '/songs/' | relative_url }}sister-sadie/) | [11:55](https://youtube.com/live/Ob4J0wJZpyI?t=715) | Swing |  |
-| 3 | [Once I Loved]({{ '/songs/' | relative_url }}once-i-loved/) | [19:18](https://youtube.com/live/Ob4J0wJZpyI?t=1158) | Bossa |  |
-| 4 | [It's only a paper moon]({{ '/songs/' | relative_url }}its-only-a-paper-moon/) | [25:33](https://youtube.com/live/Ob4J0wJZpyI?t=1533) | Swing |  |
-| 5 | [Seven Steps to Heaven]({{ '/songs/' | relative_url }}seven-steps-to-heaven/) | [30:59](https://youtube.com/live/Ob4J0wJZpyI?t=1859) | Pop |  |
-| 6 | [Georgia on my Mind]({{ '/songs/' | relative_url }}georgia-on-my-mind/) | [37:20](https://youtube.com/live/Ob4J0wJZpyI?t=2240) | Ballad |  |
-| 7 | [Frog]({{ '/songs/' | relative_url }}frog/) | [44:22](https://youtube.com/live/Ob4J0wJZpyI?t=2662) | Funk |  |
-| 8 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) | [50:23](https://youtube.com/live/Ob4J0wJZpyI?t=3023) | Ballad |  |

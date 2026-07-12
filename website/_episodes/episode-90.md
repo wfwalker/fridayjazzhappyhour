@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/cwkUkcDyfaw"
 image: "/assets/images/title-slides/episode-90.jpg"
+setlist:
+  - song_num: "1"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: "https://youtu.be/cwkUkcDyfaw?t=170"
+    time: "02:50"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Christmastime is Here"
+    slug: "christmastime-is-here"
+    url: "https://youtu.be/cwkUkcDyfaw?t=693"
+    time: "11:33"
+    style: "Christmas"
+    composer: ""
+    notes: "BASS FAIL"
+    hof: true
+  - song_num: "3"
+    name: "Road Song"
+    slug: "road-song"
+    url: "https://youtu.be/cwkUkcDyfaw?t=1180"
+    time: "19:40"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Burbling"
+    slug: "burbling"
+    url: "https://youtu.be/cwkUkcDyfaw?t=1485"
+    time: "24:45"
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: "https://youtu.be/cwkUkcDyfaw?t=1835"
+    time: "30:35"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "The Holly and the Ivy"
+    slug: "the-holly-and-the-ivy"
+    url: "https://youtu.be/cwkUkcDyfaw?t=2288"
+    time: "38:08"
+    style: "Christmas"
+    composer: ""
+    notes: "bah. why fall behind?"
+    hof: true
+  - song_num: "7"
+    name: "Septimus Prime"
+    slug: "septimus-prime"
+    url: "https://youtu.be/cwkUkcDyfaw?t=2692"
+    time: "44:52"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Alphabet Improv 2"
+    slug: "alphabet-improv-2"
+    url: "https://youtu.be/cwkUkcDyfaw?t=3070"
+    time: "51:10"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 90 (December 3, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/cwkUkcDyfaw)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) | [02:50](https://youtu.be/cwkUkcDyfaw?t=170) | Bossa |  |
-| 2 | [Christmastime is Here]({{ '/songs/' | relative_url }}christmastime-is-here/) | [11:33](https://youtu.be/cwkUkcDyfaw?t=693) | Christmas | BASS FAIL |
-| 3 | [Road Song]({{ '/songs/' | relative_url }}road-song/) | [19:40](https://youtu.be/cwkUkcDyfaw?t=1180) | Pop |  |
-| 4 | [Burbling]({{ '/songs/' | relative_url }}burbling/) | [24:45](https://youtu.be/cwkUkcDyfaw?t=1485) | World |  |
-| 5 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) | [30:35](https://youtu.be/cwkUkcDyfaw?t=1835) | Swing |  |
-| 6 | [The Holly and the Ivy]({{ '/songs/' | relative_url }}the-holly-and-the-ivy/) | [38:08](https://youtu.be/cwkUkcDyfaw?t=2288) | Christmas | bah. why fall behind? |
-| 7 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [44:52](https://youtu.be/cwkUkcDyfaw?t=2692) | Funk |  |
-| 8 | [Alphabet Improv 2]({{ '/one-off-songs.html' | relative_url }}#alphabet-improv-2) | [51:10](https://youtu.be/cwkUkcDyfaw?t=3070) |  |  |

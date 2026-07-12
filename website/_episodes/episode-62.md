@@ -12,21 +12,77 @@ tip_jar: "rich city rides"
 notes: "yes"
 youtube_url: "https://youtu.be/tB5vd6dRUS4"
 image: "/assets/images/title-slides/episode-62.jpg"
+setlist:
+  - song_num: "1"
+    name: "Corcovado"
+    slug: "corcovado"
+    url: "https://youtu.be/tB5vd6dRUS4?t=281"
+    time: "04:41"
+    style: "Bossa"
+    composer: ""
+    notes: "melody too repetitive on Vibes"
+    hof: true
+  - song_num: "2"
+    name: "Baby Elephant Walk"
+    slug: "baby-elephant-walk"
+    url: "https://youtu.be/tB5vd6dRUS4?t=736"
+    time: "12:16"
+    style: "Techno"
+    composer: ""
+    notes: "alter ego voices good; needs drum fills"
+    hof: true
+  - song_num: "3"
+    name: "O Nosso Amor"
+    slug: "o-nosso-amor"
+    url: "https://youtu.be/tB5vd6dRUS4?t=1275"
+    time: "21:15"
+    style: "Bossa"
+    composer: ""
+    notes: "too repetitive"
+    hof: false
+  - song_num: "4"
+    name: "Emotional Weather Report"
+    slug: "emotional-weather-report"
+    url: "https://youtu.be/tB5vd6dRUS4?t=1680"
+    time: "28:00"
+    style: "Pop"
+    composer: ""
+    notes: "what is your voice? trying to sound black?"
+    hof: false
+  - song_num: "5"
+    name: "I Mean You"
+    slug: "i-mean-you"
+    url: "https://youtu.be/tB5vd6dRUS4?t=2120"
+    time: "35:20"
+    style: "Pop"
+    composer: ""
+    notes: "HOF intro / interlude good; energy good. add horns!"
+    hof: true
+  - song_num: "6"
+    name: "I Can't get Started"
+    slug: "i-cant-get-started"
+    url: "https://youtu.be/tB5vd6dRUS4?t=2490"
+    time: "41:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Jean Pierre in Egypt"
+    slug: "jean-pierre-in-egypt"
+    url: "https://youtu.be/tB5vd6dRUS4?t=2920"
+    time: "48:40"
+    style: "Funk"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "8"
+    name: "Frippertronics improv"
+    slug: "frippertronics-improv"
+    url: "https://youtu.be/tB5vd6dRUS4?t=3412"
+    time: "56:52"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 62 (May 21, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/tB5vd6dRUS4)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Corcovado]({{ '/songs/' | relative_url }}corcovado/) | [04:41](https://youtu.be/tB5vd6dRUS4?t=281) | Bossa | melody too repetitive on Vibes |
-| 2 | [Baby Elephant Walk]({{ '/songs/' | relative_url }}baby-elephant-walk/) | [12:16](https://youtu.be/tB5vd6dRUS4?t=736) | Techno | alter ego voices good; needs drum fills |
-| 3 | [O Nosso Amor]({{ '/one-off-songs.html' | relative_url }}#o-nosso-amor) | [21:15](https://youtu.be/tB5vd6dRUS4?t=1275) | Bossa | too repetitive |
-| 4 | [Emotional Weather Report]({{ '/one-off-songs.html' | relative_url }}#emotional-weather-report) | [28:00](https://youtu.be/tB5vd6dRUS4?t=1680) | Pop | what is your voice? trying to sound black? |
-| 5 | [I Mean You]({{ '/songs/' | relative_url }}i-mean-you/) | [35:20](https://youtu.be/tB5vd6dRUS4?t=2120) | Pop | HOF intro / interlude good; energy good. add horns! |
-| 6 | [I Can't get Started]({{ '/songs/' | relative_url }}i-cant-get-started/) | [41:30](https://youtu.be/tB5vd6dRUS4?t=2490) | Swing |  |
-| 7 | [Jean Pierre in Egypt]({{ '/songs/' | relative_url }}jean-pierre-in-egypt/) | [48:40](https://youtu.be/tB5vd6dRUS4?t=2920) | Funk | HOF |
-| 8 | [Frippertronics improv]({{ '/one-off-songs.html' | relative_url }}#frippertronics-improv) | [56:52](https://youtu.be/tB5vd6dRUS4?t=3412) | Techno |  |

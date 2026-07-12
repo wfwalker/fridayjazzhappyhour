@@ -12,21 +12,77 @@ tip_jar: "mcceastbay.org"
 notes: ""
 youtube_url: "https://youtu.be/YaW8IPNpcd0"
 image: "/assets/images/title-slides/episode-79.jpg"
+setlist:
+  - song_num: "1"
+    name: "Dindi"
+    slug: "dindi"
+    url: "https://youtu.be/YaW8IPNpcd0?t=63"
+    time: "01:03"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtu.be/YaW8IPNpcd0?t=554"
+    time: "09:14"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Pick up the Pieces"
+    slug: "pick-up-the-pieces"
+    url: "https://youtu.be/YaW8IPNpcd0?t=989"
+    time: "16:29"
+    style: "Funk"
+    composer: ""
+    notes: "vox fun, head sLOPPY"
+    hof: true
+  - song_num: "4"
+    name: "Cast your Fate to the Wind"
+    slug: "cast-your-fate-to-the-wind"
+    url: "https://youtu.be/YaW8IPNpcd0?t=1355"
+    time: "22:35"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Footprints"
+    slug: "footprints"
+    url: "https://youtu.be/YaW8IPNpcd0?t=1782"
+    time: "29:42"
+    style: "Swing"
+    composer: ""
+    notes: "bass solo!"
+    hof: true
+  - song_num: "6"
+    name: "Mad World"
+    slug: "mad-world"
+    url: "https://youtu.be/YaW8IPNpcd0?t=2225"
+    time: "37:05"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: "https://youtu.be/YaW8IPNpcd0?t=2575"
+    time: "42:55"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Inch Worm"
+    slug: "inch-worm"
+    url: "https://youtu.be/YaW8IPNpcd0?t=2930"
+    time: "48:50"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 79 (September 17, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/YaW8IPNpcd0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Dindi]({{ '/songs/' | relative_url }}dindi/) | [01:03](https://youtu.be/YaW8IPNpcd0?t=63) | Techno |  |
-| 2 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [09:14](https://youtu.be/YaW8IPNpcd0?t=554) | Swing |  |
-| 3 | [Pick up the Pieces]({{ '/songs/' | relative_url }}pick-up-the-pieces/) | [16:29](https://youtu.be/YaW8IPNpcd0?t=989) | Funk | vox fun, head sLOPPY |
-| 4 | [Cast your Fate to the Wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) | [22:35](https://youtu.be/YaW8IPNpcd0?t=1355) | Pop |  |
-| 5 | [Footprints]({{ '/songs/' | relative_url }}footprints/) | [29:42](https://youtu.be/YaW8IPNpcd0?t=1782) | Swing | bass solo! |
-| 6 | [Mad World]({{ '/songs/' | relative_url }}mad-world/) | [37:05](https://youtu.be/YaW8IPNpcd0?t=2225) | Pop |  |
-| 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) | [42:55](https://youtu.be/YaW8IPNpcd0?t=2575) | Funk |  |
-| 8 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) | [48:50](https://youtu.be/YaW8IPNpcd0?t=2930) | Ballad |  |

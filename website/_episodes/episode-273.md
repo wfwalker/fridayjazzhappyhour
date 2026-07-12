@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/rGd3hgvZY8I"
 image: "/assets/images/title-slides/episode-273.jpg"
+setlist:
+  - song_num: "1"
+    name: "Morning"
+    slug: "morning"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "This Can't Be Love"
+    slug: "this-cant-be-love"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Bossa Antigua"
+    slug: "bossa-antigua"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Angel eyes"
+    slug: "angel-eyes"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "If you never come to me"
+    slug: "if-you-never-come-to-me"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Mo Better Blues"
+    slug: "mo-better-blues"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Soul Sauce"
+    slug: "soul-sauce"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Lawns"
+    slug: "lawns"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 273 (September 26, 2025)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/rGd3hgvZY8I)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Morning]({{ '/songs/' | relative_url }}morning/) |  | Latin |  |
-| 2 | [This Can't Be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) |  | Swing |  |
-| 3 | [Bossa Antigua]({{ '/songs/' | relative_url }}bossa-antigua/) |  | Bossa |  |
-| 4 | [Angel eyes]({{ '/songs/' | relative_url }}angel-eyes/) |  | Swing |  |
-| 5 | [If you never come to me]({{ '/songs/' | relative_url }}if-you-never-come-to-me/) |  | Latin |  |
-| 6 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) |  | Pop |  |
-| 7 | [Soul Sauce]({{ '/songs/' | relative_url }}soul-sauce/) |  | Latin |  |
-| 8 | [Lawns]({{ '/songs/' | relative_url }}lawns/) |  | Ballad |  |

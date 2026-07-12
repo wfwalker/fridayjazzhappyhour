@@ -12,21 +12,77 @@ tip_jar: "latinocf.org"
 notes: ""
 youtube_url: "https://youtu.be/uMmr2KPqqpk"
 image: "/assets/images/title-slides/episode-76.jpg"
+setlist:
+  - song_num: "1"
+    name: "Autumn Leaves"
+    slug: "autumn-leaves"
+    url: "https://youtu.be/uMmr2KPqqpk?t=210"
+    time: "03:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: "https://youtu.be/uMmr2KPqqpk?t=585"
+    time: "09:45"
+    style: "Bossa"
+    composer: ""
+    notes: "do more to make head and solos different"
+    hof: true
+  - song_num: "3"
+    name: "Softly as in a Morning Sunrise"
+    slug: "softly-as-in-a-morning-sunrise"
+    url: "https://youtu.be/uMmr2KPqqpk?t=1055"
+    time: "17:35"
+    style: "Techno"
+    composer: ""
+    notes: "needs something more"
+    hof: true
+  - song_num: "4"
+    name: "Simplismente"
+    slug: "simplismente"
+    url: "https://youtu.be/uMmr2KPqqpk?t=1473"
+    time: "24:33"
+    style: "Techno"
+    composer: ""
+    notes: "trumpet rocks, live looping!"
+    hof: true
+  - song_num: "5"
+    name: "Watermelon Man"
+    slug: "watermelon-man"
+    url: "https://youtu.be/uMmr2KPqqpk?t=2013"
+    time: "33:33"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Icarus"
+    slug: "icarus"
+    url: "https://youtu.be/uMmr2KPqqpk?t=2412"
+    time: "40:12"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Also Sprach Zarathustra"
+    slug: "also-sprach-zarathustra"
+    url: "https://youtu.be/uMmr2KPqqpk?t=2950"
+    time: "49:10"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "People will say we're in love"
+    slug: "people-will-say-were-in-love"
+    url: "https://youtu.be/uMmr2KPqqpk?t=3416"
+    time: "56:56"
+    style: ""
+    composer: ""
+    notes: "flute solo worked out well; add horn hits in solo"
+    hof: false
 ---
-
-# Episode 76 (August 27, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/uMmr2KPqqpk)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Autumn Leaves]({{ '/songs/' | relative_url }}autumn-leaves/) | [03:30](https://youtu.be/uMmr2KPqqpk?t=210) | Swing |  |
-| 2 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) | [09:45](https://youtu.be/uMmr2KPqqpk?t=585) | Bossa | do more to make head and solos different |
-| 3 | [Softly as in a Morning Sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) | [17:35](https://youtu.be/uMmr2KPqqpk?t=1055) | Techno | needs something more |
-| 4 | [Simplismente]({{ '/songs/' | relative_url }}simplismente/) | [24:33](https://youtu.be/uMmr2KPqqpk?t=1473) | Techno | trumpet rocks, live looping! |
-| 5 | [Watermelon Man]({{ '/songs/' | relative_url }}watermelon-man/) | [33:33](https://youtu.be/uMmr2KPqqpk?t=2013) | Latin |  |
-| 6 | [Icarus]({{ '/songs/' | relative_url }}icarus/) | [40:12](https://youtu.be/uMmr2KPqqpk?t=2412) | Latin |  |
-| 7 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) | [49:10](https://youtu.be/uMmr2KPqqpk?t=2950) | Funk |  |
-| 8 | [People will say we're in love]({{ '/one-off-songs.html' | relative_url }}#people-will-say-were-in-love) | [56:56](https://youtu.be/uMmr2KPqqpk?t=3416) |  | flute solo worked out well; add horn hits in solo |

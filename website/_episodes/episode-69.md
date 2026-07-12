@@ -12,19 +12,59 @@ tip_jar: "h+H"
 notes: ""
 youtube_url: "https://youtu.be/LcOwt_X_aog"
 image: "/assets/images/title-slides/episode-69.jpg"
+setlist:
+  - song_num: "1"
+    name: "Blades"
+    slug: "blades"
+    url: "https://youtu.be/LcOwt_X_aog?t=48"
+    time: "00:48"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Memories of Tomorrow"
+    slug: "memories-of-tomorrow"
+    url: "https://youtu.be/LcOwt_X_aog?t=381"
+    time: "06:21"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "All the things you are"
+    slug: "all-the-things-you-are"
+    url: "https://youtu.be/LcOwt_X_aog?t=825"
+    time: "13:45"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Desde"
+    slug: "desde"
+    url: "https://youtu.be/LcOwt_X_aog?t=1170"
+    time: "19:30"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Impressions"
+    slug: "impressions"
+    url: "https://youtu.be/LcOwt_X_aog?t=1604"
+    time: "26:44"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Skating in Central Park"
+    slug: "skating-in-central-park"
+    url: "https://youtu.be/LcOwt_X_aog?t=2033"
+    time: "33:53"
+    style: "Waltz"
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 69 (July 9, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/LcOwt_X_aog)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Blades]({{ '/songs/' | relative_url }}blades/) | [00:48](https://youtu.be/LcOwt_X_aog?t=48) | Downtempo |  |
-| 2 | [Memories of Tomorrow]({{ '/songs/' | relative_url }}memories-of-tomorrow/) | [06:21](https://youtu.be/LcOwt_X_aog?t=381) | Pop |  |
-| 3 | [All the things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) | [13:45](https://youtu.be/LcOwt_X_aog?t=825) | Swing |  |
-| 4 | [Desde]({{ '/songs/' | relative_url }}desde/) | [19:30](https://youtu.be/LcOwt_X_aog?t=1170) | Bossa |  |
-| 5 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [26:44](https://youtu.be/LcOwt_X_aog?t=1604) | Techno |  |
-| 6 | [Skating in Central Park]({{ '/one-off-songs.html' | relative_url }}#skating-in-central-park) | [33:53](https://youtu.be/LcOwt_X_aog?t=2033) | Waltz |  |

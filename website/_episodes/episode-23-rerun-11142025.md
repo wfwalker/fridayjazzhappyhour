@@ -12,18 +12,68 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-23-rerun-11142025.jpg"
+setlist:
+  - song_num: "1"
+    name: "Lullaby of Birdland"
+    slug: "lullaby-of-birdland"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Eu Quero E Sossego"
+    slug: "eu-quero-e-sossego"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Night and Day"
+    slug: "night-and-day"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Tenderly"
+    slug: "tenderly"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Little Sunflower"
+    slug: "little-sunflower"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Where or When"
+    slug: "where-or-when"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "7"
+    name: "Cold Duck Time"
+    slug: "cold-duck-time"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 23 (November 14, 2025) (Rerun)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Lullaby of Birdland]({{ '/songs/' | relative_url }}lullaby-of-birdland/) |  | Swing |  |
-| 2 | [Eu Quero E Sossego]({{ '/songs/' | relative_url }}eu-quero-e-sossego/) |  | Bossa |  |
-| 3 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) |  | Techno |  |
-| 4 | [Tenderly]({{ '/one-off-songs.html' | relative_url }}#tenderly) |  |  |  |
-| 5 | [Little Sunflower]({{ '/songs/' | relative_url }}little-sunflower/) |  | Techno |  |
-| 6 | [Where or When]({{ '/one-off-songs.html' | relative_url }}#where-or-when) |  |  |  |
-| 7 | [Cold Duck Time]({{ '/songs/' | relative_url }}cold-duck-time/) |  | Funk |  |

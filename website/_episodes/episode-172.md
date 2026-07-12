@@ -12,22 +12,86 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/ElbkjWw665s"
 image: "/assets/images/title-slides/episode-172.jpg"
+setlist:
+  - song_num: "1"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: "https://youtube.com/live/ElbkjWw665s?t=268"
+    time: "04:28"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Well You Needn’t"
+    slug: "well-you-neednt"
+    url: "https://youtube.com/live/ElbkjWw665s?t=715"
+    time: "11:55"
+    style: "Reggae"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Very Early"
+    slug: "very-early"
+    url: "https://youtube.com/live/ElbkjWw665s?t=1158"
+    time: "19:18"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Morning"
+    slug: "morning"
+    url: "https://youtube.com/live/ElbkjWw665s?t=1533"
+    time: "25:33"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: "https://youtube.com/live/ElbkjWw665s?t=1859"
+    time: "30:59"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "What is this thing called love"
+    slug: "what-is-this-thing-called-love"
+    url: "https://youtube.com/live/ElbkjWw665s?t=2240"
+    time: "37:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Some other time"
+    slug: "some-other-time"
+    url: "https://youtube.com/live/ElbkjWw665s?t=2662"
+    time: "44:22"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Septimus Prime"
+    slug: "septimus-prime"
+    url: "https://youtube.com/live/ElbkjWw665s?t=3023"
+    time: "50:23"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "CQ"
+    slug: "cq"
+    url: ""
+    time: ""
+    style: "Ambient"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 172 (July 21, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/ElbkjWw665s)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) | [04:28](https://youtube.com/live/ElbkjWw665s?t=268) | Bossa |  |
-| 2 | [Well You Needn’t]({{ '/songs/' | relative_url }}well-you-neednt/) | [11:55](https://youtube.com/live/ElbkjWw665s?t=715) | Reggae |  |
-| 3 | [Very Early]({{ '/songs/' | relative_url }}very-early/) | [19:18](https://youtube.com/live/ElbkjWw665s?t=1158) | Swing |  |
-| 4 | [Morning]({{ '/songs/' | relative_url }}morning/) | [25:33](https://youtube.com/live/ElbkjWw665s?t=1533) | Latin |  |
-| 5 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) | [30:59](https://youtube.com/live/ElbkjWw665s?t=1859) | Techno |  |
-| 6 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) | [37:20](https://youtube.com/live/ElbkjWw665s?t=2240) | Swing |  |
-| 7 | [Some other time]({{ '/songs/' | relative_url }}some-other-time/) | [44:22](https://youtube.com/live/ElbkjWw665s?t=2662) | Ballad |  |
-| 8 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [50:23](https://youtube.com/live/ElbkjWw665s?t=3023) | Funk |  |
-| 9 | [CQ]({{ '/songs/' | relative_url }}cq/) |  | Ambient |  |

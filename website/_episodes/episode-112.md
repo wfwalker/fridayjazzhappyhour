@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/EnurztZItgI"
 image: "/assets/images/title-slides/episode-112.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bye Bye Blackbird"
+    slug: "bye-bye-blackbird"
+    url: "https://youtu.be/EnurztZItgI?t=210"
+    time: "03:30"
+    style: "Swing"
+    composer: ""
+    notes: "too slow?"
+    hof: true
+  - song_num: "2"
+    name: "Mambo Inn"
+    slug: "mambo-inn"
+    url: "https://youtu.be/EnurztZItgI?t=594"
+    time: "09:54"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "My Funny Valentine"
+    slug: "my-funny-valentine"
+    url: "https://youtu.be/EnurztZItgI?t=1017"
+    time: "16:57"
+    style: "Swing"
+    composer: ""
+    notes: "nice solo journey"
+    hof: true
+  - song_num: "4"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: "https://youtu.be/EnurztZItgI?t=1603"
+    time: "26:43"
+    style: "Bossa"
+    composer: ""
+    notes: "density changes good; SAMBA FIX!"
+    hof: true
+  - song_num: "5"
+    name: "Some other funk"
+    slug: "some-other-funk"
+    url: "https://youtu.be/EnurztZItgI?t=2098"
+    time: "34:58"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Naima"
+    slug: "naima"
+    url: "https://youtu.be/EnurztZItgI?t=2467"
+    time: "41:07"
+    style: "Downtempo"
+    composer: ""
+    notes: "add double time percussion? arrange the endiong"
+    hof: true
+  - song_num: "7"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: "https://youtu.be/EnurztZItgI?t=2995"
+    time: "49:55"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer May 6"
+    slug: "closer-may-6"
+    url: "https://youtu.be/EnurztZItgI?t=3423"
+    time: "57:03"
+    style: ""
+    composer: ""
+    notes: "nice, add to collection"
+    hof: false
 ---
-
-# Episode 112 (May 6, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/EnurztZItgI)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) | [03:30](https://youtu.be/EnurztZItgI?t=210) | Swing | too slow? |
-| 2 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) | [09:54](https://youtu.be/EnurztZItgI?t=594) | Latin |  |
-| 3 | [My Funny Valentine]({{ '/songs/' | relative_url }}my-funny-valentine/) | [16:57](https://youtu.be/EnurztZItgI?t=1017) | Swing | nice solo journey |
-| 4 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) | [26:43](https://youtu.be/EnurztZItgI?t=1603) | Bossa | density changes good; SAMBA FIX! |
-| 5 | [Some other funk]({{ '/songs/' | relative_url }}some-other-funk/) | [34:58](https://youtu.be/EnurztZItgI?t=2098) | Funk |  |
-| 6 | [Naima]({{ '/songs/' | relative_url }}naima/) | [41:07](https://youtu.be/EnurztZItgI?t=2467) | Downtempo | add double time percussion? arrange the endiong |
-| 7 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [49:55](https://youtu.be/EnurztZItgI?t=2995) | Latin |  |
-| 8 | [Closer May 6]({{ '/one-off-songs.html' | relative_url }}#closer-may-6) | [57:03](https://youtu.be/EnurztZItgI?t=3423) |  | nice, add to collection |

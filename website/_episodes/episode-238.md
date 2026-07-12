@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/vbeeOdLoXTw"
 image: "/assets/images/title-slides/episode-238.jpg"
+setlist:
+  - song_num: "1"
+    name: "Have yourself a Merry Little Christmas"
+    slug: "have-yourself-a-merry-little-christmas"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Well You Needn’t"
+    slug: "well-you-neednt"
+    url: ""
+    time: ""
+    style: "Reggae"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Christmastime is here"
+    slug: "christmastime-is-here"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Mo Better Blues"
+    slug: "mo-better-blues"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "I'll be home for Christmas"
+    slug: "ill-be-home-for-christmas"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Some other Funk"
+    slug: "some-other-funk"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Some Children see him"
+    slug: "some-children-see-him"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 238 (December 20, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/vbeeOdLoXTw)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Have yourself a Merry Little Christmas]({{ '/songs/' | relative_url }}have-yourself-a-merry-little-christmas/) |  | Christmas |  |
-| 2 | [Well You Needn’t]({{ '/songs/' | relative_url }}well-you-neednt/) |  | Reggae |  |
-| 3 | [Christmastime is here]({{ '/songs/' | relative_url }}christmastime-is-here/) |  | Christmas |  |
-| 4 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) |  | Pop |  |
-| 5 | [I'll be home for Christmas]({{ '/songs/' | relative_url }}ill-be-home-for-christmas/) |  | Christmas |  |
-| 6 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) |  | Swing |  |
-| 7 | [Some other Funk]({{ '/songs/' | relative_url }}some-other-funk/) |  | Funk |  |
-| 8 | [Some Children see him]({{ '/one-off-songs.html' | relative_url }}#some-children-see-him) |  |  |  |

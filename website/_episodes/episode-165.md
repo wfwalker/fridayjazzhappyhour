@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/VPewOVmpYTg"
 image: "/assets/images/title-slides/episode-165.jpg"
+setlist:
+  - song_num: "1"
+    name: "This Can't Be Love"
+    slug: "this-cant-be-love"
+    url: "https://youtube.com/live/VPewOVmpYTg?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Emily"
+    slug: "emily"
+    url: "https://youtube.com/live/VPewOVmpYTg?t=715"
+    time: "11:55"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "I Love Paris"
+    slug: "i-love-paris"
+    url: "https://youtube.com/live/VPewOVmpYTg?t=1158"
+    time: "19:18"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Mambo Inn"
+    slug: "mambo-inn"
+    url: "https://youtube.com/live/VPewOVmpYTg?t=1533"
+    time: "25:33"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Sunny"
+    slug: "sunny"
+    url: "https://youtube.com/live/VPewOVmpYTg?t=1859"
+    time: "30:59"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "This Masquerade"
+    slug: "this-masquerade"
+    url: "https://youtube.com/live/VPewOVmpYTg?t=2240"
+    time: "37:20"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mas Que Nada"
+    slug: "mas-que-nada"
+    url: "https://youtube.com/live/VPewOVmpYTg?t=2662"
+    time: "44:22"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "New Day LoFi"
+    slug: "new-day-lofi"
+    url: "https://youtube.com/live/VPewOVmpYTg?t=3023"
+    time: "50:23"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 165 (June 2, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/VPewOVmpYTg)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [This Can't Be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) | [04:28](https://youtube.com/live/VPewOVmpYTg?t=268) | Swing |  |
-| 2 | [Emily]({{ '/songs/' | relative_url }}emily/) | [11:55](https://youtube.com/live/VPewOVmpYTg?t=715) | Swing |  |
-| 3 | [I Love Paris]({{ '/songs/' | relative_url }}i-love-paris/) | [19:18](https://youtube.com/live/VPewOVmpYTg?t=1158) | Techno |  |
-| 4 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) | [25:33](https://youtube.com/live/VPewOVmpYTg?t=1533) | Latin |  |
-| 5 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [30:59](https://youtube.com/live/VPewOVmpYTg?t=1859) | Funk |  |
-| 6 | [This Masquerade]({{ '/songs/' | relative_url }}this-masquerade/) | [37:20](https://youtube.com/live/VPewOVmpYTg?t=2240) | Funk |  |
-| 7 | [Mas Que Nada]({{ '/songs/' | relative_url }}mas-que-nada/) | [44:22](https://youtube.com/live/VPewOVmpYTg?t=2662) | Latin |  |
-| 8 | [New Day LoFi]({{ '/songs/' | relative_url }}new-day-lofi/) | [50:23](https://youtube.com/live/VPewOVmpYTg?t=3023) | Downtempo |  |

@@ -12,20 +12,68 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/ENn7iL9IwXc"
 image: "/assets/images/title-slides/episode-289.jpg"
+setlist:
+  - song_num: "1"
+    name: "Lawns"
+    slug: "lawns"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Au Privave"
+    slug: "au-privave"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Nearness of You"
+    slug: "nearness-of-you"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Frog"
+    slug: "frog"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Summertime"
+    slug: "summertime"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Fotografia"
+    slug: "fotografia"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Girl on Fire"
+    slug: "girl-on-fire"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 289 (February 13, 2026)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/ENn7iL9IwXc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Lawns]({{ '/songs/' | relative_url }}lawns/) |  | Ballad |  |
-| 2 | [Au Privave]({{ '/songs/' | relative_url }}au-privave/) |  | Swing |  |
-| 3 | [Nearness of You]({{ '/songs/' | relative_url }}nearness-of-you/) |  | Bossa |  |
-| 4 | [Frog]({{ '/songs/' | relative_url }}frog/) |  | Funk |  |
-| 5 | [Summertime]({{ '/songs/' | relative_url }}summertime/) |  | Funk |  |
-| 6 | [Fotografia]({{ '/songs/' | relative_url }}fotografia/) |  | Bossa |  |
-| 7 | [Girl on Fire]({{ '/one-off-songs.html' | relative_url }}#girl-on-fire) |  |  |  |

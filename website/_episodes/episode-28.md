@@ -12,22 +12,86 @@ tip_jar: "black votes matter"
 notes: "yes"
 youtube_url: "https://youtu.be/GA-3QzzX3m4"
 image: "/assets/images/title-slides/episode-28.jpg"
+setlist:
+  - song_num: "1"
+    name: "Sugar"
+    slug: "sugar"
+    url: "https://youtu.be/GA-3QzzX3m4?t=195"
+    time: "03:15"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Samba De Orfeu"
+    slug: "samba-de-orfeu"
+    url: "https://youtu.be/GA-3QzzX3m4?t=501"
+    time: "08:21"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: "https://youtu.be/GA-3QzzX3m4?t=874"
+    time: "14:34"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Impressions"
+    slug: "impressions"
+    url: "https://youtu.be/GA-3QzzX3m4?t=1320"
+    time: "22:00"
+    style: "Techno"
+    composer: ""
+    notes: "too long intro, no arrangement for head"
+    hof: true
+  - song_num: "5"
+    name: "Georgia on my Mind"
+    slug: "georgia-on-my-mind"
+    url: "https://youtu.be/GA-3QzzX3m4?t=1880"
+    time: "31:20"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Chameleon"
+    slug: "chameleon"
+    url: "https://youtu.be/GA-3QzzX3m4?t=2320"
+    time: "38:40"
+    style: "Funk"
+    composer: ""
+    notes: "cool sounds good groove whiffed rthe ending; too much intro"
+    hof: true
+  - song_num: "7"
+    name: "Very Early"
+    slug: "very-early"
+    url: "https://youtu.be/GA-3QzzX3m4?t=2765"
+    time: "46:05"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "September"
+    slug: "september"
+    url: "https://youtu.be/GA-3QzzX3m4?t=3180"
+    time: "53:00"
+    style: "Funk"
+    composer: ""
+    notes: "too slow? horns too loud in mix"
+    hof: true
+  - song_num: "9"
+    name: "In the wee small hours of the morning"
+    slug: "in-the-wee-small-hours-of-the-morning"
+    url: "https://youtu.be/GA-3QzzX3m4?t=3580"
+    time: "59:40"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 28 (September 25, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/GA-3QzzX3m4)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Sugar]({{ '/songs/' | relative_url }}sugar/) | [03:15](https://youtu.be/GA-3QzzX3m4?t=195) | Swing |  |
-| 2 | [Samba De Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [08:21](https://youtu.be/GA-3QzzX3m4?t=501) | Samba |  |
-| 3 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) | [14:34](https://youtu.be/GA-3QzzX3m4?t=874) | Swing |  |
-| 4 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [22:00](https://youtu.be/GA-3QzzX3m4?t=1320) | Techno | too long intro, no arrangement for head |
-| 5 | [Georgia on my Mind]({{ '/songs/' | relative_url }}georgia-on-my-mind/) | [31:20](https://youtu.be/GA-3QzzX3m4?t=1880) | Ballad |  |
-| 6 | [Chameleon]({{ '/songs/' | relative_url }}chameleon/) | [38:40](https://youtu.be/GA-3QzzX3m4?t=2320) | Funk | cool sounds good groove whiffed rthe ending; too much intro |
-| 7 | [Very Early]({{ '/songs/' | relative_url }}very-early/) | [46:05](https://youtu.be/GA-3QzzX3m4?t=2765) | Swing |  |
-| 8 | [September]({{ '/songs/' | relative_url }}september/) | [53:00](https://youtu.be/GA-3QzzX3m4?t=3180) | Funk | too slow? horns too loud in mix |
-| 9 | [In the wee small hours of the morning]({{ '/one-off-songs.html' | relative_url }}#in-the-wee-small-hours-of-the-morning) | [59:40](https://youtu.be/GA-3QzzX3m4?t=3580) |  |  |

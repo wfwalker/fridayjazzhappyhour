@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/828vW7qfZNo"
 image: "/assets/images/title-slides/episode-227.jpg"
+setlist:
+  - song_num: "1"
+    name: "Coming Home"
+    slug: "coming-home"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "WWV"
+    slug: "wwv"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "3"
+    name: "Inch Worm"
+    slug: "inch-worm"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "shipping news ambient closer 2"
+    slug: "shipping-news-ambient-closer-2"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Naima"
+    slug: "naima"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "accordion ambient closer"
+    slug: "accordion-ambient-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "7"
+    name: "Apollo 17"
+    slug: "apollo-17"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "8"
+    name: "Antelope Valley closer"
+    slug: "antelope-valley-closer"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 227 (October 4, 2024)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/828vW7qfZNo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Coming Home]({{ '/songs/' | relative_url }}coming-home/) |  | Pop |  |
-| 2 | [WWV]({{ '/one-off-songs.html' | relative_url }}#wwv) |  |  |  |
-| 3 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) |  | Ballad |  |
-| 4 | [shipping news ambient closer 2]({{ '/one-off-songs.html' | relative_url }}#shipping-news-ambient-closer-2) |  |  |  |
-| 5 | [Naima]({{ '/songs/' | relative_url }}naima/) |  | Downtempo |  |
-| 6 | [accordion ambient closer]({{ '/one-off-songs.html' | relative_url }}#accordion-ambient-closer) |  |  |  |
-| 7 | [Apollo 17]({{ '/one-off-songs.html' | relative_url }}#apollo-17) |  |  |  |
-| 8 | [Antelope Valley closer]({{ '/one-off-songs.html' | relative_url }}#antelope-valley-closer) |  |  |  |

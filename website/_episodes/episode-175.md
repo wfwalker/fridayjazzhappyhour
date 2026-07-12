@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/c0po_X-AAOc"
 image: "/assets/images/title-slides/episode-175.jpg"
+setlist:
+  - song_num: "1"
+    name: "It's only a paper moon"
+    slug: "its-only-a-paper-moon"
+    url: "https://youtu.be/c0po_X-AAOc?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "St. Thomas"
+    slug: "st-thomas"
+    url: "https://youtu.be/c0po_X-AAOc?t=715"
+    time: "11:55"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Samba de Orfeu"
+    slug: "samba-de-orfeu"
+    url: "https://youtu.be/c0po_X-AAOc?t=1158"
+    time: "19:18"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Estate"
+    slug: "estate"
+    url: "https://youtu.be/c0po_X-AAOc?t=1533"
+    time: "25:33"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Softly as in a Morning Sunrise"
+    slug: "softly-as-in-a-morning-sunrise"
+    url: "https://youtu.be/c0po_X-AAOc?t=1859"
+    time: "30:59"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Blades"
+    slug: "blades"
+    url: "https://youtu.be/c0po_X-AAOc?t=2240"
+    time: "37:20"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Avalon"
+    slug: "avalon"
+    url: "https://youtu.be/c0po_X-AAOc?t=2662"
+    time: "44:22"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer Aug 9"
+    slug: "closer-aug-9"
+    url: "https://youtu.be/c0po_X-AAOc?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 175 (August 11, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/c0po_X-AAOc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [It's only a paper moon]({{ '/songs/' | relative_url }}its-only-a-paper-moon/) | [04:28](https://youtu.be/c0po_X-AAOc?t=268) | Swing |  |
-| 2 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) | [11:55](https://youtu.be/c0po_X-AAOc?t=715) | Latin |  |
-| 3 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [19:18](https://youtu.be/c0po_X-AAOc?t=1158) | Samba |  |
-| 4 | [Estate]({{ '/songs/' | relative_url }}estate/) | [25:33](https://youtu.be/c0po_X-AAOc?t=1533) | Techno |  |
-| 5 | [Softly as in a Morning Sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) | [30:59](https://youtu.be/c0po_X-AAOc?t=1859) | Techno |  |
-| 6 | [Blades]({{ '/songs/' | relative_url }}blades/) | [37:20](https://youtu.be/c0po_X-AAOc?t=2240) | Downtempo |  |
-| 7 | [Avalon]({{ '/songs/' | relative_url }}avalon/) | [44:22](https://youtu.be/c0po_X-AAOc?t=2662) | Swing |  |
-| 8 | [Closer Aug 9]({{ '/one-off-songs.html' | relative_url }}#closer-aug-9) | [50:23](https://youtu.be/c0po_X-AAOc?t=3023) |  |  |

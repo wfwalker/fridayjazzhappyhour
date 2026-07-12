@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/Bquy0XJTjr8"
 image: "/assets/images/title-slides/episode-291.jpg"
+setlist:
+  - song_num: "1"
+    name: "If I were a Bell"
+    slug: "if-i-were-a-bell"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "O Barquinho"
+    slug: "o-barquinho"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Time Remembered"
+    slug: "time-remembered"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Nana"
+    slug: "nana"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Nightingale Sang in Berkeley Square"
+    slug: "nightingale-sang-in-berkeley-square"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "St. Thomas"
+    slug: "st-thomas"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "People get Ready"
+    slug: "people-get-ready"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Dub Techno Arpeggios"
+    slug: "dub-techno-arpeggios"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 291 (February 27, 2026)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/Bquy0XJTjr8)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [If I were a Bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) |  | Swing |  |
-| 2 | [O Barquinho]({{ '/songs/' | relative_url }}o-barquinho/) |  | Bossa |  |
-| 3 | [Time Remembered]({{ '/songs/' | relative_url }}time-remembered/) |  | Swing |  |
-| 4 | [Nana]({{ '/songs/' | relative_url }}nana/) |  | Funk |  |
-| 5 | [Nightingale Sang in Berkeley Square]({{ '/songs/' | relative_url }}nightingale-sang-in-berkeley-square/) |  | Ballad |  |
-| 6 | [St. Thomas]({{ '/songs/' | relative_url }}st-thomas/) |  | Latin |  |
-| 7 | [People get Ready]({{ '/songs/' | relative_url }}people-get-ready/) |  | Pop |  |
-| 8 | [Dub Techno Arpeggios]({{ '/one-off-songs.html' | relative_url }}#dub-techno-arpeggios) |  |  |  |

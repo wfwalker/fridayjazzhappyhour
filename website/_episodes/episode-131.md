@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/2NNZE3aK5FA"
 image: "/assets/images/title-slides/episode-131.jpg"
+setlist:
+  - song_num: "1"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: "https://youtu.be/2NNZE3aK5FA?t=122"
+    time: "02:02"
+    style: "Swing"
+    composer: ""
+    notes: "YT makes it sound so dry!"
+    hof: true
+  - song_num: "2"
+    name: "Icarus"
+    slug: "icarus"
+    url: "https://youtu.be/2NNZE3aK5FA?t=510"
+    time: "08:30"
+    style: "Latin"
+    composer: ""
+    notes: "MARY says fix the melody rhythm double attacks"
+    hof: true
+  - song_num: "3"
+    name: "So Nice"
+    slug: "so-nice"
+    url: "https://youtu.be/2NNZE3aK5FA?t=1018"
+    time: "16:58"
+    style: "Bossa"
+    composer: ""
+    notes: "try melodica?"
+    hof: true
+  - song_num: "4"
+    name: "It's only a paper moon"
+    slug: "its-only-a-paper-moon"
+    url: "https://youtu.be/2NNZE3aK5FA?t=1335"
+    time: "22:15"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "New Day LoFi"
+    slug: "new-day-lofi"
+    url: "https://youtu.be/2NNZE3aK5FA?t=1752"
+    time: "29:12"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: "https://youtu.be/2NNZE3aK5FA?t=2120"
+    time: "35:20"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "The Chicken"
+    slug: "the-chicken"
+    url: "https://youtu.be/2NNZE3aK5FA?t=2485"
+    time: "41:25"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "CQ"
+    slug: "cq"
+    url: "https://youtu.be/2NNZE3aK5FA?t=3100"
+    time: "51:40"
+    style: "Ambient"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 131 (September 16, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/2NNZE3aK5FA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) | [02:02](https://youtu.be/2NNZE3aK5FA?t=122) | Swing | YT makes it sound so dry! |
-| 2 | [Icarus]({{ '/songs/' | relative_url }}icarus/) | [08:30](https://youtu.be/2NNZE3aK5FA?t=510) | Latin | MARY says fix the melody rhythm double attacks |
-| 3 | [So Nice]({{ '/songs/' | relative_url }}so-nice/) | [16:58](https://youtu.be/2NNZE3aK5FA?t=1018) | Bossa | try melodica? |
-| 4 | [It's only a paper moon]({{ '/songs/' | relative_url }}its-only-a-paper-moon/) | [22:15](https://youtu.be/2NNZE3aK5FA?t=1335) | Swing |  |
-| 5 | [New Day LoFi]({{ '/songs/' | relative_url }}new-day-lofi/) | [29:12](https://youtu.be/2NNZE3aK5FA?t=1752) | Downtempo |  |
-| 6 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) | [35:20](https://youtu.be/2NNZE3aK5FA?t=2120) | Bossa |  |
-| 7 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) | [41:25](https://youtu.be/2NNZE3aK5FA?t=2485) | Funk |  |
-| 8 | [CQ]({{ '/songs/' | relative_url }}cq/) | [51:40](https://youtu.be/2NNZE3aK5FA?t=3100) | Ambient |  |

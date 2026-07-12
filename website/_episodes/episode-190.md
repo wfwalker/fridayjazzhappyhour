@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/PrDk9KYIT4g"
 image: "/assets/images/title-slides/episode-190.jpg"
+setlist:
+  - song_num: "1"
+    name: "Some day My Prince will Come"
+    slug: "some-day-my-prince-will-come"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Cast your fate to the wind"
+    slug: "cast-your-fate-to-the-wind"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Samba e Amor"
+    slug: "samba-e-amor"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "White Christmas"
+    slug: "white-christmas"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "My Little Suede Shoes"
+    slug: "my-little-suede-shoes"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "O Christmas Tree"
+    slug: "o-christmas-tree"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Give me the Night"
+    slug: "give-me-the-night"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "I'll be home for Christmas"
+    slug: "ill-be-home-for-christmas"
+    url: ""
+    time: ""
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 190 (December 8, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/PrDk9KYIT4g)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Some day My Prince will Come]({{ '/songs/' | relative_url }}some-day-my-prince-will-come/) |  | Swing |  |
-| 2 | [Cast your fate to the wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) |  | Pop |  |
-| 3 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) |  | Samba |  |
-| 4 | [White Christmas]({{ '/songs/' | relative_url }}white-christmas/) |  | Christmas |  |
-| 5 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) |  | Bossa |  |
-| 6 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) |  | Christmas |  |
-| 7 | [Give me the Night]({{ '/songs/' | relative_url }}give-me-the-night/) |  | Funk |  |
-| 8 | [I'll be home for Christmas]({{ '/songs/' | relative_url }}ill-be-home-for-christmas/) |  | Christmas |  |

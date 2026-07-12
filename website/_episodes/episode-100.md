@@ -12,22 +12,86 @@ tip_jar: "the viewers themselves"
 notes: "yes"
 youtube_url: "https://youtu.be/6Wlh1-UXkrs"
 image: "/assets/images/title-slides/episode-100.jpg"
+setlist:
+  - song_num: "1"
+    name: "New Day LoFi"
+    slug: "new-day-lofi"
+    url: "https://youtu.be/6Wlh1-UXkrs?t=405"
+    time: "06:45"
+    style: "Downtempo"
+    composer: ""
+    notes: "one more layer? nice groove"
+    hof: true
+  - song_num: "2"
+    name: "Caravan"
+    slug: "caravan"
+    url: "https://youtu.be/6Wlh1-UXkrs?t=732"
+    time: "12:12"
+    style: "Swing"
+    composer: ""
+    notes: "tidy it up"
+    hof: true
+  - song_num: "3"
+    name: "Samba e Amor"
+    slug: "samba-e-amor"
+    url: "https://youtu.be/6Wlh1-UXkrs?t=1170"
+    time: "19:30"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Dinosaur Night"
+    slug: "dinosaur-night"
+    url: "https://youtu.be/6Wlh1-UXkrs?t=1834"
+    time: "30:34"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Alberta"
+    slug: "alberta"
+    url: "https://youtu.be/6Wlh1-UXkrs?t=2241"
+    time: "37:21"
+    style: "World"
+    composer: ""
+    notes: "WTF happened at the intro?? more rehearsal + wow"
+    hof: true
+  - song_num: "6"
+    name: "Goodbye Look"
+    slug: "goodbye-look"
+    url: "https://youtu.be/6Wlh1-UXkrs?t=2805"
+    time: "46:45"
+    style: "Pop"
+    composer: ""
+    notes: "fix the mix, melodica too hot, tinny; Practice!"
+    hof: true
+  - song_num: "7"
+    name: "Septimus Prime"
+    slug: "septimus-prime"
+    url: "https://youtu.be/6Wlh1-UXkrs?t=3265"
+    time: "54:25"
+    style: "Funk"
+    composer: ""
+    notes: "organ too hot, ending messy"
+    hof: true
+  - song_num: "8"
+    name: "Take Me to the River"
+    slug: "take-me-to-the-river"
+    url: "https://youtu.be/6Wlh1-UXkrs?t=3787"
+    time: "01:03:07"
+    style: "Pop"
+    composer: ""
+    notes: "intro hiccup! practice keys more; good vocals (too hot)"
+    hof: true
+  - song_num: "9"
+    name: "Break Bread Together"
+    slug: "break-bread-together"
+    url: "https://youtu.be/6Wlh1-UXkrs?t=4230"
+    time: "01:10:30"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 100 (February 11, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/6Wlh1-UXkrs)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [New Day LoFi]({{ '/songs/' | relative_url }}new-day-lofi/) | [06:45](https://youtu.be/6Wlh1-UXkrs?t=405) | Downtempo | one more layer? nice groove |
-| 2 | [Caravan]({{ '/songs/' | relative_url }}caravan/) | [12:12](https://youtu.be/6Wlh1-UXkrs?t=732) | Swing | tidy it up |
-| 3 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) | [19:30](https://youtu.be/6Wlh1-UXkrs?t=1170) | Samba |  |
-| 4 | [Dinosaur Night]({{ '/one-off-songs.html' | relative_url }}#dinosaur-night) | [30:34](https://youtu.be/6Wlh1-UXkrs?t=1834) |  |  |
-| 5 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [37:21](https://youtu.be/6Wlh1-UXkrs?t=2241) | World | WTF happened at the intro?? more rehearsal + wow |
-| 6 | [Goodbye Look]({{ '/songs/' | relative_url }}goodbye-look/) | [46:45](https://youtu.be/6Wlh1-UXkrs?t=2805) | Pop | fix the mix, melodica too hot, tinny; Practice! |
-| 7 | [Septimus Prime]({{ '/songs/' | relative_url }}septimus-prime/) | [54:25](https://youtu.be/6Wlh1-UXkrs?t=3265) | Funk | organ too hot, ending messy |
-| 8 | [Take Me to the River]({{ '/songs/' | relative_url }}take-me-to-the-river/) | [01:03:07](https://youtu.be/6Wlh1-UXkrs?t=3787) | Pop | intro hiccup! practice keys more; good vocals (too hot) |
-| 9 | [Break Bread Together]({{ '/one-off-songs.html' | relative_url }}#break-bread-together) | [01:10:30](https://youtu.be/6Wlh1-UXkrs?t=4230) |  |  |

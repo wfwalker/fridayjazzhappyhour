@@ -12,21 +12,77 @@ tip_jar: "Minnesota Freedom Fund"
 notes: ""
 youtube_url: "https://youtu.be/8aHUkT2wFNc"
 image: "/assets/images/title-slides/episode-12.png"
+setlist:
+  - song_num: "1"
+    name: "Fly me to the moon"
+    slug: "fly-me-to-the-moon"
+    url: "https://youtu.be/8aHUkT2wFNc?t=480"
+    time: "08:00"
+    style: "Swing"
+    composer: "Bart Howard"
+    notes: "wut. accordion. forgot"
+    hof: true
+  - song_num: "2"
+    name: "These Foolish Things Remind me of You"
+    slug: "these-foolish-things-remind-me-of-you"
+    url: "https://youtu.be/8aHUkT2wFNc?t=2220"
+    time: "37:00"
+    style: "Ballad"
+    composer: "Eric Maschwitz"
+    notes: "REDO"
+    hof: true
+  - song_num: "3"
+    name: "Peace Piece"
+    slug: "peace-piece"
+    url: "https://youtu.be/8aHUkT2wFNc?t=3253"
+    time: "54:13"
+    style: "Ballad"
+    composer: "Bill Evans"
+    notes: "practice man practice"
+    hof: true
+  - song_num: "4"
+    name: "Road song"
+    slug: "road-song"
+    url: "https://youtu.be/8aHUkT2wFNc?t=1443"
+    time: "24:03"
+    style: "Pop"
+    composer: "Wes Montgomery"
+    notes: "REDO"
+    hof: true
+  - song_num: "5"
+    name: "What Time Is It?"
+    slug: "what-time-is-it"
+    url: "https://youtu.be/8aHUkT2wFNc?t=1810"
+    time: "30:10"
+    style: "spoken"
+    composer: "Ken Nordine"
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "Cantaloupe Island"
+    slug: "cantaloupe-island"
+    url: "https://youtu.be/8aHUkT2wFNc?t=2560"
+    time: "42:40"
+    style: "Funk"
+    composer: "Herbie Hancock"
+    notes: "REDO"
+    hof: true
+  - song_num: "7"
+    name: "Lean on Me"
+    slug: "lean-on-me"
+    url: "https://youtu.be/8aHUkT2wFNc?t=2890"
+    time: "48:10"
+    style: "VOCAL"
+    composer: "Bill Withers"
+    notes: "tracks good; singing meh"
+    hof: false
+  - song_num: "8"
+    name: "Caminhos Cruzados"
+    slug: "caminhos-cruzados"
+    url: "https://youtu.be/8aHUkT2wFNc?t=912"
+    time: "15:12"
+    style: "Bossa"
+    composer: "Jobim"
+    notes: "REDO"
+    hof: true
 ---
-
-# Episode 12 (June 5, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/8aHUkT2wFNc)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Fly me to the moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) | [08:00](https://youtu.be/8aHUkT2wFNc?t=480) | Swing<br><small style='color:var(--text-secondary);'>by Bart Howard</small> | wut. accordion. forgot |
-| 2 | [These Foolish Things Remind me of You]({{ '/songs/' | relative_url }}these-foolish-things-remind-me-of-you/) | [37:00](https://youtu.be/8aHUkT2wFNc?t=2220) | Ballad<br><small style='color:var(--text-secondary);'>by Eric Maschwitz</small> | REDO |
-| 3 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) | [54:13](https://youtu.be/8aHUkT2wFNc?t=3253) | Ballad<br><small style='color:var(--text-secondary);'>by Bill Evans</small> | practice man practice |
-| 4 | [Road song]({{ '/songs/' | relative_url }}road-song/) | [24:03](https://youtu.be/8aHUkT2wFNc?t=1443) | Pop<br><small style='color:var(--text-secondary);'>by Wes Montgomery</small> | REDO |
-| 5 | [What Time Is It?]({{ '/one-off-songs.html' | relative_url }}#what-time-is-it) | [30:10](https://youtu.be/8aHUkT2wFNc?t=1810) | spoken<br><small style='color:var(--text-secondary);'>by Ken Nordine</small> |  |
-| 6 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) | [42:40](https://youtu.be/8aHUkT2wFNc?t=2560) | Funk<br><small style='color:var(--text-secondary);'>by Herbie Hancock</small> | REDO |
-| 7 | [Lean on Me]({{ '/one-off-songs.html' | relative_url }}#lean-on-me) | [48:10](https://youtu.be/8aHUkT2wFNc?t=2890) | VOCAL<br><small style='color:var(--text-secondary);'>by Bill Withers</small> | tracks good; singing meh |
-| 8 | [Caminhos Cruzados]({{ '/songs/' | relative_url }}caminhos-cruzados/) | [15:12](https://youtu.be/8aHUkT2wFNc?t=912) | Bossa<br><small style='color:var(--text-secondary);'>by Jobim</small> | REDO |

@@ -12,19 +12,59 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/KkTlK_8jt9U"
 image: "/assets/images/title-slides/episode-293.jpg"
+setlist:
+  - song_num: "1"
+    name: "Albatross at Night"
+    slug: "albatross-at-night"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "Ocean Signals"
+    slug: "ocean-signals"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "3"
+    name: "Homage to Eno"
+    slug: "homage-to-eno"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "4"
+    name: "In the Meadow"
+    slug: "in-the-meadow"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Night Rhodes"
+    slug: "night-rhodes"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "Köpenicker Straße"
+    slug: "kpenicker-strae"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 293 (April 3, 2026)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/KkTlK_8jt9U)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Albatross at Night]({{ '/one-off-songs.html' | relative_url }}#albatross-at-night) |  |  |  |
-| 2 | [Ocean Signals]({{ '/one-off-songs.html' | relative_url }}#ocean-signals) |  |  |  |
-| 3 | [Homage to Eno]({{ '/one-off-songs.html' | relative_url }}#homage-to-eno) |  |  |  |
-| 4 | [In the Meadow]({{ '/one-off-songs.html' | relative_url }}#in-the-meadow) |  |  |  |
-| 5 | [Night Rhodes]({{ '/one-off-songs.html' | relative_url }}#night-rhodes) |  |  |  |
-| 6 | [Köpenicker Straße]({{ '/one-off-songs.html' | relative_url }}#kpenicker-strae) |  |  |  |

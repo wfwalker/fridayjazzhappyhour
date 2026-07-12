@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/-mLt1LbOZ8Y"
 image: "/assets/images/title-slides/episode-126.jpg"
+setlist:
+  - song_num: "1"
+    name: "Gentle Rain"
+    slug: "gentle-rain"
+    url: "https://youtu.be/-mLt1LbOZ8Y?t=226"
+    time: "03:46"
+    style: "Bossa"
+    composer: ""
+    notes: "try adding double time percussion??"
+    hof: true
+  - song_num: "2"
+    name: "This Can't Be Love"
+    slug: "this-cant-be-love"
+    url: "https://youtu.be/-mLt1LbOZ8Y?t=690"
+    time: "11:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Girl Talk"
+    slug: "girl-talk"
+    url: "https://youtu.be/-mLt1LbOZ8Y?t=965"
+    time: "16:05"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Cantaloupe Island"
+    slug: "cantaloupe-island"
+    url: "https://youtu.be/-mLt1LbOZ8Y?t=1388"
+    time: "23:08"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Goodbye Pork Pie Hat"
+    slug: "goodbye-pork-pie-hat"
+    url: "https://youtu.be/-mLt1LbOZ8Y?t=1784"
+    time: "29:44"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: "https://youtu.be/-mLt1LbOZ8Y?t=2859"
+    time: "47:39"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "All the things you are"
+    slug: "all-the-things-you-are"
+    url: "https://youtu.be/-mLt1LbOZ8Y?t=2175"
+    time: "36:15"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "You and the Night and the Music"
+    slug: "you-and-the-night-and-the-music"
+    url: "https://youtu.be/-mLt1LbOZ8Y?t=3200"
+    time: "53:20"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 126 (August 12, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/-mLt1LbOZ8Y)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Gentle Rain]({{ '/songs/' | relative_url }}gentle-rain/) | [03:46](https://youtu.be/-mLt1LbOZ8Y?t=226) | Bossa | try adding double time percussion?? |
-| 2 | [This Can't Be Love]({{ '/songs/' | relative_url }}this-cant-be-love/) | [11:30](https://youtu.be/-mLt1LbOZ8Y?t=690) | Swing |  |
-| 3 | [Girl Talk]({{ '/songs/' | relative_url }}girl-talk/) | [16:05](https://youtu.be/-mLt1LbOZ8Y?t=965) | Swing |  |
-| 4 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) | [23:08](https://youtu.be/-mLt1LbOZ8Y?t=1388) | Funk |  |
-| 5 | [Goodbye Pork Pie Hat]({{ '/songs/' | relative_url }}goodbye-pork-pie-hat/) | [29:44](https://youtu.be/-mLt1LbOZ8Y?t=1784) | Swing |  |
-| 6 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [47:39](https://youtu.be/-mLt1LbOZ8Y?t=2859) | Funk |  |
-| 7 | [All the things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) | [36:15](https://youtu.be/-mLt1LbOZ8Y?t=2175) | Swing |  |
-| 8 | [You and the Night and the Music]({{ '/songs/' | relative_url }}you-and-the-night-and-the-music/) | [53:20](https://youtu.be/-mLt1LbOZ8Y?t=3200) | Ballad |  |

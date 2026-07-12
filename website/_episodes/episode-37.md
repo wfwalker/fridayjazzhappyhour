@@ -12,22 +12,86 @@ tip_jar: "VotingWorks"
 notes: "yes"
 youtube_url: "https://youtu.be/8W4XQTLdajk"
 image: "/assets/images/title-slides/episode-37.jpg"
+setlist:
+  - song_num: "1"
+    name: "What is this thing called love"
+    slug: "what-is-this-thing-called-love"
+    url: "https://youtu.be/8W4XQTLdajk?t=260"
+    time: "04:20"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Poinciana"
+    slug: "poinciana"
+    url: "https://youtu.be/8W4XQTLdajk?t=625"
+    time: "10:25"
+    style: "Techno"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "3"
+    name: "Orba Jam"
+    slug: "orba-jam"
+    url: "https://youtu.be/8W4XQTLdajk?t=1172"
+    time: "19:32"
+    style: ""
+    composer: "Bill Walker"
+    notes: ""
+    hof: false
+  - song_num: "4"
+    name: "Estate"
+    slug: "estate"
+    url: "https://youtu.be/8W4XQTLdajk?t=1635"
+    time: "27:15"
+    style: "Techno"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "5"
+    name: "Hullo, Bolinas"
+    slug: "hullo-bolinas"
+    url: "https://youtu.be/8W4XQTLdajk?t=2100"
+    time: "35:00"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "6"
+    name: "Deacon Blues"
+    slug: "deacon-blues"
+    url: "https://youtu.be/8W4XQTLdajk?t=2380"
+    time: "39:40"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Eu Quero E Sossego"
+    slug: "eu-quero-e-sossego"
+    url: "https://youtu.be/8W4XQTLdajk?t=2940"
+    time: "49:00"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Kiss Him Goodbye"
+    slug: "kiss-him-goodbye"
+    url: "https://youtu.be/8W4XQTLdajk?t=3284"
+    time: "54:44"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "9"
+    name: "Second Time Around"
+    slug: "second-time-around"
+    url: "https://youtu.be/8W4XQTLdajk?t=3620"
+    time: "01:00:20"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 37 (November 27, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/8W4XQTLdajk)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [What is this thing called love]({{ '/songs/' | relative_url }}what-is-this-thing-called-love/) | [04:20](https://youtu.be/8W4XQTLdajk?t=260) | Swing |  |
-| 2 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) | [10:25](https://youtu.be/8W4XQTLdajk?t=625) | Techno | HOF |
-| 3 | [Orba Jam]({{ '/one-off-songs.html' | relative_url }}#orba-jam) | [19:32](https://youtu.be/8W4XQTLdajk?t=1172) | <br><small style='color:var(--text-secondary);'>by Bill Walker</small> |  |
-| 4 | [Estate]({{ '/songs/' | relative_url }}estate/) | [27:15](https://youtu.be/8W4XQTLdajk?t=1635) | Techno | HOF |
-| 5 | [Hullo, Bolinas]({{ '/one-off-songs.html' | relative_url }}#hullo-bolinas) | [35:00](https://youtu.be/8W4XQTLdajk?t=2100) |  |  |
-| 6 | [Deacon Blues]({{ '/songs/' | relative_url }}deacon-blues/) | [39:40](https://youtu.be/8W4XQTLdajk?t=2380) | Pop |  |
-| 7 | [Eu Quero E Sossego]({{ '/songs/' | relative_url }}eu-quero-e-sossego/) | [49:00](https://youtu.be/8W4XQTLdajk?t=2940) | Bossa |  |
-| 8 | [Kiss Him Goodbye]({{ '/one-off-songs.html' | relative_url }}#kiss-him-goodbye) | [54:44](https://youtu.be/8W4XQTLdajk?t=3284) |  |  |
-| 9 | [Second Time Around]({{ '/one-off-songs.html' | relative_url }}#second-time-around) | [01:00:20](https://youtu.be/8W4XQTLdajk?t=3620) |  |  |

@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/0GeyrAZtG6E"
 image: "/assets/images/title-slides/episode-178.jpg"
+setlist:
+  - song_num: "1"
+    name: "Bluesette"
+    slug: "bluesette"
+    url: "https://youtu.be/zxhyx-uWlJQ?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Dindi"
+    slug: "dindi"
+    url: "https://youtu.be/zxhyx-uWlJQ?t=715"
+    time: "11:55"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Isn't it Romantic"
+    slug: "isnt-it-romantic"
+    url: "https://youtu.be/zxhyx-uWlJQ?t=1158"
+    time: "19:18"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Frog"
+    slug: "frog"
+    url: "https://youtu.be/zxhyx-uWlJQ?t=1533"
+    time: "25:33"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Girl Talk"
+    slug: "girl-talk"
+    url: "https://youtu.be/zxhyx-uWlJQ?t=1859"
+    time: "30:59"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Alberta"
+    slug: "alberta"
+    url: "https://youtu.be/zxhyx-uWlJQ?t=2240"
+    time: "37:20"
+    style: "World"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: "https://youtu.be/zxhyx-uWlJQ?t=2662"
+    time: "44:22"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Gentle Rain Improv"
+    slug: "gentle-rain-improv"
+    url: "https://youtu.be/zxhyx-uWlJQ?t=3023"
+    time: "50:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 178 (September 1, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/0GeyrAZtG6E)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) | [04:28](https://youtu.be/zxhyx-uWlJQ?t=268) | Swing |  |
-| 2 | [Dindi]({{ '/songs/' | relative_url }}dindi/) | [11:55](https://youtu.be/zxhyx-uWlJQ?t=715) | Techno |  |
-| 3 | [Isn't it Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) | [19:18](https://youtu.be/zxhyx-uWlJQ?t=1158) | Swing |  |
-| 4 | [Frog]({{ '/songs/' | relative_url }}frog/) | [25:33](https://youtu.be/zxhyx-uWlJQ?t=1533) | Funk |  |
-| 5 | [Girl Talk]({{ '/songs/' | relative_url }}girl-talk/) | [30:59](https://youtu.be/zxhyx-uWlJQ?t=1859) | Swing |  |
-| 6 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [37:20](https://youtu.be/zxhyx-uWlJQ?t=2240) | World |  |
-| 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) | [44:22](https://youtu.be/zxhyx-uWlJQ?t=2662) | Funk |  |
-| 8 | [Gentle Rain Improv]({{ '/one-off-songs.html' | relative_url }}#gentle-rain-improv) | [50:23](https://youtu.be/zxhyx-uWlJQ?t=3023) |  |  |

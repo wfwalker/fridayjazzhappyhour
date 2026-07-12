@@ -12,19 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: ""
 image: "/assets/images/title-slides/episode-216.jpg"
+setlist:
+  - song_num: "1"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "The Chicken"
+    slug: "the-chicken"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Up Jumped Spring"
+    slug: "up-jumped-spring"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Georgia On My Mind"
+    slug: "georgia-on-my-mind"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Sing Sing Sing"
+    slug: "sing-sing-sing"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Girl from Ipanema"
+    slug: "girl-from-ipanema"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Monkey Pants"
+    slug: "monkey-pants"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer July 6"
+    slug: "closer-july-6"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 216 (July 5, 2024)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) |  | Swing |  |
-| 2 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) |  | Funk |  |
-| 3 | [Up Jumped Spring]({{ '/songs/' | relative_url }}up-jumped-spring/) |  | Swing |  |
-| 4 | [Georgia On My Mind]({{ '/songs/' | relative_url }}georgia-on-my-mind/) |  | Ballad |  |
-| 5 | [Sing Sing Sing]({{ '/songs/' | relative_url }}sing-sing-sing/) |  | Pop |  |
-| 6 | [Girl from Ipanema]({{ '/songs/' | relative_url }}girl-from-ipanema/) |  | Bossa |  |
-| 7 | [Monkey Pants]({{ '/songs/' | relative_url }}monkey-pants/) |  | Funk |  |
-| 8 | [Closer July 6]({{ '/one-off-songs.html' | relative_url }}#closer-july-6) |  |  |  |

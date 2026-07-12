@@ -12,21 +12,77 @@ tip_jar: "United Way Fire Fund"
 notes: "yes"
 youtube_url: "https://youtu.be/texnvgIfzO8"
 image: "/assets/images/title-slides/episode-26.jpg"
+setlist:
+  - song_num: "1"
+    name: "But Not For Me"
+    slug: "but-not-for-me"
+    url: "https://youtu.be/texnvgIfzO8?t=144"
+    time: "02:24"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "2"
+    name: "Avalon"
+    slug: "avalon"
+    url: "https://youtu.be/texnvgIfzO8?t=525"
+    time: "08:45"
+    style: "Swing"
+    composer: ""
+    notes: "jangly slow loud; drums need variation! ride cymbal"
+    hof: true
+  - song_num: "3"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: "https://youtu.be/texnvgIfzO8?t=995"
+    time: "16:35"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "So Danco Samba"
+    slug: "so-danco-samba"
+    url: "https://youtu.be/texnvgIfzO8?t=1358"
+    time: "22:38"
+    style: "Samba"
+    composer: ""
+    notes: "guitar too jangly and twitchy"
+    hof: true
+  - song_num: "5"
+    name: "Isn't it Romantic"
+    slug: "isnt-it-romantic"
+    url: "https://youtu.be/texnvgIfzO8?t=1725"
+    time: "28:45"
+    style: "Swing"
+    composer: ""
+    notes: "nice mix, maybe too slow? LH comping is subpar"
+    hof: true
+  - song_num: "6"
+    name: "Song for my Father"
+    slug: "song-for-my-father"
+    url: "https://youtu.be/texnvgIfzO8?t=2150"
+    time: "35:50"
+    style: "Latin"
+    composer: ""
+    notes: "too slow, feels naked"
+    hof: true
+  - song_num: "7"
+    name: "Just the two of us"
+    slug: "just-the-two-of-us"
+    url: "https://youtu.be/texnvgIfzO8?t=2663"
+    time: "44:23"
+    style: "Funk"
+    composer: ""
+    notes: "too slow bass too loud, doens't breathe"
+    hof: true
+  - song_num: "8"
+    name: "On the Sunny side of the street"
+    slug: "on-the-sunny-side-of-the-street"
+    url: "https://youtu.be/texnvgIfzO8?t=3106"
+    time: "51:46"
+    style: ""
+    composer: ""
+    notes: "try a little faster?"
+    hof: false
 ---
-
-# Episode 26 (September 11, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/texnvgIfzO8)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [But Not For Me]({{ '/one-off-songs.html' | relative_url }}#but-not-for-me) | [02:24](https://youtu.be/texnvgIfzO8?t=144) |  |  |
-| 2 | [Avalon]({{ '/songs/' | relative_url }}avalon/) | [08:45](https://youtu.be/texnvgIfzO8?t=525) | Swing | jangly slow loud; drums need variation! ride cymbal |
-| 3 | [Black Orpheus (Manha de Carnaval)]({{ '/songs/' | relative_url }}black-orpheus-manha-de-carnaval/) | [16:35](https://youtu.be/texnvgIfzO8?t=995) | Bossa |  |
-| 4 | [So Danco Samba]({{ '/songs/' | relative_url }}so-danco-samba/) | [22:38](https://youtu.be/texnvgIfzO8?t=1358) | Samba | guitar too jangly and twitchy |
-| 5 | [Isn't it Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) | [28:45](https://youtu.be/texnvgIfzO8?t=1725) | Swing | nice mix, maybe too slow? LH comping is subpar |
-| 6 | [Song for my Father]({{ '/songs/' | relative_url }}song-for-my-father/) | [35:50](https://youtu.be/texnvgIfzO8?t=2150) | Latin | too slow, feels naked |
-| 7 | [Just the two of us]({{ '/songs/' | relative_url }}just-the-two-of-us/) | [44:23](https://youtu.be/texnvgIfzO8?t=2663) | Funk | too slow bass too loud, doens't breathe |
-| 8 | [On the Sunny side of the street]({{ '/one-off-songs.html' | relative_url }}#on-the-sunny-side-of-the-street) | [51:46](https://youtu.be/texnvgIfzO8?t=3106) |  | try a little faster? |

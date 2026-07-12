@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/3OS8YSyy7IE"
 image: "/assets/images/title-slides/episode-156.jpg"
+setlist:
+  - song_num: "1"
+    name: "Beautiful Love"
+    slug: "beautiful-love"
+    url: "https://youtube.com/live/3OS8YSyy7IE?t=268"
+    time: "04:28"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "The Egg and You"
+    slug: "the-egg-and-you"
+    url: "https://youtube.com/live/3OS8YSyy7IE?t=715"
+    time: "11:55"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Triste"
+    slug: "triste"
+    url: "https://youtube.com/live/3OS8YSyy7IE?t=1158"
+    time: "19:18"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Naima"
+    slug: "naima"
+    url: "https://youtube.com/live/3OS8YSyy7IE?t=1533"
+    time: "25:33"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Au Privave"
+    slug: "au-privave"
+    url: "https://youtube.com/live/3OS8YSyy7IE?t=1859"
+    time: "30:59"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Time After Time"
+    slug: "time-after-time"
+    url: "https://youtube.com/live/3OS8YSyy7IE?t=2240"
+    time: "37:20"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Trans Europe Express"
+    slug: "trans-europe-express"
+    url: "https://youtube.com/live/3OS8YSyy7IE?t=2662"
+    time: "44:22"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Night and Day"
+    slug: "night-and-day"
+    url: "https://youtube.com/live/3OS8YSyy7IE?t=3023"
+    time: "50:23"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 156 (March 31, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/3OS8YSyy7IE)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) | [04:28](https://youtube.com/live/3OS8YSyy7IE?t=268) | Swing |  |
-| 2 | [The Egg and You]({{ '/songs/' | relative_url }}the-egg-and-you/) | [11:55](https://youtube.com/live/3OS8YSyy7IE?t=715) | Pop |  |
-| 3 | [Triste]({{ '/songs/' | relative_url }}triste/) | [19:18](https://youtube.com/live/3OS8YSyy7IE?t=1158) | Bossa |  |
-| 4 | [Naima]({{ '/songs/' | relative_url }}naima/) | [25:33](https://youtube.com/live/3OS8YSyy7IE?t=1533) | Downtempo |  |
-| 5 | [Au Privave]({{ '/songs/' | relative_url }}au-privave/) | [30:59](https://youtube.com/live/3OS8YSyy7IE?t=1859) | Swing |  |
-| 6 | [Time After Time]({{ '/songs/' | relative_url }}time-after-time/) | [37:20](https://youtube.com/live/3OS8YSyy7IE?t=2240) | Pop |  |
-| 7 | [Trans Europe Express]({{ '/songs/' | relative_url }}trans-europe-express/) | [44:22](https://youtube.com/live/3OS8YSyy7IE?t=2662) | Techno |  |
-| 8 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) | [50:23](https://youtube.com/live/3OS8YSyy7IE?t=3023) | Techno |  |

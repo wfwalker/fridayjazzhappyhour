@@ -12,21 +12,77 @@ tip_jar: "SCVAS birdathon"
 notes: "yes"
 youtube_url: "https://youtu.be/RVecTJg5GEs"
 image: "/assets/images/title-slides/episode-56.jpg"
+setlist:
+  - song_num: "1"
+    name: "I Love Paris"
+    slug: "i-love-paris"
+    url: "https://youtu.be/RVecTJg5GEs?t=224"
+    time: "03:44"
+    style: "Techno"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "2"
+    name: "Here Comes the Flood"
+    slug: "here-comes-the-flood"
+    url: "https://youtu.be/RVecTJg5GEs?t=713"
+    time: "11:53"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Eu Quero E Sossego"
+    slug: "eu-quero-e-sossego"
+    url: "https://youtu.be/RVecTJg5GEs?t=1292"
+    time: "21:32"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "My Lord what a Morning"
+    slug: "my-lord-what-a-morning"
+    url: "https://youtu.be/RVecTJg5GEs?t=1670"
+    time: "27:50"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "5"
+    name: "Seven Steps to Heaven"
+    slug: "seven-steps-to-heaven"
+    url: "https://youtu.be/RVecTJg5GEs?t=1938"
+    time: "32:18"
+    style: "Pop"
+    composer: ""
+    notes: "REDO"
+    hof: true
+  - song_num: "6"
+    name: "A Foggy Day (in London town)"
+    slug: "a-foggy-day-in-london-town"
+    url: "https://youtu.be/RVecTJg5GEs?t=2282"
+    time: "38:02"
+    style: "Swing"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "7"
+    name: "Mercy, Mercy, Mercy"
+    slug: "mercy-mercy-mercy"
+    url: "https://youtu.be/RVecTJg5GEs?t=2838"
+    time: "47:18"
+    style: "Funk"
+    composer: ""
+    notes: "practice!"
+    hof: true
+  - song_num: "8"
+    name: "Inch Worm"
+    slug: "inch-worm"
+    url: "https://youtu.be/RVecTJg5GEs?t=3351"
+    time: "55:51"
+    style: "Ballad"
+    composer: ""
+    notes: "HOF"
+    hof: true
 ---
-
-# Episode 56 (April 9, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/RVecTJg5GEs)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [I Love Paris]({{ '/songs/' | relative_url }}i-love-paris/) | [03:44](https://youtu.be/RVecTJg5GEs?t=224) | Techno | HOF |
-| 2 | [Here Comes the Flood]({{ '/songs/' | relative_url }}here-comes-the-flood/) | [11:53](https://youtu.be/RVecTJg5GEs?t=713) | Pop |  |
-| 3 | [Eu Quero E Sossego]({{ '/songs/' | relative_url }}eu-quero-e-sossego/) | [21:32](https://youtu.be/RVecTJg5GEs?t=1292) | Bossa |  |
-| 4 | [My Lord what a Morning]({{ '/one-off-songs.html' | relative_url }}#my-lord-what-a-morning) | [27:50](https://youtu.be/RVecTJg5GEs?t=1670) | Swing |  |
-| 5 | [Seven Steps to Heaven]({{ '/songs/' | relative_url }}seven-steps-to-heaven/) | [32:18](https://youtu.be/RVecTJg5GEs?t=1938) | Pop | REDO |
-| 6 | [A Foggy Day (in London town)]({{ '/songs/' | relative_url }}a-foggy-day-in-london-town/) | [38:02](https://youtu.be/RVecTJg5GEs?t=2282) | Swing | HOF |
-| 7 | [Mercy, Mercy, Mercy]({{ '/songs/' | relative_url }}mercy-mercy-mercy/) | [47:18](https://youtu.be/RVecTJg5GEs?t=2838) | Funk | practice! |
-| 8 | [Inch Worm]({{ '/songs/' | relative_url }}inch-worm/) | [55:51](https://youtu.be/RVecTJg5GEs?t=3351) | Ballad | HOF |

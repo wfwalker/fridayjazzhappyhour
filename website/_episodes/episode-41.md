@@ -12,23 +12,95 @@ tip_jar: "CityTeam San Jose"
 notes: "yes"
 youtube_url: "https://youtu.be/G-HJYWxotdo"
 image: "/assets/images/title-slides/episode-41.jpg"
+setlist:
+  - song_num: "1"
+    name: "Have yourself a Merry little Christmas"
+    slug: "have-yourself-a-merry-little-christmas"
+    url: "https://youtu.be/G-HJYWxotdo?t=260"
+    time: "04:20"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "White Christmas"
+    slug: "white-christmas"
+    url: "https://youtu.be/G-HJYWxotdo?t=597"
+    time: "09:57"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Christmastime is here"
+    slug: "christmastime-is-here"
+    url: "https://youtu.be/G-HJYWxotdo?t=1069"
+    time: "17:49"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "The Holly and the Ivy"
+    slug: "the-holly-and-the-ivy"
+    url: "https://youtu.be/G-HJYWxotdo?t=1592"
+    time: "26:32"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "O Christmas Tree"
+    slug: "o-christmas-tree"
+    url: "https://youtu.be/G-HJYWxotdo?t=1950"
+    time: "32:30"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "God Rest Ye Merry Gentlemen"
+    slug: "god-rest-ye-merry-gentlemen"
+    url: "https://youtu.be/G-HJYWxotdo?t=2267"
+    time: "37:47"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "I'll be home for Christmas"
+    slug: "ill-be-home-for-christmas"
+    url: "https://youtu.be/G-HJYWxotdo?t=2677"
+    time: "44:37"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Christmas is Coming"
+    slug: "christmas-is-coming"
+    url: "https://youtu.be/G-HJYWxotdo?t=3030"
+    time: "50:30"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "9"
+    name: "Go Tell it on the Mountain"
+    slug: "go-tell-it-on-the-mountain"
+    url: "https://youtu.be/G-HJYWxotdo?t=3345"
+    time: "55:45"
+    style: "Christmas"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "10"
+    name: "O Holy Night"
+    slug: "o-holy-night"
+    url: "https://youtu.be/G-HJYWxotdo?t=3735"
+    time: "01:02:15"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 41 (December 25, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/G-HJYWxotdo)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Have yourself a Merry little Christmas]({{ '/songs/' | relative_url }}have-yourself-a-merry-little-christmas/) | [04:20](https://youtu.be/G-HJYWxotdo?t=260) | Christmas |  |
-| 2 | [White Christmas]({{ '/songs/' | relative_url }}white-christmas/) | [09:57](https://youtu.be/G-HJYWxotdo?t=597) | Christmas |  |
-| 3 | [Christmastime is here]({{ '/songs/' | relative_url }}christmastime-is-here/) | [17:49](https://youtu.be/G-HJYWxotdo?t=1069) | Christmas |  |
-| 4 | [The Holly and the Ivy]({{ '/songs/' | relative_url }}the-holly-and-the-ivy/) | [26:32](https://youtu.be/G-HJYWxotdo?t=1592) | Christmas |  |
-| 5 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) | [32:30](https://youtu.be/G-HJYWxotdo?t=1950) | Christmas |  |
-| 6 | [God Rest Ye Merry Gentlemen]({{ '/songs/' | relative_url }}god-rest-ye-merry-gentlemen/) | [37:47](https://youtu.be/G-HJYWxotdo?t=2267) | Christmas |  |
-| 7 | [I'll be home for Christmas]({{ '/songs/' | relative_url }}ill-be-home-for-christmas/) | [44:37](https://youtu.be/G-HJYWxotdo?t=2677) | Christmas |  |
-| 8 | [Christmas is Coming]({{ '/songs/' | relative_url }}christmas-is-coming/) | [50:30](https://youtu.be/G-HJYWxotdo?t=3030) | Christmas |  |
-| 9 | [Go Tell it on the Mountain]({{ '/songs/' | relative_url }}go-tell-it-on-the-mountain/) | [55:45](https://youtu.be/G-HJYWxotdo?t=3345) | Christmas |  |
-| 10 | [O Holy Night]({{ '/one-off-songs.html' | relative_url }}#o-holy-night) | [01:02:15](https://youtu.be/G-HJYWxotdo?t=3735) |  |  |

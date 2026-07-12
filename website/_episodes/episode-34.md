@@ -12,22 +12,86 @@ tip_jar: "Second Harvest Food Bank"
 notes: "yes"
 youtube_url: "https://youtu.be/EKJT69DCOnA"
 image: "/assets/images/title-slides/episode-34.jpg"
+setlist:
+  - song_num: "1"
+    name: "Georgia on my Mind"
+    slug: "georgia-on-my-mind"
+    url: "https://youtu.be/EKJT69DCOnA?t=210"
+    time: "03:30"
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "NovembeRain"
+    slug: "novemberain"
+    url: "https://youtu.be/EKJT69DCOnA?t=530"
+    time: "08:50"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
+  - song_num: "3"
+    name: "Cantaloupe Island"
+    slug: "cantaloupe-island"
+    url: "https://youtu.be/EKJT69DCOnA?t=818"
+    time: "13:38"
+    style: "Funk"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "4"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: "https://youtu.be/EKJT69DCOnA?t=1223"
+    time: "20:23"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Stolen Moments"
+    slug: "stolen-moments"
+    url: "https://youtu.be/EKJT69DCOnA?t=1694"
+    time: "28:14"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "La Fiesta"
+    slug: "la-fiesta"
+    url: "https://youtu.be/EKJT69DCOnA?t=2064"
+    time: "34:24"
+    style: "Latin"
+    composer: ""
+    notes: "way better than first time; add BOMP ending"
+    hof: true
+  - song_num: "7"
+    name: "Moanin"
+    slug: "moanin"
+    url: "https://youtu.be/EKJT69DCOnA?t=2493"
+    time: "41:33"
+    style: "Swing"
+    composer: ""
+    notes: "cutoff drums by mistake, otherwise good"
+    hof: true
+  - song_num: "8"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: "https://youtu.be/EKJT69DCOnA?t=2880"
+    time: "48:00"
+    style: "Techno"
+    composer: ""
+    notes: "HOF"
+    hof: true
+  - song_num: "9"
+    name: "Emily"
+    slug: "emily"
+    url: "https://youtu.be/EKJT69DCOnA?t=3305"
+    time: "55:05"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 34 (November 6, 2020)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/EKJT69DCOnA)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Georgia on my Mind]({{ '/songs/' | relative_url }}georgia-on-my-mind/) | [03:30](https://youtu.be/EKJT69DCOnA?t=210) | Ballad |  |
-| 2 | [NovembeRain]({{ '/one-off-songs.html' | relative_url }}#novemberain) | [08:50](https://youtu.be/EKJT69DCOnA?t=530) |  |  |
-| 3 | [Cantaloupe Island]({{ '/songs/' | relative_url }}cantaloupe-island/) | [13:38](https://youtu.be/EKJT69DCOnA?t=818) | Funk | HOF |
-| 4 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) | [20:23](https://youtu.be/EKJT69DCOnA?t=1223) | Bossa |  |
-| 5 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) | [28:14](https://youtu.be/EKJT69DCOnA?t=1694) | Swing |  |
-| 6 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [34:24](https://youtu.be/EKJT69DCOnA?t=2064) | Latin | way better than first time; add BOMP ending |
-| 7 | [Moanin]({{ '/songs/' | relative_url }}moanin/) | [41:33](https://youtu.be/EKJT69DCOnA?t=2493) | Swing | cutoff drums by mistake, otherwise good |
-| 8 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [48:00](https://youtu.be/EKJT69DCOnA?t=2880) | Techno | HOF |
-| 9 | [Emily]({{ '/songs/' | relative_url }}emily/) | [55:05](https://youtu.be/EKJT69DCOnA?t=3305) | Swing |  |

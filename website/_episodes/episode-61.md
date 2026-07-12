@@ -12,21 +12,77 @@ tip_jar: "sewa, oxygen for india"
 notes: "yes"
 youtube_url: "https://youtu.be/Bi8XaJ4O-0I"
 image: "/assets/images/title-slides/episode-61.jpg"
+setlist:
+  - song_num: "1"
+    name: "Softly as in a Morning Sunrise"
+    slug: "softly-as-in-a-morning-sunrise"
+    url: "https://youtu.be/Bi8XaJ4O-0I?t=213"
+    time: "03:33"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Eleven Twelve"
+    slug: "eleven-twelve"
+    url: "https://youtu.be/Bi8XaJ4O-0I?t=618"
+    time: "10:18"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Samba e Amor"
+    slug: "samba-e-amor"
+    url: "https://youtu.be/Bi8XaJ4O-0I?t=999"
+    time: "16:39"
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: "https://youtu.be/Bi8XaJ4O-0I?t=1605"
+    time: "26:45"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Emily"
+    slug: "emily"
+    url: "https://youtu.be/Bi8XaJ4O-0I?t=2051"
+    time: "34:11"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Impressions"
+    slug: "impressions"
+    url: "https://youtu.be/Bi8XaJ4O-0I?t=2397"
+    time: "39:57"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Sugar"
+    slug: "sugar"
+    url: "https://youtu.be/Bi8XaJ4O-0I?t=2834"
+    time: "47:14"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Camilla (the Old, Old story)"
+    slug: "camilla-the-old-old-story"
+    url: "https://youtu.be/Bi8XaJ4O-0I?t=3255"
+    time: "54:15"
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
 ---
-
-# Episode 61 (May 14, 2021)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/Bi8XaJ4O-0I)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Softly as in a Morning Sunrise]({{ '/songs/' | relative_url }}softly-as-in-a-morning-sunrise/) | [03:33](https://youtu.be/Bi8XaJ4O-0I?t=213) | Techno |  |
-| 2 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [10:18](https://youtu.be/Bi8XaJ4O-0I?t=618) | Funk |  |
-| 3 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) | [16:39](https://youtu.be/Bi8XaJ4O-0I?t=999) | Samba |  |
-| 4 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [26:45](https://youtu.be/Bi8XaJ4O-0I?t=1605) | Latin |  |
-| 5 | [Emily]({{ '/songs/' | relative_url }}emily/) | [34:11](https://youtu.be/Bi8XaJ4O-0I?t=2051) | Swing |  |
-| 6 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [39:57](https://youtu.be/Bi8XaJ4O-0I?t=2397) | Techno |  |
-| 7 | [Sugar]({{ '/songs/' | relative_url }}sugar/) | [47:14](https://youtu.be/Bi8XaJ4O-0I?t=2834) | Swing |  |
-| 8 | [Camilla (the Old, Old story)]({{ '/songs/' | relative_url }}camilla-the-old-old-story/) | [54:15](https://youtu.be/Bi8XaJ4O-0I?t=3255) | Downtempo |  |

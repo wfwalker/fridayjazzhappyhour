@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/aIcDNwErzS0"
 image: "/assets/images/title-slides/episode-193.jpg"
+setlist:
+  - song_num: "1"
+    name: "Also Sprach Zarathustra"
+    slug: "also-sprach-zarathustra"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Alice in Wonderland"
+    slug: "alice-in-wonderland"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Mas Que Nada"
+    slug: "mas-que-nada"
+    url: ""
+    time: ""
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "All Blues"
+    slug: "all-blues"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Frog"
+    slug: "frog"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "So Danco Samba"
+    slug: "so-danco-samba"
+    url: ""
+    time: ""
+    style: "Samba"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Sing Sing Sing"
+    slug: "sing-sing-sing"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "What are you doing New Year's Eve?"
+    slug: "what-are-you-doing-new-years-eve"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 193 (December 29, 2023)
-
-[Watch Full Stream on YouTube &rarr;](https://youtube.com/live/aIcDNwErzS0)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) |  | Funk |  |
-| 2 | [Alice in Wonderland]({{ '/songs/' | relative_url }}alice-in-wonderland/) |  | Swing |  |
-| 3 | [Mas Que Nada]({{ '/songs/' | relative_url }}mas-que-nada/) |  | Latin |  |
-| 4 | [All Blues]({{ '/songs/' | relative_url }}all-blues/) |  | Swing |  |
-| 5 | [Frog]({{ '/songs/' | relative_url }}frog/) |  | Funk |  |
-| 6 | [So Danco Samba]({{ '/songs/' | relative_url }}so-danco-samba/) |  | Samba |  |
-| 7 | [Sing Sing Sing]({{ '/songs/' | relative_url }}sing-sing-sing/) |  | Pop |  |
-| 8 | [What are you doing New Year's Eve?]({{ '/one-off-songs.html' | relative_url }}#what-are-you-doing-new-years-eve) |  |  |  |

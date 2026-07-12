@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/JXm5bNWc5Tk"
 image: "/assets/images/title-slides/episode-298.jpg"
+setlist:
+  - song_num: "1"
+    name: "A Foggy Day (In London Town)"
+    slug: "a-foggy-day-in-london-town"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Triste"
+    slug: "triste"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Up Jumped Spring"
+    slug: "up-jumped-spring"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Scrapple from the Apple"
+    slug: "scrapple-from-the-apple"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Amphibious"
+    slug: "amphibious"
+    url: ""
+    time: ""
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Blue in Green"
+    slug: "blue-in-green"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Take me to the River"
+    slug: "take-me-to-the-river"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "rhodes ambient closer may 15"
+    slug: "rhodes-ambient-closer-may-15"
+    url: ""
+    time: ""
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 298 (May 15, 2026)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/JXm5bNWc5Tk)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [A Foggy Day (In London Town)]({{ '/songs/' | relative_url }}a-foggy-day-in-london-town/) |  | Swing |  |
-| 2 | [Triste]({{ '/songs/' | relative_url }}triste/) |  | Bossa |  |
-| 3 | [Up Jumped Spring]({{ '/songs/' | relative_url }}up-jumped-spring/) |  | Swing |  |
-| 4 | [Scrapple from the Apple]({{ '/songs/' | relative_url }}scrapple-from-the-apple/) |  | Swing |  |
-| 5 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  | Funk |  |
-| 6 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) |  | Swing |  |
-| 7 | [Take me to the River]({{ '/songs/' | relative_url }}take-me-to-the-river/) |  | Pop |  |
-| 8 | [rhodes ambient closer may 15]({{ '/one-off-songs.html' | relative_url }}#rhodes-ambient-closer-may-15) |  |  |  |

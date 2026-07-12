@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/BddGe4Ag9_M"
 image: "/assets/images/title-slides/episode-105.jpg"
+setlist:
+  - song_num: "1"
+    name: "O Cantador (Like a Lover)"
+    slug: "o-cantador-like-a-lover"
+    url: "https://youtu.be/BddGe4Ag9_M?t=190"
+    time: "03:10"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "I Love Paris"
+    slug: "i-love-paris"
+    url: "https://youtu.be/BddGe4Ag9_M?t=738"
+    time: "12:18"
+    style: "Techno"
+    composer: ""
+    notes: "nice?"
+    hof: true
+  - song_num: "3"
+    name: "Bluesette"
+    slug: "bluesette"
+    url: "https://youtu.be/BddGe4Ag9_M?t=1124"
+    time: "18:44"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Afro Blue"
+    slug: "afro-blue"
+    url: "https://youtu.be/BddGe4Ag9_M?t=1543"
+    time: "25:43"
+    style: "Latin"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Maiden Voyage"
+    slug: "maiden-voyage"
+    url: "https://youtu.be/BddGe4Ag9_M?t=1920"
+    time: "32:00"
+    style: "Techno"
+    composer: ""
+    notes: "better transitions"
+    hof: true
+  - song_num: "6"
+    name: "Isn't It Romantic"
+    slug: "isnt-it-romantic"
+    url: "https://youtu.be/BddGe4Ag9_M?t=2430"
+    time: "40:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "The Chicken"
+    slug: "the-chicken"
+    url: "https://youtu.be/BddGe4Ag9_M?t=2767"
+    time: "46:07"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Closer March 18"
+    slug: "closer-march-18"
+    url: "https://youtu.be/BddGe4Ag9_M?t=3203"
+    time: "53:23"
+    style: ""
+    composer: ""
+    notes: ""
+    hof: false
 ---
-
-# Episode 105 (March 17, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/BddGe4Ag9_M)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) | [03:10](https://youtu.be/BddGe4Ag9_M?t=190) | Bossa |  |
-| 2 | [I Love Paris]({{ '/songs/' | relative_url }}i-love-paris/) | [12:18](https://youtu.be/BddGe4Ag9_M?t=738) | Techno | nice? |
-| 3 | [Bluesette]({{ '/songs/' | relative_url }}bluesette/) | [18:44](https://youtu.be/BddGe4Ag9_M?t=1124) | Swing |  |
-| 4 | [Afro Blue]({{ '/songs/' | relative_url }}afro-blue/) | [25:43](https://youtu.be/BddGe4Ag9_M?t=1543) | Latin |  |
-| 5 | [Maiden Voyage]({{ '/songs/' | relative_url }}maiden-voyage/) | [32:00](https://youtu.be/BddGe4Ag9_M?t=1920) | Techno | better transitions |
-| 6 | [Isn't It Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) | [40:30](https://youtu.be/BddGe4Ag9_M?t=2430) | Swing |  |
-| 7 | [The Chicken]({{ '/songs/' | relative_url }}the-chicken/) | [46:07](https://youtu.be/BddGe4Ag9_M?t=2767) | Funk |  |
-| 8 | [Closer March 18]({{ '/one-off-songs.html' | relative_url }}#closer-march-18) | [53:23](https://youtu.be/BddGe4Ag9_M?t=3203) |  |  |

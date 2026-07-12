@@ -12,21 +12,77 @@ tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/B3o-4sC6Z6w"
 image: "/assets/images/title-slides/episode-133.jpg"
+setlist:
+  - song_num: "1"
+    name: "Angel Eyes"
+    slug: "angel-eyes"
+    url: "https://youtu.be/B3o-4sC6Z6w?t=130"
+    time: "02:10"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Impressions"
+    slug: "impressions"
+    url: "https://youtu.be/B3o-4sC6Z6w?t=580"
+    time: "09:40"
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Mo Better Blues"
+    slug: "mo-better-blues"
+    url: "https://youtu.be/B3o-4sC6Z6w?t=1050"
+    time: "17:30"
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "Pocket Calculator"
+    slug: "pocket-calculator"
+    url: "https://youtu.be/B3o-4sC6Z6w?t=1354"
+    time: "22:34"
+    style: "Techno"
+    composer: ""
+    notes: "might be done?"
+    hof: true
+  - song_num: "5"
+    name: "Look to the Sky"
+    slug: "look-to-the-sky"
+    url: "https://youtu.be/B3o-4sC6Z6w?t=1720"
+    time: "28:40"
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Time Remembered"
+    slug: "time-remembered"
+    url: "https://youtu.be/B3o-4sC6Z6w?t=2250"
+    time: "37:30"
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Them Funky Changes"
+    slug: "them-funky-changes"
+    url: "https://youtu.be/B3o-4sC6Z6w?t=2713"
+    time: "45:13"
+    style: "Funk"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "8"
+    name: "Summer Rain"
+    slug: "summer-rain"
+    url: "https://youtu.be/B3o-4sC6Z6w?t=3120"
+    time: "52:00"
+    style: ""
+    composer: ""
+    notes: "VCV random gates thing?"
+    hof: false
 ---
-
-# Episode 133 (September 30, 2022)
-
-[Watch Full Stream on YouTube &rarr;](https://youtu.be/B3o-4sC6Z6w)
-
-### Set List
-
-| # | Song | Time | Style | Notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) | [02:10](https://youtu.be/B3o-4sC6Z6w?t=130) | Swing |  |
-| 2 | [Impressions]({{ '/songs/' | relative_url }}impressions/) | [09:40](https://youtu.be/B3o-4sC6Z6w?t=580) | Techno |  |
-| 3 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) | [17:30](https://youtu.be/B3o-4sC6Z6w?t=1050) | Pop |  |
-| 4 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) | [22:34](https://youtu.be/B3o-4sC6Z6w?t=1354) | Techno | might be done? |
-| 5 | [Look to the Sky]({{ '/songs/' | relative_url }}look-to-the-sky/) | [28:40](https://youtu.be/B3o-4sC6Z6w?t=1720) | Bossa |  |
-| 6 | [Time Remembered]({{ '/songs/' | relative_url }}time-remembered/) | [37:30](https://youtu.be/B3o-4sC6Z6w?t=2250) | Swing |  |
-| 7 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) | [45:13](https://youtu.be/B3o-4sC6Z6w?t=2713) | Funk |  |
-| 8 | [Summer Rain]({{ '/one-off-songs.html' | relative_url }}#summer-rain) | [52:00](https://youtu.be/B3o-4sC6Z6w?t=3120) |  | VCV random gates thing? |
