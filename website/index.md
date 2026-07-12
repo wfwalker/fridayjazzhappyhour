@@ -12,14 +12,13 @@ title: "Friday Jazz Happy Hour Archive"
   }
   
   .dashboard-title {
-    font-family: 'Outfit', sans-serif;
-    font-weight: 800;
+    font-family: var(--font-title);
+    font-weight: var(--font-title-weight);
     font-size: 4rem;
     margin: 0 0 1rem 0;
     background: var(--accent-gradient);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    letter-spacing: -0.03em;
     line-height: 1.1;
   }
   
@@ -196,7 +195,7 @@ title: "Friday Jazz Happy Hour Archive"
 </style>
 
 <div class="dashboard-hero">
-  <h1 class="dashboard-title">Live Stream Archive</h1>
+  <h1 class="dashboard-title">Friday Jazz Happy Hour</h1>
   <p class="dashboard-subtitle">Hi! My name is Bill Walker. On March 20th, 2020 I started doing a weekly live streaming show from my back room during the COVID-19 shelter-in-place. I'm still doing it every Friday, please join us!
 </p>
 </div>
