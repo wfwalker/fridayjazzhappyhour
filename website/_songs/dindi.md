@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Dindi"
-composer: ""
+composer: "Antônio Carlos Jobim"
 style: "Techno"
 play_count: 13
 hall_of_fame: true

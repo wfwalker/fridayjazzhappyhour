@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Poinciana"
-composer: ""
+composer: "Nat Simon"
 style: "Techno"
 play_count: 17
 hall_of_fame: true

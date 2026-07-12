@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Take me to the River"
-composer: ""
+composer: "Al Green"
 style: "Pop"
 play_count: 4
 hall_of_fame: true

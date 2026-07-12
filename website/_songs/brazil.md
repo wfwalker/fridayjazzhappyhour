@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Brazil"
-composer: ""
+composer: "Ary Barroso"
 style: "Bossa"
 play_count: 10
 hall_of_fame: true

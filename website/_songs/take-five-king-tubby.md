@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Take Five (King Tubby)"
-composer: ""
+composer: "Dave Brubeck and King Tubby"
 style: "Downtempo"
 play_count: 10
 hall_of_fame: true

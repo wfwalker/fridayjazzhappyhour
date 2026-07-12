@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Nardis"
-composer: ""
+composer: "Bill Evans"
 style: "Downtempo"
 play_count: 17
 hall_of_fame: true

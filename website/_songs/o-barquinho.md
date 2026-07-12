@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "O Barquinho"
-composer: ""
+composer: "Roberto Menescal"
 style: "Bossa"
 play_count: 12
 hall_of_fame: true

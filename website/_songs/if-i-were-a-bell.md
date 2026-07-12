@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "If I were a bell"
-composer: ""
+composer: "Frank Loesser"
 style: "Swing"
 play_count: 15
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "So Nice"
-composer: ""
+composer: "Marcos Valle"
 style: "Bossa"
 play_count: 13
 hall_of_fame: true

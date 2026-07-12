@@ -37,19 +37,23 @@ def read_hall_of_fame(path):
         title_idx = header.index('title') if 'title' in header else 1
         ready_idx = header.index('ready') if 'ready' in header else 2
         style_idx = header.index('style') if 'style' in header else 6
+        composer_idx = header.index('composer') if 'composer' in header else (7 if len(header) > 7 else -1)
         
         for row in reader:
-            if not row or len(row) <= max(title_idx, ready_idx, style_idx):
+            limit_idx = max(title_idx, ready_idx, style_idx, composer_idx)
+            if not row or len(row) <= limit_idx:
                 continue
             title = row[title_idx].strip()
             ready = row[ready_idx].strip()
             style = row[style_idx].strip()
+            composer = row[composer_idx].strip() if composer_idx != -1 else ""
             if title:
                 slug = slugify(title)
                 hof[slug] = {
                     "title": title,
                     "ready": ready,
-                    "style": style
+                    "style": style,
+                    "composer": composer
                 }
     print(f"Loaded {len(hof)} songs from Hall of Fame.")
     return hof
@@ -208,6 +212,10 @@ def generate_markdown(songs_data, hof, rerun_keys, canonical_dates, out_dir):
             # Style override from Hall of Fame CSV
             if hof_data["style"]:
                 style = hof_data["style"]
+                
+            # Composer override from Hall of Fame CSV
+            if hof_data["composer"]:
+                composer = hof_data["composer"]
                 
             ready_rating = hof_data["ready"] or "0"
             title_escaped = title.replace('"', '\\"')

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Samba e Amor"
-composer: ""
+composer: "Chico Buarque"
 style: "Samba"
 play_count: 15
 hall_of_fame: true

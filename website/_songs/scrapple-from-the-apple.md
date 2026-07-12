@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Scrapple from the Apple"
-composer: ""
+composer: "Charlie Parker"
 style: "Swing"
 play_count: 4
 hall_of_fame: true

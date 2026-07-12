@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "I Can't Get Started"
-composer: ""
+composer: "Vernon Duke"
 style: "Swing"
 play_count: 9
 hall_of_fame: true

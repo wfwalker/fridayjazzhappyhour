@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Days of Wine and Roses"
-composer: ""
+composer: "Henry Mancini"
 style: "Swing"
 play_count: 11
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Footprints"
-composer: ""
+composer: "Wayne Shorter"
 style: "Swing"
 play_count: 13
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Night and Day"
-composer: ""
+composer: "Cole Porter"
 style: "Techno"
 play_count: 14
 hall_of_fame: true

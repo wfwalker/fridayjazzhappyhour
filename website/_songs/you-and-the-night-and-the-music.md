@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "You and the Night and the Music"
-composer: ""
+composer: "Arthur Schwartz and Howard Dietz"
 style: "Ballad"
 play_count: 7
 hall_of_fame: true

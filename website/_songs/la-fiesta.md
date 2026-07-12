@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "La Fiesta"
-composer: ""
+composer: "Chick Corea"
 style: "Latin"
 play_count: 12
 hall_of_fame: true

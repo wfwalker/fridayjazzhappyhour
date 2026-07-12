@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "I Love Paris"
-composer: ""
+composer: "Cole Porter"
 style: "Techno"
 play_count: 11
 hall_of_fame: true

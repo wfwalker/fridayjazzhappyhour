@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Soul Sauce"
-composer: ""
+composer: "Cal Tjader"
 style: "Latin"
 play_count: 8
 hall_of_fame: true

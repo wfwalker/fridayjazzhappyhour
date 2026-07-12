@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Ternura"
-composer: ""
+composer: "K-Ximbinho"
 style: "Latin"
 play_count: 6
 hall_of_fame: true

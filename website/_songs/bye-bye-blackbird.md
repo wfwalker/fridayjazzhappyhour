@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Bye Bye Blackbird"
-composer: ""
+composer: "Ray Henderson"
 style: "Swing"
 play_count: 12
 hall_of_fame: true

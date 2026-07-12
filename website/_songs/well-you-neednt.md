@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Well You Needn’t"
-composer: "Thelonius Monk"
+composer: "Thelonious Monk"
 style: "Reggae"
 play_count: 12
 hall_of_fame: true

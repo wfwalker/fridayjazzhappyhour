@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "They Can't Take that away from me"
-composer: "George Gerswin"
+composer: "George and Ira Gerswhin"
 style: "Swing"
 play_count: 12
 hall_of_fame: true

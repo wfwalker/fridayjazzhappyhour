@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Mo Better Blues"
-composer: ""
+composer: "Branford Marsalis"
 style: "Pop"
 play_count: 12
 hall_of_fame: true

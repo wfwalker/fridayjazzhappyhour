@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Meditation"
-composer: ""
+composer: "Antônio Carlos Jobim"
 style: "Latin"
 play_count: 9
 hall_of_fame: true

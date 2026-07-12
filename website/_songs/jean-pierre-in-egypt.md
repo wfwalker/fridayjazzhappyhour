@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Jean Pierre in Egypt"
-composer: ""
+composer: "Miles Davis"
 style: "Funk"
 play_count: 11
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "A Child is Born"
-composer: ""
+composer: "Thad Jones"
 style: "Latin"
 play_count: 11
 hall_of_fame: true

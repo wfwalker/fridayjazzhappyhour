@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Beat 70"
-composer: ""
+composer: "Pat Metheny and Lyle Mays"
 style: "Bossa"
 play_count: 8
 hall_of_fame: true

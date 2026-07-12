@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Axel F"
-composer: ""
+composer: "Harold Faltermeyer"
 style: "Funk"
 play_count: 12
 hall_of_fame: true

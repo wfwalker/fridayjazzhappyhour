@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Some day my Prince will Come"
-composer: ""
+composer: "Morey and Churchill"
 style: "Swing"
 play_count: 9
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Avalon"
-composer: ""
+composer: "Al Jolson"
 style: "Swing"
 play_count: 10
 hall_of_fame: true

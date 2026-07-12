@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "TSOP"
-composer: ""
+composer: "MFSB"
 style: "Funk"
 play_count: 5
 hall_of_fame: true

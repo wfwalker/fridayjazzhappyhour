@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Mambo Inn"
-composer: ""
+composer: "Mario Bauza"
 style: "Latin"
 play_count: 13
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Eu Quero E Sossego"
-composer: ""
+composer: "K-Ximbinho"
 style: "Bossa"
 play_count: 9
 hall_of_fame: true

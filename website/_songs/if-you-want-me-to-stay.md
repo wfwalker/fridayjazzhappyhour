@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "If you want me to stay"
-composer: ""
+composer: "Sly and the Family Stone"
 style: "Funk"
 play_count: 11
 hall_of_fame: true

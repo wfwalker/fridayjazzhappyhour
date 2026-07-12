@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Triste"
-composer: ""
+composer: "Antônio Carlos Jobim"
 style: "Bossa"
 play_count: 11
 hall_of_fame: true

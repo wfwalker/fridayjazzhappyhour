@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "How Deep is the Ocean"
-composer: ""
+composer: "Irving Berlin"
 style: "Ballad"
 play_count: 14
 hall_of_fame: true

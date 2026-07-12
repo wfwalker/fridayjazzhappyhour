@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "This Masquerade"
-composer: ""
+composer: "Leon Russell"
 style: "Funk"
 play_count: 12
 hall_of_fame: true

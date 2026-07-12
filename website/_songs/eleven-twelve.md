@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Eleven Twelve"
-composer: ""
+composer: "Bill Walker"
 style: "Funk"
 play_count: 16
 hall_of_fame: true

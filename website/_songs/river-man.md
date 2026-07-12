@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "River Man"
-composer: ""
+composer: "Nick Drake"
 style: "Pop"
 play_count: 7
 hall_of_fame: true

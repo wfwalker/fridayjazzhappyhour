@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Newsky Bluesky"
-composer: ""
+composer: "Bill Walker"
 style: "Downtempo"
 play_count: 11
 hall_of_fame: true

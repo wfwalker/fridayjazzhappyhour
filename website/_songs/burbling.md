@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Burbling"
-composer: ""
+composer: "Bill Walker"
 style: "World"
 play_count: 8
 hall_of_fame: true

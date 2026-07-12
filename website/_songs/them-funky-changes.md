@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Them Funky Changes"
-composer: ""
+composer: "Sonny Stitt"
 style: "Funk"
 play_count: 11
 hall_of_fame: true

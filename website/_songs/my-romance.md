@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "My Romance"
-composer: ""
+composer: "Rodgers and Hart"
 style: "Swing"
 play_count: 12
 hall_of_fame: true

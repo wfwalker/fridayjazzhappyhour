@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Amphibious"
-composer: ""
+composer: "Moacir Santos"
 style: "Funk"
 play_count: 9
 hall_of_fame: true

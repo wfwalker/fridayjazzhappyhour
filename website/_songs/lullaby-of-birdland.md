@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Lullaby of Birdland"
-composer: ""
+composer: "George Shearing"
 style: "Swing"
 play_count: 11
 hall_of_fame: true

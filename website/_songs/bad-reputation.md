@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Bad Reputation"
-composer: ""
+composer: "Joan Jett"
 style: "Pop"
 play_count: 1
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Bluesette"
-composer: ""
+composer: "Toots Thielemans"
 style: "Swing"
 play_count: 14
 hall_of_fame: true

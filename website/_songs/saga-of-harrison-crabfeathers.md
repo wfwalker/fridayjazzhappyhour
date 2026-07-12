@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Saga of Harrison Crabfeathers"
-composer: ""
+composer: "Steve Kuhn"
 style: "Swing"
 play_count: 11
 hall_of_fame: true

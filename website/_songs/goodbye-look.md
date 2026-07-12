@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Goodbye Look"
-composer: ""
+composer: "Donald Fagen"
 style: "Pop"
 play_count: 10
 hall_of_fame: true

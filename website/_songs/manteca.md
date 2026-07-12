@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Manteca"
-composer: ""
+composer: "Dizzy Gillespie"
 style: "Latin"
 play_count: 12
 hall_of_fame: true

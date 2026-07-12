@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Seven Steps to Heaven"
-composer: ""
+composer: "Victor Feldman"
 style: "Pop"
 play_count: 8
 hall_of_fame: true

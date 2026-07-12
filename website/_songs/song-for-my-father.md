@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Song for my Father"
-composer: ""
+composer: "Horace Silver"
 style: "Latin"
 play_count: 10
 hall_of_fame: true

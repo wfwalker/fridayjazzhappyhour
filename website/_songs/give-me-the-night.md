@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Give me the Night"
-composer: ""
+composer: "Rod Temperton"
 style: "Funk"
 play_count: 9
 hall_of_fame: true

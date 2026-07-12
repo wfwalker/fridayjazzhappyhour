@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Summertime"
-composer: ""
+composer: "George Gershwin"
 style: "Funk"
 play_count: 12
 hall_of_fame: true

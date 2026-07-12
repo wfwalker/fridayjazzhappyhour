@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Forrozinho em Cazadero"
-composer: ""
+composer: "Vitor Gonçalves"
 style: "Latin"
 play_count: 3
 hall_of_fame: true

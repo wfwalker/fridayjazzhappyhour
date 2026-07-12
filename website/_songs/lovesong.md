@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Lovesong"
-composer: ""
+composer: "The Cure"
 style: "Pop"
 play_count: 2
 hall_of_fame: true

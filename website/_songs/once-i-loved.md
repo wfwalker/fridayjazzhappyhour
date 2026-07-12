@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Once I Loved"
-composer: ""
+composer: "Antônio Carlos Jobim"
 style: "Bossa"
 play_count: 6
 hall_of_fame: true

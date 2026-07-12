@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Stella by Starlight"
-composer: ""
+composer: "Victor Young"
 style: "Swing"
 play_count: 12
 hall_of_fame: true

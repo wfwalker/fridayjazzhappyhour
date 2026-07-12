@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Moanin"
-composer: ""
+composer: "Bobby Timmons"
 style: "Swing"
 play_count: 14
 hall_of_fame: true

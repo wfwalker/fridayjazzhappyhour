@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Umbrella"
-composer: ""
+composer: "Rihanna"
 style: "Pop"
 play_count: 6
 hall_of_fame: true

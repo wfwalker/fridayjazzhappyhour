@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Bossa Antigua"
-composer: ""
+composer: "Paul Desmond"
 style: "Bossa"
 play_count: 9
 hall_of_fame: true

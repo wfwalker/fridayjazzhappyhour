@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Autumn Leaves"
-composer: ""
+composer: "Joseph Kosma"
 style: "Swing"
 play_count: 16
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Won't you be my neighbor?"
-composer: ""
+composer: "Fred Rodgers"
 style: "Swing"
 play_count: 4
 hall_of_fame: true

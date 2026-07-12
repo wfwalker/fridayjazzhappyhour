@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Love Boat"
-composer: ""
+composer: "Jack Jones"
 style: "Samba"
 play_count: 3
 hall_of_fame: true

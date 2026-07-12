@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "My Little Suede Shoes"
-composer: ""
+composer: "Charlie Parker"
 style: "Bossa"
 play_count: 17
 hall_of_fame: true

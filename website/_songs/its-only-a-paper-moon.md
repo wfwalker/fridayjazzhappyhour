@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "It's only a paper moon"
-composer: ""
+composer: "Harold Arlen"
 style: "Swing"
 play_count: 8
 hall_of_fame: true

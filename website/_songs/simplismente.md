@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Simplismente"
-composer: ""
+composer: "Bebel Gilberto"
 style: "Techno"
 play_count: 7
 hall_of_fame: true

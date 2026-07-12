@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Moments in Love"
-composer: ""
+composer: "Art of Noise"
 style: "Techno"
 play_count: 1
 hall_of_fame: true

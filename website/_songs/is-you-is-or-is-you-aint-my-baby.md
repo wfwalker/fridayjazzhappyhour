@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Is you is or is you ain't my baby?"
-composer: ""
+composer: "Louis Jordan"
 style: "Pop"
 play_count: 2
 hall_of_fame: true

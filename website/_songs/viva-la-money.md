@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Viva La Money"
-composer: ""
+composer: "Allen Toussaint"
 style: "Funk"
 play_count: 4
 hall_of_fame: true

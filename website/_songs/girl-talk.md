@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Girl Talk"
-composer: ""
+composer: "Neal Hefti"
 style: "Swing"
 play_count: 8
 hall_of_fame: true

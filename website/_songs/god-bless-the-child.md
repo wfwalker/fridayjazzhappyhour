@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "God Bless the Child"
-composer: ""
+composer: "Billie Holiday"
 style: "Funk"
 play_count: 11
 hall_of_fame: true

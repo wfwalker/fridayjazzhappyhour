@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Sermonette"
-composer: ""
+composer: "Nat Adderley"
 style: "Swing"
 play_count: 3
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Frog"
-composer: ""
+composer: "João Donato"
 style: "Funk"
 play_count: 11
 hall_of_fame: true

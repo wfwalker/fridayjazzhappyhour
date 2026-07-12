@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Solsbury Hill"
-composer: ""
+composer: "Peter Gabriel"
 style: "Pop"
 play_count: 4
 hall_of_fame: true

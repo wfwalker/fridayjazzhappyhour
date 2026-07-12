@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Root Down (and Get it)"
-composer: ""
+composer: "Jimmy Smith"
 style: "Funk"
 play_count: 10
 hall_of_fame: true

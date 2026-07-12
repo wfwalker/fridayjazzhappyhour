@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Desde"
-composer: ""
+composer: "Caetano Veloso and Gilberto Gil"
 style: "Bossa"
 play_count: 15
 hall_of_fame: true

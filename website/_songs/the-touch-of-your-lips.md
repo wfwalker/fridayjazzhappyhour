@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "The Touch of your Lips"
-composer: ""
+composer: "Ray Noble"
 style: "Swing"
 play_count: 11
 hall_of_fame: true

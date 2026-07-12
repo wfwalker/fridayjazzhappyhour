@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Stars Fell on Alabama"
-composer: ""
+composer: "Perkins and Parish"
 style: "Swing"
 play_count: 12
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "It Might as Well be Spring"
-composer: ""
+composer: "Rogers and Hammerstein"
 style: "Bossa"
 play_count: 9
 hall_of_fame: true

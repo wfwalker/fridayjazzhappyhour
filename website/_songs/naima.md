@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Naima"
-composer: ""
+composer: "John Coltrane"
 style: "Downtempo"
 play_count: 16
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Chega de Saudade"
-composer: ""
+composer: "Antônio Carlos Jobim"
 style: "Bossa"
 play_count: 7
 hall_of_fame: true

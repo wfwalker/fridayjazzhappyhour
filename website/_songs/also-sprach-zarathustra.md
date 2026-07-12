@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Also Sprach Zarathustra"
-composer: ""
+composer: "Eumir Deodato"
 style: "Funk"
 play_count: 12
 hall_of_fame: true

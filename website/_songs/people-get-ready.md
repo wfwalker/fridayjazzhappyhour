@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "People get Ready"
-composer: ""
+composer: "Curtis Mayfield"
 style: "Pop"
 play_count: 3
 hall_of_fame: true

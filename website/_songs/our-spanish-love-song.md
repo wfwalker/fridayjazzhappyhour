@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Our Spanish Love Song"
-composer: ""
+composer: "Charlie Haden"
 style: "Latin"
 play_count: 3
 hall_of_fame: true

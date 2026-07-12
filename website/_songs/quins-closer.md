@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Quin's Closer"
-composer: ""
+composer: "Bill Walker"
 style: "Ambient"
 play_count: 5
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "CQ"
-composer: ""
+composer: "Bill Walker"
 style: "Ambient"
 play_count: 4
 hall_of_fame: true

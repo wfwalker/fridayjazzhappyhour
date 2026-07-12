@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Just the Two of Us"
-composer: ""
+composer: "Bill Withers"
 style: "Funk"
 play_count: 5
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Look of Love"
-composer: ""
+composer: "Burt Bacharach"
 style: "Ballad"
 play_count: 7
 hall_of_fame: true

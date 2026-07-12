@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Some Other Funk"
-composer: ""
+composer: "Bill Walker"
 style: "Funk"
 play_count: 12
 hall_of_fame: true

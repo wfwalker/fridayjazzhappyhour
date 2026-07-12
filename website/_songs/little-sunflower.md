@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Little Sunflower"
-composer: ""
+composer: "Freddie Hubbard"
 style: "Techno"
 play_count: 18
 hall_of_fame: true

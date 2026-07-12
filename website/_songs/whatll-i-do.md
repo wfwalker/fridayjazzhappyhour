@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "What'll I Do?"
-composer: ""
+composer: "Irving Berlin"
 style: "Ballad"
 play_count: 3
 hall_of_fame: true

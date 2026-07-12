@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "So Danco Samba"
-composer: ""
+composer: "João Gilberto"
 style: "Samba"
 play_count: 11
 hall_of_fame: true

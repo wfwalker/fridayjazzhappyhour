@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Limehouse Blues"
-composer: ""
+composer: "Furber and Braham"
 style: "Swing"
 play_count: 5
 hall_of_fame: true

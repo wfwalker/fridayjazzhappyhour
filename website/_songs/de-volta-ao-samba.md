@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "De Volta Ao Samba"
-composer: ""
+composer: "Chico Buarque"
 style: "Bossa"
 play_count: 10
 hall_of_fame: true

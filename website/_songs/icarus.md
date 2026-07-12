@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Icarus"
-composer: ""
+composer: "Ralph Towner"
 style: "Latin"
 play_count: 13
 hall_of_fame: true

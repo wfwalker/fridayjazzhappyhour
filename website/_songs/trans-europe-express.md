@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Trans Europe Express"
-composer: ""
+composer: "Kraftwerk"
 style: "Techno"
 play_count: 10
 hall_of_fame: true

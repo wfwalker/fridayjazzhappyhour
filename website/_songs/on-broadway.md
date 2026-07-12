@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "On Broadway"
-composer: ""
+composer: "Leiber and Stoller"
 style: "Pop"
 play_count: 1
 hall_of_fame: true

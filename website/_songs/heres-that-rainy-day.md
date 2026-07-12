@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Here's that Rainy Day"
-composer: ""
+composer: "Jimmy Van Heusen"
 style: "Ballad"
 play_count: 6
 hall_of_fame: true

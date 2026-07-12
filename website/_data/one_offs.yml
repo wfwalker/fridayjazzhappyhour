@@ -773,7 +773,7 @@
   composer: "Bill Withers"
   style: "VOCAL"
   play_count: 1
-- title: "Let It Snow"
+- title: "Let it Snow"
   slug: "let-it-snow"
   composer: ""
   style: ""
@@ -1048,7 +1048,7 @@
   composer: ""
   style: ""
   play_count: 1
-- title: "Sacto Closer"
+- title: "Sacto closer"
   slug: "sacto-closer"
   composer: ""
   style: ""
@@ -1148,7 +1148,7 @@
   composer: "Seatbelts"
   style: ""
   play_count: 1
-- title: "Spring can really hang you up the most"
+- title: "Spring Can Really Hang You Up the Most"
   slug: "spring-can-really-hang-you-up-the-most"
   composer: "Tommy Wolf"
   style: "ballad"

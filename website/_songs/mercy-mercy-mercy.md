@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Mercy, Mercy, Mercy"
-composer: ""
+composer: "Joe Zawinul"
 style: "Funk"
 play_count: 15
 hall_of_fame: true

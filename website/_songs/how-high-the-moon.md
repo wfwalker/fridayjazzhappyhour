@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "How High the Moon"
-composer: ""
+composer: "Nancy Hamilton and Morgan Lewis"
 style: "Swing"
 play_count: 12
 hall_of_fame: true

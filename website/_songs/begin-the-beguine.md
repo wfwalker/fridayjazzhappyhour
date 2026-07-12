@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Begin the Beguine"
-composer: ""
+composer: "Cole Porter"
 style: "Bossa"
 play_count: 6
 hall_of_fame: true

@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Hi Lili, Hi Lo"
-composer: ""
+composer: "Bronislaw Kaper"
 style: "Ballad"
 play_count: 8
 hall_of_fame: true

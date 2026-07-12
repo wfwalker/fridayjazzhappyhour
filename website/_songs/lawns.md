@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Lawns"
-composer: ""
+composer: "Carla Bley"
 style: "Ballad"
 play_count: 5
 hall_of_fame: true

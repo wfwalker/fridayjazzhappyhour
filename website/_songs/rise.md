@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Rise"
-composer: ""
+composer: "Herb Alpert"
 style: "Funk"
 play_count: 11
 hall_of_fame: true

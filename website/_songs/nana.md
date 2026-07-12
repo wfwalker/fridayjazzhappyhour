@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Nana"
-composer: ""
+composer: "Moacir Santos"
 style: "Funk"
 play_count: 3
 hall_of_fame: true

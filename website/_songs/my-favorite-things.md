@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "My Favorite Things"
-composer: ""
+composer: "Rodgers and Hammerstein"
 style: "Swing"
 play_count: 8
 hall_of_fame: true

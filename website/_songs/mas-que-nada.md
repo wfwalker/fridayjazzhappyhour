@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Mas Que Nada"
-composer: ""
+composer: "Jorge Ben"
 style: "Latin"
 play_count: 10
 hall_of_fame: true

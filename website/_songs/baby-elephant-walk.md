@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Baby Elephant Walk"
-composer: ""
+composer: "Henry Mancini"
 style: "Techno"
 play_count: 5
 hall_of_fame: true

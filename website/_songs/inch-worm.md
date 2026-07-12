@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Inch Worm"
-composer: ""
+composer: "Frank Loesser"
 style: "Ballad"
 play_count: 12
 hall_of_fame: true

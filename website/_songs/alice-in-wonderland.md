@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Alice in Wonderland"
-composer: ""
+composer: "Sammy Fein"
 style: "Swing"
 play_count: 15
 hall_of_fame: true

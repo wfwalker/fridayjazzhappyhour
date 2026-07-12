@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Deacon Blues"
-composer: ""
+composer: "Walter Becker and Donald Fagen"
 style: "Pop"
 play_count: 6
 hall_of_fame: true

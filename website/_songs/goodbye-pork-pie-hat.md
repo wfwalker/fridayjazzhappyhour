@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Goodbye Pork Pie Hat"
-composer: ""
+composer: "Charles Mingus"
 style: "Swing"
 play_count: 7
 hall_of_fame: true

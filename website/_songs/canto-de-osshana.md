@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Canto de Osshana"
-composer: ""
+composer: "Baden Powell and Vinicius de Moraes"
 style: "Samba"
 play_count: 9
 hall_of_fame: true

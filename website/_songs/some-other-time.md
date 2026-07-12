@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Some Other time"
-composer: ""
+composer: "Leonard Bernstein"
 style: "Ballad"
 play_count: 2
 hall_of_fame: true

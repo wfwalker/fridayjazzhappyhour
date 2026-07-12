@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Nightingale Sang in Berkeley Square"
-composer: "Eric Maschwitz"
+composer: "Maschwitz and Sherwin"
 style: "Ballad"
 play_count: 8
 hall_of_fame: true

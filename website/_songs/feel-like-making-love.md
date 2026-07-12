@@ -1,7 +1,7 @@
 ---
 layout: song
 title: "Feel Like Making Love"
-composer: ""
+composer: "Eugene McDaniels"
 style: "Pop"
 play_count: 2
 hall_of_fame: true
