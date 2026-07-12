@@ -23,8 +23,8 @@ image: "/assets/images/title-slides/episode-235.jpg"
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
 | 1 | [Skating]({{ '/one-off-songs.html' | relative_url }}#skating) |  |  |  |
-| 2 | [Christmastime is Here]({{ '/one-off-songs.html' | relative_url }}#christmastime-is-here) |  |  |  |
-| 3 | [Christmas is Coming]({{ '/one-off-songs.html' | relative_url }}#christmas-is-coming) |  |  |  |
+| 2 | [Christmastime is Here]({{ '/songs/' | relative_url }}christmastime-is-here/) |  | Christmas |  |
+| 3 | [Christmas is Coming]({{ '/songs/' | relative_url }}christmas-is-coming/) |  | Christmas |  |
 | 4 | [Mo Better Blues]({{ '/songs/' | relative_url }}mo-better-blues/) |  | Pop |  |
 | 5 | [Nearness of You]({{ '/songs/' | relative_url }}nearness-of-you/) |  | Bossa |  |
 | 6 | [So Danco Samba]({{ '/songs/' | relative_url }}so-danco-samba/) |  | Samba |  |

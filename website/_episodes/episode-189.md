@@ -25,8 +25,8 @@ image: "/assets/images/title-slides/episode-189.jpg"
 | 1 | [Angel Eyes]({{ '/songs/' | relative_url }}angel-eyes/) |  | Swing |  |
 | 2 | [Beat 70]({{ '/songs/' | relative_url }}beat-70/) |  | Bossa |  |
 | 3 | [Triste]({{ '/songs/' | relative_url }}triste/) |  | Bossa |  |
-| 4 | [Christmas is Coming]({{ '/one-off-songs.html' | relative_url }}#christmas-is-coming) |  |  |  |
+| 4 | [Christmas is Coming]({{ '/songs/' | relative_url }}christmas-is-coming/) |  | Christmas |  |
 | 5 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) |  | Pop |  |
 | 6 | [Stars Fell on Alabama]({{ '/songs/' | relative_url }}stars-fell-on-alabama/) |  | Swing |  |
 | 7 | [Amphibious]({{ '/songs/' | relative_url }}amphibious/) |  | Funk |  |
-| 8 | [Christmastime is Here]({{ '/one-off-songs.html' | relative_url }}#christmastime-is-here) |  |  |  |
+| 8 | [Christmastime is Here]({{ '/songs/' | relative_url }}christmastime-is-here/) |  | Christmas |  |

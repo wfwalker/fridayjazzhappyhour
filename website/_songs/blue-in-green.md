@@ -3,14 +3,14 @@ layout: song
 title: "Blue in Green"
 composer: "Miles Davis"
 style: "Swing"
-play_count: 14
+play_count: 15
 hall_of_fame: true
 ready_rating: 4
 ---
 
 # Blue in Green
 
-Played **14** times in the live shows.
+Played **15** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
@@ -28,3 +28,4 @@ Played **14** times in the live shows.
 | 3/28/2025 | <a href="{{ '/episodes/' | relative_url }}episode-250/">#250</a> |  |  |
 | 8/8/2025 | <a href="{{ '/episodes/' | relative_url }}episode-267/">#267</a> |  |  |
 | 5/15/2026 | <a href="{{ '/episodes/' | relative_url }}episode-298/">#298</a> |  |  |
+| 7/3/2026 | <a href="{{ '/episodes/' | relative_url }}episode-303/">#303</a> |  |  |

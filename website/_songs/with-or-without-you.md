@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "With or without you"
+title: "With or Without you"
 composer: "U2"
 style: "Pop"
 play_count: 5
@@ -8,7 +8,7 @@ hall_of_fame: true
 ready_rating: 0
 ---
 
-# With or without you
+# With or Without you
 
 Played **5** times in the live shows.
 

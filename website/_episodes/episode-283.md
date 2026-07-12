@@ -27,5 +27,5 @@ image: "/assets/images/title-slides/episode-283.jpg"
 | 3 | [Them Funky Changes]({{ '/songs/' | relative_url }}them-funky-changes/) |  | Funk |  |
 | 4 | [Once I Loved]({{ '/songs/' | relative_url }}once-i-loved/) |  | Bossa |  |
 | 5 | [Beat 70]({{ '/songs/' | relative_url }}beat-70/) |  | Bossa |  |
-| 6 | [Go Tell It on the Mountain]({{ '/one-off-songs.html' | relative_url }}#go-tell-it-on-the-mountain) |  |  |  |
+| 6 | [Go Tell It on the Mountain]({{ '/songs/' | relative_url }}go-tell-it-on-the-mountain/) |  | Christmas |  |
 | 7 | [Greensleeves Closer]({{ '/one-off-songs.html' | relative_url }}#greensleeves-closer) |  |  |  |

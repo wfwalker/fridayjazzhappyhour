@@ -22,11 +22,11 @@ image: "/assets/images/title-slides/episode-236.jpg"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [White Christmas]({{ '/one-off-songs.html' | relative_url }}#white-christmas) |  |  |  |
+| 1 | [White Christmas]({{ '/songs/' | relative_url }}white-christmas/) |  | Christmas |  |
 | 2 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) |  | Swing |  |
 | 3 | [Samba De Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) |  | Samba |  |
 | 4 | [What Child is This?]({{ '/one-off-songs.html' | relative_url }}#what-child-is-this) |  |  |  |
 | 5 | [Summertime]({{ '/songs/' | relative_url }}summertime/) |  | Funk |  |
 | 6 | [Girl Talk]({{ '/songs/' | relative_url }}girl-talk/) |  | Swing |  |
-| 7 | [The Holly and the Ivy]({{ '/one-off-songs.html' | relative_url }}#the-holly-and-the-ivy) |  |  |  |
+| 7 | [The Holly and the Ivy]({{ '/songs/' | relative_url }}the-holly-and-the-ivy/) |  | Christmas |  |
 | 8 | [closer white christmas]({{ '/one-off-songs.html' | relative_url }}#closer-white-christmas) |  |  |  |

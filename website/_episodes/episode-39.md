@@ -21,8 +21,8 @@ youtube_url: "https://youtu.be/hfljJ87kgbs"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [O Christmas Tree]({{ '/one-off-songs.html' | relative_url }}#o-christmas-tree) | [04:20](https://youtu.be/hfljJ87kgbs?t=260) |  |  |
-| 1 | [O Christmas Tree]({{ '/one-off-songs.html' | relative_url }}#o-christmas-tree) | [04:20](https://youtu.be/hfljJ87kgbs?t=260) |  |  |
+| 1 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) | [04:20](https://youtu.be/hfljJ87kgbs?t=260) | Christmas |  |
+| 1 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) | [04:20](https://youtu.be/hfljJ87kgbs?t=260) | Christmas |  |
 | 2 | [Cast your fate to the wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) | [10:10](https://youtu.be/hfljJ87kgbs?t=610) | Pop |  |
 | 2 | [Cast your fate to the Wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) | [10:12](https://youtu.be/hfljJ87kgbs?t=612) | Pop |  |
 | 3 | [Samba De Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [17:15](https://youtu.be/hfljJ87kgbs?t=1035) | Samba |  |
@@ -31,8 +31,8 @@ youtube_url: "https://youtu.be/hfljJ87kgbs"
 | 4 | [The Christmas Song]({{ '/one-off-songs.html' | relative_url }}#the-christmas-song) | [27:05](https://youtu.be/hfljJ87kgbs?t=1625) |  |  |
 | 5 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [32:36](https://youtu.be/hfljJ87kgbs?t=1956) | Funk |  |
 | 5 | [Sunny]({{ '/songs/' | relative_url }}sunny/) | [32:34](https://youtu.be/hfljJ87kgbs?t=1954) | Funk |  |
-| 6 | [Merry Little Christmas]({{ '/one-off-songs.html' | relative_url }}#merry-little-christmas) | [39:50](https://youtu.be/hfljJ87kgbs?t=2390) |  |  |
-| 6 | [Have yourself a Merry little Christmas]({{ '/one-off-songs.html' | relative_url }}#have-yourself-a-merry-little-christmas) | [39:50](https://youtu.be/hfljJ87kgbs?t=2390) |  |  |
+| 6 | [Have yourself a Merry little Christmas]({{ '/songs/' | relative_url }}have-yourself-a-merry-little-christmas/) | [39:50](https://youtu.be/hfljJ87kgbs?t=2390) | Christmas |  |
+| 6 | [Have yourself a Merry little Christmas]({{ '/songs/' | relative_url }}have-yourself-a-merry-little-christmas/) | [39:50](https://youtu.be/hfljJ87kgbs?t=2390) | Christmas |  |
 | 7 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) | [46:05](https://youtu.be/hfljJ87kgbs?t=2765) | Techno |  |
 | 7 | [Night and Day]({{ '/songs/' | relative_url }}night-and-day/) | [45:55](https://youtu.be/hfljJ87kgbs?t=2755) | Techno | scratching! |
-| 8 | [The Holly and the Ivy]({{ '/one-off-songs.html' | relative_url }}#the-holly-and-the-ivy) | [54:43](https://youtu.be/hfljJ87kgbs?t=3283) |  |  |
+| 8 | [The Holly and the Ivy]({{ '/songs/' | relative_url }}the-holly-and-the-ivy/) | [54:43](https://youtu.be/hfljJ87kgbs?t=3283) | Christmas |  |

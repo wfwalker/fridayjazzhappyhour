@@ -22,8 +22,8 @@ image: "/assets/images/title-slides/episode-237.jpg"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [O Christmas Tree]({{ '/one-off-songs.html' | relative_url }}#o-christmas-tree) |  |  |  |
-| 2 | [O Come O Come Emmanuel]({{ '/one-off-songs.html' | relative_url }}#o-come-o-come-emmanuel) |  |  |  |
+| 1 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) |  | Christmas |  |
+| 2 | [O Come O Come Emmanuel]({{ '/songs/' | relative_url }}o-come-o-come-emmanuel/) |  | Christmas |  |
 | 3 | [Santa Claus is Coming to Town]({{ '/one-off-songs.html' | relative_url }}#santa-claus-is-coming-to-town) |  |  |  |
 | 4 | [God Bless the Child]({{ '/songs/' | relative_url }}god-bless-the-child/) |  | Funk |  |
 | 5 | [I Can't get started]({{ '/songs/' | relative_url }}i-cant-get-started/) |  | Swing |  |

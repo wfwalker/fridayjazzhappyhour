@@ -30,4 +30,4 @@ image: "/assets/images/title-slides/episode-228.jpg"
 | 6 | [Stars Fell on Alabama]({{ '/songs/' | relative_url }}stars-fell-on-alabama/) |  | Swing |  |
 | 7 | [We’ll be together again]({{ '/one-off-songs.html' | relative_url }}#well-be-together-again) |  |  |  |
 | 8 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) |  | Funk |  |
-| 9 | [Peace Piece]({{ '/one-off-songs.html' | relative_url }}#peace-piece) |  |  |  |
+| 9 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) |  | Ballad |  |

@@ -27,6 +27,6 @@ image: "/assets/images/title-slides/episode-282.jpg"
 | 3 | [Desde]({{ '/songs/' | relative_url }}desde/) |  | Bossa |  |
 | 4 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) |  | Funk |  |
 | 5 | [So Nice]({{ '/songs/' | relative_url }}so-nice/) |  | Bossa |  |
-| 6 | [O Come O Come Emmanuel]({{ '/one-off-songs.html' | relative_url }}#o-come-o-come-emmanuel) |  |  |  |
-| 7 | [Christmas is Coming]({{ '/one-off-songs.html' | relative_url }}#christmas-is-coming) |  |  |  |
+| 6 | [O Come O Come Emmanuel]({{ '/songs/' | relative_url }}o-come-o-come-emmanuel/) |  | Christmas |  |
+| 7 | [Christmas is Coming]({{ '/songs/' | relative_url }}christmas-is-coming/) |  | Christmas |  |
 | 8 | [Some Children See Him]({{ '/one-off-songs.html' | relative_url }}#some-children-see-him) |  |  |  |

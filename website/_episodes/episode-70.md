@@ -27,4 +27,4 @@ image: "/assets/images/title-slides/episode-70.jpg"
 | 3 | [Sugar]({{ '/songs/' | relative_url }}sugar/) | [11:55](https://youtu.be/yaLXVIw0nxE?t=715) | Swing |  |
 | 4 | [If I were a bell]({{ '/songs/' | relative_url }}if-i-were-a-bell/) | [17:06](https://youtu.be/yaLXVIw0nxE?t=1026) | Swing |  |
 | 5 | [Samba de Orfeu]({{ '/songs/' | relative_url }}samba-de-orfeu/) | [21:37](https://youtu.be/yaLXVIw0nxE?t=1297) | Samba |  |
-| 6 | [Peace Piece]({{ '/one-off-songs.html' | relative_url }}#peace-piece) | [27:12](https://youtu.be/yaLXVIw0nxE?t=1632) | Ballad |  |
+| 6 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) | [27:12](https://youtu.be/yaLXVIw0nxE?t=1632) | Ballad |  |

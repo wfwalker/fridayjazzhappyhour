@@ -3,14 +3,14 @@ layout: song
 title: "So Danco Samba"
 composer: "João Gilberto"
 style: "Samba"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 0
 ---
 
 # So Danco Samba
 
-Played **11** times in the live shows.
+Played **12** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
@@ -25,3 +25,4 @@ Played **11** times in the live shows.
 | 11/29/2024 | <a href="{{ '/episodes/' | relative_url }}episode-235/">#235</a> |  |  |
 | 4/11/2025 | <a href="{{ '/episodes/' | relative_url }}episode-251/">#251</a> |  |  |
 | 9/19/2025 | <a href="{{ '/episodes/' | relative_url }}episode-272/">#272</a> |  |  |
+| 7/3/2026 | <a href="{{ '/episodes/' | relative_url }}episode-303/">#303</a> |  |  |

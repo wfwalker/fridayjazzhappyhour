@@ -29,4 +29,4 @@ image: "/assets/images/title-slides/episode-114.jpg"
 | 5 | [Fly me to the Moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) | [32:40](https://youtu.be/Wmyvd2LlVw0?t=1960) | Swing |  |
 | 6 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) | [38:55](https://youtu.be/Wmyvd2LlVw0?t=2335) | Techno |  |
 | 7 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) | [44:15](https://youtu.be/Wmyvd2LlVw0?t=2655) | Funk |  |
-| 8 | [Peace Piece]({{ '/one-off-songs.html' | relative_url }}#peace-piece) | [52:07](https://youtu.be/Wmyvd2LlVw0?t=3127) |  |  |
+| 8 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) | [52:07](https://youtu.be/Wmyvd2LlVw0?t=3127) | Ballad |  |

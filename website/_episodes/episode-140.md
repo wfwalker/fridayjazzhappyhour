@@ -22,7 +22,7 @@ image: "/assets/images/title-slides/episode-140.jpg"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [Holly and the Ivy]({{ '/one-off-songs.html' | relative_url }}#holly-and-the-ivy) | [02:31](https://youtube.com/live/2vM_dR9jpjk?t=151) |  |  |
+| 1 | [The Holly and the Ivy]({{ '/songs/' | relative_url }}the-holly-and-the-ivy/) | [02:31](https://youtube.com/live/2vM_dR9jpjk?t=151) | Christmas |  |
 | 2 | [These Foolish Things Remind me of You]({{ '/songs/' | relative_url }}these-foolish-things-remind-me-of-you/) | [09:06](https://youtube.com/live/2vM_dR9jpjk?t=546) | Ballad |  |
 | 3 | [Dindi]({{ '/songs/' | relative_url }}dindi/) | [15:47](https://youtube.com/live/2vM_dR9jpjk?t=947) | Techno |  |
 | 4 | [Girl Talk]({{ '/songs/' | relative_url }}girl-talk/) | [25:11](https://youtube.com/live/2vM_dR9jpjk?t=1511) | Swing |  |

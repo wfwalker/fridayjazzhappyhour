@@ -22,7 +22,7 @@ image: "/assets/images/title-slides/episode-280.jpg"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [O Christmas Tree]({{ '/one-off-songs.html' | relative_url }}#o-christmas-tree) |  |  |  |
+| 1 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) |  | Christmas |  |
 | 2 | [How High the Moon]({{ '/songs/' | relative_url }}how-high-the-moon/) |  | Swing |  |
 | 3 | [Lucky Southern]({{ '/songs/' | relative_url }}lucky-southern/) |  | Pop |  |
 | 4 | [Gee Baby, Ain't I good to you]({{ '/songs/' | relative_url }}gee-baby-aint-i-good-to-you/) |  | Swing |  |
@@ -30,4 +30,4 @@ image: "/assets/images/title-slides/episode-280.jpg"
 | 6 | [Days of Wine and Roses]({{ '/songs/' | relative_url }}days-of-wine-and-roses/) |  | Swing |  |
 | 7 | [Somewhere Over the Rainbow]({{ '/one-off-songs.html' | relative_url }}#somewhere-over-the-rainbow) |  |  |  |
 | 8 | [Some Other Funk]({{ '/songs/' | relative_url }}some-other-funk/) |  | Funk |  |
-| 9 | [Christmastime is Here]({{ '/one-off-songs.html' | relative_url }}#christmastime-is-here) |  |  |  |
+| 9 | [Christmastime is Here]({{ '/songs/' | relative_url }}christmastime-is-here/) |  | Christmas |  |

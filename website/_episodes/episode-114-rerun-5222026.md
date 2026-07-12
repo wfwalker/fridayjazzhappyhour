@@ -27,4 +27,4 @@ image: "/assets/images/title-slides/episode-114-rerun-5222026.jpg"
 | 5 | [Fly me to the Moon]({{ '/songs/' | relative_url }}fly-me-to-the-moon/) |  | Swing |  |
 | 6 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) |  | Techno |  |
 | 7 | [Also Sprach Zarathustra]({{ '/songs/' | relative_url }}also-sprach-zarathustra/) |  | Funk |  |
-| 8 | [Peace Piece]({{ '/one-off-songs.html' | relative_url }}#peace-piece) |  |  |  |
+| 8 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) |  | Ballad |  |

@@ -25,8 +25,8 @@ image: "/assets/images/title-slides/episode-190.jpg"
 | 1 | [Some day My Prince will Come]({{ '/songs/' | relative_url }}some-day-my-prince-will-come/) |  | Swing |  |
 | 2 | [Cast your fate to the wind]({{ '/songs/' | relative_url }}cast-your-fate-to-the-wind/) |  | Pop |  |
 | 3 | [Samba e Amor]({{ '/songs/' | relative_url }}samba-e-amor/) |  | Samba |  |
-| 4 | [White Christmas]({{ '/one-off-songs.html' | relative_url }}#white-christmas) |  |  |  |
+| 4 | [White Christmas]({{ '/songs/' | relative_url }}white-christmas/) |  | Christmas |  |
 | 5 | [My Little Suede Shoes]({{ '/songs/' | relative_url }}my-little-suede-shoes/) |  | Bossa |  |
-| 6 | [O Christmas Tree]({{ '/one-off-songs.html' | relative_url }}#o-christmas-tree) |  |  |  |
+| 6 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) |  | Christmas |  |
 | 7 | [Give me the Night]({{ '/songs/' | relative_url }}give-me-the-night/) |  | Funk |  |
-| 8 | [I'll be home for Christmas]({{ '/one-off-songs.html' | relative_url }}#ill-be-home-for-christmas) |  |  |  |
+| 8 | [I'll be home for Christmas]({{ '/songs/' | relative_url }}ill-be-home-for-christmas/) |  | Christmas |  |

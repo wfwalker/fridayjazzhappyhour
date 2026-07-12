@@ -22,12 +22,12 @@ image: "/assets/images/title-slides/episode-93.jpg"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [Go Tell it on the Mountain]({{ '/one-off-songs.html' | relative_url }}#go-tell-it-on-the-mountain) | [04:48](https://youtu.be/oIJ5iubhwRg?t=288) |  |  |
-| 2 | [Have yourself a Merry Little Christmas]({{ '/one-off-songs.html' | relative_url }}#have-yourself-a-merry-little-christmas) | [10:00](https://youtu.be/oIJ5iubhwRg?t=600) |  |  |
-| 3 | [O Christmas Tree]({{ '/one-off-songs.html' | relative_url }}#o-christmas-tree) | [19:00](https://youtu.be/oIJ5iubhwRg?t=1140) |  |  |
-| 4 | [O Come O Come Emmanuel]({{ '/one-off-songs.html' | relative_url }}#o-come-o-come-emmanuel) | [25:30](https://youtu.be/oIJ5iubhwRg?t=1530) |  |  |
-| 5 | [White Christmas]({{ '/one-off-songs.html' | relative_url }}#white-christmas) | [31:20](https://youtu.be/oIJ5iubhwRg?t=1880) |  |  |
-| 6 | [God Rest Ye Merry Gentlemen]({{ '/one-off-songs.html' | relative_url }}#god-rest-ye-merry-gentlemen) | [37:14](https://youtu.be/oIJ5iubhwRg?t=2234) |  |  |
-| 7 | [I'll be home for Christmas]({{ '/one-off-songs.html' | relative_url }}#ill-be-home-for-christmas) | [43:30](https://youtu.be/oIJ5iubhwRg?t=2610) |  |  |
-| 8 | [Christmas is Coming]({{ '/one-off-songs.html' | relative_url }}#christmas-is-coming) | [49:33](https://youtu.be/oIJ5iubhwRg?t=2973) |  |  |
+| 1 | [Go Tell it on the Mountain]({{ '/songs/' | relative_url }}go-tell-it-on-the-mountain/) | [04:48](https://youtu.be/oIJ5iubhwRg?t=288) | Christmas |  |
+| 2 | [Have yourself a Merry Little Christmas]({{ '/songs/' | relative_url }}have-yourself-a-merry-little-christmas/) | [10:00](https://youtu.be/oIJ5iubhwRg?t=600) | Christmas |  |
+| 3 | [O Christmas Tree]({{ '/songs/' | relative_url }}o-christmas-tree/) | [19:00](https://youtu.be/oIJ5iubhwRg?t=1140) | Christmas |  |
+| 4 | [O Come O Come Emmanuel]({{ '/songs/' | relative_url }}o-come-o-come-emmanuel/) | [25:30](https://youtu.be/oIJ5iubhwRg?t=1530) | Christmas |  |
+| 5 | [White Christmas]({{ '/songs/' | relative_url }}white-christmas/) | [31:20](https://youtu.be/oIJ5iubhwRg?t=1880) | Christmas |  |
+| 6 | [God Rest Ye Merry Gentlemen]({{ '/songs/' | relative_url }}god-rest-ye-merry-gentlemen/) | [37:14](https://youtu.be/oIJ5iubhwRg?t=2234) | Christmas |  |
+| 7 | [I'll be home for Christmas]({{ '/songs/' | relative_url }}ill-be-home-for-christmas/) | [43:30](https://youtu.be/oIJ5iubhwRg?t=2610) | Christmas |  |
+| 8 | [Christmas is Coming]({{ '/songs/' | relative_url }}christmas-is-coming/) | [49:33](https://youtu.be/oIJ5iubhwRg?t=2973) | Christmas |  |
 | 9 | [O Holy Night]({{ '/one-off-songs.html' | relative_url }}#o-holy-night) | [54:00](https://youtu.be/oIJ5iubhwRg?t=3240) |  |  |

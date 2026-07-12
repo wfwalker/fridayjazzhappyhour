@@ -178,16 +178,6 @@
   composer: ""
   style: "Swing"
   play_count: 1
-- title: "Christmas is Coming"
-  slug: "christmas-is-coming"
-  composer: ""
-  style: ""
-  play_count: 8
-- title: "Christmastime is Here"
-  slug: "christmastime-is-here"
-  composer: ""
-  style: ""
-  play_count: 8
 - title: "Closer"
   slug: "closer"
   composer: ""
@@ -598,16 +588,6 @@
   composer: ""
   style: ""
   play_count: 1
-- title: "Go Tell it on the Mountain"
-  slug: "go-tell-it-on-the-mountain"
-  composer: ""
-  style: ""
-  play_count: 5
-- title: "God Rest Ye Merry Gentlemen"
-  slug: "god-rest-ye-merry-gentlemen"
-  composer: ""
-  style: ""
-  play_count: 4
 - title: "Gratitude euorack closer"
   slug: "gratitude-euorack-closer"
   composer: ""
@@ -618,11 +598,6 @@
   composer: ""
   style: ""
   play_count: 1
-- title: "Have yourself a Merry Little Christmas"
-  slug: "have-yourself-a-merry-little-christmas"
-  composer: ""
-  style: ""
-  play_count: 5
 - title: "Heather closer"
   slug: "heather-closer"
   composer: ""
@@ -633,11 +608,6 @@
   composer: "Joe Sample"
   style: "funk"
   play_count: 1
-- title: "Holly and the Ivy"
-  slug: "holly-and-the-ivy"
-  composer: ""
-  style: ""
-  play_count: 3
 - title: "Homage to Eno"
   slug: "homage-to-eno"
   composer: ""
@@ -673,11 +643,6 @@
   composer: ""
   style: ""
   play_count: 1
-- title: "I'll be home for Christmas"
-  slug: "ill-be-home-for-christmas"
-  composer: ""
-  style: ""
-  play_count: 5
 - title: "Ice Closer VCV video"
   slug: "ice-closer-vcv-video"
   composer: ""
@@ -723,7 +688,7 @@
   composer: ""
   style: "ballad"
   play_count: 2
-- title: "In Walked Bud"
+- title: "In walked Bud"
   slug: "in-walked-bud"
   composer: "Thelonius Monk"
   style: "funk"
@@ -773,7 +738,7 @@
   composer: "Bill Withers"
   style: "VOCAL"
   play_count: 1
-- title: "Let It Snow"
+- title: "Let it Snow"
   slug: "let-it-snow"
   composer: ""
   style: ""
@@ -813,11 +778,6 @@
   composer: ""
   style: ""
   play_count: 1
-- title: "Merry Little Christmas"
-  slug: "merry-little-christmas"
-  composer: ""
-  style: ""
-  play_count: 4
 - title: "Minor Blues Improvisation"
   slug: "minor-blues-improvisation"
   composer: "Bill Walker"
@@ -873,16 +833,6 @@
   composer: "Bill Walker"
   style: ""
   play_count: 2
-- title: "O Christmas Tree"
-  slug: "o-christmas-tree"
-  composer: ""
-  style: ""
-  play_count: 9
-- title: "O Come O Come Emmanuel"
-  slug: "o-come-o-come-emmanuel"
-  composer: ""
-  style: ""
-  play_count: 6
 - title: "O Holy Night"
   slug: "o-holy-night"
   composer: ""
@@ -958,11 +908,6 @@
   composer: ""
   style: ""
   play_count: 2
-- title: "Peace Piece"
-  slug: "peace-piece"
-  composer: "Bill Evans"
-  style: "ballad"
-  play_count: 8
 - title: "Pendulums"
   slug: "pendulums"
   composer: ""
@@ -1048,12 +993,12 @@
   composer: ""
   style: ""
   play_count: 1
-- title: "Sacto closer"
+- title: "Sacto Closer"
   slug: "sacto-closer"
   composer: ""
   style: ""
   play_count: 2
-- title: "Santa Claus is Coming to town"
+- title: "Santa Claus is Coming to Town"
   slug: "santa-claus-is-coming-to-town"
   composer: ""
   style: ""
@@ -1148,7 +1093,7 @@
   composer: "Seatbelts"
   style: ""
   play_count: 1
-- title: "Spring Can Really Hang You Up the Most"
+- title: "Spring can really hang you up the most"
   slug: "spring-can-really-hang-you-up-the-most"
   composer: "Tommy Wolf"
   style: "ballad"
@@ -1203,11 +1148,6 @@
   composer: ""
   style: ""
   play_count: 1
-- title: "The Holly and the Ivy"
-  slug: "the-holly-and-the-ivy"
-  composer: ""
-  style: ""
-  play_count: 4
 - title: "The Merry-go-round of Life"
   slug: "the-merry-go-round-of-life"
   composer: "Joe Hisaishi"
@@ -1338,11 +1278,6 @@
   composer: "Rogers and Hart"
   style: ""
   play_count: 5
-- title: "White Christmas"
-  slug: "white-christmas"
-  composer: ""
-  style: ""
-  play_count: 7
 - title: "Wood and Grassland"
   slug: "wood-and-grassland"
   composer: ""

@@ -3,14 +3,14 @@ layout: song
 title: "Caminhos Cruzados"
 composer: "Jobim"
 style: "Bossa"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 3
 ---
 
 # Caminhos Cruzados
 
-Played **11** times in the live shows.
+Played **12** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
@@ -25,3 +25,4 @@ Played **11** times in the live shows.
 | 3/14/2025 | <a href="{{ '/episodes/' | relative_url }}episode-249/">#249</a> |  |  |
 | 7/18/2025 | <a href="{{ '/episodes/' | relative_url }}episode-264/">#264</a> |  |  |
 | 11/21/2025 | <a href="{{ '/episodes/' | relative_url }}episode-278/">#278</a> |  |  |
+| 7/3/2026 | <a href="{{ '/episodes/' | relative_url }}episode-303/">#303</a> |  |  |

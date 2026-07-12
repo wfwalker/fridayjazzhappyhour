@@ -4,7 +4,7 @@ title: "Episode 122 (March 13, 2026) (Rerun)"
 episode_number: "122"
 date_string: "3/13/2026"
 date: 2026-03-13
-song_count: 6
+song_count: 7
 rerun: true
 theme: ""
 shirt: ""
@@ -25,4 +25,5 @@ image: "/assets/images/title-slides/episode-122-rerun-3132026.jpg"
 | 3 | [Isn't It Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) |  | Swing |  |
 | 4 | [Soul Sauce]({{ '/songs/' | relative_url }}soul-sauce/) |  | Latin |  |
 | 5 | [Lovely Day]({{ '/songs/' | relative_url }}lovely-day/) |  | Pop |  |
+| 6 | [Arpeggios for Lent, meditation on "Wilderness"]({{ '/one-off-songs.html' | relative_url }}#arpeggios-for-lent-meditation-on-wilderness) |  |  |  |
 | 7 | [Closer July 15]({{ '/one-off-songs.html' | relative_url }}#closer-july-15) |  |  |  |

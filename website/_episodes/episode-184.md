@@ -29,4 +29,4 @@ image: "/assets/images/title-slides/episode-184.jpg"
 | 5 | [Mambo Inn]({{ '/songs/' | relative_url }}mambo-inn/) | [30:59](https://youtube.com/live/3TUXOsOjp-U?t=1859) | Latin |  |
 | 6 | [Time Remembered]({{ '/songs/' | relative_url }}time-remembered/) | [37:20](https://youtube.com/live/3TUXOsOjp-U?t=2240) | Swing |  |
 | 7 | [Mas Que Nada]({{ '/songs/' | relative_url }}mas-que-nada/) | [44:22](https://youtube.com/live/3TUXOsOjp-U?t=2662) | Latin |  |
-| 8 | [Peace Piece]({{ '/one-off-songs.html' | relative_url }}#peace-piece) | [50:23](https://youtube.com/live/3TUXOsOjp-U?t=3023) |  |  |
+| 8 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) | [50:23](https://youtube.com/live/3TUXOsOjp-U?t=3023) | Ballad |  |

@@ -25,8 +25,8 @@ image: "/assets/images/title-slides/episode-192.jpg"
 | 1 | [A Child is Born]({{ '/songs/' | relative_url }}a-child-is-born/) |  | Latin |  |
 | 2 | [The Touch of your Lips]({{ '/songs/' | relative_url }}the-touch-of-your-lips/) |  | Swing |  |
 | 3 | [Poinciana]({{ '/songs/' | relative_url }}poinciana/) |  | Techno |  |
-| 4 | [Go Tell it on the Mountain]({{ '/one-off-songs.html' | relative_url }}#go-tell-it-on-the-mountain) |  |  |  |
-| 5 | [God Rest Ye Merry Gentlemen]({{ '/one-off-songs.html' | relative_url }}#god-rest-ye-merry-gentlemen) |  |  |  |
+| 4 | [Go Tell it on the Mountain]({{ '/songs/' | relative_url }}go-tell-it-on-the-mountain/) |  | Christmas |  |
+| 5 | [God Rest Ye Merry Gentlemen]({{ '/songs/' | relative_url }}god-rest-ye-merry-gentlemen/) |  | Christmas |  |
 | 6 | [Skating]({{ '/one-off-songs.html' | relative_url }}#skating) |  |  |  |
-| 7 | [O Come O Come Emmanuel]({{ '/one-off-songs.html' | relative_url }}#o-come-o-come-emmanuel) |  |  |  |
+| 7 | [O Come O Come Emmanuel]({{ '/songs/' | relative_url }}o-come-o-come-emmanuel/) |  | Christmas |  |
 | 8 | [Some Children Him]({{ '/one-off-songs.html' | relative_url }}#some-children-him) |  |  |  |

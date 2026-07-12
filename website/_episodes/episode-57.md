@@ -29,4 +29,4 @@ image: "/assets/images/title-slides/episode-57.jpg"
 | 5 | [Pocket Calculator]({{ '/songs/' | relative_url }}pocket-calculator/) | [33:20](https://youtu.be/l0R4TcCeMAY?t=2000) | Techno | HOF |
 | 6 | [Isn't It Romantic]({{ '/songs/' | relative_url }}isnt-it-romantic/) | [39:08](https://youtu.be/l0R4TcCeMAY?t=2348) | Swing |  |
 | 7 | [La Fiesta]({{ '/songs/' | relative_url }}la-fiesta/) | [47:38](https://youtu.be/l0R4TcCeMAY?t=2858) | Latin |  |
-| 8 | [Peace Piece]({{ '/one-off-songs.html' | relative_url }}#peace-piece) | [55:50](https://youtu.be/l0R4TcCeMAY?t=3350) |  |  |
+| 8 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) | [55:50](https://youtu.be/l0R4TcCeMAY?t=3350) | Ballad |  |

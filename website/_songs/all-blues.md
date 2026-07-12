@@ -3,14 +3,14 @@ layout: song
 title: "All Blues"
 composer: "Miles Davis"
 style: "Swing"
-play_count: 15
+play_count: 16
 hall_of_fame: true
 ready_rating: 5
 ---
 
 # All Blues
 
-Played **15** times in the live shows.
+Played **16** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
@@ -29,3 +29,4 @@ Played **15** times in the live shows.
 | 11/15/2024 | <a href="{{ '/episodes/' | relative_url }}episode-233/">#233</a> |  |  |
 | 6/13/2025 | <a href="{{ '/episodes/' | relative_url }}episode-260/">#260</a> |  |  |
 | 12/12/2025 | <a href="{{ '/episodes/' | relative_url }}episode-281/">#281</a> |  |  |
+| 7/3/2026 | <a href="{{ '/episodes/' | relative_url }}episode-303/">#303</a> |  |  |

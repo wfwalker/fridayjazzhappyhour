@@ -29,4 +29,4 @@ image: "/assets/images/title-slides/episode-168.jpg"
 | 5 | [Seven Steps to Heaven]({{ '/songs/' | relative_url }}seven-steps-to-heaven/) | [30:59](https://www.youtube.com/watch?v=w28RQAWi17U?t=1859) | Pop |  |
 | 6 | [Beautiful Love]({{ '/songs/' | relative_url }}beautiful-love/) | [37:20](https://www.youtube.com/watch?v=w28RQAWi17U?t=2240) | Swing |  |
 | 7 | [Root Down (and Get it)]({{ '/songs/' | relative_url }}root-down-and-get-it/) | [44:22](https://www.youtube.com/watch?v=w28RQAWi17U?t=2662) | Funk |  |
-| 8 | [Peace Piece]({{ '/one-off-songs.html' | relative_url }}#peace-piece) | [50:23](https://www.youtube.com/watch?v=w28RQAWi17U?t=3023) |  |  |
+| 8 | [Peace Piece]({{ '/songs/' | relative_url }}peace-piece/) | [50:23](https://www.youtube.com/watch?v=w28RQAWi17U?t=3023) | Ballad |  |

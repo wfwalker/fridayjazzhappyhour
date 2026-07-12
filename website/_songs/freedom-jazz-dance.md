@@ -3,14 +3,14 @@ layout: song
 title: "Freedom Jazz Dance"
 composer: "Eddie Harris"
 style: "Funk"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 3
 ---
 
 # Freedom Jazz Dance
 
-Played **11** times in the live shows.
+Played **12** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
@@ -25,3 +25,4 @@ Played **11** times in the live shows.
 | 12/31/2024 | <a href="{{ '/episodes/' | relative_url }}episode-240/">#240</a> |  |  |
 | 6/27/2025 | <a href="{{ '/episodes/' | relative_url }}episode-262/">#262</a> |  |  |
 | 1/9/2026 | <a href="{{ '/episodes/' | relative_url }}episode-285/">#285</a> |  |  |
+| 7/3/2026 | <a href="{{ '/episodes/' | relative_url }}episode-303/">#303</a> |  |  |

@@ -21,11 +21,11 @@ youtube_url: "https://youtu.be/yhWB3cwCzOI"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [Christmastime is here]({{ '/one-off-songs.html' | relative_url }}#christmastime-is-here) | [03:40](https://youtu.be/yhWB3cwCzOI?t=220) |  |  |
+| 1 | [Christmastime is here]({{ '/songs/' | relative_url }}christmastime-is-here/) | [03:40](https://youtu.be/yhWB3cwCzOI?t=220) | Christmas |  |
 | 2 | [With or Without you]({{ '/songs/' | relative_url }}with-or-without-you/) | [09:40](https://youtu.be/yhWB3cwCzOI?t=580) | Pop |  |
-| 3 | [Christmas is Coming]({{ '/one-off-songs.html' | relative_url }}#christmas-is-coming) | [14:40](https://youtu.be/yhWB3cwCzOI?t=880) |  |  |
+| 3 | [Christmas is Coming]({{ '/songs/' | relative_url }}christmas-is-coming/) | [14:40](https://youtu.be/yhWB3cwCzOI?t=880) | Christmas |  |
 | 4 | [Let It Snow]({{ '/one-off-songs.html' | relative_url }}#let-it-snow) | [21:20](https://youtu.be/yhWB3cwCzOI?t=1280) |  |  |
-| 5 | [O Come, O Come Emmanuel]({{ '/one-off-songs.html' | relative_url }}#o-come-o-come-emmanuel) | [29:47](https://youtu.be/yhWB3cwCzOI?t=1787) |  |  |
+| 5 | [O Come, O Come Emmanuel]({{ '/songs/' | relative_url }}o-come-o-come-emmanuel/) | [29:47](https://youtu.be/yhWB3cwCzOI?t=1787) | Christmas |  |
 | 6 | [Our love is here to stay]({{ '/one-off-songs.html' | relative_url }}#our-love-is-here-to-stay) | [36:18](https://youtu.be/yhWB3cwCzOI?t=2178) |  |  |
 | 7 | [It Don’t Mean a Thing (If It Ain't Got That Swing)]({{ '/songs/' | relative_url }}it-dont-mean-a-thing-if-it-aint-got-that-swing/) | [41:50](https://youtu.be/yhWB3cwCzOI?t=2510) | Swing |  |
 | 8 | [Some Children See Him]({{ '/one-off-songs.html' | relative_url }}#some-children-see-him) | [51:35](https://youtu.be/yhWB3cwCzOI?t=3095) |  |  |

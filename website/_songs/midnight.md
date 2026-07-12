@@ -3,14 +3,14 @@ layout: song
 title: "Midnight"
 composer: "Bill Walker"
 style: "Techno"
-play_count: 10
+play_count: 11
 hall_of_fame: true
 ready_rating: 0
 ---
 
 # Midnight
 
-Played **10** times in the live shows.
+Played **11** times in the live shows.
 
 | Date | Episode | Tempo | Notes |
 | --- | --- | --- | --- |
@@ -24,3 +24,4 @@ Played **10** times in the live shows.
 | 1/24/2025 | <a href="{{ '/episodes/' | relative_url }}episode-243/">#243</a> |  |  |
 | 7/25/2025 | <a href="{{ '/episodes/' | relative_url }}episode-265/">#265</a> |  |  |
 | 1/9/2026 | <a href="{{ '/episodes/' | relative_url }}episode-285/">#285</a> |  |  |
+| 7/3/2026 | <a href="{{ '/episodes/' | relative_url }}episode-303/">#303</a> |  |  |

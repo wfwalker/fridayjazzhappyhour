@@ -22,11 +22,11 @@ image: "/assets/images/title-slides/episode-191.jpg"
 
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | [Have yourself a Merry Little Christmas]({{ '/one-off-songs.html' | relative_url }}#have-yourself-a-merry-little-christmas) |  |  |  |
+| 1 | [Have yourself a Merry Little Christmas]({{ '/songs/' | relative_url }}have-yourself-a-merry-little-christmas/) |  | Christmas |  |
 | 2 | [Night in Tunisia]({{ '/songs/' | relative_url }}night-in-tunisia/) |  | Downtempo |  |
 | 3 | [Santa Claus is Coming to town]({{ '/one-off-songs.html' | relative_url }}#santa-claus-is-coming-to-town) |  |  |  |
 | 4 | [All the things you are]({{ '/songs/' | relative_url }}all-the-things-you-are/) |  | Swing |  |
 | 5 | [Eleven Twelve]({{ '/songs/' | relative_url }}eleven-twelve/) | [30:00](https://youtube.com/live/PFt-ZzJqLC8?t=1800) | Funk |  |
 | 6 | [Blue in Green]({{ '/songs/' | relative_url }}blue-in-green/) |  | Swing |  |
-| 7 | [Holly and the Ivy]({{ '/one-off-songs.html' | relative_url }}#holly-and-the-ivy) |  |  |  |
+| 7 | [The Holly and the Ivy]({{ '/songs/' | relative_url }}the-holly-and-the-ivy/) |  | Christmas |  |
 | 8 | [The Christmas Song]({{ '/one-off-songs.html' | relative_url }}#the-christmas-song) |  |  |  |
