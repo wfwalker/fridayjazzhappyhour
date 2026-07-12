@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+.obsidian
 *.log
 website/_site/
 website/.jekyll-cache/
