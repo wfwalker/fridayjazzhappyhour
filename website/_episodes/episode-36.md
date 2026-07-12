@@ -11,6 +11,7 @@ shirt: "grey + wings"
 tip_jar: "Navajo Nation COVID GoFundMe"
 notes: "yes"
 youtube_url: "https://youtu.be/FgUbgdPd9pw"
+image: "/assets/images/title-slides/episode-36.jpg"
 ---
 
 # Episode 36 (November 20, 2020)

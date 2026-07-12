@@ -11,6 +11,7 @@ shirt: ""
 tip_jar: "Oya Organics"
 notes: "yes"
 youtube_url: "https://youtu.be/yhWB3cwCzOI"
+image: "/assets/images/title-slides/episode-40.jpg"
 ---
 
 # Episode 40 (December 18, 2020)

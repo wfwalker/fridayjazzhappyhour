@@ -11,6 +11,7 @@ shirt: "argyle sweater"
 tip_jar: "VotingWorks"
 notes: "yes"
 youtube_url: "https://youtu.be/8W4XQTLdajk"
+image: "/assets/images/title-slides/episode-37.jpg"
 ---
 
 # Episode 37 (November 27, 2020)

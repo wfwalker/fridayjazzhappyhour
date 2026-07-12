@@ -11,6 +11,7 @@ shirt: ""
 tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/w-5w8Kx2P6U"
+image: "/assets/images/title-slides/episode-194.jpg"
 ---
 
 # Episode 194 (January 5, 2024)

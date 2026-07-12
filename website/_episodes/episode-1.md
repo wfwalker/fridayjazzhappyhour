@@ -11,6 +11,7 @@ shirt: ""
 tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/7M092e2XoLI"
+image: "/assets/images/title-slides/episode-1.png"
 ---
 
 # Episode 1 (March 20, 2020)

@@ -11,6 +11,7 @@ shirt: ""
 tip_jar: "Heart + Home Collaborative"
 notes: "yes"
 youtube_url: "https://youtu.be/8ALGHR-ErS0"
+image: "/assets/images/title-slides/episode-38.jpg"
 ---
 
 # Episode 38 (December 4, 2020)

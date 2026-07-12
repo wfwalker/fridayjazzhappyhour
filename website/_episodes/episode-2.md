@@ -11,6 +11,7 @@ shirt: ""
 tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/8OIItLaezQk"
+image: "/assets/images/title-slides/episode-2.png"
 ---
 
 # Episode 2 (March 27, 2020)

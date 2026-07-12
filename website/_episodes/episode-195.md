@@ -11,6 +11,7 @@ shirt: ""
 tip_jar: ""
 notes: ""
 youtube_url: "https://youtube.com/live/dkMgQ_pHYNk"
+image: "/assets/images/title-slides/episode-195.jpg"
 ---
 
 # Episode 195 (January 12, 2024)

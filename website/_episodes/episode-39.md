@@ -11,6 +11,7 @@ shirt: "linen jacket + blazer"
 tip_jar: "loavesfishes.org"
 notes: "yes"
 youtube_url: "https://youtu.be/hfljJ87kgbs"
+image: "/assets/images/title-slides/episode-39.jpg"
 ---
 
 # Episode 39 (December 11, 2020)
