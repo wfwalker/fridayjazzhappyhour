@@ -22,10 +22,13 @@ layout: default
   }
   
   .meta-badge {
+    font-family: var(--font-meta);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
     background-color: rgba(255, 255, 255, 0.05);
     padding: 0.35rem 0.85rem;
     border-radius: 999px;
-    font-size: 0.85rem;
+    font-size: 0.75rem;
     color: var(--text-secondary);
     border: 1px solid var(--border-color);
   }
@@ -55,10 +58,11 @@ layout: default
   }
   
   th {
+    font-family: var(--font-meta);
     text-align: left;
     color: var(--text-secondary);
-    font-weight: 600;
-    font-size: 0.8rem;
+    font-weight: 500;
+    font-size: 0.85rem;
     text-transform: uppercase;
     letter-spacing: 0.08em;
     padding: 1rem;
@@ -82,7 +86,6 @@ layout: default
   td a {
     color: var(--accent-hover);
     text-decoration: none;
-    font-weight: 500;
     transition: color 0.15s ease;
     display: inline-flex;
     align-items: center;
