@@ -6,21 +6,75 @@ style: "Swing"
 play_count: 10
 hall_of_fame: true
 ready_rating: 4
+performances:
+  - date: "4/16/2021"
+    url: "https://youtu.be/l0R4TcCeMAY?t=1642"
+    episode: "57"
+    episode_slug: "episode-57"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/22/2022"
+    url: "https://youtu.be/D42v7I8kocA?t=1273"
+    episode: "123"
+    episode_slug: "episode-123"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/31/2023"
+    url: "https://youtube.com/live/3OS8YSyy7IE?t=1859"
+    episode: "156"
+    episode_slug: "episode-156"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/4/2023"
+    url: "https://youtube.com/live/aCkWiRbNVbM?t=2240"
+    episode: "174"
+    episode_slug: "episode-174"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/17/2023"
+    url: ""
+    episode: "187"
+    episode_slug: "episode-187"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "4/12/2024"
+    url: ""
+    episode: "204"
+    episode_slug: "episode-204"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/26/2024"
+    url: ""
+    episode: "218"
+    episode_slug: "episode-218"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "2/14/2025"
+    url: ""
+    episode: "246"
+    episode_slug: "episode-246"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/1/2025"
+    url: ""
+    episode: "266"
+    episode_slug: "episode-266"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "2/13/2026"
+    url: ""
+    episode: "289"
+    episode_slug: "episode-289"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Au Privave
-
-Played **10** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [4/16/2021](https://youtu.be/l0R4TcCeMAY?t=1642) | <a href="{{ '/episodes/' | relative_url }}episode-57/">#57</a> |  |  |
-| [7/22/2022](https://youtu.be/D42v7I8kocA?t=1273) | <a href="{{ '/episodes/' | relative_url }}episode-123/">#123</a> |  |  |
-| [3/31/2023](https://youtube.com/live/3OS8YSyy7IE?t=1859) | <a href="{{ '/episodes/' | relative_url }}episode-156/">#156</a> |  |  |
-| [8/4/2023](https://youtube.com/live/aCkWiRbNVbM?t=2240) | <a href="{{ '/episodes/' | relative_url }}episode-174/">#174</a> |  |  |
-| 11/17/2023 | <a href="{{ '/episodes/' | relative_url }}episode-187/">#187</a> |  |  |
-| 4/12/2024 | <a href="{{ '/episodes/' | relative_url }}episode-204/">#204</a> |  |  |
-| 7/26/2024 | <a href="{{ '/episodes/' | relative_url }}episode-218/">#218</a> |  |  |
-| 2/14/2025 | <a href="{{ '/episodes/' | relative_url }}episode-246/">#246</a> |  |  |
-| 8/1/2025 | <a href="{{ '/episodes/' | relative_url }}episode-266/">#266</a> |  |  |
-| 2/13/2026 | <a href="{{ '/episodes/' | relative_url }}episode-289/">#289</a> |  |  |

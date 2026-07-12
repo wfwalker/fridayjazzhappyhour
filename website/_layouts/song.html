@@ -47,10 +47,7 @@ layout: default
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
   }
-  
-  .performance-card h1, .performance-card h2, .performance-card p {
-    display: none; /* Hide double titles rendered by markdown */
-  }
+
   
   table {
     width: 100%;
@@ -112,5 +109,51 @@ layout: default
 </div>
 
 <div class="performance-card">
+  <h3>Performance History</h3>
+  <table>
+    <thead>
+      <tr>
+        <th style="width: 25%;">Date</th>
+        <th style="width: 25%;">Episode</th>
+        <th style="width: 15%;">Tempo</th>
+        <th style="width: 35%;">Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for perf in page.performances %}
+        <tr>
+          <td>
+            {% if perf.url and perf.url != "" %}
+              <a href="{{ perf.url }}" target="_blank">{{ perf.date }}</a>
+            {% else %}
+              {{ perf.date }}
+            {% endif %}
+          </td>
+          <td>
+            {% if perf.episode_slug and perf.episode_slug != "" %}
+              <a href="{{ '/episodes/' | relative_url }}{{ perf.episode_slug }}/">
+                {% if perf.episode and perf.episode != "" %}
+                  #{{ perf.episode }}
+                {% else %}
+                  Show
+                {% endif %}
+              </a>
+            {% else %}
+              {% if perf.episode and perf.episode != "" %}
+                #{{ perf.episode }}
+              {% else %}
+                Show
+              {% endif %}
+            {% endif %}
+            {% if perf.rerun %}
+              <span style="font-size: 0.8rem; color: var(--text-secondary); margin-left: 0.25rem;">(Rerun)</span>
+            {% endif %}
+          </td>
+          <td>{{ perf.tempo }}</td>
+          <td>{{ perf.notes }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
   {{ content }}
 </div>

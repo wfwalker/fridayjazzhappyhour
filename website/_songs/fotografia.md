@@ -6,26 +6,110 @@ style: "Bossa"
 play_count: 15
 hall_of_fame: true
 ready_rating: 4
+performances:
+  - date: "8/28/2020"
+    url: "https://youtu.be/oLyXU2T1ZuA?t=1045"
+    episode: "24"
+    episode_slug: "episode-24"
+    tempo: "90"
+    notes: ""
+    rerun: false
+  - date: "7/2/2021"
+    url: "https://youtu.be/eJgSZO-IkTg?t=2055"
+    episode: "68"
+    episode_slug: "episode-68"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/20/2021"
+    url: "https://youtu.be/wIeo7pq_84U?t=202"
+    episode: "75"
+    episode_slug: "episode-75"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/5/2021"
+    url: "https://youtu.be/iRH85IdbcpY?t=231"
+    episode: "86"
+    episode_slug: "episode-86"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/11/2022"
+    url: "https://youtu.be/9YCarBEto_w?t=230"
+    episode: "104"
+    episode_slug: "episode-104"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/6/2022"
+    url: "https://youtu.be/EnurztZItgI?t=1603"
+    episode: "112"
+    episode_slug: "episode-112"
+    tempo: ""
+    notes: "density changes good; SAMBA FIX!"
+    rerun: false
+  - date: "8/5/2022"
+    url: "https://youtu.be/3bVGI3r8vCY?t=1861"
+    episode: "125"
+    episode_slug: "episode-125"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/7/2022"
+    url: "https://youtu.be/i_sLaxvBK_E?t=1080"
+    episode: "134"
+    episode_slug: "episode-134"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/24/2023"
+    url: "https://youtu.be/5m_WeGR1fNA?t=2240"
+    episode: "155"
+    episode_slug: "episode-155"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/25/2023"
+    url: "https://youtube.com/live/jdMrvP3YOOo?t=2240"
+    episode: "177"
+    episode_slug: "episode-177"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "2/2/2024"
+    url: ""
+    episode: "198"
+    episode_slug: "episode-198"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/23/2024"
+    url: "https://youtu.be/wIeo7pq_84U?t=202"
+    episode: "75"
+    episode_slug: "episode-75-rerun-8232024"
+    tempo: ""
+    notes: ""
+    rerun: true
+  - date: "2/14/2025"
+    url: ""
+    episode: "246"
+    episode_slug: "episode-246"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/5/2025"
+    url: ""
+    episode: "270"
+    episode_slug: "episode-270"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "2/13/2026"
+    url: ""
+    episode: "289"
+    episode_slug: "episode-289"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Fotografia
-
-Played **15** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [8/28/2020](https://youtu.be/oLyXU2T1ZuA?t=1045) | <a href="{{ '/episodes/' | relative_url }}episode-24/">#24</a> | 90 |  |
-| [7/2/2021](https://youtu.be/eJgSZO-IkTg?t=2055) | <a href="{{ '/episodes/' | relative_url }}episode-68/">#68</a> |  |  |
-| [8/20/2021](https://youtu.be/wIeo7pq_84U?t=202) | <a href="{{ '/episodes/' | relative_url }}episode-75/">#75</a> |  |  |
-| [11/5/2021](https://youtu.be/iRH85IdbcpY?t=231) | <a href="{{ '/episodes/' | relative_url }}episode-86/">#86</a> |  |  |
-| [3/11/2022](https://youtu.be/9YCarBEto_w?t=230) | <a href="{{ '/episodes/' | relative_url }}episode-104/">#104</a> |  |  |
-| [5/6/2022](https://youtu.be/EnurztZItgI?t=1603) | <a href="{{ '/episodes/' | relative_url }}episode-112/">#112</a> |  | density changes good; SAMBA FIX! |
-| [8/5/2022](https://youtu.be/3bVGI3r8vCY?t=1861) | <a href="{{ '/episodes/' | relative_url }}episode-125/">#125</a> |  |  |
-| [10/7/2022](https://youtu.be/i_sLaxvBK_E?t=1080) | <a href="{{ '/episodes/' | relative_url }}episode-134/">#134</a> |  |  |
-| [3/24/2023](https://youtu.be/5m_WeGR1fNA?t=2240) | <a href="{{ '/episodes/' | relative_url }}episode-155/">#155</a> |  |  |
-| [8/25/2023](https://youtube.com/live/jdMrvP3YOOo?t=2240) | <a href="{{ '/episodes/' | relative_url }}episode-177/">#177</a> |  |  |
-| 2/2/2024 | <a href="{{ '/episodes/' | relative_url }}episode-198/">#198</a> |  |  |
-| [8/23/2024](https://youtu.be/wIeo7pq_84U?t=202) | <a href="{{ '/episodes/' | relative_url }}episode-75-rerun-8232024/">#75</a> |  |  |
-| 2/14/2025 | <a href="{{ '/episodes/' | relative_url }}episode-246/">#246</a> |  |  |
-| 9/5/2025 | <a href="{{ '/episodes/' | relative_url }}episode-270/">#270</a> |  |  |
-| 2/13/2026 | <a href="{{ '/episodes/' | relative_url }}episode-289/">#289</a> |  |  |

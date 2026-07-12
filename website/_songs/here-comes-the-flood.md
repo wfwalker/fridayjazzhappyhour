@@ -6,15 +6,33 @@ style: "Pop"
 play_count: 4
 hall_of_fame: true
 ready_rating: 3
+performances:
+  - date: "4/24/2020"
+    url: "https://youtu.be/9EwAG0vUho8?t=3020"
+    episode: "6"
+    episode_slug: "episode-6"
+    tempo: "106"
+    notes: ""
+    rerun: false
+  - date: "4/9/2021"
+    url: "https://youtu.be/RVecTJg5GEs?t=713"
+    episode: "56"
+    episode_slug: "episode-56"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/9/2023"
+    url: "https://youtube.com/live/zxBeVU3jcP8?t=2662"
+    episode: "166"
+    episode_slug: "episode-166"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "4/19/2024"
+    url: ""
+    episode: "205"
+    episode_slug: "episode-205"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Here Comes the Flood
-
-Played **4** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [4/24/2020](https://youtu.be/9EwAG0vUho8?t=3020) | <a href="{{ '/episodes/' | relative_url }}episode-6/">#6</a> | 106 |  |
-| [4/9/2021](https://youtu.be/RVecTJg5GEs?t=713) | <a href="{{ '/episodes/' | relative_url }}episode-56/">#56</a> |  |  |
-| [6/9/2023](https://youtube.com/live/zxBeVU3jcP8?t=2662) | <a href="{{ '/episodes/' | relative_url }}episode-166/">#166</a> |  |  |
-| 4/19/2024 | <a href="{{ '/episodes/' | relative_url }}episode-205/">#205</a> |  |  |

@@ -63,24 +63,6 @@ def format_offset_time(seconds_str):
             return f"{m:02d}:{s:02d}"
     except ValueError:
         return seconds_str
-
-def get_episode_link(epi, date, rerun_keys, canonical_dates):
-    if not date and epi in canonical_dates:
-        date = canonical_dates[epi]
-    if not date:
-        return "#%s" % epi if epi else "Show"
-        
-    if epi:
-        is_rerun = (epi, date) in rerun_keys
-        if is_rerun:
-            slug = f"episode-{slugify(epi)}-rerun-{slugify(date)}"
-        else:
-            slug = f"episode-{slugify(epi)}"
-        return '<a href="{{ \'/episodes/\' | relative_url }}%s/">#%s</a>' % (slug, epi)
-    else:
-        slug = f"show-{slugify(date)}"
-        return '<a href="{{ \'/episodes/\' | relative_url }}%s/">Show</a>' % slug
-
 # Data Loading Functions
 def read_hall_of_fame(path):
     """Read the Hall of Fame CSV and map slugified titles to metadata."""
@@ -310,6 +292,39 @@ def write_single_song_page(slug, title, composer, style, count, ready_rating, pe
     composer_escaped = composer.replace('"', '\\"')
     style_escaped = style.replace('"', '\\"')
     
+    # Build YAML performances front-matter
+    perf_fm = ""
+    if performances:
+        perf_fm += "\nperformances:"
+        for perf in performances:
+            # Calculate episode slug and rerun flag
+            epi = perf["episode"]
+            date = perf["date"]
+            if not date and epi in canonical_dates:
+                date = canonical_dates[epi]
+                
+            is_rerun = False
+            epi_slug = ""
+            if date:
+                if epi:
+                    is_rerun = (epi, date) in rerun_keys
+                    if is_rerun:
+                        epi_slug = f"episode-{slugify(epi)}-rerun-{slugify(date)}"
+                    else:
+                        epi_slug = f"episode-{slugify(epi)}"
+                else:
+                    epi_slug = f"show-{slugify(date)}"
+                    
+            notes_esc = perf["notes"].replace('"', '\\"') if perf["notes"] else ""
+            
+            perf_fm += f"\n  - date: \"{perf['date']}\""
+            perf_fm += f"\n    url: \"{perf['url']}\""
+            perf_fm += f"\n    episode: \"{epi}\""
+            perf_fm += f"\n    episode_slug: \"{epi_slug}\""
+            perf_fm += f"\n    tempo: \"{perf['tempo']}\""
+            perf_fm += f"\n    notes: \"{notes_esc}\""
+            perf_fm += f"\n    rerun: {str(is_rerun).lower()}"
+
     md_content = f"""---
 layout: song
 title: "{title_escaped}"
@@ -317,21 +332,9 @@ composer: "{composer_escaped}"
 style: "{style_escaped}"
 play_count: {count}
 hall_of_fame: true
-ready_rating: {ready_rating}
+ready_rating: {ready_rating}{perf_fm}
 ---
-
-# {title}
-
-Played **{count}** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
 """
-    for perf in performances:
-        date_link = f"[{perf['date']}]({perf['url']})" if perf['url'] else perf['date']
-        epi_link = get_episode_link(perf['episode'], perf['date'], rerun_keys, canonical_dates)
-        md_content += f"| {date_link} | {epi_link} | {perf['tempo']} | {perf['notes']} |\n"
-        
     file_path = os.path.join(out_dir, f"{slug}.md")
     with open(file_path, mode='w', encoding='utf-8') as f:
         f.write(md_content)

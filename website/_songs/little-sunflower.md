@@ -6,29 +6,131 @@ style: "Techno"
 play_count: 18
 hall_of_fame: true
 ready_rating: 5
+performances:
+  - date: "3/20/2020"
+    url: "https://youtu.be/7M092e2XoLI?t=2051"
+    episode: "1"
+    episode_slug: "episode-1"
+    tempo: "82"
+    notes: "cool lead, needs backing WOW"
+    rerun: false
+  - date: "8/21/2020"
+    url: "https://youtu.be/m7JFcEdod0E?t=1180"
+    episode: "23"
+    episode_slug: "episode-23"
+    tempo: "82"
+    notes: "needs fills!"
+    rerun: false
+  - date: "4/2/2021"
+    url: "https://youtu.be/brtK3KrZ6Io?t=2670"
+    episode: "55"
+    episode_slug: "episode-55"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/2/2021"
+    url: "https://youtu.be/eJgSZO-IkTg?t=141"
+    episode: "68"
+    episode_slug: "episode-68"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/3/2021"
+    url: "https://youtu.be/Rg_ZLaPOj64?t=1355"
+    episode: "77"
+    episode_slug: "episode-77"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/22/2021"
+    url: "https://youtu.be/reLwPwmrFZk?t=528"
+    episode: "84"
+    episode_slug: "episode-84"
+    tempo: ""
+    notes: "i like it, different chords from Impressions tho"
+    rerun: false
+  - date: "1/14/2022"
+    url: "https://youtu.be/VAUYw5v0RiQ?t=997"
+    episode: "96"
+    episode_slug: "episode-96"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "4/8/2022"
+    url: "https://youtu.be/47KbvV1znH8?t=1893"
+    episode: "108"
+    episode_slug: "episode-108"
+    tempo: ""
+    notes: "melodica cool, but too hot. scat = NO; backing too quiet"
+    rerun: false
+  - date: "7/8/2022"
+    url: "https://youtu.be/yr0e-0JaG4U?t=1900"
+    episode: "121"
+    episode_slug: "episode-121"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/28/2022"
+    url: "https://youtu.be/Vyo_oTHKhUY?t=851"
+    episode: "137"
+    episode_slug: "episode-137"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/5/2023"
+    url: "https://youtube.com/live/iSBCTTvF5RM?t=2323"
+    episode: "161"
+    episode_slug: "episode-161"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/13/2023"
+    url: "https://youtu.be/3gn7cZOMOqA?t=69"
+    episode: "182"
+    episode_slug: "episode-182"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/29/2024"
+    url: "https://youtu.be/brtK3KrZ6Io?t=2671"
+    episode: "55"
+    episode_slug: "episode-55-rerun-3292024"
+    tempo: ""
+    notes: ""
+    rerun: true
+  - date: "11/15/2024"
+    url: ""
+    episode: "233"
+    episode_slug: "episode-233"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/21/2025"
+    url: ""
+    episode: ""
+    episode_slug: "show-3212025"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/8/2025"
+    url: ""
+    episode: "267"
+    episode_slug: "episode-267"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/14/2025"
+    url: ""
+    episode: "23"
+    episode_slug: "episode-23-rerun-11142025"
+    tempo: ""
+    notes: ""
+    rerun: true
+  - date: "5/8/2026"
+    url: ""
+    episode: "23"
+    episode_slug: "episode-23-rerun-582026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---
-
-# Little Sunflower
-
-Played **18** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [3/20/2020](https://youtu.be/7M092e2XoLI?t=2051) | <a href="{{ '/episodes/' | relative_url }}episode-1/">#1</a> | 82 | cool lead, needs backing WOW |
-| [8/21/2020](https://youtu.be/m7JFcEdod0E?t=1180) | <a href="{{ '/episodes/' | relative_url }}episode-23/">#23</a> | 82 | needs fills! |
-| [4/2/2021](https://youtu.be/brtK3KrZ6Io?t=2670) | <a href="{{ '/episodes/' | relative_url }}episode-55/">#55</a> |  |  |
-| [7/2/2021](https://youtu.be/eJgSZO-IkTg?t=141) | <a href="{{ '/episodes/' | relative_url }}episode-68/">#68</a> |  |  |
-| [9/3/2021](https://youtu.be/Rg_ZLaPOj64?t=1355) | <a href="{{ '/episodes/' | relative_url }}episode-77/">#77</a> |  |  |
-| [10/22/2021](https://youtu.be/reLwPwmrFZk?t=528) | <a href="{{ '/episodes/' | relative_url }}episode-84/">#84</a> |  | i like it, different chords from Impressions tho |
-| [1/14/2022](https://youtu.be/VAUYw5v0RiQ?t=997) | <a href="{{ '/episodes/' | relative_url }}episode-96/">#96</a> |  |  |
-| [4/8/2022](https://youtu.be/47KbvV1znH8?t=1893) | <a href="{{ '/episodes/' | relative_url }}episode-108/">#108</a> |  | melodica cool, but too hot. scat = NO; backing too quiet |
-| [7/8/2022](https://youtu.be/yr0e-0JaG4U?t=1900) | <a href="{{ '/episodes/' | relative_url }}episode-121/">#121</a> |  |  |
-| [10/28/2022](https://youtu.be/Vyo_oTHKhUY?t=851) | <a href="{{ '/episodes/' | relative_url }}episode-137/">#137</a> |  |  |
-| [5/5/2023](https://youtube.com/live/iSBCTTvF5RM?t=2323) | <a href="{{ '/episodes/' | relative_url }}episode-161/">#161</a> |  |  |
-| [10/13/2023](https://youtu.be/3gn7cZOMOqA?t=69) | <a href="{{ '/episodes/' | relative_url }}episode-182/">#182</a> |  |  |
-| [3/29/2024](https://youtu.be/brtK3KrZ6Io?t=2671) | <a href="{{ '/episodes/' | relative_url }}episode-55-rerun-3292024/">#55</a> |  |  |
-| 11/15/2024 | <a href="{{ '/episodes/' | relative_url }}episode-233/">#233</a> |  |  |
-| 3/21/2025 | <a href="{{ '/episodes/' | relative_url }}show-3212025/">Show</a> |  |  |
-| 8/8/2025 | <a href="{{ '/episodes/' | relative_url }}episode-267/">#267</a> |  |  |
-| 11/14/2025 | <a href="{{ '/episodes/' | relative_url }}episode-23-rerun-11142025/">#23</a> |  |  |
-| 5/8/2026 | <a href="{{ '/episodes/' | relative_url }}episode-23-rerun-582026/">#23</a> |  |  |

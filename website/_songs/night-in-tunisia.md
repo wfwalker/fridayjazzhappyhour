@@ -6,26 +6,110 @@ style: "Downtempo"
 play_count: 15
 hall_of_fame: true
 ready_rating: 0
+performances:
+  - date: "5/29/2020"
+    url: "https://youtu.be/4UMdp7mQUrM?t=1114"
+    episode: "11"
+    episode_slug: "episode-11"
+    tempo: "127"
+    notes: "bembe"
+    rerun: false
+  - date: "9/18/2020"
+    url: "https://youtu.be/0LJTLQOLZQM?t=1785"
+    episode: "27"
+    episode_slug: "episode-27"
+    tempo: "65"
+    notes: "too slow? too long"
+    rerun: false
+  - date: "1/22/2021"
+    url: "https://youtu.be/9MPZ7yfdE6o?t=2652"
+    episode: "45"
+    episode_slug: "episode-45"
+    tempo: "145"
+    notes: ""
+    rerun: false
+  - date: "6/25/2021"
+    url: "https://youtu.be/BVJuigptxSA?t=2845"
+    episode: "67"
+    episode_slug: "episode-67"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/10/2021"
+    url: "https://youtu.be/NuXghDNajFw?t=2828"
+    episode: "78"
+    episode_slug: "episode-78"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/12/2021"
+    url: "https://youtu.be/BLyftIJ9xhI?t=1848"
+    episode: "87"
+    episode_slug: "episode-87"
+    tempo: ""
+    notes: "new bass rocks"
+    rerun: false
+  - date: "2/18/2022"
+    url: "https://youtu.be/3mAFWZBR_QU?t=2465"
+    episode: "101"
+    episode_slug: "episode-101"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/9/2022"
+    url: "https://youtu.be/le4SSqcmJHM?t=1585"
+    episode: "130"
+    episode_slug: "episode-130"
+    tempo: ""
+    notes: "nice ebb and flow of energy"
+    rerun: false
+  - date: "6/23/2023"
+    url: "https://www.youtube.com/watch?v=w28RQAWi17U?t=1158"
+    episode: "168"
+    episode_slug: "episode-168"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "12/15/2023"
+    url: ""
+    episode: "191"
+    episode_slug: "episode-191"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/7/2024"
+    url: ""
+    episode: "212"
+    episode_slug: "episode-212"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/27/2024"
+    url: ""
+    episode: "226"
+    episode_slug: "episode-226"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "4/11/2025"
+    url: ""
+    episode: "251"
+    episode_slug: "episode-251"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "12/19/2025"
+    url: ""
+    episode: "282"
+    episode_slug: "episode-282"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/26/2026"
+    url: ""
+    episode: "299D"
+    episode_slug: "episode-299d"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Night in Tunisia
-
-Played **15** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [5/29/2020](https://youtu.be/4UMdp7mQUrM?t=1114) | <a href="{{ '/episodes/' | relative_url }}episode-11/">#11</a> | 127 | bembe |
-| [9/18/2020](https://youtu.be/0LJTLQOLZQM?t=1785) | <a href="{{ '/episodes/' | relative_url }}episode-27/">#27</a> | 65 | too slow? too long |
-| [1/22/2021](https://youtu.be/9MPZ7yfdE6o?t=2652) | <a href="{{ '/episodes/' | relative_url }}episode-45/">#45</a> | 145 |  |
-| [6/25/2021](https://youtu.be/BVJuigptxSA?t=2845) | <a href="{{ '/episodes/' | relative_url }}episode-67/">#67</a> |  |  |
-| [9/10/2021](https://youtu.be/NuXghDNajFw?t=2828) | <a href="{{ '/episodes/' | relative_url }}episode-78/">#78</a> |  |  |
-| [11/12/2021](https://youtu.be/BLyftIJ9xhI?t=1848) | <a href="{{ '/episodes/' | relative_url }}episode-87/">#87</a> |  | new bass rocks |
-| [2/18/2022](https://youtu.be/3mAFWZBR_QU?t=2465) | <a href="{{ '/episodes/' | relative_url }}episode-101/">#101</a> |  |  |
-| [9/9/2022](https://youtu.be/le4SSqcmJHM?t=1585) | <a href="{{ '/episodes/' | relative_url }}episode-130/">#130</a> |  | nice ebb and flow of energy |
-| [6/23/2023](https://www.youtube.com/watch?v=w28RQAWi17U?t=1158) | <a href="{{ '/episodes/' | relative_url }}episode-168/">#168</a> |  |  |
-| 12/15/2023 | <a href="{{ '/episodes/' | relative_url }}episode-191/">#191</a> |  |  |
-| 6/7/2024 | <a href="{{ '/episodes/' | relative_url }}episode-212/">#212</a> |  |  |
-| 9/27/2024 | <a href="{{ '/episodes/' | relative_url }}episode-226/">#226</a> |  |  |
-| 4/11/2025 | <a href="{{ '/episodes/' | relative_url }}episode-251/">#251</a> |  |  |
-| 12/19/2025 | <a href="{{ '/episodes/' | relative_url }}episode-282/">#282</a> |  |  |
-| 6/26/2026 | <a href="{{ '/episodes/' | relative_url }}episode-299d/">#299D</a> |  |  |

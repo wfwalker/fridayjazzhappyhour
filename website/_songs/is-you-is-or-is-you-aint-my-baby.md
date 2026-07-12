@@ -6,13 +6,19 @@ style: "Pop"
 play_count: 2
 hall_of_fame: true
 ready_rating: 2
+performances:
+  - date: "10/27/2023"
+    url: "https://youtube.com/live/3TUXOsOjp-U?t=1158"
+    episode: "184"
+    episode_slug: "episode-184"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/31/2025"
+    url: ""
+    episode: "277"
+    episode_slug: "episode-277"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Is you is or is you ain't my baby?
-
-Played **2** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [10/27/2023](https://youtube.com/live/3TUXOsOjp-U?t=1158) | <a href="{{ '/episodes/' | relative_url }}episode-184/">#184</a> |  |  |
-| 10/31/2025 | <a href="{{ '/episodes/' | relative_url }}episode-277/">#277</a> |  |  |

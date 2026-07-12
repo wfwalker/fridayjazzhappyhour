@@ -6,19 +6,61 @@ style: "Ballad"
 play_count: 8
 hall_of_fame: true
 ready_rating: 4
+performances:
+  - date: "4/3/2020"
+    url: "https://youtu.be/s0MwmoMYKj8?t=435"
+    episode: "3"
+    episode_slug: "episode-3"
+    tempo: "66"
+    notes: "bass wrong tempo!"
+    rerun: false
+  - date: "5/22/2020"
+    url: "https://youtu.be/Wa5KVG0iCKM?t=1375"
+    episode: "10"
+    episode_slug: "episode-10"
+    tempo: "68"
+    notes: ""
+    rerun: false
+  - date: "4/22/2022"
+    url: "https://youtu.be/BLBnVY8iUBg?t=1540"
+    episode: "110"
+    episode_slug: "episode-110"
+    tempo: ""
+    notes: "nice"
+    rerun: false
+  - date: "7/29/2022"
+    url: "https://youtu.be/ym09Bs8Bj2g?t=2344"
+    episode: "124"
+    episode_slug: "episode-124"
+    tempo: ""
+    notes: "add tag bassline?add BOMP?"
+    rerun: false
+  - date: "5/5/2023"
+    url: "https://youtube.com/live/iSBCTTvF5RM?t=3570"
+    episode: "161"
+    episode_slug: "episode-161"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/17/2023"
+    url: ""
+    episode: "187"
+    episode_slug: "episode-187"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/15/2024"
+    url: ""
+    episode: "233"
+    episode_slug: "episode-233"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "2/27/2026"
+    url: ""
+    episode: "291"
+    episode_slug: "episode-291"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Nightingale Sang in Berkeley Square
-
-Played **8** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [4/3/2020](https://youtu.be/s0MwmoMYKj8?t=435) | <a href="{{ '/episodes/' | relative_url }}episode-3/">#3</a> | 66 | bass wrong tempo! |
-| [5/22/2020](https://youtu.be/Wa5KVG0iCKM?t=1375) | <a href="{{ '/episodes/' | relative_url }}episode-10/">#10</a> | 68 |  |
-| [4/22/2022](https://youtu.be/BLBnVY8iUBg?t=1540) | <a href="{{ '/episodes/' | relative_url }}episode-110/">#110</a> |  | nice |
-| [7/29/2022](https://youtu.be/ym09Bs8Bj2g?t=2344) | <a href="{{ '/episodes/' | relative_url }}episode-124/">#124</a> |  | add tag bassline?add BOMP? |
-| [5/5/2023](https://youtube.com/live/iSBCTTvF5RM?t=3570) | <a href="{{ '/episodes/' | relative_url }}episode-161/">#161</a> |  |  |
-| 11/17/2023 | <a href="{{ '/episodes/' | relative_url }}episode-187/">#187</a> |  |  |
-| 11/15/2024 | <a href="{{ '/episodes/' | relative_url }}episode-233/">#233</a> |  |  |
-| 2/27/2026 | <a href="{{ '/episodes/' | relative_url }}episode-291/">#291</a> |  |  |

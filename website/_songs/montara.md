@@ -6,27 +6,117 @@ style: "Downtempo"
 play_count: 16
 hall_of_fame: true
 ready_rating: 4
+performances:
+  - date: "7/17/2020"
+    url: "https://youtu.be/ws1QG2nfN5g?t=1542"
+    episode: "18"
+    episode_slug: "episode-18"
+    tempo: "77"
+    notes: ""
+    rerun: false
+  - date: "10/9/2020"
+    url: "https://youtu.be/BOcDB0UTT54?t=2177"
+    episode: "30"
+    episode_slug: "episode-30"
+    tempo: "80"
+    notes: "HOF practice the head!"
+    rerun: false
+  - date: "1/8/2021"
+    url: "https://youtu.be/PcZFKARMaQo?t=1845"
+    episode: "43"
+    episode_slug: "episode-43"
+    tempo: "80"
+    notes: ""
+    rerun: false
+  - date: "5/28/2021"
+    url: "https://youtu.be/m7hZS9rLGO0?t=3235"
+    episode: "63"
+    episode_slug: "episode-63"
+    tempo: ""
+    notes: "previous version was better? reggae groove did not gel"
+    rerun: false
+  - date: "7/16/2021"
+    url: "https://youtu.be/yaLXVIw0nxE?t=50"
+    episode: "70"
+    episode_slug: "episode-70"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/24/2021"
+    url: "https://youtu.be/HM_6QdDeBy4?t=1989"
+    episode: "80"
+    episode_slug: "episode-80"
+    tempo: ""
+    notes: "practice; automate Effects change"
+    rerun: false
+  - date: "1/21/2022"
+    url: "https://youtu.be/vFJFp1oRZE8?t=1475"
+    episode: "97"
+    episode_slug: "episode-97"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/25/2022"
+    url: "https://youtu.be/-yO13Zr2O50?t=891"
+    episode: "106"
+    episode_slug: "episode-106"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/17/2022"
+    url: "https://youtu.be/xBJwSJ8nljM?t=195"
+    episode: "118"
+    episode_slug: "episode-118"
+    tempo: ""
+    notes: "TODO: differentiate solo and head!"
+    rerun: false
+  - date: "9/23/2022"
+    url: "https://youtu.be/ngSqqLNxvgo?t=3010"
+    episode: "132"
+    episode_slug: "episode-132"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/12/2023"
+    url: "https://youtu.be/GGa7s8I0Gzc?t=2968"
+    episode: "162"
+    episode_slug: "episode-162"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "2/23/2024"
+    url: ""
+    episode: "199B"
+    episode_slug: "episode-199b"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/14/2024"
+    url: ""
+    episode: "213"
+    episode_slug: "episode-213"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/22/2024"
+    url: ""
+    episode: "234"
+    episode_slug: "episode-234"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/9/2025"
+    url: ""
+    episode: "255"
+    episode_slug: "episode-255"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/3/2025"
+    url: ""
+    episode: "199b"
+    episode_slug: "episode-199b"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Montara
-
-Played **16** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [7/17/2020](https://youtu.be/ws1QG2nfN5g?t=1542) | <a href="{{ '/episodes/' | relative_url }}episode-18/">#18</a> | 77 |  |
-| [10/9/2020](https://youtu.be/BOcDB0UTT54?t=2177) | <a href="{{ '/episodes/' | relative_url }}episode-30/">#30</a> | 80 | HOF practice the head! |
-| [1/8/2021](https://youtu.be/PcZFKARMaQo?t=1845) | <a href="{{ '/episodes/' | relative_url }}episode-43/">#43</a> | 80 |  |
-| [5/28/2021](https://youtu.be/m7hZS9rLGO0?t=3235) | <a href="{{ '/episodes/' | relative_url }}episode-63/">#63</a> |  | previous version was better? reggae groove did not gel |
-| [7/16/2021](https://youtu.be/yaLXVIw0nxE?t=50) | <a href="{{ '/episodes/' | relative_url }}episode-70/">#70</a> |  |  |
-| [9/24/2021](https://youtu.be/HM_6QdDeBy4?t=1989) | <a href="{{ '/episodes/' | relative_url }}episode-80/">#80</a> |  | practice; automate Effects change |
-| [1/21/2022](https://youtu.be/vFJFp1oRZE8?t=1475) | <a href="{{ '/episodes/' | relative_url }}episode-97/">#97</a> |  |  |
-| [3/25/2022](https://youtu.be/-yO13Zr2O50?t=891) | <a href="{{ '/episodes/' | relative_url }}episode-106/">#106</a> |  |  |
-| [6/17/2022](https://youtu.be/xBJwSJ8nljM?t=195) | <a href="{{ '/episodes/' | relative_url }}episode-118/">#118</a> |  | TODO: differentiate solo and head! |
-| [9/23/2022](https://youtu.be/ngSqqLNxvgo?t=3010) | <a href="{{ '/episodes/' | relative_url }}episode-132/">#132</a> |  |  |
-| [5/12/2023](https://youtu.be/GGa7s8I0Gzc?t=2968) | <a href="{{ '/episodes/' | relative_url }}episode-162/">#162</a> |  |  |
-| 2/23/2024 | <a href="{{ '/episodes/' | relative_url }}episode-199b/">#199B</a> |  |  |
-| 6/14/2024 | <a href="{{ '/episodes/' | relative_url }}episode-213/">#213</a> |  |  |
-| 11/22/2024 | <a href="{{ '/episodes/' | relative_url }}episode-234/">#234</a> |  |  |
-| 5/9/2025 | <a href="{{ '/episodes/' | relative_url }}episode-255/">#255</a> |  |  |
-| 10/3/2025 | <a href="{{ '/episodes/' | relative_url }}episode-199b/">#199b</a> |  |  |

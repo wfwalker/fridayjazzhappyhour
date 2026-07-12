@@ -6,22 +6,82 @@ style: "Funk"
 play_count: 11
 hall_of_fame: true
 ready_rating: 4
+performances:
+  - date: "4/8/2022"
+    url: "https://youtu.be/47KbvV1znH8?t=3202"
+    episode: "108"
+    episode_slug: "episode-108"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/10/2022"
+    url: "https://youtu.be/Um0wMxG_j1k?t=2235"
+    episode: "117"
+    episode_slug: "episode-117"
+    tempo: ""
+    notes: "horn solo"
+    rerun: false
+  - date: "9/30/2022"
+    url: "https://youtu.be/B3o-4sC6Z6w?t=2713"
+    episode: "133"
+    episode_slug: "episode-133"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "1/20/2023"
+    url: "https://youtube.com/live/_UbYlUluq8M?t=1370"
+    episode: "146"
+    episode_slug: "episode-146"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/19/2023"
+    url: ""
+    episode: "163"
+    episode_slug: "episode-163"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/22/2023"
+    url: "https://youtube.com/live/PDFolCHBpes?t=1158"
+    episode: "180"
+    episode_slug: "episode-180"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/15/2024"
+    url: ""
+    episode: "202"
+    episode_slug: "episode-202"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/7/2024"
+    url: ""
+    episode: "223"
+    episode_slug: "episode-223"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "1/3/2025"
+    url: ""
+    episode: "241"
+    episode_slug: "episode-241"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/27/2025"
+    url: ""
+    episode: "262"
+    episode_slug: "episode-262"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "12/26/2025"
+    url: ""
+    episode: "283"
+    episode_slug: "episode-283"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Them Funky Changes
-
-Played **11** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [4/8/2022](https://youtu.be/47KbvV1znH8?t=3202) | <a href="{{ '/episodes/' | relative_url }}episode-108/">#108</a> |  |  |
-| [6/10/2022](https://youtu.be/Um0wMxG_j1k?t=2235) | <a href="{{ '/episodes/' | relative_url }}episode-117/">#117</a> |  | horn solo |
-| [9/30/2022](https://youtu.be/B3o-4sC6Z6w?t=2713) | <a href="{{ '/episodes/' | relative_url }}episode-133/">#133</a> |  |  |
-| [1/20/2023](https://youtube.com/live/_UbYlUluq8M?t=1370) | <a href="{{ '/episodes/' | relative_url }}episode-146/">#146</a> |  |  |
-| 5/19/2023 | <a href="{{ '/episodes/' | relative_url }}episode-163/">#163</a> |  |  |
-| [9/22/2023](https://youtube.com/live/PDFolCHBpes?t=1158) | <a href="{{ '/episodes/' | relative_url }}episode-180/">#180</a> |  |  |
-| 3/15/2024 | <a href="{{ '/episodes/' | relative_url }}episode-202/">#202</a> |  |  |
-| 9/7/2024 | <a href="{{ '/episodes/' | relative_url }}episode-223/">#223</a> |  |  |
-| 1/3/2025 | <a href="{{ '/episodes/' | relative_url }}episode-241/">#241</a> |  |  |
-| 6/27/2025 | <a href="{{ '/episodes/' | relative_url }}episode-262/">#262</a> |  |  |
-| 12/26/2025 | <a href="{{ '/episodes/' | relative_url }}episode-283/">#283</a> |  |  |

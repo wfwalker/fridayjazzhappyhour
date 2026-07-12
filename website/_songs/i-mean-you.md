@@ -6,20 +6,68 @@ style: "Pop"
 play_count: 9
 hall_of_fame: true
 ready_rating: 4
+performances:
+  - date: "8/28/2020"
+    url: "https://youtu.be/oLyXU2T1ZuA?t=1890"
+    episode: "24"
+    episode_slug: "episode-24"
+    tempo: "60"
+    notes: ""
+    rerun: false
+  - date: "5/21/2021"
+    url: "https://youtu.be/tB5vd6dRUS4?t=2120"
+    episode: "62"
+    episode_slug: "episode-62"
+    tempo: ""
+    notes: "HOF intro / interlude good; energy good. add horns!"
+    rerun: false
+  - date: "7/1/2022"
+    url: "https://youtu.be/eIUxG9vQkiw?t=3110"
+    episode: "120"
+    episode_slug: "episode-120"
+    tempo: ""
+    notes: "sloppy; prepare for bass solo!!"
+    rerun: false
+  - date: "10/28/2022"
+    url: "https://youtu.be/Vyo_oTHKhUY?t=170"
+    episode: "137"
+    episode_slug: "episode-137"
+    tempo: ""
+    notes: "nice bass solo"
+    rerun: false
+  - date: "4/21/2023"
+    url: "https://youtube.com/live/YOlVjS1rPFY?t=1158"
+    episode: "159"
+    episode_slug: "episode-159"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/6/2023"
+    url: "https://youtube.com/live/72lHM0ID4_8?t=715"
+    episode: "181"
+    episode_slug: "episode-181"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/21/2024"
+    url: ""
+    episode: "214"
+    episode_slug: "episode-214"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "12/27/2024"
+    url: ""
+    episode: "239"
+    episode_slug: "episode-239"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/25/2025"
+    url: ""
+    episode: "265"
+    episode_slug: "episode-265"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# I Mean You
-
-Played **9** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [8/28/2020](https://youtu.be/oLyXU2T1ZuA?t=1890) | <a href="{{ '/episodes/' | relative_url }}episode-24/">#24</a> | 60 |  |
-| [5/21/2021](https://youtu.be/tB5vd6dRUS4?t=2120) | <a href="{{ '/episodes/' | relative_url }}episode-62/">#62</a> |  | HOF intro / interlude good; energy good. add horns! |
-| [7/1/2022](https://youtu.be/eIUxG9vQkiw?t=3110) | <a href="{{ '/episodes/' | relative_url }}episode-120/">#120</a> |  | sloppy; prepare for bass solo!! |
-| [10/28/2022](https://youtu.be/Vyo_oTHKhUY?t=170) | <a href="{{ '/episodes/' | relative_url }}episode-137/">#137</a> |  | nice bass solo |
-| [4/21/2023](https://youtube.com/live/YOlVjS1rPFY?t=1158) | <a href="{{ '/episodes/' | relative_url }}episode-159/">#159</a> |  |  |
-| [10/6/2023](https://youtube.com/live/72lHM0ID4_8?t=715) | <a href="{{ '/episodes/' | relative_url }}episode-181/">#181</a> |  |  |
-| 6/21/2024 | <a href="{{ '/episodes/' | relative_url }}episode-214/">#214</a> |  |  |
-| 12/27/2024 | <a href="{{ '/episodes/' | relative_url }}episode-239/">#239</a> |  |  |
-| 7/25/2025 | <a href="{{ '/episodes/' | relative_url }}episode-265/">#265</a> |  |  |

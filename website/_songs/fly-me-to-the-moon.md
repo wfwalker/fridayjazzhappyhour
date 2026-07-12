@@ -6,26 +6,110 @@ style: "Swing"
 play_count: 15
 hall_of_fame: true
 ready_rating: 4
+performances:
+  - date: "6/5/2020"
+    url: "https://youtu.be/8aHUkT2wFNc?t=480"
+    episode: "12"
+    episode_slug: "episode-12"
+    tempo: "135"
+    notes: "wut. accordion. forgot"
+    rerun: false
+  - date: "11/20/2020"
+    url: "https://youtu.be/FgUbgdPd9pw?t=1083"
+    episode: "36"
+    episode_slug: "episode-36"
+    tempo: "142"
+    notes: "add landmarks! horns?"
+    rerun: false
+  - date: "2/25/2022"
+    url: "https://youtu.be/f8SEdxjiIMM?t=919"
+    episode: "102"
+    episode_slug: "episode-102"
+    tempo: ""
+    notes: "opening head good, scatting needs work"
+    rerun: false
+  - date: "5/20/2022"
+    url: "https://youtu.be/Wmyvd2LlVw0?t=1960"
+    episode: "114"
+    episode_slug: "episode-114"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/2/2022"
+    url: "https://youtu.be/bIdPZtsIf-M?t=1547"
+    episode: "129"
+    episode_slug: "episode-129"
+    tempo: ""
+    notes: "VOCAL comes out strong"
+    rerun: false
+  - date: "1/20/2023"
+    url: "https://youtube.com/live/_UbYlUluq8M?t=1037"
+    episode: "146"
+    episode_slug: "episode-146"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/9/2023"
+    url: "https://youtube.com/live/zxBeVU3jcP8?t=2240"
+    episode: "166"
+    episode_slug: "episode-166"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/8/2023"
+    url: "https://youtu.be/bIdPZtsIf-M?t=1533"
+    episode: "129"
+    episode_slug: "episode-129-rerun-982023"
+    tempo: ""
+    notes: ""
+    rerun: true
+  - date: "3/15/2024"
+    url: ""
+    episode: "202"
+    episode_slug: "episode-202"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/9/2024"
+    url: ""
+    episode: "220"
+    episode_slug: "episode-220"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "1/3/2025"
+    url: ""
+    episode: "241"
+    episode_slug: "episode-241"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/9/2025"
+    url: ""
+    episode: "255"
+    episode_slug: "episode-255"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/8/2025"
+    url: ""
+    episode: "267"
+    episode_slug: "episode-267"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "1/23/2026"
+    url: ""
+    episode: "286"
+    episode_slug: "episode-286"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/22/2026"
+    url: ""
+    episode: "114"
+    episode_slug: "episode-114-rerun-5222026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---
-
-# Fly me to the moon
-
-Played **15** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [6/5/2020](https://youtu.be/8aHUkT2wFNc?t=480) | <a href="{{ '/episodes/' | relative_url }}episode-12/">#12</a> | 135 | wut. accordion. forgot |
-| [11/20/2020](https://youtu.be/FgUbgdPd9pw?t=1083) | <a href="{{ '/episodes/' | relative_url }}episode-36/">#36</a> | 142 | add landmarks! horns? |
-| [2/25/2022](https://youtu.be/f8SEdxjiIMM?t=919) | <a href="{{ '/episodes/' | relative_url }}episode-102/">#102</a> |  | opening head good, scatting needs work |
-| [5/20/2022](https://youtu.be/Wmyvd2LlVw0?t=1960) | <a href="{{ '/episodes/' | relative_url }}episode-114/">#114</a> |  |  |
-| [9/2/2022](https://youtu.be/bIdPZtsIf-M?t=1547) | <a href="{{ '/episodes/' | relative_url }}episode-129/">#129</a> |  | VOCAL comes out strong |
-| [1/20/2023](https://youtube.com/live/_UbYlUluq8M?t=1037) | <a href="{{ '/episodes/' | relative_url }}episode-146/">#146</a> |  |  |
-| [6/9/2023](https://youtube.com/live/zxBeVU3jcP8?t=2240) | <a href="{{ '/episodes/' | relative_url }}episode-166/">#166</a> |  |  |
-| [9/8/2023](https://youtu.be/bIdPZtsIf-M?t=1533) | <a href="{{ '/episodes/' | relative_url }}episode-129-rerun-982023/">#129</a> |  |  |
-| 3/15/2024 | <a href="{{ '/episodes/' | relative_url }}episode-202/">#202</a> |  |  |
-| 8/9/2024 | <a href="{{ '/episodes/' | relative_url }}episode-220/">#220</a> |  |  |
-| 1/3/2025 | <a href="{{ '/episodes/' | relative_url }}episode-241/">#241</a> |  |  |
-| 5/9/2025 | <a href="{{ '/episodes/' | relative_url }}episode-255/">#255</a> |  |  |
-| 8/8/2025 | <a href="{{ '/episodes/' | relative_url }}episode-267/">#267</a> |  |  |
-| 1/23/2026 | <a href="{{ '/episodes/' | relative_url }}episode-286/">#286</a> |  |  |
-| 5/22/2026 | <a href="{{ '/episodes/' | relative_url }}episode-114-rerun-5222026/">#114</a> |  |  |

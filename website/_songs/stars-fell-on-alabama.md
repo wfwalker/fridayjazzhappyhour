@@ -6,23 +6,89 @@ style: "Swing"
 play_count: 12
 hall_of_fame: true
 ready_rating: 0
+performances:
+  - date: "7/10/2020"
+    url: "https://youtu.be/pWeOutFnTGs?t=795"
+    episode: "17"
+    episode_slug: "episode-17"
+    tempo: "105"
+    notes: ""
+    rerun: false
+  - date: "12/4/2020"
+    url: "https://youtu.be/8ALGHR-ErS0?t=217"
+    episode: "38"
+    episode_slug: "episode-38"
+    tempo: "105"
+    notes: ""
+    rerun: false
+  - date: "7/1/2022"
+    url: "https://youtu.be/eIUxG9vQkiw?t=730"
+    episode: "120"
+    episode_slug: "episode-120"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "1/27/2023"
+    url: "https://youtube.com/live/Br0IvlZAJVs?t=295"
+    episode: "147"
+    episode_slug: "episode-147"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/19/2023"
+    url: "https://youtu.be/5SC9LUwuawY?t=120"
+    episode: "163"
+    episode_slug: "episode-163"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/4/2023"
+    url: "https://youtube.com/live/aCkWiRbNVbM?t=1859"
+    episode: "174"
+    episode_slug: "episode-174"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "12/1/2023"
+    url: ""
+    episode: "189"
+    episode_slug: "episode-189"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/8/2024"
+    url: "https://youtu.be/LbsjAeA49TU?t=268"
+    episode: "201"
+    episode_slug: "episode-201"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/11/2024"
+    url: ""
+    episode: "228"
+    episode_slug: "episode-228"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "1/17/2025"
+    url: ""
+    episode: "201"
+    episode_slug: "episode-201-rerun-1172025"
+    tempo: ""
+    notes: ""
+    rerun: true
+  - date: "3/7/2025"
+    url: ""
+    episode: ""
+    episode_slug: "show-372025"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/17/2025"
+    url: ""
+    episode: "275"
+    episode_slug: "episode-275"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Stars Fell on Alabama
-
-Played **12** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [7/10/2020](https://youtu.be/pWeOutFnTGs?t=795) | <a href="{{ '/episodes/' | relative_url }}episode-17/">#17</a> | 105 |  |
-| [12/4/2020](https://youtu.be/8ALGHR-ErS0?t=217) | <a href="{{ '/episodes/' | relative_url }}episode-38/">#38</a> | 105 |  |
-| [7/1/2022](https://youtu.be/eIUxG9vQkiw?t=730) | <a href="{{ '/episodes/' | relative_url }}episode-120/">#120</a> |  |  |
-| [1/27/2023](https://youtube.com/live/Br0IvlZAJVs?t=295) | <a href="{{ '/episodes/' | relative_url }}episode-147/">#147</a> |  |  |
-| [5/19/2023](https://youtu.be/5SC9LUwuawY?t=120) | <a href="{{ '/episodes/' | relative_url }}episode-163/">#163</a> |  |  |
-| [8/4/2023](https://youtube.com/live/aCkWiRbNVbM?t=1859) | <a href="{{ '/episodes/' | relative_url }}episode-174/">#174</a> |  |  |
-| 12/1/2023 | <a href="{{ '/episodes/' | relative_url }}episode-189/">#189</a> |  |  |
-| [3/8/2024](https://youtu.be/LbsjAeA49TU?t=268) | <a href="{{ '/episodes/' | relative_url }}episode-201/">#201</a> |  |  |
-| 10/11/2024 | <a href="{{ '/episodes/' | relative_url }}episode-228/">#228</a> |  |  |
-| 1/17/2025 | <a href="{{ '/episodes/' | relative_url }}episode-201-rerun-1172025/">#201</a> |  |  |
-| 3/7/2025 | <a href="{{ '/episodes/' | relative_url }}show-372025/">Show</a> |  |  |
-| 10/17/2025 | <a href="{{ '/episodes/' | relative_url }}episode-275/">#275</a> |  |  |

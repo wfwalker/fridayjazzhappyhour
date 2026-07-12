@@ -6,20 +6,68 @@ style: "Bossa"
 play_count: 9
 hall_of_fame: true
 ready_rating: 3
+performances:
+  - date: "8/21/2020"
+    url: "https://youtu.be/m7JFcEdod0E?t=768"
+    episode: "23"
+    episode_slug: "episode-23"
+    tempo: "84"
+    notes: "switching instruments good"
+    rerun: false
+  - date: "11/27/2020"
+    url: "https://youtu.be/8W4XQTLdajk?t=2940"
+    episode: "37"
+    episode_slug: "episode-37"
+    tempo: "100"
+    notes: ""
+    rerun: false
+  - date: "4/9/2021"
+    url: "https://youtu.be/RVecTJg5GEs?t=1292"
+    episode: "56"
+    episode_slug: "episode-56"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/10/2023"
+    url: ""
+    episode: "186"
+    episode_slug: "episode-186"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/3/2024"
+    url: ""
+    episode: "207"
+    episode_slug: "episode-207"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "12/27/2024"
+    url: ""
+    episode: "239"
+    episode_slug: "episode-239"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/25/2025"
+    url: ""
+    episode: "265"
+    episode_slug: "episode-265"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/14/2025"
+    url: ""
+    episode: "23"
+    episode_slug: "episode-23-rerun-11142025"
+    tempo: ""
+    notes: ""
+    rerun: true
+  - date: "5/8/2026"
+    url: ""
+    episode: "23"
+    episode_slug: "episode-23-rerun-582026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---
-
-# Eu Quero E Sossego
-
-Played **9** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [8/21/2020](https://youtu.be/m7JFcEdod0E?t=768) | <a href="{{ '/episodes/' | relative_url }}episode-23/">#23</a> | 84 | switching instruments good |
-| [11/27/2020](https://youtu.be/8W4XQTLdajk?t=2940) | <a href="{{ '/episodes/' | relative_url }}episode-37/">#37</a> | 100 |  |
-| [4/9/2021](https://youtu.be/RVecTJg5GEs?t=1292) | <a href="{{ '/episodes/' | relative_url }}episode-56/">#56</a> |  |  |
-| 11/10/2023 | <a href="{{ '/episodes/' | relative_url }}episode-186/">#186</a> |  |  |
-| 5/3/2024 | <a href="{{ '/episodes/' | relative_url }}episode-207/">#207</a> |  |  |
-| 12/27/2024 | <a href="{{ '/episodes/' | relative_url }}episode-239/">#239</a> |  |  |
-| 7/25/2025 | <a href="{{ '/episodes/' | relative_url }}episode-265/">#265</a> |  |  |
-| 11/14/2025 | <a href="{{ '/episodes/' | relative_url }}episode-23-rerun-11142025/">#23</a> |  |  |
-| 5/8/2026 | <a href="{{ '/episodes/' | relative_url }}episode-23-rerun-582026/">#23</a> |  |  |

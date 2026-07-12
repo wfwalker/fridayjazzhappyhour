@@ -6,15 +6,33 @@ style: "Swing"
 play_count: 4
 hall_of_fame: true
 ready_rating: 0
+performances:
+  - date: "5/15/2020"
+    url: "https://youtu.be/nAk_30ixPvc?t=140"
+    episode: "9"
+    episode_slug: "episode-9"
+    tempo: "109"
+    notes: "REDO better melody sound?"
+    rerun: false
+  - date: "6/7/2024"
+    url: ""
+    episode: "212"
+    episode_slug: "episode-212"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/23/2025"
+    url: ""
+    episode: "257"
+    episode_slug: "episode-257"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "4/17/2026"
+    url: ""
+    episode: "295"
+    episode_slug: "episode-295"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Killer Joe
-
-Played **4** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [5/15/2020](https://youtu.be/nAk_30ixPvc?t=140) | <a href="{{ '/episodes/' | relative_url }}episode-9/">#9</a> | 109 | REDO better melody sound? |
-| 6/7/2024 | <a href="{{ '/episodes/' | relative_url }}episode-212/">#212</a> |  |  |
-| 5/23/2025 | <a href="{{ '/episodes/' | relative_url }}episode-257/">#257</a> |  |  |
-| 4/17/2026 | <a href="{{ '/episodes/' | relative_url }}episode-295/">#295</a> |  |  |

@@ -738,7 +738,7 @@
   composer: "Bill Withers"
   style: "VOCAL"
   play_count: 1
-- title: "Let It Snow"
+- title: "Let it Snow"
   slug: "let-it-snow"
   composer: ""
   style: ""
@@ -888,7 +888,7 @@
   composer: "Bill Walker"
   style: ""
   play_count: 1
-- title: "Our Love is here to Stay"
+- title: "Our love is here to stay"
   slug: "our-love-is-here-to-stay"
   composer: "George Gerswin"
   style: ""
@@ -993,7 +993,7 @@
   composer: ""
   style: ""
   play_count: 1
-- title: "Sacto Closer"
+- title: "Sacto closer"
   slug: "sacto-closer"
   composer: ""
   style: ""

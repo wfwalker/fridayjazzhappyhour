@@ -6,28 +6,124 @@ style: "Swing"
 play_count: 17
 hall_of_fame: true
 ready_rating: 5
+performances:
+  - date: "7/24/2020"
+    url: "https://youtu.be/nNbXig2F9Lc?t=315"
+    episode: "19"
+    episode_slug: "episode-19"
+    tempo: "130"
+    notes: "mellow; fills too loud too much"
+    rerun: false
+  - date: "11/13/2020"
+    url: "https://youtu.be/-1SJwJrjwd0?t=450"
+    episode: "35"
+    episode_slug: "episode-35"
+    tempo: "138"
+    notes: ""
+    rerun: false
+  - date: "5/28/2021"
+    url: "https://youtu.be/m7hZS9rLGO0?t=755"
+    episode: "63"
+    episode_slug: "episode-63"
+    tempo: ""
+    notes: "add sticks drumming for energy?"
+    rerun: false
+  - date: "7/9/2021"
+    url: "https://youtu.be/LcOwt_X_aog?t=825"
+    episode: "69"
+    episode_slug: "episode-69"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/10/2021"
+    url: "https://youtu.be/NuXghDNajFw?t=1640"
+    episode: "78"
+    episode_slug: "episode-78"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/19/2021"
+    url: "https://youtu.be/mrX0hOrHI2A?t=286"
+    episode: "88"
+    episode_slug: "episode-88"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "2/18/2022"
+    url: "https://youtu.be/3mAFWZBR_QU?t=297"
+    episode: "101"
+    episode_slug: "episode-101"
+    tempo: ""
+    notes: "monophonic trumpet solo, how to?"
+    rerun: false
+  - date: "4/29/2022"
+    url: "https://youtu.be/leI4x1fedrQ?t=673"
+    episode: "111"
+    episode_slug: "episode-111"
+    tempo: ""
+    notes: "whiffed intro pickup ; add verbal count?"
+    rerun: false
+  - date: "7/8/2022"
+    url: "https://youtu.be/yr0e-0JaG4U?t=2293"
+    episode: "121"
+    episode_slug: "episode-121"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/12/2022"
+    url: "https://youtu.be/-mLt1LbOZ8Y?t=2175"
+    episode: "126"
+    episode_slug: "episode-126"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/3/2023"
+    url: "https://youtube.com/live/sRh_m871lEU?t=1859"
+    episode: "152"
+    episode_slug: "episode-152"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/15/2023"
+    url: "https://youtube.com/live/NfYxpQ1E1Ms?t=268"
+    episode: "179"
+    episode_slug: "episode-179"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "12/15/2023"
+    url: ""
+    episode: "191"
+    episode_slug: "episode-191"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/24/2024"
+    url: ""
+    episode: "210"
+    episode_slug: "episode-210"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/22/2024"
+    url: ""
+    episode: "234"
+    episode_slug: "episode-234"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/13/2025"
+    url: ""
+    episode: "260"
+    episode_slug: "episode-260"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/12/2026"
+    url: ""
+    episode: "299B"
+    episode_slug: "episode-299b"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# All the things you are
-
-Played **17** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [7/24/2020](https://youtu.be/nNbXig2F9Lc?t=315) | <a href="{{ '/episodes/' | relative_url }}episode-19/">#19</a> | 130 | mellow; fills too loud too much |
-| [11/13/2020](https://youtu.be/-1SJwJrjwd0?t=450) | <a href="{{ '/episodes/' | relative_url }}episode-35/">#35</a> | 138 |  |
-| [5/28/2021](https://youtu.be/m7hZS9rLGO0?t=755) | <a href="{{ '/episodes/' | relative_url }}episode-63/">#63</a> |  | add sticks drumming for energy? |
-| [7/9/2021](https://youtu.be/LcOwt_X_aog?t=825) | <a href="{{ '/episodes/' | relative_url }}episode-69/">#69</a> |  |  |
-| [9/10/2021](https://youtu.be/NuXghDNajFw?t=1640) | <a href="{{ '/episodes/' | relative_url }}episode-78/">#78</a> |  |  |
-| [11/19/2021](https://youtu.be/mrX0hOrHI2A?t=286) | <a href="{{ '/episodes/' | relative_url }}episode-88/">#88</a> |  |  |
-| [2/18/2022](https://youtu.be/3mAFWZBR_QU?t=297) | <a href="{{ '/episodes/' | relative_url }}episode-101/">#101</a> |  | monophonic trumpet solo, how to? |
-| [4/29/2022](https://youtu.be/leI4x1fedrQ?t=673) | <a href="{{ '/episodes/' | relative_url }}episode-111/">#111</a> |  | whiffed intro pickup ; add verbal count? |
-| [7/8/2022](https://youtu.be/yr0e-0JaG4U?t=2293) | <a href="{{ '/episodes/' | relative_url }}episode-121/">#121</a> |  |  |
-| [8/12/2022](https://youtu.be/-mLt1LbOZ8Y?t=2175) | <a href="{{ '/episodes/' | relative_url }}episode-126/">#126</a> |  |  |
-| [3/3/2023](https://youtube.com/live/sRh_m871lEU?t=1859) | <a href="{{ '/episodes/' | relative_url }}episode-152/">#152</a> |  |  |
-| [9/15/2023](https://youtube.com/live/NfYxpQ1E1Ms?t=268) | <a href="{{ '/episodes/' | relative_url }}episode-179/">#179</a> |  |  |
-| 12/15/2023 | <a href="{{ '/episodes/' | relative_url }}episode-191/">#191</a> |  |  |
-| 5/24/2024 | <a href="{{ '/episodes/' | relative_url }}episode-210/">#210</a> |  |  |
-| 11/22/2024 | <a href="{{ '/episodes/' | relative_url }}episode-234/">#234</a> |  |  |
-| 6/13/2025 | <a href="{{ '/episodes/' | relative_url }}episode-260/">#260</a> |  |  |
-| 6/12/2026 | <a href="{{ '/episodes/' | relative_url }}episode-299b/">#299B</a> |  |  |

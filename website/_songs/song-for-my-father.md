@@ -6,21 +6,75 @@ style: "Latin"
 play_count: 10
 hall_of_fame: true
 ready_rating: 4
+performances:
+  - date: "9/11/2020"
+    url: "https://youtu.be/texnvgIfzO8?t=2150"
+    episode: "26"
+    episode_slug: "episode-26"
+    tempo: "110"
+    notes: "too slow, feels naked"
+    rerun: false
+  - date: "5/7/2021"
+    url: "https://youtu.be/sZSyy77J_Uc?t=1044"
+    episode: "60"
+    episode_slug: "episode-60"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/18/2021"
+    url: "https://youtu.be/OptqncNOQyA?t=897"
+    episode: "66"
+    episode_slug: "episode-66"
+    tempo: ""
+    notes: "audience request show"
+    rerun: false
+  - date: "9/3/2021"
+    url: "https://youtu.be/Rg_ZLaPOj64?t=1748"
+    episode: "77"
+    episode_slug: "episode-77"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "1/21/2022"
+    url: "https://youtu.be/vFJFp1oRZE8?t=690"
+    episode: "97"
+    episode_slug: "episode-97"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "4/7/2023"
+    url: "https://youtu.be/kVbZruEPROM?t=1533"
+    episode: "157"
+    episode_slug: "episode-157"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/17/2024"
+    url: ""
+    episode: "209"
+    episode_slug: "episode-209"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/29/2024"
+    url: ""
+    episode: "235"
+    episode_slug: "episode-235"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/13/2025"
+    url: ""
+    episode: "260"
+    episode_slug: "episode-260"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "1/9/2026"
+    url: ""
+    episode: "285"
+    episode_slug: "episode-285"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Song for my Father
-
-Played **10** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [9/11/2020](https://youtu.be/texnvgIfzO8?t=2150) | <a href="{{ '/episodes/' | relative_url }}episode-26/">#26</a> | 110 | too slow, feels naked |
-| [5/7/2021](https://youtu.be/sZSyy77J_Uc?t=1044) | <a href="{{ '/episodes/' | relative_url }}episode-60/">#60</a> |  |  |
-| [6/18/2021](https://youtu.be/OptqncNOQyA?t=897) | <a href="{{ '/episodes/' | relative_url }}episode-66/">#66</a> |  | audience request show |
-| [9/3/2021](https://youtu.be/Rg_ZLaPOj64?t=1748) | <a href="{{ '/episodes/' | relative_url }}episode-77/">#77</a> |  |  |
-| [1/21/2022](https://youtu.be/vFJFp1oRZE8?t=690) | <a href="{{ '/episodes/' | relative_url }}episode-97/">#97</a> |  |  |
-| [4/7/2023](https://youtu.be/kVbZruEPROM?t=1533) | <a href="{{ '/episodes/' | relative_url }}episode-157/">#157</a> |  |  |
-| 5/17/2024 | <a href="{{ '/episodes/' | relative_url }}episode-209/">#209</a> |  |  |
-| 11/29/2024 | <a href="{{ '/episodes/' | relative_url }}episode-235/">#235</a> |  |  |
-| 6/13/2025 | <a href="{{ '/episodes/' | relative_url }}episode-260/">#260</a> |  |  |
-| 1/9/2026 | <a href="{{ '/episodes/' | relative_url }}episode-285/">#285</a> |  |  |

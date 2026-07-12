@@ -1,18 +1,24 @@
 ---
 layout: song
-title: "Some Other time"
+title: "Some other time"
 composer: "Leonard Bernstein"
 style: "Ballad"
 play_count: 2
 hall_of_fame: true
 ready_rating: 0
+performances:
+  - date: "7/21/2023"
+    url: "https://youtube.com/live/ElbkjWw665s?t=2662"
+    episode: "172"
+    episode_slug: "episode-172"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/8/2025"
+    url: ""
+    episode: "267"
+    episode_slug: "episode-267"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Some Other time
-
-Played **2** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [7/21/2023](https://youtube.com/live/ElbkjWw665s?t=2662) | <a href="{{ '/episodes/' | relative_url }}episode-172/">#172</a> |  |  |
-| 8/8/2025 | <a href="{{ '/episodes/' | relative_url }}episode-267/">#267</a> |  |  |

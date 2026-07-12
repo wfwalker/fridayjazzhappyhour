@@ -6,26 +6,110 @@ style: "Funk"
 play_count: 15
 hall_of_fame: true
 ready_rating: 4
+performances:
+  - date: "5/8/2020"
+    url: "https://youtu.be/ODap9wBMyeU?t=2813"
+    episode: "8"
+    episode_slug: "episode-8"
+    tempo: "110"
+    notes: ""
+    rerun: false
+  - date: "8/28/2020"
+    url: "https://youtu.be/oLyXU2T1ZuA?t=2313"
+    episode: "24"
+    episode_slug: "episode-24"
+    tempo: "106"
+    notes: ""
+    rerun: false
+  - date: "12/11/2020"
+    url: "https://youtu.be/hfljJ87kgbs?t=1956"
+    episode: "39"
+    episode_slug: "episode-39"
+    tempo: "106"
+    notes: ""
+    rerun: false
+  - date: "12/11/2020"
+    url: "https://youtu.be/hfljJ87kgbs?t=1954"
+    episode: "39"
+    episode_slug: "episode-39"
+    tempo: "106"
+    notes: ""
+    rerun: false
+  - date: "6/11/2021"
+    url: "https://youtu.be/ZnlVVoHkbCE?t=2845"
+    episode: "65"
+    episode_slug: "episode-65"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/30/2021"
+    url: "https://youtu.be/SFHGArSt8qo?t=2984"
+    episode: "72"
+    episode_slug: "episode-72"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/24/2021"
+    url: "https://youtu.be/HM_6QdDeBy4?t=2713"
+    episode: "80"
+    episode_slug: "episode-80"
+    tempo: ""
+    notes: "yes to sax comping!"
+    rerun: false
+  - date: "11/5/2021"
+    url: "https://youtu.be/iRH85IdbcpY?t=2890"
+    episode: "86"
+    episode_slug: "episode-86"
+    tempo: ""
+    notes: "BASS SOLO; good intro; mary wants better lead into head; piano too loud, backing too quiet"
+    rerun: false
+  - date: "7/1/2022"
+    url: "https://youtu.be/eIUxG9vQkiw?t=2650"
+    episode: "120"
+    episode_slug: "episode-120"
+    tempo: ""
+    notes: "nice breakdown"
+    rerun: false
+  - date: "6/2/2023"
+    url: "https://youtube.com/live/VPewOVmpYTg?t=1859"
+    episode: "165"
+    episode_slug: "episode-165"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/22/2024"
+    url: "https://youtube.com/live/kPqhJAREXfo?t=2662"
+    episode: "203"
+    episode_slug: "episode-203"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/26/2024"
+    url: ""
+    episode: "218"
+    episode_slug: "episode-218"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/9/2025"
+    url: ""
+    episode: "255"
+    episode_slug: "episode-255"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/8/2025"
+    url: ""
+    episode: "267"
+    episode_slug: "episode-267"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "4/24/2026"
+    url: ""
+    episode: "296"
+    episode_slug: "episode-296"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Sunny
-
-Played **15** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [5/8/2020](https://youtu.be/ODap9wBMyeU?t=2813) | <a href="{{ '/episodes/' | relative_url }}episode-8/">#8</a> | 110 |  |
-| [8/28/2020](https://youtu.be/oLyXU2T1ZuA?t=2313) | <a href="{{ '/episodes/' | relative_url }}episode-24/">#24</a> | 106 |  |
-| [12/11/2020](https://youtu.be/hfljJ87kgbs?t=1956) | <a href="{{ '/episodes/' | relative_url }}episode-39/">#39</a> | 106 |  |
-| [12/11/2020](https://youtu.be/hfljJ87kgbs?t=1954) | <a href="{{ '/episodes/' | relative_url }}episode-39/">#39</a> | 106 |  |
-| [6/11/2021](https://youtu.be/ZnlVVoHkbCE?t=2845) | <a href="{{ '/episodes/' | relative_url }}episode-65/">#65</a> |  |  |
-| [7/30/2021](https://youtu.be/SFHGArSt8qo?t=2984) | <a href="{{ '/episodes/' | relative_url }}episode-72/">#72</a> |  |  |
-| [9/24/2021](https://youtu.be/HM_6QdDeBy4?t=2713) | <a href="{{ '/episodes/' | relative_url }}episode-80/">#80</a> |  | yes to sax comping! |
-| [11/5/2021](https://youtu.be/iRH85IdbcpY?t=2890) | <a href="{{ '/episodes/' | relative_url }}episode-86/">#86</a> |  | BASS SOLO; good intro; mary wants better lead into head; piano too loud, backing too quiet |
-| [7/1/2022](https://youtu.be/eIUxG9vQkiw?t=2650) | <a href="{{ '/episodes/' | relative_url }}episode-120/">#120</a> |  | nice breakdown |
-| [6/2/2023](https://youtube.com/live/VPewOVmpYTg?t=1859) | <a href="{{ '/episodes/' | relative_url }}episode-165/">#165</a> |  |  |
-| [3/22/2024](https://youtube.com/live/kPqhJAREXfo?t=2662) | <a href="{{ '/episodes/' | relative_url }}episode-203/">#203</a> |  |  |
-| 7/26/2024 | <a href="{{ '/episodes/' | relative_url }}episode-218/">#218</a> |  |  |
-| 5/9/2025 | <a href="{{ '/episodes/' | relative_url }}episode-255/">#255</a> |  |  |
-| 8/8/2025 | <a href="{{ '/episodes/' | relative_url }}episode-267/">#267</a> |  |  |
-| 4/24/2026 | <a href="{{ '/episodes/' | relative_url }}episode-296/">#296</a> |  |  |

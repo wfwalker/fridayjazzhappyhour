@@ -6,15 +6,33 @@ style: "Funk"
 play_count: 4
 hall_of_fame: true
 ready_rating: 3
+performances:
+  - date: "1/24/2025"
+    url: ""
+    episode: "243"
+    episode_slug: "episode-243"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/16/2025"
+    url: ""
+    episode: "256"
+    episode_slug: "episode-256"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/31/2025"
+    url: ""
+    episode: "277"
+    episode_slug: "episode-277"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/5/2026"
+    url: ""
+    episode: "256"
+    episode_slug: "episode-256-rerun-652026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---
-
-# Viva La Money
-
-Played **4** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| 1/24/2025 | <a href="{{ '/episodes/' | relative_url }}episode-243/">#243</a> |  |  |
-| 5/16/2025 | <a href="{{ '/episodes/' | relative_url }}episode-256/">#256</a> |  |  |
-| 10/31/2025 | <a href="{{ '/episodes/' | relative_url }}episode-277/">#277</a> |  |  |
-| 6/5/2026 | <a href="{{ '/episodes/' | relative_url }}episode-256-rerun-652026/">#256</a> |  |  |

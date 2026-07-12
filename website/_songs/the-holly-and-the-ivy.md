@@ -6,18 +6,54 @@ style: "Christmas"
 play_count: 7
 hall_of_fame: true
 ready_rating: 4
+performances:
+  - date: "12/11/2020"
+    url: "https://youtu.be/hfljJ87kgbs?t=3283"
+    episode: "39"
+    episode_slug: "episode-39"
+    tempo: "112"
+    notes: ""
+    rerun: false
+  - date: "12/25/2020"
+    url: "https://youtu.be/G-HJYWxotdo?t=1592"
+    episode: "41"
+    episode_slug: "episode-41"
+    tempo: "119"
+    notes: ""
+    rerun: false
+  - date: "12/3/2021"
+    url: "https://youtu.be/cwkUkcDyfaw?t=2288"
+    episode: "90"
+    episode_slug: "episode-90"
+    tempo: ""
+    notes: "bah. why fall behind?"
+    rerun: false
+  - date: "12/9/2022"
+    url: "https://youtube.com/live/2vM_dR9jpjk?t=151"
+    episode: "140"
+    episode_slug: "episode-140"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "12/15/2023"
+    url: ""
+    episode: "191"
+    episode_slug: "episode-191"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "12/6/2024"
+    url: ""
+    episode: "236"
+    episode_slug: "episode-236"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "12/12/2025"
+    url: ""
+    episode: "281"
+    episode_slug: "episode-281"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# The Holly and the Ivy
-
-Played **7** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [12/11/2020](https://youtu.be/hfljJ87kgbs?t=3283) | <a href="{{ '/episodes/' | relative_url }}episode-39/">#39</a> | 112 |  |
-| [12/25/2020](https://youtu.be/G-HJYWxotdo?t=1592) | <a href="{{ '/episodes/' | relative_url }}episode-41/">#41</a> | 119 |  |
-| [12/3/2021](https://youtu.be/cwkUkcDyfaw?t=2288) | <a href="{{ '/episodes/' | relative_url }}episode-90/">#90</a> |  | bah. why fall behind? |
-| [12/9/2022](https://youtube.com/live/2vM_dR9jpjk?t=151) | <a href="{{ '/episodes/' | relative_url }}episode-140/">#140</a> |  |  |
-| 12/15/2023 | <a href="{{ '/episodes/' | relative_url }}episode-191/">#191</a> |  |  |
-| 12/6/2024 | <a href="{{ '/episodes/' | relative_url }}episode-236/">#236</a> |  |  |
-| 12/12/2025 | <a href="{{ '/episodes/' | relative_url }}episode-281/">#281</a> |  |  |

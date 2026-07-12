@@ -6,29 +6,131 @@ style: "Swing"
 play_count: 18
 hall_of_fame: true
 ready_rating: 5
+performances:
+  - date: "4/10/2020"
+    url: "https://youtu.be/a4UEJSQN9Zw?t=1530"
+    episode: "4"
+    episode_slug: "episode-4"
+    tempo: "90"
+    notes: ""
+    rerun: false
+  - date: "8/14/2020"
+    url: "https://youtu.be/ngdgSgM8f3U?t=600"
+    episode: "22"
+    episode_slug: "episode-22"
+    tempo: "90"
+    notes: "pop"
+    rerun: false
+  - date: "11/13/2020"
+    url: "https://youtu.be/-1SJwJrjwd0?t=1945"
+    episode: "35"
+    episode_slug: "episode-35"
+    tempo: "95"
+    notes: ""
+    rerun: false
+  - date: "3/19/2021"
+    url: "https://youtu.be/ZgfrgSTJNSo?t=2671"
+    episode: "53"
+    episode_slug: "episode-53"
+    tempo: "200"
+    notes: "comping meh"
+    rerun: false
+  - date: "6/4/2021"
+    url: "https://youtu.be/S_oefge4qcQ?t=1128"
+    episode: "64"
+    episode_slug: "episode-64"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/30/2021"
+    url: "https://youtu.be/SFHGArSt8qo?t=1176"
+    episode: "72"
+    episode_slug: "episode-72"
+    tempo: ""
+    notes: "energy flow good, ups and downs"
+    rerun: false
+  - date: "9/17/2021"
+    url: "https://youtu.be/YaW8IPNpcd0?t=554"
+    episode: "79"
+    episode_slug: "episode-79"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "12/17/2021"
+    url: "https://youtu.be/-MgcGR7PIMg?t=2185"
+    episode: "92"
+    episode_slug: "episode-92"
+    tempo: ""
+    notes: "sloppy but interesting"
+    rerun: false
+  - date: "2/11/2022"
+    url: "https://youtu.be/6Wlh1-UXkrs?t=732"
+    episode: "100"
+    episode_slug: "episode-100"
+    tempo: ""
+    notes: "tidy it up"
+    rerun: false
+  - date: "6/3/2022"
+    url: "https://youtu.be/58cVCBMx1oI?t=2106"
+    episode: "116"
+    episode_slug: "episode-116"
+    tempo: ""
+    notes: "bass solo!"
+    rerun: false
+  - date: "11/4/2022"
+    url: "https://youtu.be/8XM8B7y4T_Q?t=1605"
+    episode: "138"
+    episode_slug: "episode-138"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "5/26/2023"
+    url: "https://youtu.be/-vNFbFO0LgE?t=2662"
+    episode: "164"
+    episode_slug: "episode-164"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/3/2023"
+    url: "https://youtube.com/live/vpg-dYDIFj0?t=1533"
+    episode: "185"
+    episode_slug: "episode-185"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/22/2024"
+    url: "https://youtube.com/live/kPqhJAREXfo?t=1859"
+    episode: "203"
+    episode_slug: "episode-203"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/14/2024"
+    url: ""
+    episode: "213"
+    episode_slug: "episode-213"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/21/2025"
+    url: ""
+    episode: ""
+    episode_slug: "show-3212025"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/13/2025"
+    url: ""
+    episode: "260"
+    episode_slug: "episode-260"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/7/2025"
+    url: ""
+    episode: "185"
+    episode_slug: "episode-185-rerun-1172025"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---
-
-# Caravan
-
-Played **18** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [4/10/2020](https://youtu.be/a4UEJSQN9Zw?t=1530) | <a href="{{ '/episodes/' | relative_url }}episode-4/">#4</a> | 90 |  |
-| [8/14/2020](https://youtu.be/ngdgSgM8f3U?t=600) | <a href="{{ '/episodes/' | relative_url }}episode-22/">#22</a> | 90 | pop |
-| [11/13/2020](https://youtu.be/-1SJwJrjwd0?t=1945) | <a href="{{ '/episodes/' | relative_url }}episode-35/">#35</a> | 95 |  |
-| [3/19/2021](https://youtu.be/ZgfrgSTJNSo?t=2671) | <a href="{{ '/episodes/' | relative_url }}episode-53/">#53</a> | 200 | comping meh |
-| [6/4/2021](https://youtu.be/S_oefge4qcQ?t=1128) | <a href="{{ '/episodes/' | relative_url }}episode-64/">#64</a> |  |  |
-| [7/30/2021](https://youtu.be/SFHGArSt8qo?t=1176) | <a href="{{ '/episodes/' | relative_url }}episode-72/">#72</a> |  | energy flow good, ups and downs |
-| [9/17/2021](https://youtu.be/YaW8IPNpcd0?t=554) | <a href="{{ '/episodes/' | relative_url }}episode-79/">#79</a> |  |  |
-| [12/17/2021](https://youtu.be/-MgcGR7PIMg?t=2185) | <a href="{{ '/episodes/' | relative_url }}episode-92/">#92</a> |  | sloppy but interesting |
-| [2/11/2022](https://youtu.be/6Wlh1-UXkrs?t=732) | <a href="{{ '/episodes/' | relative_url }}episode-100/">#100</a> |  | tidy it up |
-| [6/3/2022](https://youtu.be/58cVCBMx1oI?t=2106) | <a href="{{ '/episodes/' | relative_url }}episode-116/">#116</a> |  | bass solo! |
-| [11/4/2022](https://youtu.be/8XM8B7y4T_Q?t=1605) | <a href="{{ '/episodes/' | relative_url }}episode-138/">#138</a> |  |  |
-| [5/26/2023](https://youtu.be/-vNFbFO0LgE?t=2662) | <a href="{{ '/episodes/' | relative_url }}episode-164/">#164</a> |  |  |
-| [11/3/2023](https://youtube.com/live/vpg-dYDIFj0?t=1533) | <a href="{{ '/episodes/' | relative_url }}episode-185/">#185</a> |  |  |
-| [3/22/2024](https://youtube.com/live/kPqhJAREXfo?t=1859) | <a href="{{ '/episodes/' | relative_url }}episode-203/">#203</a> |  |  |
-| 6/14/2024 | <a href="{{ '/episodes/' | relative_url }}episode-213/">#213</a> |  |  |
-| 3/21/2025 | <a href="{{ '/episodes/' | relative_url }}show-3212025/">Show</a> |  |  |
-| 6/13/2025 | <a href="{{ '/episodes/' | relative_url }}episode-260/">#260</a> |  |  |
-| 11/7/2025 | <a href="{{ '/episodes/' | relative_url }}episode-185-rerun-1172025/">#185</a> |  |  |

@@ -6,24 +6,96 @@ style: "Latin"
 play_count: 13
 hall_of_fame: true
 ready_rating: 4
+performances:
+  - date: "5/22/2020"
+    url: "https://youtu.be/Wa5KVG0iCKM?t=960"
+    episode: "10"
+    episode_slug: "episode-10"
+    tempo: "120"
+    notes: ""
+    rerun: false
+  - date: "8/7/2020"
+    url: "https://youtu.be/jqycjkIUaCs?t=572"
+    episode: "21"
+    episode_slug: "episode-21"
+    tempo: "108"
+    notes: ""
+    rerun: false
+  - date: "7/22/2022"
+    url: "https://youtu.be/D42v7I8kocA?t=810"
+    episode: "123"
+    episode_slug: "episode-123"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/28/2022"
+    url: "https://youtu.be/Vyo_oTHKhUY?t=1736"
+    episode: "137"
+    episode_slug: "episode-137"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "2/3/2023"
+    url: "https://youtube.com/live/kyx5vcS24Tk?t=2140"
+    episode: "148"
+    episode_slug: "episode-148"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/21/2023"
+    url: "https://youtube.com/live/ElbkjWw665s?t=1533"
+    episode: "172"
+    episode_slug: "episode-172"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/24/2023"
+    url: ""
+    episode: "188"
+    episode_slug: "episode-188"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "4/26/2024"
+    url: ""
+    episode: "206"
+    episode_slug: "episode-206"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "6/14/2024"
+    url: ""
+    episode: "213"
+    episode_slug: "episode-213"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "12/13/2024"
+    url: ""
+    episode: "237"
+    episode_slug: "episode-237"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "4/25/2025"
+    url: ""
+    episode: "253"
+    episode_slug: "episode-253"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/26/2025"
+    url: ""
+    episode: "273"
+    episode_slug: "episode-273"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "4/17/2026"
+    url: ""
+    episode: "295"
+    episode_slug: "episode-295"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Morning
-
-Played **13** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [5/22/2020](https://youtu.be/Wa5KVG0iCKM?t=960) | <a href="{{ '/episodes/' | relative_url }}episode-10/">#10</a> | 120 |  |
-| [8/7/2020](https://youtu.be/jqycjkIUaCs?t=572) | <a href="{{ '/episodes/' | relative_url }}episode-21/">#21</a> | 108 |  |
-| [7/22/2022](https://youtu.be/D42v7I8kocA?t=810) | <a href="{{ '/episodes/' | relative_url }}episode-123/">#123</a> |  |  |
-| [10/28/2022](https://youtu.be/Vyo_oTHKhUY?t=1736) | <a href="{{ '/episodes/' | relative_url }}episode-137/">#137</a> |  |  |
-| [2/3/2023](https://youtube.com/live/kyx5vcS24Tk?t=2140) | <a href="{{ '/episodes/' | relative_url }}episode-148/">#148</a> |  |  |
-| [7/21/2023](https://youtube.com/live/ElbkjWw665s?t=1533) | <a href="{{ '/episodes/' | relative_url }}episode-172/">#172</a> |  |  |
-| 11/24/2023 | <a href="{{ '/episodes/' | relative_url }}episode-188/">#188</a> |  |  |
-| 4/26/2024 | <a href="{{ '/episodes/' | relative_url }}episode-206/">#206</a> |  |  |
-| 6/14/2024 | <a href="{{ '/episodes/' | relative_url }}episode-213/">#213</a> |  |  |
-| 12/13/2024 | <a href="{{ '/episodes/' | relative_url }}episode-237/">#237</a> |  |  |
-| 4/25/2025 | <a href="{{ '/episodes/' | relative_url }}episode-253/">#253</a> |  |  |
-| 9/26/2025 | <a href="{{ '/episodes/' | relative_url }}episode-273/">#273</a> |  |  |
-| 4/17/2026 | <a href="{{ '/episodes/' | relative_url }}episode-295/">#295</a> |  |  |

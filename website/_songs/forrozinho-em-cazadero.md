@@ -6,14 +6,26 @@ style: "Latin"
 play_count: 3
 hall_of_fame: true
 ready_rating: 3
+performances:
+  - date: "9/5/2025"
+    url: ""
+    episode: "270"
+    episode_slug: "episode-270"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "1/2/2026"
+    url: ""
+    episode: "284"
+    episode_slug: "episode-284"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "4/10/2026"
+    url: ""
+    episode: "294"
+    episode_slug: "episode-294"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Forrozinho em Cazadero
-
-Played **3** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| 9/5/2025 | <a href="{{ '/episodes/' | relative_url }}episode-270/">#270</a> |  |  |
-| 1/2/2026 | <a href="{{ '/episodes/' | relative_url }}episode-284/">#284</a> |  |  |
-| 4/10/2026 | <a href="{{ '/episodes/' | relative_url }}episode-294/">#294</a> |  |  |

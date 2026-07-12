@@ -6,27 +6,117 @@ style: "Bossa"
 play_count: 16
 hall_of_fame: true
 ready_rating: 4
+performances:
+  - date: "3/19/2021"
+    url: "https://youtu.be/ZgfrgSTJNSo?t=205"
+    episode: "53"
+    episode_slug: "episode-53"
+    tempo: "138"
+    notes: ""
+    rerun: false
+  - date: "6/25/2021"
+    url: "https://youtu.be/BVJuigptxSA?t=2087"
+    episode: "67"
+    episode_slug: "episode-67"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/20/2021"
+    url: "https://youtu.be/wIeo7pq_84U?t=3270"
+    episode: "75"
+    episode_slug: "episode-75"
+    tempo: ""
+    notes: "spontaneous arrangement ideas, nice"
+    rerun: false
+  - date: "10/15/2021"
+    url: "https://youtu.be/txLo5jOwNGU?t=750"
+    episode: "83"
+    episode_slug: "episode-83"
+    tempo: ""
+    notes: "like the dub echoes"
+    rerun: false
+  - date: "12/17/2021"
+    url: "https://youtu.be/-MgcGR7PIMg?t=594"
+    episode: "92"
+    episode_slug: "episode-92"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "3/25/2022"
+    url: "https://youtu.be/-yO13Zr2O50?t=73"
+    episode: "106"
+    episode_slug: "episode-106"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/22/2022"
+    url: "https://youtu.be/D42v7I8kocA?t=108"
+    episode: "123"
+    episode_slug: "episode-123"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/30/2022"
+    url: "https://youtu.be/B3o-4sC6Z6w?t=1720"
+    episode: "133"
+    episode_slug: "episode-133"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "2/17/2023"
+    url: "https://youtube.com/live/Lfke1fj6Wh0?t=268"
+    episode: "150"
+    episode_slug: "episode-150"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/18/2023"
+    url: "https://youtu.be/MIwLmoFc8Dk?t=715"
+    episode: "176"
+    episode_slug: "episode-176"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "1/19/2024"
+    url: ""
+    episode: "196"
+    episode_slug: "episode-196"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/19/2024"
+    url: ""
+    episode: "150"
+    episode_slug: "episode-150-rerun-7192024"
+    tempo: ""
+    notes: ""
+    rerun: true
+  - date: "8/23/2024"
+    url: "https://youtu.be/wIeo7pq_84U?t=3270"
+    episode: "75"
+    episode_slug: "episode-75-rerun-8232024"
+    tempo: ""
+    notes: "spontaneous arrangement ideas, nice"
+    rerun: true
+  - date: "2/28/2025"
+    url: ""
+    episode: "248"
+    episode_slug: "episode-248"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/8/2025"
+    url: ""
+    episode: "267"
+    episode_slug: "episode-267"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "4/17/2026"
+    url: ""
+    episode: "295"
+    episode_slug: "episode-295"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
-
-# Look to the Sky
-
-Played **16** times in the live shows.
-
-| Date | Episode | Tempo | Notes |
-| --- | --- | --- | --- |
-| [3/19/2021](https://youtu.be/ZgfrgSTJNSo?t=205) | <a href="{{ '/episodes/' | relative_url }}episode-53/">#53</a> | 138 |  |
-| [6/25/2021](https://youtu.be/BVJuigptxSA?t=2087) | <a href="{{ '/episodes/' | relative_url }}episode-67/">#67</a> |  |  |
-| [8/20/2021](https://youtu.be/wIeo7pq_84U?t=3270) | <a href="{{ '/episodes/' | relative_url }}episode-75/">#75</a> |  | spontaneous arrangement ideas, nice |
-| [10/15/2021](https://youtu.be/txLo5jOwNGU?t=750) | <a href="{{ '/episodes/' | relative_url }}episode-83/">#83</a> |  | like the dub echoes |
-| [12/17/2021](https://youtu.be/-MgcGR7PIMg?t=594) | <a href="{{ '/episodes/' | relative_url }}episode-92/">#92</a> |  |  |
-| [3/25/2022](https://youtu.be/-yO13Zr2O50?t=73) | <a href="{{ '/episodes/' | relative_url }}episode-106/">#106</a> |  |  |
-| [7/22/2022](https://youtu.be/D42v7I8kocA?t=108) | <a href="{{ '/episodes/' | relative_url }}episode-123/">#123</a> |  |  |
-| [9/30/2022](https://youtu.be/B3o-4sC6Z6w?t=1720) | <a href="{{ '/episodes/' | relative_url }}episode-133/">#133</a> |  |  |
-| [2/17/2023](https://youtube.com/live/Lfke1fj6Wh0?t=268) | <a href="{{ '/episodes/' | relative_url }}episode-150/">#150</a> |  |  |
-| [8/18/2023](https://youtu.be/MIwLmoFc8Dk?t=715) | <a href="{{ '/episodes/' | relative_url }}episode-176/">#176</a> |  |  |
-| 1/19/2024 | <a href="{{ '/episodes/' | relative_url }}episode-196/">#196</a> |  |  |
-| 7/19/2024 | <a href="{{ '/episodes/' | relative_url }}episode-150-rerun-7192024/">#150</a> |  |  |
-| [8/23/2024](https://youtu.be/wIeo7pq_84U?t=3270) | <a href="{{ '/episodes/' | relative_url }}episode-75-rerun-8232024/">#75</a> |  | spontaneous arrangement ideas, nice |
-| 2/28/2025 | <a href="{{ '/episodes/' | relative_url }}episode-248/">#248</a> |  |  |
-| 8/8/2025 | <a href="{{ '/episodes/' | relative_url }}episode-267/">#267</a> |  |  |
-| 4/17/2026 | <a href="{{ '/episodes/' | relative_url }}episode-295/">#295</a> |  |  |
