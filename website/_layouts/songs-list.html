@@ -31,7 +31,7 @@ layout: default
   <table class="songs-table">
     <thead>
       <tr>
-        <th class="sortable" data-sort="title">Song Name <span class="sort-icon"> ▲</span></th>
+        <th class="sortable" data-sort="title">Song Name <span class="sort-icon"> ∧</span></th>
         <th class="sortable" data-sort="composer">Composer <span class="sort-icon"></span></th>
         <th class="sortable" data-sort="style">Style <span class="sort-icon"></span></th>
         <th class="sortable" data-sort="plays" data-default="desc" style="text-align: right;">Plays <span class="sort-icon"></span></th>
@@ -125,7 +125,7 @@ layout: default
         const icon = h.querySelector('.sort-icon');
         const hKey = h.getAttribute('data-sort');
         if (hKey === key) {
-          icon.textContent = direction === 'asc' ? ' ▲' : ' ▼';
+          icon.textContent = direction === 'asc' ? ' ∧' : ' ∨';
           h.classList.add('active-sort');
         } else {
           icon.textContent = '';

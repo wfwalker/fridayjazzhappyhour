@@ -139,7 +139,7 @@ layout: default
   <div class="episode-nav-row">
     {% if page.previous %}
       <a href="{{ page.previous.url | relative_url }}" class="nav-pill prev-pill">
-        <span class="pill-label">&larr; Previous</span>
+        <span class="pill-label">« Previous</span>
         <span class="pill-title">{{ page.previous.title | split: ":" | first }}</span>
       </a>
     {% else %}
@@ -147,14 +147,14 @@ layout: default
     {% endif %}
 
     {% if page.youtube_url and page.youtube_url != "" %}
-      <a href="{{ page.youtube_url }}" target="_blank" class="badge badge--gradient watch-stream-pill">Watch Stream &rarr;</a>
+      <a href="{{ page.youtube_url }}" target="_blank" class="badge badge--gradient watch-stream-pill">Watch Stream »</a>
     {% else %}
       <div class="nav-pill-placeholder"></div>
     {% endif %}
 
     {% if page.next %}
       <a href="{{ page.next.url | relative_url }}" class="nav-pill next-pill">
-        <span class="pill-label">Next &rarr;</span>
+        <span class="pill-label">Next »</span>
         <span class="pill-title">{{ page.next.title | split: ":" | first }}</span>
       </a>
     {% else %}
