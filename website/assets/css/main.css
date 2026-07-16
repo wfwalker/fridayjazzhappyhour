@@ -391,3 +391,30 @@ footer {
   color: var(--text-primary);
   text-decoration: underline;
 }
+
+/* 6. Sorting and Lists Utilities */
+.songs-table-container {
+  overflow-x: auto;
+  margin-bottom: 5rem;
+}
+
+.sort-icon {
+  font-size: 0.75rem;
+  margin-left: 4px;
+  vertical-align: middle;
+}
+
+.badge-count {
+  color: var(--accent-hover);
+  font-size: 0.9rem;
+}
+
+.ready-stars {
+  color: #fbbf24;
+  font-size: 0.9rem;
+  letter-spacing: 0.05em;
+}
+
+.star-empty {
+  color: rgba(255, 255, 255, 0.12);
+}
