@@ -327,6 +327,8 @@ footer {
   letter-spacing: 0.08em;
   padding: 0.5rem 1.5rem;
   border: none;
+  vertical-align: middle;
+  white-space: nowrap;
 }
 
 .songs-table th.sortable {
