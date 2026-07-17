@@ -443,3 +443,274 @@ footer {
   height: 100%;
   border: 0;
 }
+
+/* 8. Homepage Dashboard Styles */
+.dashboard-hero {
+  text-align: center;
+  margin: 3rem auto 3.5rem auto;
+  padding: 3rem 1.5rem;
+  max-width: 800px;
+}
+
+.dashboard-title {
+  font-family: var(--font-title);
+  font-weight: var(--font-title-weight);
+  font-size: 4rem;
+  margin: 0 0 0.5rem 0;
+  padding-bottom: 0.15em;
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1.1;
+}
+
+.dashboard-subtitle {
+  color: var(--text-secondary);
+  font-size: 1.25rem;
+  line-height: 1.6;
+  font-weight: 400;
+}
+
+.navigation-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 5rem;
+}
+
+.nav-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 20px;
+  padding: 2.2rem;
+  text-decoration: none;
+  color: var(--text-primary);
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.25s ease, box-shadow 0.25s ease;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.15);
+}
+
+.nav-card:hover {
+  transform: translateY(-6px);
+  border-color: var(--accent-color);
+  box-shadow: 0 12px 40px rgba(59, 130, 246, 0.18);
+}
+
+.nav-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1.2rem;
+}
+
+.nav-card-icon {
+  font-size: 2.2rem;
+  margin: 0;
+  line-height: 1;
+  display: inline-block;
+}
+
+.nav-card-stat {
+  font-family: var(--font-title);
+  font-size: 2.6rem;
+  font-weight: var(--font-title-weight);
+  line-height: 1;
+  background: linear-gradient(135deg, #ffffff, #a1a1aa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.nav-card-title {
+  font-family: var(--font-title);
+  font-size: 1.45rem;
+  font-weight: var(--font-title-weight);
+  margin: 0 0 0.8rem 0;
+  line-height: 1.25;
+}
+
+.nav-card-description {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin: 0 0 1.5rem 0;
+  flex-grow: 1;
+}
+
+.nav-card-action {
+  color: var(--accent-hover);
+  font-size: 0.9rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  transition: gap 0.2s ease;
+}
+
+.nav-card:hover .nav-card-action {
+  gap: 0.5rem;
+}
+
+.live-stream-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 20px;
+  padding: 2rem;
+  margin: 0 auto 3.5rem auto;
+  max-width: 700px;
+  text-align: center;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+}
+
+.live-stream-header {
+  font-family: var(--font-title);
+  font-weight: var(--font-title-weight);
+  font-size: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+}
+
+.live-indicator {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  background-color: #ef4444;
+  border-radius: 50%;
+  box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.7);
+  animation: pulse-live 1.5s infinite;
+}
+
+@keyframes pulse-live {
+  0% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.7);
+  }
+  70% {
+    transform: scale(1);
+    box-shadow: 0 0 0 8px rgba(239, 68, 68, 0);
+  }
+  100% {
+    transform: scale(0.95);
+    box-shadow: 0 0 0 0 rgba(239, 68, 68, 0);
+  }
+}
+
+.live-stream-card .responsive-video-container {
+  margin: 0;
+}
+
+@media (max-width: 800px) {
+  .navigation-grid {
+    grid-template-columns: 1fr;
+    gap: 1.2rem;
+  }
+  
+  .dashboard-title {
+    font-size: 2.8rem;
+  }
+}
+
+/* 9. Episodes Grid Styles */
+.grid-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 1rem;
+}
+
+.grid-title {
+  font-family: var(--font-title);
+  font-size: 1.6rem;
+  font-weight: var(--font-title-weight);
+  margin: 0;
+}
+
+.episodes-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.5rem;
+}
+
+.episode-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 1.6rem;
+  text-decoration: none;
+  color: var(--text-primary);
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 90px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.episode-card:hover {
+  transform: translateY(-5px);
+  border-color: var(--accent-color);
+  box-shadow: 0 10px 30px rgba(59, 130, 246, 0.15);
+}
+
+.card-top {
+  margin-bottom: 1rem;
+}
+
+.card-title {
+  font-family: var(--font-title);
+  font-size: 1.3rem;
+  font-weight: var(--font-title-weight);
+  margin: 0 0 0.4rem 0;
+  line-height: 1.25;
+}
+
+.card-date {
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+}
+
+.card-meta {
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.04);
+  padding-top: 0.8rem;
+}
+
+/* 10. Episode Card Body details & modifiers */
+.episode-card-body {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.8rem;
+  line-height: 1.4;
+  flex: 1;
+}
+
+.episode-card-body-item {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.badge-style--rerun {
+  background-color: rgba(239, 68, 68, 0.15);
+  color: #f87171;
+  border: 1px solid rgba(239, 68, 68, 0.25);
+}

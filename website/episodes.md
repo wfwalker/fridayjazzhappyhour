@@ -3,80 +3,7 @@ layout: default
 title: "All Episodes"
 ---
 
-<style>
-  
-  .grid-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 2rem;
-    border-bottom: 1px solid var(--border-color);
-    padding-bottom: 1rem;
-  }
-  
-  .grid-title {
-    font-family: var(--font-title);
-    font-size: 1.6rem;
-    font-weight: var(--font-title-weight);
-    margin: 0;
-  }
-  
-  .episodes-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1.5rem;
-  }
-  
-  .episode-card {
-    background: var(--card-bg);
-    border: 1px solid var(--border-color);
-    border-radius: 16px;
-    padding: 1.6rem;
-    text-decoration: none;
-    color: var(--text-primary);
-    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.2s ease, box-shadow 0.2s ease;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    min-height: 90px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-  }
-  
-  .episode-card:hover {
-    transform: translateY(-5px);
-    border-color: var(--accent-color);
-    box-shadow: 0 10px 30px rgba(59, 130, 246, 0.15);
-  }
-  
-  .card-top {
-    margin-bottom: 1rem;
-  }
-  
-  .card-title {
-    font-family: var(--font-title);
-    font-size: 1.3rem;
-    font-weight: var(--font-title-weight);
-    margin: 0 0 0.4rem 0;
-    line-height: 1.25;
-  }
-  
-  .card-date {
-    color: var(--text-secondary);
-    font-size: 0.85rem;
-  }
-  
-  .card-meta {
-    color: var(--text-secondary);
-    font-size: 0.85rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-top: 1px solid rgba(255, 255, 255, 0.04);
-    padding-top: 0.8rem;
-  }
-</style>
+
 
 <div class="hero-banner">
   <h1 class="hero-banner-title">Episodes</h1>
@@ -102,18 +29,18 @@ title: "All Episodes"
         <span class="card-date">{{ epi.date_string }}</span>
       </div>
       {% if epi.theme and epi.theme != "" or epi.tip_jar and epi.tip_jar != "" %}
-        <div style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.8rem; line-height: 1.4; flex: 1;">
+        <div class="episode-card-body">
           {% if epi.theme and epi.theme != "" %}
-            <div style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">🎨 Theme: {{ epi.theme }}</div>
+            <div class="episode-card-body-item">🎨 Theme: {{ epi.theme }}</div>
           {% endif %}
           {% if epi.tip_jar and epi.tip_jar != "" %}
-            <div style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">❤️ Charity: {{ epi.tip_jar }}</div>
+            <div class="episode-card-body-item">❤️ Charity: {{ epi.tip_jar }}</div>
           {% endif %}
         </div>
       {% endif %}
       <div class="card-meta">
         {% if epi.rerun %}
-          <span class="badge-style" style="background-color: rgba(239, 68, 68, 0.15); color: #f87171; border: 1px solid rgba(239, 68, 68, 0.25);">Rerun</span>
+          <span class="badge-style badge-style--rerun">Rerun</span>
         {% else %}
           <span class="badge-style">YouTube Stream</span>
         {% endif %}
