@@ -3,7 +3,7 @@ layout: song
 title: "Cast your fate to the wind"
 composer: "Vince Guaraldi"
 style: "Pop"
-play_count: 8
+play_count: 9
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -60,6 +60,13 @@ performances:
     url: ""
     episode: "221"
     episode_slug: "episode-221"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/17/2026"
+    url: ""
+    episode: "304"
+    episode_slug: "episode-304"
     tempo: ""
     notes: ""
     rerun: false

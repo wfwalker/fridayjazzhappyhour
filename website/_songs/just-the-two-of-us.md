@@ -3,7 +3,7 @@ layout: song
 title: "Just the Two of Us"
 composer: "Bill Withers"
 style: "Funk"
-play_count: 5
+play_count: 6
 hall_of_fame: true
 ready_rating: 2
 performances:
@@ -42,4 +42,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "7/10/2026"
+    url: ""
+    episode: "266"
+    episode_slug: "episode-266-rerun-7102026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

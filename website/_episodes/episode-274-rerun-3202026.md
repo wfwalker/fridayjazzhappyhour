@@ -10,7 +10,7 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/NEHrCFkNTxM"
 image: "/assets/images/title-slides/episode-274-rerun-3202026.jpg"
 setlist:
   - song_num: "1"

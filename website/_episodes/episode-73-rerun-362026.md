@@ -10,7 +10,7 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/oe2hNJys2KI"
 image: "/assets/images/title-slides/episode-73-rerun-362026.jpg"
 setlist:
   - song_num: "1"

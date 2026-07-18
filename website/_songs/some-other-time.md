@@ -3,7 +3,7 @@ layout: song
 title: "Some Other time"
 composer: "Leonard Bernstein"
 style: "Ballad"
-play_count: 2
+play_count: 3
 hall_of_fame: true
 ready_rating: 0
 performances:
@@ -18,6 +18,13 @@ performances:
     url: ""
     episode: "267"
     episode_slug: "episode-267"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/17/2026"
+    url: ""
+    episode: "304"
+    episode_slug: "episode-304"
     tempo: ""
     notes: ""
     rerun: false

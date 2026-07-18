@@ -3,7 +3,7 @@ layout: song
 title: "Au Privave"
 composer: "Charlie Parker"
 style: "Swing"
-play_count: 10
+play_count: 11
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -77,4 +77,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "7/10/2026"
+    url: ""
+    episode: "266"
+    episode_slug: "episode-266-rerun-7102026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

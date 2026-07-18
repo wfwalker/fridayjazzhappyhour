@@ -482,7 +482,7 @@
   slug: "epiano-closer-aug-1"
   composer: ""
   style: ""
-  play_count: 1
+  play_count: 2
 - title: "Euclidian Dub Techno"
   slug: "euclidian-dub-techno"
   composer: ""
@@ -993,12 +993,12 @@
   composer: ""
   style: ""
   play_count: 1
-- title: "Sacto Closer"
+- title: "Sacto closer"
   slug: "sacto-closer"
   composer: ""
   style: ""
   play_count: 2
-- title: "Santa Claus is Coming to town"
+- title: "Santa Claus is Coming to Town"
   slug: "santa-claus-is-coming-to-town"
   composer: ""
   style: ""

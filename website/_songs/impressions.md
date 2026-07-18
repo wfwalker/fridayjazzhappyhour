@@ -3,7 +3,7 @@ layout: song
 title: "Impressions"
 composer: "John Coltrane"
 style: "Techno"
-play_count: 16
+play_count: 17
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -116,6 +116,13 @@ performances:
     url: ""
     episode: "255"
     episode_slug: "episode-255"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/17/2026"
+    url: ""
+    episode: "304"
+    episode_slug: "episode-304"
     tempo: ""
     notes: ""
     rerun: false

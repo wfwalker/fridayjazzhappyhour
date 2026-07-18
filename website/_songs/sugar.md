@@ -3,7 +3,7 @@ layout: song
 title: "Sugar"
 composer: "Stanley Turrentine"
 style: "Swing"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -88,6 +88,13 @@ performances:
     url: ""
     episode: "279"
     episode_slug: "episode-279"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/17/2026"
+    url: ""
+    episode: "304"
+    episode_slug: "episode-304"
     tempo: ""
     notes: ""
     rerun: false

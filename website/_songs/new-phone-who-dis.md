@@ -3,7 +3,7 @@ layout: song
 title: "New Phone Who Dis"
 composer: "Bill Walker"
 style: "Downtempo"
-play_count: 10
+play_count: 11
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -74,6 +74,13 @@ performances:
     url: ""
     episode: "278"
     episode_slug: "episode-278"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/17/2026"
+    url: ""
+    episode: "304"
+    episode_slug: "episode-304"
     tempo: ""
     notes: ""
     rerun: false

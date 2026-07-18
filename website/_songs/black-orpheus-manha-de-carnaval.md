@@ -3,7 +3,7 @@ layout: song
 title: "Black Orpheus (Manha de Carnaval)"
 composer: "Luiz Bonfa"
 style: "Bossa"
-play_count: 14
+play_count: 15
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -102,6 +102,13 @@ performances:
     url: ""
     episode: "290"
     episode_slug: "episode-290"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/17/2026"
+    url: ""
+    episode: "304"
+    episode_slug: "episode-304"
     tempo: ""
     notes: ""
     rerun: false

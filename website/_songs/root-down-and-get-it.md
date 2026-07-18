@@ -22,7 +22,7 @@ performances:
     notes: ""
     rerun: false
   - date: "6/23/2023"
-    url: "https://www.youtube.com/watch?v=w28RQAWi17U?t=2662"
+    url: "https://youtu.be/w28RQAWi17U?t=2662"
     episode: "168"
     episode_slug: "episode-168"
     tempo: ""

@@ -3,7 +3,7 @@ layout: song
 title: "Girl from Ipanema"
 composer: "Antônio Carlos Jobim"
 style: "Bossa"
-play_count: 6
+play_count: 7
 hall_of_fame: true
 ready_rating: 0
 performances:
@@ -49,4 +49,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "7/10/2026"
+    url: ""
+    episode: "266"
+    episode_slug: "episode-266-rerun-7102026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

@@ -3,7 +3,7 @@ layout: song
 title: "Gee Baby, Ain’t I Good to You"
 composer: "Andy Razaf"
 style: "Swing"
-play_count: 8
+play_count: 9
 hall_of_fame: true
 ready_rating: 0
 performances:
@@ -60,6 +60,13 @@ performances:
     url: ""
     episode: "287"
     episode_slug: "episode-287"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/17/2026"
+    url: ""
+    episode: "304"
+    episode_slug: "episode-304"
     tempo: ""
     notes: ""
     rerun: false

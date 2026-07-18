@@ -10,7 +10,7 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/AmROh9ZoZk4"
 image: "/assets/images/title-slides/episode-256-rerun-652026.jpg"
 setlist:
   - song_num: "1"

@@ -10,7 +10,7 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/j9nqDI1I1-o"
 image: "/assets/images/title-slides/episode-299c.jpg"
 setlist:
   - song_num: "1"

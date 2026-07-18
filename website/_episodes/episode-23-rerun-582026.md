@@ -10,7 +10,7 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/M-Y2OyZvQsg"
 image: "/assets/images/title-slides/episode-23-rerun-582026.jpg"
 setlist:
   - song_num: "1"

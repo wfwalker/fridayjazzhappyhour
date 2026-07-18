@@ -3,7 +3,7 @@ layout: song
 title: "Feel like going home"
 composer: "Charlie Rich"
 style: "Pop"
-play_count: 8
+play_count: 9
 hall_of_fame: true
 ready_rating: 2
 performances:
@@ -63,4 +63,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "7/10/2026"
+    url: ""
+    episode: "266"
+    episode_slug: "episode-266-rerun-7102026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

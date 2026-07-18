@@ -1,0 +1,78 @@
+---
+layout: episode
+title: "Episode 304 (July 17, 2026)"
+episode_number: "304"
+date_string: "7/17/2026"
+date: 2026-07-17
+song_count: 7
+rerun: false
+theme: ""
+shirt: ""
+tip_jar: ""
+notes: ""
+youtube_url: "https://youtu.be/BgzVVBcr0E0"
+setlist:
+  - song_num: "1"
+    name: "Black Orpheus (Manha de Carnaval)"
+    slug: "black-orpheus-manha-de-carnaval"
+    url: ""
+    time: ""
+    style: "Bossa"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "2"
+    name: "Cast your Fate to the Wind"
+    slug: "cast-your-fate-to-the-wind"
+    url: ""
+    time: ""
+    style: "Pop"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "3"
+    name: "Gee Baby, Ain’t I Good to You"
+    slug: "gee-baby-aint-i-good-to-you"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "4"
+    name: "New Phone Who Dis"
+    slug: "new-phone-who-dis"
+    url: ""
+    time: ""
+    style: "Downtempo"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "5"
+    name: "Sugar"
+    slug: "sugar"
+    url: ""
+    time: ""
+    style: "Swing"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "6"
+    name: "Impressions"
+    slug: "impressions"
+    url: ""
+    time: ""
+    style: "Techno"
+    composer: ""
+    notes: ""
+    hof: true
+  - song_num: "7"
+    name: "Some Other time"
+    slug: "some-other-time"
+    url: ""
+    time: ""
+    style: "Ballad"
+    composer: ""
+    notes: ""
+    hof: true
+---

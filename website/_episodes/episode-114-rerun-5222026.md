@@ -10,7 +10,7 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/Rt-bLJElbiA"
 image: "/assets/images/title-slides/episode-114-rerun-5222026.jpg"
 setlist:
   - song_num: "1"
