@@ -11,6 +11,7 @@ shirt: "thailand"
 tip_jar: "second harvest"
 notes: "yes"
 youtube_url: "https://youtu.be/-1SJwJrjwd0"
+image: "/assets/images/title-slides/episode-35.jpg"
 setlist:
   - song_num: "1"
     name: "St. Thomas"

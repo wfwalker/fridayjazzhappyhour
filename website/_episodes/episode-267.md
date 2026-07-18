@@ -11,6 +11,7 @@ shirt: ""
 tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/Hua1nZI9UyY"
+image: "/assets/images/title-slides/episode-267.jpg"
 setlist:
   - song_num: "1"
     name: "Emily"

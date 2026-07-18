@@ -11,6 +11,7 @@ shirt: ""
 tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/z1UiNHukhkc"
+image: "/assets/images/title-slides/episode-183.jpg"
 setlist:
   - song_num: "1"
     name: "Beautiful Love"
