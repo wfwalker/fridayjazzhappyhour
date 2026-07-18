@@ -37,7 +37,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 4/24/2020,6,4,375,https://youtu.be/9EwAG0vUho8?t=375,14,Corcovado,5/1/2026,1960,112,Jobim,bossa,,,,,TRUE
 4/24/2020,6,5,2648,https://youtu.be/9EwAG0vUho8?t=2648,3,Surrey with the Fringe on Top,10/30/2020,1943,97,Hammerstein,swing,,,,,#N/A
 4/24/2020,6,6,1153,https://youtu.be/9EwAG0vUho8?t=1153,8,When I fall in love,3/20/2026,1952,,Victor Young,ballad,,,,,TRUE
-4/24/2020,6,7,1646,https://youtu.be/9EwAG0vUho8?t=1646,14,Black Orpheus (Manha de Carnaval),2/20/2026,1959,93,Luiz Bonfa,bossa,,,,synth bass,TRUE
+4/24/2020,6,7,1646,https://youtu.be/9EwAG0vUho8?t=1646,15,Black Orpheus (Manha de Carnaval),7/17/2026,1959,93,Luiz Bonfa,bossa,,,,synth bass,TRUE
 4/24/2020,6,8,2070,https://youtu.be/9EwAG0vUho8?t=2070,15,Blue in Green,7/3/2026,1959,,Miles Davis,,,,,,TRUE
 5/1/2020,7,1,260,https://youtu.be/QGkAB6VG8VU?t=260,2,Our Love is here to Stay,12/18/2020,1938,,George Gerswin,,,,,,#N/A
 5/1/2020,7,2,603,https://youtu.be/QGkAB6VG8VU?t=603,2,NovembeRain,11/6/2020,2004,65,Bill Walker,,,,,,#N/A
@@ -188,7 +188,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 9/4/2020,25,8,3825,https://youtu.be/tCGZLZnLvh4?t=3825,1,Turn out the Stars,9/4/2020,,,,,,,,,#N/A
 9/11/2020,26,1,144,https://youtu.be/texnvgIfzO8?t=144,1,But Not For Me,9/11/2020,,,,,,4,,,#N/A
 9/11/2020,26,2,525,https://youtu.be/texnvgIfzO8?t=525,10,Avalon,3/20/2026,,156,,,4,2,,jangly slow loud; drums need variation! ride cymbal,TRUE
-9/11/2020,26,3,995,https://youtu.be/texnvgIfzO8?t=995,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,,,,TRUE
+9/11/2020,26,3,995,https://youtu.be/texnvgIfzO8?t=995,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,TRUE
 9/11/2020,26,4,1358,https://youtu.be/texnvgIfzO8?t=1358,12,So Danco Samba,7/3/2026,,195,,,,3,1,guitar too jangly and twitchy,TRUE
 9/11/2020,26,5,1725,https://youtu.be/texnvgIfzO8?t=1725,15,Isn't it Romantic,3/13/2026,,80,,,,4,1,"nice mix, maybe too slow? LH comping is subpar",TRUE
 9/11/2020,26,6,2150,https://youtu.be/texnvgIfzO8?t=2150,10,Song for my Father,1/9/2026,,110,,,,3,1,"too slow, feels naked",TRUE
@@ -879,7 +879,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 4/29/2022,111,2,673,https://youtu.be/leI4x1fedrQ?t=673,17,All The things you are,6/12/2026,,,,,,4,1,whiffed intro pickup ; add verbal count?,TRUE
 4/29/2022,111,3,1250,https://youtu.be/leI4x1fedrQ?t=1250,12,La Fiesta,2/20/2026,,,,,,3,1,drums too quiet? mix weird,TRUE
 4/29/2022,111,4,1840,https://youtu.be/leI4x1fedrQ?t=1840,11,Newsky Bluesky,5/1/2026,,,,,,4,1,more fun to play than to listen? needs more shape,TRUE
-4/29/2022,111,5,2315,https://youtu.be/leI4x1fedrQ?t=2315,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,,,,TRUE
+4/29/2022,111,5,2315,https://youtu.be/leI4x1fedrQ?t=2315,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,TRUE
 4/29/2022,111,6,2776,https://youtu.be/leI4x1fedrQ?t=2776,11,Saga of Harrison Crabfeathers,4/24/2026,,,,,,3,1,stop melody from looping? GTR? breakdown?,TRUE
 4/29/2022,111,7,3225,https://youtu.be/leI4x1fedrQ?t=3225,7,You and the Night and the Music,9/19/2025,,,,,,5,1,nice,TRUE
 5/6/2022,112,1,210,https://youtu.be/EnurztZItgI?t=210,12,Bye Bye Blackbird,4/24/2026,,,,,,4,1,too slow?,TRUE
@@ -949,7 +949,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 6/24/2022,119,8,3015,https://youtu.be/XiFXST5UZ0E?t=3015,1,Closer June 24,6/24/2022,,,,,,,,,#N/A
 7/1/2022,120,1,355,https://youtu.be/eIUxG9vQkiw?t=355,11,Newsky Bluesky,5/1/2026,,,,,,5,1,,TRUE
 7/1/2022,120,2,730,https://youtu.be/eIUxG9vQkiw?t=730,12,Stars Fell on Alabama,10/17/2025,,,,,,,,,TRUE
-7/1/2022,120,3,1172,https://youtu.be/eIUxG9vQkiw?t=1172,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,4,1,"arrangement ok, needs variety; melodica tinny",TRUE
+7/1/2022,120,3,1172,https://youtu.be/eIUxG9vQkiw?t=1172,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,4,1,"arrangement ok, needs variety; melodica tinny",TRUE
 7/1/2022,120,4,1530,https://youtu.be/eIUxG9vQkiw?t=1530,17,Chameleon,6/13/2025,,,,,,4,1,,TRUE
 7/1/2022,120,5,2135,https://youtu.be/eIUxG9vQkiw?t=2135,14,Angel Eyes,9/26/2025,,,,,,,,,TRUE
 7/1/2022,120,6,2650,https://youtu.be/eIUxG9vQkiw?t=2650,15,Sunny,4/24/2026,,,,,,4,1,nice breakdown,TRUE
@@ -1038,7 +1038,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 9/16/2022,131,3,1018,https://youtu.be/2NNZE3aK5FA?t=1018,13,So Nice,5/22/2026,,,,,,4,1,try melodica?,TRUE
 9/16/2022,131,4,1335,https://youtu.be/2NNZE3aK5FA?t=1335,8,It's only a paper moon,11/7/2025,,,,,,4,1,,TRUE
 9/16/2022,131,5,1752,https://youtu.be/2NNZE3aK5FA?t=1752,10,New Day LoFi,2/6/2026,,,,,,,,,TRUE
-9/16/2022,131,6,2120,https://youtu.be/2NNZE3aK5FA?t=2120,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,,,,TRUE
+9/16/2022,131,6,2120,https://youtu.be/2NNZE3aK5FA?t=2120,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,TRUE
 9/16/2022,131,7,2485,https://youtu.be/2NNZE3aK5FA?t=2485,14,The Chicken,1/23/2026,,,,,,,,,TRUE
 9/16/2022,131,8,3100,https://youtu.be/2NNZE3aK5FA?t=3100,4,CQ,11/15/2024,,,,,,,,,TRUE
 9/23/2022,132,1,190,https://youtu.be/ngSqqLNxvgo?t=190,14,So What,1/23/2026,,,,,,,,,TRUE
@@ -1123,7 +1123,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 12/16/2022,141,7,2618,https://youtube.com/live/676nV2NzygY?t=2618,8,Beat 70,12/26/2025,,,,,,,,,TRUE
 12/16/2022,141,8,3060,https://youtube.com/live/676nV2NzygY?t=3060,9,Have yourself a Merry little Christmas,12/12/2025,,,,,,5,yes,nice solo,TRUE
 12/23/2022,142,1,201,https://youtube.com/live/iH6lwOJ7Gb4?t=201,9,O Christmas Tree,12/5/2025,,,,,,5,yes,,TRUE
-12/23/2022,142,2,542,https://youtube.com/live/iH6lwOJ7Gb4?t=542,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,4,yes,melodica,TRUE
+12/23/2022,142,2,542,https://youtube.com/live/iH6lwOJ7Gb4?t=542,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,4,yes,melodica,TRUE
 12/23/2022,142,3,846,https://youtube.com/live/iH6lwOJ7Gb4?t=846,5,Go Tell It on the Mountain,12/26/2025,,,,,,,,,TRUE
 12/23/2022,142,4,1137,https://youtube.com/live/iH6lwOJ7Gb4?t=1137,4,God Rest Ye Merry Gentlemen,12/22/2023,,,,,,,,,TRUE
 12/23/2022,142,5,1578,https://youtube.com/live/iH6lwOJ7Gb4?t=1578,12,Some Other Funk,12/5/2025,,,,,,5,yes,groovy combinations of sounds,TRUE
@@ -1228,7 +1228,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 3/17/2023,154,4,1533,https://youtube.com/live/iD4kGZuXLYA?t=1533,1,Bad Reputation,3/17/2023,,,,,,,,,TRUE
 3/17/2023,154,5,1859,https://youtube.com/live/iD4kGZuXLYA?t=1859,12,Mo Better Blues,6/26/2026,,,,,,,,,TRUE
 3/17/2023,154,6,2240,https://youtube.com/live/iD4kGZuXLYA?t=2240,12,La Fiesta,2/20/2026,,,,,,,,,TRUE
-3/17/2023,154,7,2662,https://youtube.com/live/iD4kGZuXLYA?t=2662,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,,,,TRUE
+3/17/2023,154,7,2662,https://youtube.com/live/iD4kGZuXLYA?t=2662,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,TRUE
 3/17/2023,154,8,3023,https://youtube.com/live/iD4kGZuXLYA?t=3023,10,Root Down (and Get it),4/24/2026,,,,,,,,,TRUE
 3/17/2023,154,9,,,2,Summer Rain,3/17/2023,,,,,,,,,#N/A
 3/24/2023,155,1,268,https://youtu.be/5m_WeGR1fNA?t=268,15,There Will never be another you,10/31/2025,,,,,,,,,TRUE
@@ -1369,7 +1369,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 7/14/2023,171,6,2240,https://youtube.com/live/fKV5HywfAsw?t=2240,9,Feel like going home,7/10/2026,,,,,,,,,TRUE
 7/14/2023,171,7,2662,https://youtube.com/live/fKV5HywfAsw?t=2662,11,If you want me to stay,2/6/2026,,,,,,,,,TRUE
 7/14/2023,171,8,3023,https://youtube.com/live/fKV5HywfAsw?t=3023,5,Quin's Closer,1/19/2024,,,,,,,,,TRUE
-7/21/2023,172,1,268,https://youtube.com/live/ElbkjWw665s?t=268,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,,,,TRUE
+7/21/2023,172,1,268,https://youtube.com/live/ElbkjWw665s?t=268,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,TRUE
 7/21/2023,172,2,715,https://youtube.com/live/ElbkjWw665s?t=715,12,Well You Needn’t,3/6/2026,,,,,,,,,TRUE
 7/21/2023,172,3,1158,https://youtube.com/live/ElbkjWw665s?t=1158,13,Very Early,3/20/2026,,,,,,,,,TRUE
 7/21/2023,172,4,1533,https://youtube.com/live/ElbkjWw665s?t=1533,13,Morning,4/17/2026,,,,,,,,,TRUE
@@ -1510,7 +1510,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 11/10/2023,186,2,,,12,Mo Better Blues,6/26/2026,,,,,,,,,TRUE
 11/10/2023,186,3,,,9,Eu Quero e Sossego,5/8/2026,,,,,,,,,TRUE
 11/10/2023,186,4,,,9,It Don’t Mean a Thing (If It Ain't Got That Swing),7/10/2026,,,,,,,,,TRUE
-11/10/2023,186,5,,,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,,,,TRUE
+11/10/2023,186,5,,,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,TRUE
 11/10/2023,186,6,,,16,Autumn Leaves,10/17/2025,,,,,,,,,TRUE
 11/10/2023,186,7,,,14,Cissy Strut,6/5/2026,,,,,,,,,TRUE
 11/10/2023,186,8,,,1,Melodicer and Accordion,11/10/2023,,,,,,,,,#N/A
@@ -1730,7 +1730,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 5/10/2024,208,7,,,11,Frog,2/13/2026,,,,,,,,,TRUE
 5/10/2024,208,8,,,7,Look of Love,7/25/2025,,,,,,,,,TRUE
 5/17/2024,209,1,,,13,A Foggy Day (in London Town),5/15/2026,,,,,,,,,TRUE
-5/17/2024,209,2,,,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,,,,TRUE
+5/17/2024,209,2,,,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,TRUE
 5/17/2024,209,3,,,10,Take Five (King Tubby),1/9/2026,,,,,,,,,TRUE
 5/17/2024,209,4,,,11,New Phone Who Dis,7/17/2026,,,,,,,,,TRUE
 5/17/2024,209,5,,,10,Song for My Father,1/9/2026,,,,,,,,,TRUE
@@ -1953,7 +1953,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 11/15/2024,233,8,,,4,CQ,11/15/2024,,,,,,,,,TRUE
 11/22/2024,234,1,,,11,Days of Wine and Roses,12/5/2025,,,,,,,,,TRUE
 11/22/2024,234,2,,,17,All the Things you are,6/12/2026,,,,,,,,,TRUE
-11/22/2024,234,3,,,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,,,,TRUE
+11/22/2024,234,3,,,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,TRUE
 11/22/2024,234,4,,,15,Stolen Moments,4/10/2026,,,,,,,,,TRUE
 11/22/2024,234,5,,,9,Give me the night,10/31/2025,,,,,,,,,TRUE
 11/22/2024,234,6,,,16,Montara,10/3/2025,,,,,,,,,TRUE
@@ -2132,7 +2132,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 4/11/2025,251,7,,,14,Moanin,3/6/2026,,,,,,,,,TRUE
 4/11/2025,251,8,,,1,April 11 closer,4/11/2025,,,,,,,,,#N/A
 4/18/2025,252,1,,,13,Emily,1/23/2026,,,,,,,,,TRUE
-4/18/2025,252,2,,,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,,,,TRUE
+4/18/2025,252,2,,,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,TRUE
 4/18/2025,252,3,,,13,This Can't Be Love,4/17/2026,,,,,,,,,TRUE
 4/18/2025,252,4,,,15,Desde,6/26/2026,,,,,,,,,TRUE
 4/18/2025,252,5,,,13,Coming Home,10/3/2025,,,,,,,,,TRUE
@@ -2273,7 +2273,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 8/22/2025,269,1,,,6,Ternura,8/22/2025,,,,,,,,,TRUE
 8/22/2025,269,2,,,13,Mambo Inn,1/23/2026,,,,,,,,,TRUE
 8/22/2025,269,3,,,3,Nana,2/27/2026,,,,,,,,,TRUE
-8/22/2025,269,4,,,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,,,,TRUE
+8/22/2025,269,4,,,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,TRUE
 8/22/2025,269,5,,,11,Frog,2/13/2026,,,,,,,,,TRUE
 8/22/2025,269,6,,,7,Bonita,4/24/2026,,,,,,,,,TRUE
 8/22/2025,269,7,,,9,Amphibious,5/15/2026,,,,,,,,,TRUE
@@ -2469,7 +2469,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 2/13/2026,289,5,,,12,Summertime,2/13/2026,,,,,,,,,
 2/13/2026,289,6,,,15,Fotografia,2/13/2026,,,,,,,,,
 2/13/2026,289,7,,,1,Girl on Fire,2/13/2026,,,,,,,,,
-2/20/2026,290,1,,,14,Black Orpheus (Manha de Carnaval),2/20/2026,,,,,,,,,
+2/20/2026,290,1,,,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,
 2/20/2026,290,2,,,17,Poinciana,2/20/2026,,,,,,,,,
 2/20/2026,290,3,,,3,Feel Like Making Love,7/3/2026,,,,,,,,,
 2/20/2026,290,4,,,10,Close your eyes,2/20/2026,,,,,,,,,
@@ -2627,7 +2627,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 7/10/2026,266,6,,,7,Deacon Blues,7/10/2026,,,,,,,,,
 7/10/2026,266,7,,,4,Sermonette,7/10/2026,,,,,,,,,
 7/10/2026,266,8,,,2,epiano closer aug 1,7/10/2026,,,,,,,,,
-7/17/2026,304,1,,,1,Black Orpheus,7/17/2026,,,,,,,,,
+7/17/2026,304,1,,,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,
 7/17/2026,304,2,,,9,Cast your Fate to the Wind,7/17/2026,,,,,,,,,
 7/17/2026,304,3,,,7,"Gee Baby, Ain’t I Good to You",7/17/2026,,,,,,,,,
 7/17/2026,304,4,,,11,New Phone Who Dis,7/17/2026,,,,,,,,,
