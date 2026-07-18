@@ -3,27 +3,22 @@ layout: default
 title: "Colophon"
 ---
 
-# Production Setup & Gear
-
-Here is a video showing how I produce the Friday Jazz Happy Hour live stream each week:
-
 <div class="responsive-video-container">
   <iframe src="https://www.youtube.com/embed/VmtMtUgiJyI?si=KPErC3xfh4f7O6A2" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ### Audio Equipment
 
-* Novation Launchkey 49 MIDI Controller
-* Yamaha P-120 88 key MIDI controller
+* Arturia KeyLab 61 MkII MIDI Keyboard
+* Yamaha P-120 88 key MIDI Keyboard
 * Ableton Push 2 Control surface
 * Focusrite Scarlett 8i18
 * MacBook Pro with Ableton Live 12 Suite
 * Big Fish Audio Vintage Horns
-* Propellerhead Reason Piano
 * Titano 4 reed Accordion
 * Hammond Pro 44H Melodion
-* Rode and Sonorous Object microphones
-* Eurorack analog synth
+* Rode and Line Audio microphones
+* Eurorack analog synth ([specifications](https://modulargrid.net/e/racks/view/3166000))
 
 ### Video Setup
 
@@ -32,7 +27,7 @@ Here is a video showing how I produce the Friday Jazz Happy Hour live stream eac
 * Canon R5 Mark II with Canon 16-35mm f/4L
 * Blackmagic ATEM Mini
 * Elgato Key Light Air
-* Ecamm Live
+* Ecamm live streaming software
 
 ### Resources & Coaching
 
