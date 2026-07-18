@@ -6,3 +6,5 @@ __pycache__/
 *.log
 website/.jekyll-cache/
 website/_site/
+client_secrets.json
+token.json
