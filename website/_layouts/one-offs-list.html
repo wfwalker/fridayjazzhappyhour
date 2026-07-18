@@ -77,7 +77,7 @@ layout: default
           </td>
           <td>
             {% if song.episode_slug and song.episode_slug != "" %}
-              <a href="{{ '/episodes/' | relative_url }}{{ song.episode_slug }}/" onclick="event.stopPropagation();">{{ song.episode_title }}</a>
+              <a href="{{ '/episodes/' | relative_url }}{{ song.episode_slug }}/" class="song-title-link" onclick="event.stopPropagation();">{{ song.episode_title }}</a>
             {% else %}
               {{ song.episode_title }}
             {% endif %}

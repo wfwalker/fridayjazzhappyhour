@@ -279,7 +279,7 @@ footer {
 .simple-table th {
   font-family: var(--font-meta);
   text-align: left;
-  color: var(--text-secondary);
+  color: var(--accent-hover);
   font-weight: 500;
   font-size: 0.85rem;
   text-transform: uppercase;
@@ -292,6 +292,7 @@ footer {
   padding: 1.1rem 1rem;
   border-bottom: 1px solid var(--border-color);
   font-size: 0.95rem;
+  color: var(--accent-hover);
 }
 
 .simple-table tr:last-child td {
@@ -302,7 +303,8 @@ footer {
   background-color: rgba(255, 255, 255, 0.015);
 }
 
-.simple-table td a {
+.simple-table td a,
+.simple-table td a:visited {
   color: var(--accent-hover);
   text-decoration: none;
   transition: color 0.15s ease;
@@ -325,7 +327,7 @@ footer {
 .songs-table th {
   font-family: var(--font-meta);
   text-align: left;
-  color: var(--text-secondary);
+  color: var(--accent-hover);
   font-weight: 500;
   font-size: 0.85rem;
   text-transform: uppercase;
@@ -360,7 +362,7 @@ footer {
   border-top: 1px solid var(--border-color);
   border-bottom: 1px solid var(--border-color);
   padding: 1.3rem 1.5rem;
-  color: var(--text-primary);
+  color: var(--accent-hover);
   transition: all 0.2s ease;
 }
 
@@ -386,7 +388,8 @@ footer {
   transform: translateY(-2px);
 }
 
-.song-title-link {
+.song-title-link,
+.song-title-link:visited {
   color: var(--accent-hover);
   text-decoration: none;
   transition: color 0.15s ease;
