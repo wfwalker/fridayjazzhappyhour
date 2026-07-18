@@ -32,5 +32,5 @@ title: "Colophon"
 ### Resources & Coaching
 
 * Brian Funk’s “Live Performance in Ableton Live” course 
-* Accordion lessons from Diana Strong (dianastrong.com) and Vitor Golçalves
+* Accordion lessons from [Diana Strong](https://www.dianastrong.com/) and Vitor Golçalves
 * DJ Taraval (Ableton Live coaching)
