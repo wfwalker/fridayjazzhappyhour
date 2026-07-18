@@ -11,6 +11,7 @@ shirt: ""
 tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/kdS6Kai4KFk"
+image: "/assets/images/title-slides/episode-303.jpg"
 setlist:
   - song_num: "1"
     name: "All Blues"

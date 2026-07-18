@@ -738,7 +738,7 @@
   composer: "Bill Withers"
   style: "VOCAL"
   play_count: 1
-- title: "Let it Snow"
+- title: "Let It Snow"
   slug: "let-it-snow"
   composer: ""
   style: ""
@@ -888,7 +888,7 @@
   composer: "Bill Walker"
   style: ""
   play_count: 1
-- title: "Our love is here to stay"
+- title: "Our Love is here to Stay"
   slug: "our-love-is-here-to-stay"
   composer: "George Gerswin"
   style: ""
@@ -1093,7 +1093,7 @@
   composer: "Seatbelts"
   style: ""
   play_count: 1
-- title: "Spring can really hang you up the most"
+- title: "Spring Can Really Hang You Up the Most"
   slug: "spring-can-really-hang-you-up-the-most"
   composer: "Tommy Wolf"
   style: "ballad"

@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "Close your eyes"
+title: "Close your Eyes"
 composer: "Berenice Petkere"
 style: "Latin"
 play_count: 10

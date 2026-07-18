@@ -4,5 +4,5 @@ __pycache__/
 .DS_Store
 .obsidian
 *.log
-website/_site/
 website/.jekyll-cache/
+website/_site/

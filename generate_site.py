@@ -4,13 +4,14 @@ import re
 import datetime
 
 # Configuration Paths
-songs_csv_path = "/Users/walker/Dropbox/youtube-chapters/FJHH songs - Songs.csv"
-hof_csv_path = "/Users/walker/Dropbox/youtube-chapters/FJHH songs - Hall of Fame.csv"
-episodes_csv_path = "/Users/walker/Dropbox/youtube-chapters/FJHH songs - Episodes.csv"
+script_dir = os.path.dirname(os.path.abspath(__file__))
+songs_csv_path = os.path.join(script_dir, "FJHH songs - Songs.csv")
+hof_csv_path = os.path.join(script_dir, "FJHH songs - Hall of Fame.csv")
+episodes_csv_path = os.path.join(script_dir, "FJHH songs - Episodes.csv")
 
-songs_output_dir = "/Users/walker/Dropbox/youtube-chapters/website/_songs"
-episodes_output_dir = "/Users/walker/Dropbox/youtube-chapters/website/_episodes"
-data_output_dir = "/Users/walker/Dropbox/youtube-chapters/website/_data"
+songs_output_dir = os.path.join(script_dir, "website", "_songs")
+episodes_output_dir = os.path.join(script_dir, "website", "_episodes")
+data_output_dir = os.path.join(script_dir, "website", "_data")
 
 # Utility Helpers
 def slugify(text):

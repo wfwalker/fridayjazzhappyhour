@@ -11,6 +11,7 @@ shirt: ""
 tip_jar: ""
 notes: ""
 youtube_url: "https://youtu.be/BgzVVBcr0E0"
+image: "/assets/images/title-slides/episode-304.jpg"
 setlist:
   - song_num: "1"
     name: "Black Orpheus (Manha de Carnaval)"
