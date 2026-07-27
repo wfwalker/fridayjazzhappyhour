@@ -3,7 +3,7 @@ layout: song
 title: "River Man"
 composer: "Nick Drake"
 style: "Pop"
-play_count: 7
+play_count: 8
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -53,6 +53,13 @@ performances:
     url: ""
     episode: "275"
     episode_slug: "episode-275"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/24/2026"
+    url: ""
+    episode: "305"
+    episode_slug: "episode-305"
     tempo: ""
     notes: ""
     rerun: false

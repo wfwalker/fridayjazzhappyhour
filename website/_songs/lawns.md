@@ -3,7 +3,7 @@ layout: song
 title: "Lawns"
 composer: "Carla Bley"
 style: "Ballad"
-play_count: 5
+play_count: 6
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -39,6 +39,13 @@ performances:
     url: ""
     episode: "289"
     episode_slug: "episode-289"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/24/2026"
+    url: ""
+    episode: "305"
+    episode_slug: "episode-305"
     tempo: ""
     notes: ""
     rerun: false

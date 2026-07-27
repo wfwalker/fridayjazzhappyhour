@@ -9,7 +9,7 @@ rerun: false
 theme: ""
 shirt: ""
 tip_jar: ""
-notes: ""
+notes: "laptop died! i did the show with acoustic piano only on my work laptop"
 youtube_url: "https://youtu.be/Hua1nZI9UyY"
 image: "/assets/images/title-slides/episode-267.jpg"
 setlist:

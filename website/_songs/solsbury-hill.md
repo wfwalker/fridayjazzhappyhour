@@ -3,7 +3,7 @@ layout: song
 title: "Solsbury Hill"
 composer: "Peter Gabriel"
 style: "Pop"
-play_count: 4
+play_count: 5
 hall_of_fame: true
 ready_rating: 0
 performances:
@@ -32,6 +32,13 @@ performances:
     url: ""
     episode: "284"
     episode_slug: "episode-284"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/24/2026"
+    url: ""
+    episode: "305"
+    episode_slug: "episode-305"
     tempo: ""
     notes: ""
     rerun: false

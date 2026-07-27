@@ -113,6 +113,11 @@
   composer: ""
   style: ""
   play_count: 1
+- title: "Bemsha Swing (breakcore madness)"
+  slug: "bemsha-swing-breakcore-madness"
+  composer: ""
+  style: ""
+  play_count: 1
 - title: "Berlin Streetscape closer"
   slug: "berlin-streetscape-closer"
   composer: ""
@@ -493,6 +498,11 @@
   composer: ""
   style: ""
   play_count: 1
+- title: "euro lead synth + melodica to sealegs"
+  slug: "euro-lead-synth-melodica-to-sealegs"
+  composer: ""
+  style: ""
+  play_count: 1
 - title: "EuroRack closer feb 6"
   slug: "eurorack-closer-feb-6"
   composer: ""
@@ -778,6 +788,11 @@
   composer: ""
   style: ""
   play_count: 1
+- title: "melodicer bass and rhodes"
+  slug: "melodicer-bass-and-rhodes"
+  composer: ""
+  style: ""
+  play_count: 1
 - title: "Minor Blues Improvisation"
   slug: "minor-blues-improvisation"
   composer: "Bill Walker"
@@ -808,21 +823,26 @@
   composer: ""
   style: ""
   play_count: 1
+- title: "more rhodes with euclidian arpeggions and Morgen and synth lead"
+  slug: "more-rhodes-with-euclidian-arpeggions-and-morgen-and-synth-lead"
+  composer: ""
+  style: ""
+  play_count: 1
 - title: "My Foolish Heart"
   slug: "my-foolish-heart"
   composer: ""
   style: "ballad"
   play_count: 3
+- title: "My Funny Valentine (minimal techno remix)"
+  slug: "my-funny-valentine-minimal-techno-remix"
+  composer: ""
+  style: ""
+  play_count: 1
 - title: "My Lord, What a Morning"
   slug: "my-lord-what-a-morning"
   composer: ""
   style: "Swing"
   play_count: 3
-- title: "New Ambient Pieces"
-  slug: "new-ambient-pieces"
-  composer: ""
-  style: ""
-  play_count: 1
 - title: "Night Rhodes"
   slug: "night-rhodes"
   composer: ""
@@ -923,6 +943,11 @@
   composer: "Henry Mancini"
   style: "funk"
   play_count: 1
+- title: "piano and pad and euclid sequence"
+  slug: "piano-and-pad-and-euclid-sequence"
+  composer: ""
+  style: ""
+  play_count: 1
 - title: "Piano Improv"
   slug: "piano-improv"
   composer: ""
@@ -983,6 +1008,16 @@
   composer: ""
   style: ""
   play_count: 1
+- title: "rhodes and big reverb plus cloudy cloud"
+  slug: "rhodes-and-big-reverb-plus-cloudy-cloud"
+  composer: ""
+  style: ""
+  play_count: 1
+- title: "rhodes and euclid arpeggiator with drums"
+  slug: "rhodes-and-euclid-arpeggiator-with-drums"
+  composer: ""
+  style: ""
+  play_count: 1
 - title: "Rhodes and Euro closer"
   slug: "rhodes-and-euro-closer"
   composer: ""
@@ -990,6 +1025,11 @@
   play_count: 1
 - title: "rhodes closer may 29"
   slug: "rhodes-closer-may-29"
+  composer: ""
+  style: ""
+  play_count: 1
+- title: "rhodes echoes and huge reverb, plus plaits chords"
+  slug: "rhodes-echoes-and-huge-reverb-plus-plaits-chords"
   composer: ""
   style: ""
   play_count: 1

@@ -3,7 +3,7 @@ layout: song
 title: "How High the Moon"
 composer: "Nancy Hamilton and Morgan Lewis"
 style: "Swing"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -88,6 +88,13 @@ performances:
     url: ""
     episode: "280"
     episode_slug: "episode-280"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/24/2026"
+    url: ""
+    episode: "305"
+    episode_slug: "episode-305"
     tempo: ""
     notes: ""
     rerun: false

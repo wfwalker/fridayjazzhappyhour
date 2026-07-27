@@ -3,7 +3,7 @@ layout: song
 title: "Brazil"
 composer: "Ary Barroso"
 style: "Bossa"
-play_count: 10
+play_count: 11
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -74,6 +74,13 @@ performances:
     url: ""
     episode: ""
     episode_slug: "show-372025"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/24/2026"
+    url: ""
+    episode: "305"
+    episode_slug: "episode-305"
     tempo: ""
     notes: ""
     rerun: false

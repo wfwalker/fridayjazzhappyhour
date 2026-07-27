@@ -92,7 +92,7 @@ performances:
     notes: ""
     rerun: false
   - date: "7/17/2026"
-    url: ""
+    url: "https://youtu.be/BgzVVBcr0E0?t=1896"
     episode: "304"
     episode_slug: "episode-304"
     tempo: ""

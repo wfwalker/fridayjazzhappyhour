@@ -29,7 +29,7 @@ performances:
     notes: ""
     rerun: false
   - date: "7/3/2026"
-    url: ""
+    url: "https://youtu.be/kdS6Kai4KFk?t=2475"
     episode: "303"
     episode_slug: "episode-303"
     tempo: ""

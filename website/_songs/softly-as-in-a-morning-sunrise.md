@@ -3,7 +3,7 @@ layout: song
 title: "Softly as in a Morning Sunrise"
 composer: "Hammerstein"
 style: "Techno"
-play_count: 14
+play_count: 15
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -102,6 +102,13 @@ performances:
     url: ""
     episode: "199b"
     episode_slug: "episode-199b"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/24/2026"
+    url: ""
+    episode: "305"
+    episode_slug: "episode-305"
     tempo: ""
     notes: ""
     rerun: false
