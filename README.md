@@ -88,7 +88,7 @@ This tool automatically detects song start times in a YouTube live stream record
 
 1.  Open your terminal and navigate to the project directory:
     ```bash
-    cd /Users/walker/Dropbox/youtube-chapters
+    cd /Users/walker/Dropbox/fridayjazzhappyhour
     ```
 2.  Activate the virtual environment:
     ```bash
