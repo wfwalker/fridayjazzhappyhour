@@ -31,16 +31,19 @@ layout: default
         <th class="sortable" data-sort="title">Song Name <span class="sort-icon"> ∧</span></th>
         <th class="sortable" data-sort="composer">Composer <span class="sort-icon"></span></th>
         <th class="sortable" data-sort="style">Style <span class="sort-icon"></span></th>
+        <th class="sortable" data-sort="premiere" data-default="asc">Premiere <span class="sort-icon"></span></th>
         <th class="sortable" data-sort="plays" data-default="desc" style="text-align: right;">Plays <span class="sort-icon"></span></th>
       </tr>
     </thead>
     <tbody id="songsTableBody">
       {% assign sorted_songs = site.songs | sort: "title" %}
       {% for song in sorted_songs %}
+        {% assign first_perf = song.performances.first %}
         <tr class="song-row" 
             data-title="{{ song.title | escape | downcase }}" 
             data-composer="{{ song.composer | escape | downcase }}" 
             data-style="{{ song.style | escape | downcase }}" 
+            data-premiere="{{ first_perf.episode | default: 0 }}"
             data-plays="{{ song.play_count }}" 
             onclick="window.location='{{ song.url | relative_url }}'">
           <td>
@@ -50,6 +53,19 @@ layout: default
           <td>
             {% if song.style and song.style != "" %}
               <span class="badge-style">{{ song.style }}</span>
+            {% else %}
+              -
+            {% endif %}
+          </td>
+          <td>
+            {% if first_perf %}
+              {% if first_perf.episode_slug and first_perf.episode_slug != "" %}
+                <a href="{{ '/episodes/' | relative_url }}{{ first_perf.episode_slug }}/" class="song-title-link" onclick="event.stopPropagation();">
+                  {{ first_perf.date }} (#{{ first_perf.episode }})
+                </a>
+              {% else %}
+                {{ first_perf.date }} (#{{ first_perf.episode }})
+              {% endif %}
             {% else %}
               -
             {% endif %}

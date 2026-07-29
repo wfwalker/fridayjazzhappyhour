@@ -81,6 +81,13 @@ layout: default
           <td>
             {% if item.hof %}
               <a href="{{ '/songs/' | relative_url }}{{ item.slug }}/">{{ item.name }}</a>
+              {% assign song_doc = site.songs | where: "slug", item.slug | first %}
+              {% if song_doc %}
+                {% assign first_perf = song_doc.performances.first %}
+                {% if first_perf.episode == page.episode_number %}
+                  <span class="badge--premiere">Premiere</span>
+                {% endif %}
+              {% endif %}
             {% else %}
               <a href="{{ '/one-off-songs.html' | relative_url }}#{{ item.slug }}">{{ item.name }}</a>
             {% endif %}
