@@ -169,5 +169,43 @@ This tool automatically detects song start times in a YouTube live stream record
 
 *   **Bill's Current invocation**:
     ```bash
-    .venv/bin/python chapter_generator.py "/Users/walker/Documents/Ecamm Live Recordings/Bill Walker on 2026-07-17 at 17.00.12.mov" --csv-path "FJHH songs - Songs.csv" --skip-start 180 --min-duration 120``
+    .venv/bin/python chapter_generator.py "/Users/walker/Documents/Ecamm Live Recordings/Bill Walker on 2026-07-17 at 17.00.12.mov" --csv-path "FJHH songs - Songs.csv" --skip-start 180 --min-duration 120
     ```
+
+---
+
+## 📅 Part 3: Live Stream & Mailchimp Scheduling Automation
+
+These scripts automate the pre-show setup by scheduling your YouTube Live Stream event and creating the corresponding Mailchimp campaign draft with synchronized dates, show numbers, and links.
+
+### 1. YouTube Live Stream Scheduler (`schedule_stream.py`)
+This script authenticates with your Google account, schedules a YouTube Live stream at **5:00 PM Pacific** on the given date, uploads the cover slide thumbnail, and adds the event to your stream playlist.
+
+**Example Invocation:**
+```bash
+.venv/bin/python3 schedule_stream.py \
+  --show 306 \
+  --date 2026-07-31 \
+  --thumbnail website/assets/images/title-slides/episode-306.jpg \
+  --headline "Join us live for some upbeat standards and original fusion!"
+```
+*   **Default Privacy**: The stream is set to `public` by default (options: `public`, `unlisted`, `private`).
+*   **Authentication**: Uses `client_secrets.json` and caches authorization inside `token.json`. If authentication fails or expires, it will prompt you in your browser to log in again.
+
+---
+
+### 2. Mailchimp Campaign Creator (`schedule_mailchimp.py`)
+This script connects to your Mailchimp account using your API key from `mailchimp_secrets.json`, updates dynamic audience-level merge tags (for the video link and show information), and creates the newsletter draft by replicating your master layout template.
+
+**Example Invocation:**
+```bash
+.venv/bin/python3 schedule_mailchimp.py \
+  --show 306 \
+  --date 2026-07-31 \
+  --yt-url "https://youtu.be/abcde12345" \
+  --auto-schedule
+```
+*   **Dynamic Merge Tags**: Updates `*|YT_URL|*`, `*|EP_NUM|*`, `*|EP_DATE|*`, and `*|HEADLINE|*` in your list automatically. Ensure these tag placeholders are in your master campaign layout!
+*   **Workaround for New Builder**: Mailchimp's API does not support template ID assignment for New Email Builder templates. Instead, this script searches for a master draft campaign named **`FJHH Template Campaign`** and replicates it to preserve all styles, logos, and layout structure.
+*   **Scheduling**: Passing the optional `--auto-schedule` flag schedules the email to send automatically on **Wednesday morning at 9:00 AM** before the Friday show. Without it, the campaign remains saved as a draft.
+

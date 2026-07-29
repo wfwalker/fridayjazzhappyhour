@@ -18,10 +18,19 @@ def get_authenticated_service(credentials_path="client_secrets.json", token_path
         creds = Credentials.from_authorized_user_file(token_path, SCOPES)
         
     if not creds or not creds.valid:
+        success = False
         if creds and creds.expired and creds.refresh_token:
             print("Refreshing expired Google OAuth credentials...")
-            creds.refresh(Request())
-        else:
+            try:
+                creds.refresh(Request())
+                success = True
+            except Exception as e:
+                print(f"Token refresh failed: {e}")
+                print("Stale token will be deleted. Re-authenticating...")
+                if os.path.exists(token_path):
+                    os.remove(token_path)
+                
+        if not success:
             if not os.path.exists(credentials_path):
                 print(f"\nError: Missing credentials file '{credentials_path}'.", file=sys.stderr)
                 print("To run this script, please follow the GCP Console setup in the design document:", file=sys.stderr)
@@ -69,7 +78,7 @@ def get_or_create_stream(youtube):
     ).execute()
     return new_stream["id"]
 
-def schedule_broadcast(youtube, title, description, start_time_iso, privacy="unlisted"):
+def schedule_broadcast(youtube, title, description, start_time_iso, privacy="public"):
     """Inserts a scheduled YouTube Live Broadcast event."""
     print(f"Scheduling live broadcast: '{title}' for {start_time_iso} ({privacy})...")
     body = {
@@ -161,7 +170,7 @@ def main():
     parser.add_argument("--thumbnail", required=True, help="Path to the cover slide JPEG image.")
     parser.add_argument("--description", default="", help="Description text for the stream.")
     parser.add_argument("--headline", help="Custom headline text to prepend to the stream description.")
-    parser.add_argument("--privacy", choices=["public", "unlisted", "private"], default="unlisted", help="Privacy status (default: unlisted).")
+    parser.add_argument("--privacy", choices=["public", "unlisted", "private"], default="public", help="Privacy status (default: public).")
     
     args = parser.parse_args()
     
