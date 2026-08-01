@@ -3,7 +3,7 @@ layout: song
 title: "Them Funky Changes"
 composer: "Sonny Stitt"
 style: "Funk"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -81,6 +81,13 @@ performances:
     url: ""
     episode: "283"
     episode_slug: "episode-283"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/31/2026"
+    url: ""
+    episode: "306"
+    episode_slug: "episode-306"
     tempo: ""
     notes: ""
     rerun: false

@@ -3,7 +3,7 @@ layout: song
 title: "Very Early"
 composer: "Bill Evans"
 style: "Swing"
-play_count: 13
+play_count: 14
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -98,4 +98,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "7/31/2026"
+    url: ""
+    episode: "306"
+    episode_slug: "episode-306"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

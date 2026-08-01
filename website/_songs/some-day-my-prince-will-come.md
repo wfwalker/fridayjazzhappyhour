@@ -3,7 +3,7 @@ layout: song
 title: "Some day my Prince will Come"
 composer: "Morey and Churchill"
 style: "Swing"
-play_count: 9
+play_count: 10
 hall_of_fame: true
 ready_rating: 0
 performances:
@@ -67,6 +67,13 @@ performances:
     url: ""
     episode: "288"
     episode_slug: "episode-288"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/31/2026"
+    url: ""
+    episode: "306"
+    episode_slug: "episode-306"
     tempo: ""
     notes: ""
     rerun: false

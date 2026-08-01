@@ -3,7 +3,7 @@ layout: song
 title: "Time After Time"
 composer: "Cyndi Lauper"
 style: "Pop"
-play_count: 6
+play_count: 7
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -46,6 +46,13 @@ performances:
     url: ""
     episode: "249"
     episode_slug: "episode-249"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "7/31/2026"
+    url: ""
+    episode: "306"
+    episode_slug: "episode-306"
     tempo: ""
     notes: ""
     rerun: false

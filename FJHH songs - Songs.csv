@@ -14,7 +14,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 3/27/2020,2,6,200,https://youtu.be/8OIItLaezQk?t=200,3,Little Samba,1/1/2021,,,,samba,,,,,#N/A
 4/3/2020,3,1,100,https://youtu.be/s0MwmoMYKj8?t=100,12,St. Thomas,2/27/2026,,100,Sonny Rollins,organ latin,,3,,needs something else in arrangement),TRUE
 4/3/2020,3,2,1130,https://youtu.be/s0MwmoMYKj8?t=1130,1,Peter Gunn / Trouble Comin’ Everyday,4/3/2020,,90,Henry Mancini,funk,,4,1,REDO,#N/A
-4/3/2020,3,3,1490,https://youtu.be/s0MwmoMYKj8?t=1490,6,Time After Time,3/14/2025,,122,Cyndi Lauper,pop,,,1,REDO,TRUE
+4/3/2020,3,3,1490,https://youtu.be/s0MwmoMYKj8?t=1490,7,Time After Time,7/31/2026,,122,Cyndi Lauper,pop,,,1,REDO,TRUE
 4/3/2020,3,4,2242,https://youtu.be/s0MwmoMYKj8?t=2242,3,Dinosaur Night,2/11/2022,,98,Bill Walker,accordion,,,,,#N/A
 4/3/2020,3,5,435,https://youtu.be/s0MwmoMYKj8?t=435,8,Nightingale Sang in Berkeley Square,2/27/2026,,66,,ballad,,2,,bass wrong tempo!,TRUE
 4/3/2020,3,6,808,https://youtu.be/s0MwmoMYKj8?t=808,15,Softly as in a Morning Sunrise,7/24/2026,,122,Hammerstein,electrotango,,4,,,TRUE
@@ -111,10 +111,10 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 7/3/2020,16,1,224,https://youtu.be/pX-E6ZVGrpA?t=224,1,There is no greater love,7/3/2020,1936,160,Isham Jones,swing,,2,1,drums too loud,#N/A
 7/3/2020,16,2,1515,https://youtu.be/pX-E6ZVGrpA?t=1515,14,What is this thing called love,5/29/2026,1929,,Cole Porter,,,4,1,,TRUE
 7/3/2020,16,3,3314,https://youtu.be/pX-E6ZVGrpA?t=3314,2,But Beautiful,3/26/2021,1947,,Jimmy Van Heusen,ballad,,,1,,#N/A
-7/3/2020,16,4,1058,https://youtu.be/pX-E6ZVGrpA?t=1058,13,O Cantador (Like a Lover),1/30/2026,1967,93,Dori Caymmi,bossa,4,4,1,lame drums; pad too loud,TRUE
+7/3/2020,16,4,1058,https://youtu.be/pX-E6ZVGrpA?t=1058,14,O Cantador (Like a Lover),7/31/2026,1967,93,Dori Caymmi,bossa,4,4,1,lame drums; pad too loud,TRUE
 7/3/2020,16,5,694,https://youtu.be/pX-E6ZVGrpA?t=694,3,Little Samba,1/1/2021,2015,90,Bill Walker,samba,,4,,nice improv,#N/A
 7/3/2020,16,6,2665,https://youtu.be/pX-E6ZVGrpA?t=2665,17,Chameleon,6/13/2025,1973,92,Herbie Hancock,funk,,,1,,TRUE
-7/3/2020,16,7,1934,https://youtu.be/pX-E6ZVGrpA?t=1934,13,Very Early,3/20/2026,1962,120,Bill Evans,swing,,,1,"faster, quieter crash",TRUE
+7/3/2020,16,7,1934,https://youtu.be/pX-E6ZVGrpA?t=1934,14,Very Early,7/31/2026,1962,120,Bill Evans,swing,,,1,"faster, quieter crash",TRUE
 7/3/2020,16,8,2300,https://youtu.be/pX-E6ZVGrpA?t=2300,13,Sugar,7/17/2026,1970,,Stanley Turrentine,,,,1,,TRUE
 7/10/2020,17,1,795,https://youtu.be/pWeOutFnTGs?t=795,12,Stars Fell on Alabama,10/17/2025,1934,105,,swing,,,,,TRUE
 7/10/2020,17,2,1170,https://youtu.be/pWeOutFnTGs?t=1170,17,My Little Suede Shoes,5/29/2026,1951,120,,,,,,too slow,TRUE
@@ -134,7 +134,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 7/17/2020,18,8,1985,https://youtu.be/ws1QG2nfN5g?t=1985,3,Surrey with the Fringe on Top,10/30/2020,1943,105,Rogers and Hammerstein,,,,,,#N/A
 7/24/2020,19,1,315,https://youtu.be/nNbXig2F9Lc?t=315,17,All the things you are,6/12/2026,1939,130,Hammerstein and Kern,swing,,,1,mellow; fills too loud too much,TRUE
 7/24/2020,19,2,775,https://youtu.be/nNbXig2F9Lc?t=775,3,"Hullo, Bolinas",8/13/2021,,,Steve Swallow,,,,,,#N/A
-7/24/2020,19,3,1531,https://youtu.be/nNbXig2F9Lc?t=1531,11,Estate,1/30/2026,1960,110,Bruno Martino,,,4,1,,TRUE
+7/24/2020,19,3,1531,https://youtu.be/nNbXig2F9Lc?t=1531,12,Estate,7/31/2026,1960,110,Bruno Martino,,,4,1,,TRUE
 7/24/2020,19,4,2038,https://youtu.be/nNbXig2F9Lc?t=2038,1,Minor Blues Improvisation,7/24/2020,2020,,Bill Walker,,,2,1,"TOO LONG, boring",#N/A
 7/24/2020,19,5,2427,https://youtu.be/nNbXig2F9Lc?t=2427,9,Cast your fate to the wind,7/17/2026,1963,110,Vince Guaraldi,,,4,1,,TRUE
 7/24/2020,19,6,3261,https://youtu.be/nNbXig2F9Lc?t=3261,1,When in Rome,7/24/2020,1964,,Cy Coleman,,,,,,#N/A
@@ -208,7 +208,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 9/25/2020,28,4,1320,https://youtu.be/GA-3QzzX3m4?t=1320,17,Impressions,7/17/2026,,125,,,,3,1,"too long intro, no arrangement for head",TRUE
 9/25/2020,28,5,1880,https://youtu.be/GA-3QzzX3m4?t=1880,9,Georgia on my Mind,1/2/2026,,,,,,4,1,,TRUE
 9/25/2020,28,6,2320,https://youtu.be/GA-3QzzX3m4?t=2320,17,Chameleon,6/13/2025,,92,,,,4,1,cool sounds good groove whiffed rthe ending; too much intro,TRUE
-9/25/2020,28,7,2765,https://youtu.be/GA-3QzzX3m4?t=2765,13,Very Early,3/20/2026,,127,,,,,,,TRUE
+9/25/2020,28,7,2765,https://youtu.be/GA-3QzzX3m4?t=2765,14,Very Early,7/31/2026,,127,,,,,,,TRUE
 9/25/2020,28,8,3180,https://youtu.be/GA-3QzzX3m4?t=3180,3,September,8/29/2025,,118,,,,4,1,too slow? horns too loud in mix,TRUE
 9/25/2020,28,9,3580,https://youtu.be/GA-3QzzX3m4?t=3580,2,In the wee small hours of the morning,9/25/2020,,,,,,,,,#N/A
 10/2/2020,29,1,200,https://youtu.be/5H3aJ1p02Qo?t=200,9,Meditation,6/5/2026,,,,solo,,,,,TRUE
@@ -254,7 +254,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 11/6/2020,34,1,210,https://youtu.be/EKJT69DCOnA?t=210,9,Georgia on my Mind,1/2/2026,,,,,,,,,TRUE
 11/6/2020,34,2,530,https://youtu.be/EKJT69DCOnA?t=530,2,NovembeRain,11/6/2020,,71,,,,,,,#N/A
 11/6/2020,34,3,818,https://youtu.be/EKJT69DCOnA?t=818,13,Cantaloupe Island,4/17/2026,,115,,,,4,1,HOF,TRUE
-11/6/2020,34,4,1223,https://youtu.be/EKJT69DCOnA?t=1223,13,O Cantador (Like a Lover),1/30/2026,,112,,,,4,1,,TRUE
+11/6/2020,34,4,1223,https://youtu.be/EKJT69DCOnA?t=1223,14,O Cantador (Like a Lover),7/31/2026,,112,,,,4,1,,TRUE
 11/6/2020,34,5,1694,https://youtu.be/EKJT69DCOnA?t=1694,15,Stolen Moments,4/10/2026,,107,,,,,,,TRUE
 11/6/2020,34,6,2064,https://youtu.be/EKJT69DCOnA?t=2064,12,La Fiesta,2/20/2026,,217,,,,3,1,way better than first time; add BOMP ending,TRUE
 11/6/2020,34,7,2493,https://youtu.be/EKJT69DCOnA?t=2493,14,Moanin,3/6/2026,,130,,,,4,,"cutoff drums by mistake, otherwise good",TRUE
@@ -278,7 +278,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 11/27/2020,37,1,260,https://youtu.be/8W4XQTLdajk?t=260,14,What is this thing called love,5/29/2026,,,,,,,,,TRUE
 11/27/2020,37,2,625,https://youtu.be/8W4XQTLdajk?t=625,17,Poinciana,2/20/2026,,100,,,,4,1,HOF,TRUE
 11/27/2020,37,3,1172,https://youtu.be/8W4XQTLdajk?t=1172,1,Orba Jam,11/27/2020,,60,Bill Walker,,,,,,#N/A
-11/27/2020,37,4,1635,https://youtu.be/8W4XQTLdajk?t=1635,11,Estate,1/30/2026,,120,,,,4,1,HOF,TRUE
+11/27/2020,37,4,1635,https://youtu.be/8W4XQTLdajk?t=1635,12,Estate,7/31/2026,,120,,,,4,1,HOF,TRUE
 11/27/2020,37,5,2100,https://youtu.be/8W4XQTLdajk?t=2100,3,"Hullo, Bolinas",8/13/2021,,,,,,,,,#N/A
 11/27/2020,37,6,2380,https://youtu.be/8W4XQTLdajk?t=2380,7,Deacon Blues,7/10/2026,,111,,,,,,,TRUE
 11/27/2020,37,7,2940,https://youtu.be/8W4XQTLdajk?t=2940,9,Eu Quero E Sossego,5/8/2026,,100,,,,,,,TRUE
@@ -395,7 +395,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 2/26/2021,50,3,960,https://youtu.be/TKoh0MrsGgs?t=960,11,Saga of Harrison Crabfeathers,4/24/2026,,200,,,,,,,TRUE
 2/26/2021,50,4,1475,https://youtu.be/TKoh0MrsGgs?t=1475,1,Dulcimers in Space,2/26/2021,,115,,,,,,,#N/A
 2/26/2021,50,5,2015,https://youtu.be/TKoh0MrsGgs?t=2015,12,Axel F,3/27/2026,,105,,,,,,,TRUE
-2/26/2021,50,6,2437,https://youtu.be/TKoh0MrsGgs?t=2437,6,Time after Time,3/14/2025,,122,,,,,,,TRUE
+2/26/2021,50,6,2437,https://youtu.be/TKoh0MrsGgs?t=2437,7,Time after Time,7/31/2026,,122,,,,,,,TRUE
 2/26/2021,50,7,2804,https://youtu.be/TKoh0MrsGgs?t=2804,11,God Bless the Child,10/24/2025,,81,,,,4,1,HOF,TRUE
 2/26/2021,50,8,3487,https://youtu.be/TKoh0MrsGgs?t=3487,15,Samba e Amor,3/27/2026,,117,,,,4,1,too slow? add movement in comping,TRUE
 3/5/2021,51,1,262,https://youtu.be/Wxw626FLkDw?t=262,15,There will never be another you,10/31/2025,,180,,,,,,,TRUE
@@ -431,7 +431,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 3/26/2021,54,7,3175,https://youtu.be/L9jDIlX7bjs?t=3175,14,Cissy Strut,6/5/2026,,,,,,4,1,messy but still HOF,TRUE
 3/26/2021,54,8,3553,https://youtu.be/L9jDIlX7bjs?t=3553,2,But Beautiful,3/26/2021,,,,Ballad,,,,,#N/A
 4/2/2021,55,1,290,https://youtu.be/brtK3KrZ6Io?t=290,2,Forty Days,3/29/2024,,,,Swing,,,,,#N/A
-4/2/2021,55,2,705,https://youtu.be/brtK3KrZ6Io?t=705,11,Estate,1/30/2026,,,,Bossa,,,,,TRUE
+4/2/2021,55,2,705,https://youtu.be/brtK3KrZ6Io?t=705,12,Estate,7/31/2026,,,,Bossa,,,,,TRUE
 4/2/2021,55,3,1285,https://youtu.be/brtK3KrZ6Io?t=1285,14,Angel Eyes,9/26/2025,,,,Swing,,,,,TRUE
 4/2/2021,55,4,1804,https://youtu.be/brtK3KrZ6Io?t=1804,6,Just the Two of Us,7/10/2026,,,,Pop,,,,,TRUE
 4/2/2021,55,5,2208,https://youtu.be/brtK3KrZ6Io?t=2208,3,Arpeggio Improv,3/29/2024,,,,,,,,,#N/A
@@ -598,7 +598,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 8/20/2021,75,7,2636,https://youtu.be/wIeo7pq_84U?t=2636,17,Impressions,7/17/2026,,,,,,4,,good change of energy levels,TRUE
 8/20/2021,75,8,3270,https://youtu.be/wIeo7pq_84U?t=3270,16,Look to the Sky,4/17/2026,,,,,,4,,"spontaneous arrangement ideas, nice",TRUE
 8/27/2021,76,1,210,https://youtu.be/uMmr2KPqqpk?t=210,16,Autumn Leaves,10/17/2025,,,,,,4,,,TRUE
-8/27/2021,76,2,585,https://youtu.be/uMmr2KPqqpk?t=585,13,O Cantador (Like a Lover),1/30/2026,,,,,,4,,do more to make head and solos different,TRUE
+8/27/2021,76,2,585,https://youtu.be/uMmr2KPqqpk?t=585,14,O Cantador (Like a Lover),7/31/2026,,,,,,4,,do more to make head and solos different,TRUE
 8/27/2021,76,3,1055,https://youtu.be/uMmr2KPqqpk?t=1055,15,Softly as in a Morning Sunrise,7/24/2026,,,,,,3,,needs something more,TRUE
 8/27/2021,76,4,1473,https://youtu.be/uMmr2KPqqpk?t=1473,7,Simplismente,9/20/2024,,,,,,4,,"trumpet rocks, live looping!",TRUE
 8/27/2021,76,5,2013,https://youtu.be/uMmr2KPqqpk?t=2013,13,Watermelon Man,3/27/2026,,,,,,,,,TRUE
@@ -677,7 +677,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 11/5/2021,86,2,620,https://youtu.be/iRH85IdbcpY?t=620,11,I Love Paris,1/30/2026,,,,,,3,,drums and field rec. too quiet,TRUE
 11/5/2021,86,3,1040,https://youtu.be/iRH85IdbcpY?t=1040,10,Take Five (King Tubby),1/9/2026,,,,,,4,1,better than last time; try adding horns?,TRUE
 11/5/2021,86,4,1475,https://youtu.be/iRH85IdbcpY?t=1475,16,Autumn Leaves,10/17/2025,,,,,,4,1,was pretty short,TRUE
-11/5/2021,86,5,1855,https://youtu.be/iRH85IdbcpY?t=1855,11,Estate,1/30/2026,,,,,,3,1,"backing too quiet, melodica too loud",TRUE
+11/5/2021,86,5,1855,https://youtu.be/iRH85IdbcpY?t=1855,12,Estate,7/31/2026,,,,,,3,1,"backing too quiet, melodica too loud",TRUE
 11/5/2021,86,6,2455,https://youtu.be/iRH85IdbcpY?t=2455,12,Mo Better Blues,6/26/2026,,,,,,4,1,flatten horns to samples,TRUE
 11/5/2021,86,7,2890,https://youtu.be/iRH85IdbcpY?t=2890,15,Sunny,4/24/2026,,,,,,3,1,"BASS SOLO; good intro; mary wants better lead into head; piano too loud, backing too quiet",TRUE
 11/5/2021,86,8,3490,https://youtu.be/iRH85IdbcpY?t=3490,5,Quin's Closer,1/19/2024,,,,,,4,1,grains too quiet,TRUE
@@ -705,7 +705,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 11/26/2021,89,6,1967,https://youtu.be/gojpuqP3s6A?t=1967,15,Samba e Amor,3/27/2026,,,,,,,,,TRUE
 11/26/2021,89,7,2372,https://youtu.be/gojpuqP3s6A?t=2372,17,Maiden Voyage,7/11/2025,,,,,,,,,TRUE
 11/26/2021,89,8,2793,https://youtu.be/gojpuqP3s6A?t=2793,1,Closer Nov 19,11/26/2021,,,,,,,,,#N/A
-12/3/2021,90,1,170,https://youtu.be/cwkUkcDyfaw?t=170,13,O Cantador (Like a Lover),1/30/2026,,,,,,,,,TRUE
+12/3/2021,90,1,170,https://youtu.be/cwkUkcDyfaw?t=170,14,O Cantador (Like a Lover),7/31/2026,,,,,,,,,TRUE
 12/3/2021,90,2,693,https://youtu.be/cwkUkcDyfaw?t=693,8,Christmastime is Here,12/5/2025,,,,,,4,1,BASS FAIL,TRUE
 12/3/2021,90,3,1180,https://youtu.be/cwkUkcDyfaw?t=1180,13,Road Song,4/10/2026,,,,,,4,1,,TRUE
 12/3/2021,90,4,1485,https://youtu.be/cwkUkcDyfaw?t=1485,8,Burbling,3/6/2026,,,,,4,4,1,,TRUE
@@ -768,7 +768,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 1/21/2022,97,3,1012,https://youtu.be/vFJFp1oRZE8?t=1012,15,Alice in Wonderland,5/29/2026,,,,,,4,1,nice,TRUE
 1/21/2022,97,4,1475,https://youtu.be/vFJFp1oRZE8?t=1475,16,Montara,10/3/2025,,,,,,,,,TRUE
 1/21/2022,97,5,1950,https://youtu.be/vFJFp1oRZE8?t=1950,10,Lucky Southern,12/5/2025,,,,,,4,1,messy organ playing; HOF?,TRUE
-1/21/2022,97,6,2350,https://youtu.be/vFJFp1oRZE8?t=2350,6,Time after Time,3/14/2025,,,,,,4,1,ok but practice more; tone too thin?,TRUE
+1/21/2022,97,6,2350,https://youtu.be/vFJFp1oRZE8?t=2350,7,Time after Time,7/31/2026,,,,,,4,1,ok but practice more; tone too thin?,TRUE
 1/21/2022,97,7,2894,https://youtu.be/vFJFp1oRZE8?t=2894,12,La Fiesta,2/20/2026,,,,,,4,1,fun. bring drums up slightly; gtr?,TRUE
 1/21/2022,97,8,3497,https://youtu.be/vFJFp1oRZE8?t=3497,1,Variations on Dinosaur Night,1/21/2022,,,,,,5,1,surprisingly good,#N/A
 1/28/2022,98,1,65,https://youtu.be/zEpV0UCl2es?t=65,14,Corcovado,5/1/2026,,,,,,4,1,,TRUE
@@ -829,7 +829,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 3/11/2022,104,6,2330,https://youtu.be/9YCarBEto_w?t=2330,13,Icarus,1/9/2026,,,,,,4,1,acoustic gtr! nice coda and ending,TRUE
 3/11/2022,104,7,2724,https://youtu.be/9YCarBEto_w?t=2724,17,Chameleon,6/13/2025,,,,,,,,,TRUE
 3/11/2022,104,8,3180,https://youtu.be/9YCarBEto_w?t=3180,1,Closer March 11 (inchworm),3/11/2022,,,,,,5,,one of the best closers,#N/A
-3/17/2022,105,1,190,https://youtu.be/BddGe4Ag9_M?t=190,13,O Cantador (Like a Lover),1/30/2026,,,,,,,,,TRUE
+3/17/2022,105,1,190,https://youtu.be/BddGe4Ag9_M?t=190,14,O Cantador (Like a Lover),7/31/2026,,,,,,,,,TRUE
 3/17/2022,105,2,738,https://youtu.be/BddGe4Ag9_M?t=738,11,I Love Paris,1/30/2026,,,,,,5,1,nice? ,TRUE
 3/17/2022,105,3,1124,https://youtu.be/BddGe4Ag9_M?t=1124,14,Bluesette,4/24/2026,,,,,,,,,TRUE
 3/17/2022,105,4,1543,https://youtu.be/BddGe4Ag9_M?t=1543,18,Afro Blue,3/6/2026,,,,,,,,,TRUE
@@ -858,11 +858,11 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 4/8/2022,108,4,1893,https://youtu.be/47KbvV1znH8?t=1893,18,Little Sunflower,5/8/2026,,,,,,4,,"melodica cool, but too hot. scat = NO; backing too quiet",TRUE
 4/8/2022,108,5,2414,https://youtu.be/47KbvV1znH8?t=2414,4,Sermonette,7/10/2026,,,,,,3,,hot mess. practice! fix chords with real book chart,TRUE
 4/8/2022,108,6,2728,https://youtu.be/47KbvV1znH8?t=2728,10,New Day LoFi,2/6/2026,,,,,,4,,connect intro to head,TRUE
-4/8/2022,108,7,3202,https://youtu.be/47KbvV1znH8?t=3202,11,Them Funky Changes,12/26/2025,,,,,,,,,TRUE
+4/8/2022,108,7,3202,https://youtu.be/47KbvV1znH8?t=3202,12,Them Funky Changes,7/31/2026,,,,,,,,,TRUE
 4/8/2022,108,8,3620,https://youtu.be/47KbvV1znH8?t=3620,1,Closer April 8,4/8/2022,,,,,,,,,#N/A
 4/15/2022,109,1,82,https://youtu.be/ie-BmPj4-rQ?t=82,14,Angel Eyes,9/26/2025,,,,,,,,,TRUE
 4/15/2022,109,2,617,https://youtu.be/ie-BmPj4-rQ?t=617,14,Corcovado,5/1/2026,,,,,,4,,,TRUE
-4/15/2022,109,3,1006,https://youtu.be/ie-BmPj4-rQ?t=1006,13,Very Early,3/20/2026,,,,,,4,,,TRUE
+4/15/2022,109,3,1006,https://youtu.be/ie-BmPj4-rQ?t=1006,14,Very Early,7/31/2026,,,,,,4,,,TRUE
 4/15/2022,109,4,1470,https://youtu.be/ie-BmPj4-rQ?t=1470,12,Axel F,3/27/2026,,,,,,,,,TRUE
 4/15/2022,109,5,1792,https://youtu.be/ie-BmPj4-rQ?t=1792,17,"Camilla (the Old, Old story)",3/20/2026,,,,,,5,1,sounds good in google headphones,TRUE
 4/15/2022,109,6,2210,https://youtu.be/ie-BmPj4-rQ?t=2210,11,Rise,4/10/2026,,,,,,4,,too long? melodica out of tune!,TRUE
@@ -928,7 +928,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 6/10/2022,117,4,1193,https://youtu.be/Um0wMxG_j1k?t=1193,17,Nardis,3/20/2026,,,,,,5,1,,TRUE
 6/10/2022,117,5,1514,https://youtu.be/Um0wMxG_j1k?t=1514,11,The Touch of your Lips,6/5/2026,,,,,,4,1,,TRUE
 6/10/2022,117,6,1880,https://youtu.be/Um0wMxG_j1k?t=1880,8,Mad World,6/5/2026,,,,,,,,,TRUE
-6/10/2022,117,7,2235,https://youtu.be/Um0wMxG_j1k?t=2235,11,Them Funky Changes,12/26/2025,,,,,,4,1,horn solo,TRUE
+6/10/2022,117,7,2235,https://youtu.be/Um0wMxG_j1k?t=2235,12,Them Funky Changes,7/31/2026,,,,,,4,1,horn solo,TRUE
 6/10/2022,117,8,2670,https://youtu.be/Um0wMxG_j1k?t=2670,3,Skating in Central Park,6/10/2022,,,,,,,,,#N/A
 6/10/2022,117,9,2955,https://youtu.be/Um0wMxG_j1k?t=2955,8,When I fall in Love,3/20/2026,,,,,,,,,TRUE
 6/17/2022,118,1,195,https://youtu.be/xBJwSJ8nljM?t=195,16,Montara,10/3/2025,,,,,,4,1,TODO: differentiate solo and head!,TRUE
@@ -1006,7 +1006,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 8/19/2022,127,3,963,https://youtu.be/VXmjfiJz2ZM?t=963,10,Close your eyes,2/20/2026,,,,,,4,1,"accordion too loud? more drums, more reverb",TRUE
 8/19/2022,127,4,1350,https://youtu.be/VXmjfiJz2ZM?t=1350,15,Stolen Moments,4/10/2026,,,,,,,,,TRUE
 8/19/2022,127,5,1792,https://youtu.be/VXmjfiJz2ZM?t=1792,15,Alberta,5/1/2026,,,,,,5,1,fix some drum fills,TRUE
-8/19/2022,127,6,2250,https://youtu.be/VXmjfiJz2ZM?t=2250,13,O Cantador (Like a Lover),1/30/2026,,,,,,,,,TRUE
+8/19/2022,127,6,2250,https://youtu.be/VXmjfiJz2ZM?t=2250,14,O Cantador (Like a Lover),7/31/2026,,,,,,,,,TRUE
 8/19/2022,127,7,2754,https://youtu.be/VXmjfiJz2ZM?t=2754,6,Umbrella,8/29/2025,,,,,,5,1,try Rock Drummer? bring up organ? horns?,TRUE
 8/19/2022,127,8,3175,https://youtu.be/VXmjfiJz2ZM?t=3175,2,Closer Aug 19,4/4/2025,,,,,,,,,#N/A
 8/26/2022,128,1,85,https://youtu.be/O9QM80LF2bA?t=85,13,Footprints,4/24/2026,,,,,,4,1,e pno too hot,TRUE
@@ -1017,7 +1017,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 8/26/2022,128,6,2075,https://youtu.be/O9QM80LF2bA?t=2075,15,Samba e Amor,3/27/2026,,,,,,4,1,try melodica,TRUE
 8/26/2022,128,7,2525,https://youtu.be/O9QM80LF2bA?t=2525,13,Septimus Prime,4/17/2026,,,,,,4,1,tambourine too loud,TRUE
 8/26/2022,128,8,2908,https://youtu.be/O9QM80LF2bA?t=2908,12,Stella by Starlight,1/2/2026,,,,,,5,,,TRUE
-9/2/2022,129,1,184,https://youtu.be/bIdPZtsIf-M?t=184,13,Very Early,3/20/2026,,,,,,4,1,"practice the head, plz. nice groove",TRUE
+9/2/2022,129,1,184,https://youtu.be/bIdPZtsIf-M?t=184,14,Very Early,7/31/2026,,,,,,4,1,"practice the head, plz. nice groove",TRUE
 9/2/2022,129,2,495,https://youtu.be/bIdPZtsIf-M?t=495,14,Night and Day,6/12/2026,,,,,,4,1,needs more wow?,TRUE
 9/2/2022,129,3,1000,https://youtu.be/bIdPZtsIf-M?t=1000,10,De Volta Ao Samba,5/29/2026,,,,,,4,1,nice vibes + accordion. dry,TRUE
 9/2/2022,129,4,1547,https://youtu.be/bIdPZtsIf-M?t=1547,15,Fly me to the Moon,5/22/2026,,,,,,4,1,VOCAL comes out strong,TRUE
@@ -1036,7 +1036,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 9/16/2022,131,1,122,https://youtu.be/2NNZE3aK5FA?t=122,15,Alice in Wonderland,5/29/2026,,,,,,4,1,YT makes it sound so dry!,TRUE
 9/16/2022,131,2,510,https://youtu.be/2NNZE3aK5FA?t=510,13,Icarus,1/9/2026,,,,,,5,1,MARY says fix the melody rhythm double attacks,TRUE
 9/16/2022,131,3,1018,https://youtu.be/2NNZE3aK5FA?t=1018,13,So Nice,5/22/2026,,,,,,4,1,try melodica?,TRUE
-9/16/2022,131,4,1335,https://youtu.be/2NNZE3aK5FA?t=1335,8,It's only a paper moon,11/7/2025,,,,,,4,1,,TRUE
+9/16/2022,131,4,1335,https://youtu.be/2NNZE3aK5FA?t=1335,9,It's only a paper moon,7/31/2026,,,,,,4,1,,TRUE
 9/16/2022,131,5,1752,https://youtu.be/2NNZE3aK5FA?t=1752,10,New Day LoFi,2/6/2026,,,,,,,,,TRUE
 9/16/2022,131,6,2120,https://youtu.be/2NNZE3aK5FA?t=2120,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,TRUE
 9/16/2022,131,7,2485,https://youtu.be/2NNZE3aK5FA?t=2485,14,The Chicken,1/23/2026,,,,,,,,,TRUE
@@ -1055,7 +1055,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 9/30/2022,133,4,1354,https://youtu.be/B3o-4sC6Z6w?t=1354,13,Pocket Calculator,5/22/2026,,,,,,5,1,might be done?,TRUE
 9/30/2022,133,5,1720,https://youtu.be/B3o-4sC6Z6w?t=1720,16,Look to the Sky,4/17/2026,,,,,,,,,TRUE
 9/30/2022,133,6,2250,https://youtu.be/B3o-4sC6Z6w?t=2250,12,Time Remembered,2/27/2026,,,,,,,,,TRUE
-9/30/2022,133,7,2713,https://youtu.be/B3o-4sC6Z6w?t=2713,11,Them Funky Changes,12/26/2025,,,,,,,,,TRUE
+9/30/2022,133,7,2713,https://youtu.be/B3o-4sC6Z6w?t=2713,12,Them Funky Changes,7/31/2026,,,,,,,,,TRUE
 9/30/2022,133,8,3120,https://youtu.be/B3o-4sC6Z6w?t=3120,2,Summer Rain,3/17/2023,,,,,,5,1,VCV random gates thing?,#N/A
 10/7/2022,134,1,140,https://youtu.be/i_sLaxvBK_E?t=140,11,I Love Paris,1/30/2026,,,,,,,,,TRUE
 10/7/2022,134,2,462,https://youtu.be/i_sLaxvBK_E?t=462,16,Autumn Leaves,10/17/2025,,,,,,,,,TRUE
@@ -1150,7 +1150,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 1/6/2023,144,8,3207,https://youtube.com/live/AgOf7ObdkGY?t=3207,1,Closer Jan 6,1/6/2023,,,,,,,,,#N/A
 1/13/2023,145,1,126,https://youtube.com/live/twnyETfghJY?t=126,15,Nearness of you,2/13/2026,,,,,,,,,TRUE
 1/13/2023,145,2,535,https://youtube.com/live/twnyETfghJY?t=535,18,Afro Blue,3/6/2026,,,,,,,,,TRUE
-1/13/2023,145,3,910,https://youtube.com/live/twnyETfghJY?t=910,13,Very Early,3/20/2026,,,,,,,,,TRUE
+1/13/2023,145,3,910,https://youtube.com/live/twnyETfghJY?t=910,14,Very Early,7/31/2026,,,,,,,,,TRUE
 1/13/2023,145,4,1312,https://youtube.com/live/twnyETfghJY?t=1312,14,Night and Day,6/12/2026,,,,,,,,,TRUE
 1/13/2023,145,5,1800,https://youtube.com/live/twnyETfghJY?t=1800,7,Goodbye Pork Pie Hat,5/22/2026,,,,,,4,yes,intro?,TRUE
 1/13/2023,145,6,2275,https://youtube.com/live/twnyETfghJY?t=2275,10,Avalon,3/20/2026,,,,,,4,yes,ride cymbal? needs varity,TRUE
@@ -1159,7 +1159,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 1/20/2023,146,1,215,https://youtube.com/live/_UbYlUluq8M?t=215,15,Alice in Wonderland,5/29/2026,,,,,,,,,TRUE
 1/20/2023,146,2,594,https://youtube.com/live/_UbYlUluq8M?t=594,9,Canto de Osshana,5/29/2026,,,,,,,,,TRUE
 1/20/2023,146,3,1037,https://youtube.com/live/_UbYlUluq8M?t=1037,15,Fly me to the Moon,5/22/2026,,,,,,,,,TRUE
-1/20/2023,146,4,1370,https://youtube.com/live/_UbYlUluq8M?t=1370,11,Them Funky Changes,12/26/2025,,,,,,,,,TRUE
+1/20/2023,146,4,1370,https://youtube.com/live/_UbYlUluq8M?t=1370,12,Them Funky Changes,7/31/2026,,,,,,,,,TRUE
 1/20/2023,146,5,1762,https://youtube.com/live/_UbYlUluq8M?t=1762,13,This Can't Be Love,4/17/2026,,,,,,,,,TRUE
 1/20/2023,146,6,2100,https://youtube.com/live/_UbYlUluq8M?t=2100,10,Goodbye Look,2/20/2026,,,,,,,,,TRUE
 1/20/2023,146,7,2540,https://youtube.com/live/_UbYlUluq8M?t=2540,5,Solsbury Hill,7/24/2026,,,,,,3,yes,"fix mix, add comping",TRUE
@@ -1197,10 +1197,10 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 2/17/2023,150,7,2662,https://youtube.com/live/Lfke1fj6Wh0?t=2662,11,Rise,4/10/2026,,,,,,,,,TRUE
 2/17/2023,150,8,3023,https://youtube.com/live/Lfke1fj6Wh0?t=3023,17,Chameleon,6/13/2025,,,,,,,,,TRUE
 2/17/2023,150,9,,,8,When I Fall in Love,3/20/2026,,,,,,,,,TRUE
-2/24/2023,151,1,268,https://youtube.com/live/Ob4J0wJZpyI?t=268,13,O Cantador (Like a Lover),1/30/2026,,,,,,,,,TRUE
+2/24/2023,151,1,268,https://youtube.com/live/Ob4J0wJZpyI?t=268,14,O Cantador (Like a Lover),7/31/2026,,,,,,,,,TRUE
 2/24/2023,151,2,715,https://youtube.com/live/Ob4J0wJZpyI?t=715,8,Sister Sadie,5/1/2026,,,,,,,,,TRUE
 2/24/2023,151,3,1158,https://youtube.com/live/Ob4J0wJZpyI?t=1158,6,Once I Loved,6/12/2026,,,,,,,,,TRUE
-2/24/2023,151,4,1533,https://youtube.com/live/Ob4J0wJZpyI?t=1533,8,It's only a paper moon,11/7/2025,,,,,,,,,TRUE
+2/24/2023,151,4,1533,https://youtube.com/live/Ob4J0wJZpyI?t=1533,9,It's only a paper moon,7/31/2026,,,,,,,,,TRUE
 2/24/2023,151,5,1859,https://youtube.com/live/Ob4J0wJZpyI?t=1859,8,Seven Steps to Heaven,11/7/2025,,,,,,,,,TRUE
 2/24/2023,151,6,2240,https://youtube.com/live/Ob4J0wJZpyI?t=2240,9,Georgia on my Mind,1/2/2026,,,,,,,,,TRUE
 2/24/2023,151,7,2662,https://youtube.com/live/Ob4J0wJZpyI?t=2662,11,Frog,2/13/2026,,,,,,,,,TRUE
@@ -1244,11 +1244,11 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 3/31/2023,156,3,1158,https://youtube.com/live/3OS8YSyy7IE?t=1158,11,Triste,5/15/2026,,,,,,,,,TRUE
 3/31/2023,156,4,1533,https://youtube.com/live/3OS8YSyy7IE?t=1533,16,Naima,4/10/2026,,,,,,,,,TRUE
 3/31/2023,156,5,1859,https://youtube.com/live/3OS8YSyy7IE?t=1859,11,Au Privave,7/10/2026,,,,,,,,,TRUE
-3/31/2023,156,6,2240,https://youtube.com/live/3OS8YSyy7IE?t=2240,6,Time After Time,3/14/2025,,,,,,,,,TRUE
+3/31/2023,156,6,2240,https://youtube.com/live/3OS8YSyy7IE?t=2240,7,Time After Time,7/31/2026,,,,,,,,,TRUE
 3/31/2023,156,7,2662,https://youtube.com/live/3OS8YSyy7IE?t=2662,10,Trans Europe Express,5/1/2026,,,,,,,,,TRUE
 3/31/2023,156,8,3023,https://youtube.com/live/3OS8YSyy7IE?t=3023,14,Night and Day,6/12/2026,,,,,,,,,TRUE
 4/7/2023,157,1,268,https://youtu.be/kVbZruEPROM?t=268,14,So What,1/23/2026,,,,,,,,,TRUE
-4/7/2023,157,2,715,https://youtu.be/kVbZruEPROM?t=715,11,Estate,1/30/2026,,,,,,,,,TRUE
+4/7/2023,157,2,715,https://youtu.be/kVbZruEPROM?t=715,12,Estate,7/31/2026,,,,,,,,,TRUE
 4/7/2023,157,3,1158,https://youtu.be/kVbZruEPROM?t=1158,8,Girl Talk,6/5/2026,,,,,,,,,TRUE
 4/7/2023,157,4,1533,https://youtu.be/kVbZruEPROM?t=1533,10,Song for my Father,1/9/2026,,,,,,,,,TRUE
 4/7/2023,157,5,1859,https://youtu.be/kVbZruEPROM?t=1859,11,Lullaby of Birdland,5/8/2026,,,,,,,,,TRUE
@@ -1257,7 +1257,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 4/7/2023,157,8,3023,https://youtu.be/kVbZruEPROM?t=3023,3,Were you there,4/18/2025,,,,,,,,,#N/A
 4/14/2023,158,1,268,https://youtube.com/live/dXjYvp477_M?t=268,12,Stella by Starlight,1/2/2026,,,,,,,,,TRUE
 4/14/2023,158,2,715,https://youtube.com/live/dXjYvp477_M?t=715,13,Cantaloupe Island,4/17/2026,,,,,,,,,TRUE
-4/14/2023,158,3,1158,https://youtube.com/live/dXjYvp477_M?t=1158,9,Some Day My Prince will Come,2/6/2026,,,,,,,,,TRUE
+4/14/2023,158,3,1158,https://youtube.com/live/dXjYvp477_M?t=1158,10,Some Day My Prince will Come,7/31/2026,,,,,,,,,TRUE
 4/14/2023,158,4,1533,https://youtube.com/live/dXjYvp477_M?t=1533,17,Maiden Voyage,7/11/2025,,,,,,,,,TRUE
 4/14/2023,158,5,1859,https://youtube.com/live/dXjYvp477_M?t=1859,11,The Touch of your Lips,6/5/2026,,,,,,,,,TRUE
 4/14/2023,158,6,2240,https://youtube.com/live/dXjYvp477_M?t=2240,10,Lucky Southern,12/5/2025,,,,,,,,,TRUE
@@ -1302,7 +1302,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 5/19/2023,163,4,1328,https://youtu.be/5SC9LUwuawY?t=1328,13,Road Song,4/10/2026,,,,,,4,1,,TRUE
 5/19/2023,163,5,,,15,Blue in Green,7/3/2026,,,,,,,,,TRUE
 5/19/2023,163,6,,,13,Sugar,7/17/2026,,,,,,,,,TRUE
-5/19/2023,163,7,,,11,Them Funky Changes,12/26/2025,,,,,,,,,TRUE
+5/19/2023,163,7,,,12,Them Funky Changes,7/31/2026,,,,,,,,,TRUE
 5/19/2023,163,8,,,1,Closer May 19,5/19/2023,,,,,,,,,#N/A
 5/26/2023,164,1,268,https://youtu.be/-vNFbFO0LgE?t=268,16,All Blues,7/3/2026,,,,,,,,,TRUE
 5/26/2023,164,2,715,https://youtu.be/-vNFbFO0LgE?t=715,15,Desde,6/26/2026,,,,,,,,,TRUE
@@ -1371,7 +1371,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 7/14/2023,171,8,3023,https://youtube.com/live/fKV5HywfAsw?t=3023,5,Quin's Closer,1/19/2024,,,,,,,,,TRUE
 7/21/2023,172,1,268,https://youtube.com/live/ElbkjWw665s?t=268,15,Black Orpheus (Manha de Carnaval),7/17/2026,,,,,,,,,TRUE
 7/21/2023,172,2,715,https://youtube.com/live/ElbkjWw665s?t=715,12,Well You Needn’t,3/6/2026,,,,,,,,,TRUE
-7/21/2023,172,3,1158,https://youtube.com/live/ElbkjWw665s?t=1158,13,Very Early,3/20/2026,,,,,,,,,TRUE
+7/21/2023,172,3,1158,https://youtube.com/live/ElbkjWw665s?t=1158,14,Very Early,7/31/2026,,,,,,,,,TRUE
 7/21/2023,172,4,1533,https://youtube.com/live/ElbkjWw665s?t=1533,13,Morning,4/17/2026,,,,,,,,,TRUE
 7/21/2023,172,5,1859,https://youtube.com/live/ElbkjWw665s?t=1859,17,Poinciana,2/20/2026,,,,,,,,,TRUE
 7/21/2023,172,6,2240,https://youtube.com/live/ElbkjWw665s?t=2240,14,What is this thing called love,5/29/2026,,,,,,,,,TRUE
@@ -1383,7 +1383,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 7/28/2023,173,3,1158,https://youtube.com/live/4JSpJDLIYKI?t=1158,10,Goodbye Look,2/20/2026,,,,,,,,,TRUE
 7/28/2023,173,4,1533,https://youtube.com/live/4JSpJDLIYKI?t=1533,9,Georgia on my Mind,1/2/2026,,,,,,,,,TRUE
 7/28/2023,173,5,1859,https://youtube.com/live/4JSpJDLIYKI?t=1859,7,Simplismente,9/20/2024,,,,,,,,,TRUE
-7/28/2023,173,6,2240,https://youtube.com/live/4JSpJDLIYKI?t=2240,9,Some day My Prince will Come,2/6/2026,,,,,,,,,TRUE
+7/28/2023,173,6,2240,https://youtube.com/live/4JSpJDLIYKI?t=2240,10,Some day My Prince will Come,7/31/2026,,,,,,,,,TRUE
 7/28/2023,173,7,2662,https://youtube.com/live/4JSpJDLIYKI?t=2662,9,Give me the Night,10/31/2025,,,,,,,,,TRUE
 7/28/2023,173,8,3023,https://youtube.com/live/4JSpJDLIYKI?t=3023,12,Inch Worm,1/2/2026,,,,,,,,,TRUE
 8/4/2023,174,1,268,https://youtube.com/live/aCkWiRbNVbM?t=268,15,Samba e Amor,3/27/2026,,,,,,,,,TRUE
@@ -1394,10 +1394,10 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 8/4/2023,174,6,2240,https://youtube.com/live/aCkWiRbNVbM?t=2240,11,Au Privave,7/10/2026,,,,,,,,,TRUE
 8/4/2023,174,7,2662,https://youtube.com/live/aCkWiRbNVbM?t=2662,3,Nana,2/27/2026,,,,,,,,,TRUE
 8/4/2023,174,8,3023,https://youtube.com/live/aCkWiRbNVbM?t=3023,14,How Deep is the Ocean,3/6/2026,,,,,,,,,TRUE
-8/11/2023,175,1,268,https://youtu.be/c0po_X-AAOc?t=268,8,It's only a paper moon,11/7/2025,,,,,,,,,TRUE
+8/11/2023,175,1,268,https://youtu.be/c0po_X-AAOc?t=268,9,It's only a paper moon,7/31/2026,,,,,,,,,TRUE
 8/11/2023,175,2,715,https://youtu.be/c0po_X-AAOc?t=715,12,St. Thomas,2/27/2026,,,,,,,,,TRUE
 8/11/2023,175,3,1158,https://youtu.be/c0po_X-AAOc?t=1158,18,Samba de Orfeu,5/22/2026,,,,,,,,,TRUE
-8/11/2023,175,4,1533,https://youtu.be/c0po_X-AAOc?t=1533,11,Estate,1/30/2026,,,,,,,,,TRUE
+8/11/2023,175,4,1533,https://youtu.be/c0po_X-AAOc?t=1533,12,Estate,7/31/2026,,,,,,,,,TRUE
 8/11/2023,175,5,1859,https://youtu.be/c0po_X-AAOc?t=1859,15,Softly as in a Morning Sunrise,7/24/2026,,,,,,,,,TRUE
 8/11/2023,175,6,2240,https://youtu.be/c0po_X-AAOc?t=2240,11,Blades,5/22/2026,,,,,,,,,TRUE
 8/11/2023,175,7,2662,https://youtu.be/c0po_X-AAOc?t=2662,10,Avalon,3/20/2026,,,,,,,,,TRUE
@@ -1427,7 +1427,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 9/1/2023,178,6,2240,https://youtu.be/zxhyx-uWlJQ?t=2240,15,Alberta,5/1/2026,,,,,,,,,TRUE
 9/1/2023,178,7,2662,https://youtu.be/zxhyx-uWlJQ?t=2662,15,"Mercy, Mercy, Mercy",6/26/2026,,,,,,,,,TRUE
 9/1/2023,178,8,3023,https://youtu.be/zxhyx-uWlJQ?t=3023,1,Gentle Rain Improv,9/1/2023,,,,,,,,,#N/A
-9/8/2023,129,1,268,https://youtu.be/bIdPZtsIf-M?t=268,13,Very Early,3/20/2026,,,,,,,,,TRUE
+9/8/2023,129,1,268,https://youtu.be/bIdPZtsIf-M?t=268,14,Very Early,7/31/2026,,,,,,,,,TRUE
 9/8/2023,129,2,715,https://youtu.be/bIdPZtsIf-M?t=715,14,Night and Day,6/12/2026,,,,,,,,,TRUE
 9/8/2023,129,3,1158,https://youtu.be/bIdPZtsIf-M?t=1158,10,De Volta Ao Samba,5/29/2026,,,,,,,,,TRUE
 9/8/2023,129,4,1533,https://youtu.be/bIdPZtsIf-M?t=1533,15,Fly me to the Moon,5/22/2026,,,,,,,,,TRUE
@@ -1445,7 +1445,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 9/15/2023,179,8,3023,https://youtube.com/live/NfYxpQ1E1Ms?t=3023,1,Ice Closer VCV video,9/15/2023,,,,,,,,,#N/A
 9/22/2023,180,1,268,https://youtube.com/live/PDFolCHBpes?t=268,12,Bye Bye Blackbird,4/24/2026,,,,,,,,,TRUE
 9/22/2023,180,2,715,https://youtube.com/live/PDFolCHBpes?t=715,13,Gentle Rain,5/1/2026,,,,,,,,,TRUE
-9/22/2023,180,3,1158,https://youtube.com/live/PDFolCHBpes?t=1158,11,Them Funky Changes,12/26/2025,,,,,,,,,TRUE
+9/22/2023,180,3,1158,https://youtube.com/live/PDFolCHBpes?t=1158,12,Them Funky Changes,7/31/2026,,,,,,,,,TRUE
 9/22/2023,180,4,1533,https://youtube.com/live/PDFolCHBpes?t=1533,9,Canto de Osshana,5/29/2026,,,,,,,,,TRUE
 9/22/2023,180,5,1859,https://youtube.com/live/PDFolCHBpes?t=1859,9,They Can't Take that away from me,6/12/2026,,,,,,,,,TRUE
 9/22/2023,180,6,2240,https://youtube.com/live/PDFolCHBpes?t=2240,12,O Barquinho,3/27/2026,,,,,,,,,TRUE
@@ -1498,7 +1498,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 10/27/2023,184,6,2240,https://youtube.com/live/3TUXOsOjp-U?t=2240,12,Time Remembered,2/27/2026,,,,,,,,,TRUE
 10/27/2023,184,7,2662,https://youtube.com/live/3TUXOsOjp-U?t=2662,10,Mas Que Nada,1/30/2026,,,,,,,,,TRUE
 10/27/2023,184,8,3023,https://youtube.com/live/3TUXOsOjp-U?t=3023,8,Peace Piece,5/22/2026,,,,,,,,,TRUE
-11/3/2023,185,1,268,https://youtube.com/live/vpg-dYDIFj0?t=268,8,It's only a paper moon,11/7/2025,,,,,,,,,TRUE
+11/3/2023,185,1,268,https://youtube.com/live/vpg-dYDIFj0?t=268,9,It's only a paper moon,7/31/2026,,,,,,,,,TRUE
 11/3/2023,185,2,715,https://youtube.com/live/vpg-dYDIFj0?t=715,8,Seven Steps to Heaven,11/7/2025,,,,,,,,,TRUE
 11/3/2023,185,3,999,https://youtube.com/live/vpg-dYDIFj0?t=999,7,Chega de Saudade,11/7/2025,,,,,,,,,TRUE
 11/3/2023,185,4,1533,https://youtube.com/live/vpg-dYDIFj0?t=1533,18,Caravan,11/7/2025,,,,,,,,,TRUE
@@ -1514,7 +1514,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 11/10/2023,186,6,,,16,Autumn Leaves,10/17/2025,,,,,,,,,TRUE
 11/10/2023,186,7,,,14,Cissy Strut,6/5/2026,,,,,,,,,TRUE
 11/10/2023,186,8,,,1,Melodicer and Accordion,11/10/2023,,,,,,,,,#N/A
- ,187,1,,,13,O Cantador (Like a Lover),1/30/2026,,,,,,,,,TRUE
+ ,187,1,,,14,O Cantador (Like a Lover),7/31/2026,,,,,,,,,TRUE
 11/17/2023,187,2,,,8,My Favorite Things,6/12/2026,,,,,,,,,TRUE
 11/17/2023,187,3,,,11,Au Privave,7/10/2026,,,,,,,,,TRUE
 11/17/2023,187,4,,,8,Nightingale Sang in Berkeley Square,2/27/2026,,,,,,,,,TRUE
@@ -1539,7 +1539,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 12/1/2023,189,6,,,12,Stars Fell on Alabama,10/17/2025,,,,,,,,,TRUE
 12/1/2023,189,7,,,9,Amphibious,5/15/2026,,,,,,,,,TRUE
 12/1/2023,189,8,,,8,Christmastime is Here,12/5/2025,,,,,,,,,TRUE
-12/8/2023,190,1,,,9,Some day My Prince will Come,2/6/2026,,,,,,,,,TRUE
+12/8/2023,190,1,,,10,Some day My Prince will Come,7/31/2026,,,,,,,,,TRUE
 12/8/2023,190,2,,,9,Cast your fate to the wind,7/17/2026,,,,,,,,,TRUE
 12/8/2023,190,3,,,15,Samba e Amor,3/27/2026,,,,,,,,,TRUE
 12/8/2023,190,4,,,7,White Christmas,12/6/2024,,,,,,,,,TRUE
@@ -1596,7 +1596,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 1/19/2024,196,7,,,1,improv on Look of Love,1/19/2024,,,,,,,,,#N/A
 1/19/2024,196,8,,,17,Chameleon,6/13/2025,,,,,,,,,TRUE
 1/19/2024,196,9,,,5,Quin's Closer,1/19/2024,,,,,,,,,TRUE
-1/26/2024,197,1,,,13,Very Early,3/20/2026,,,,,,,,,TRUE
+1/26/2024,197,1,,,14,Very Early,7/31/2026,,,,,,,,,TRUE
 1/26/2024,197,2,,,9,It might as well be spring,3/13/2026,,,,,,,,,TRUE
 1/26/2024,197,3,,,11,God Bless the Child,10/24/2025,,,,,,,,,TRUE
 1/26/2024,197,4,,,18,Samba de Orfeu,5/22/2026,,,,,,,,,TRUE
@@ -1660,9 +1660,9 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 3/15/2024,202,5,,,11,Midnight,7/3/2026,,,,,,,,,TRUE
 3/15/2024,202,6,,,9,Over the Rainbow,3/28/2025,,,,,,,,,TRUE
 3/15/2024,202,7,,,15,Fly me to the moon,5/22/2026,,,,,,,,,TRUE
-3/15/2024,202,8,,,11,Them Funky Changes,12/26/2025,,,,,,,,,TRUE
+3/15/2024,202,8,,,12,Them Funky Changes,7/31/2026,,,,,,,,,TRUE
 3/15/2024,202,9,,,9,Feel like going home,7/10/2026,,,,,,,,,TRUE
-3/22/2024,203,1,268,https://youtube.com/live/kPqhJAREXfo?t=268,8,It's only a paper moon,11/7/2025,,,,,,,,,TRUE
+3/22/2024,203,1,268,https://youtube.com/live/kPqhJAREXfo?t=268,9,It's only a paper moon,7/31/2026,,,,,,,,,TRUE
 3/22/2024,203,2,715,https://youtube.com/live/kPqhJAREXfo?t=715,14,The Egg and You,11/21/2025,,,,,,,,,TRUE
 3/22/2024,203,3,1158,https://youtube.com/live/kPqhJAREXfo?t=1158,8,Desafinado,3/20/2026,,,,,,,,,TRUE
 3/22/2024,203,4,1533,https://youtube.com/live/kPqhJAREXfo?t=1533,11,Newsky Bluesky,5/1/2026,,,,,,,,,TRUE
@@ -1671,14 +1671,14 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 3/22/2024,203,7,2662,https://youtube.com/live/kPqhJAREXfo?t=2662,15,Sunny,4/24/2026,,,,,,,,,TRUE
 3/22/2024,203,8,3023,https://youtube.com/live/kPqhJAREXfo?t=3023,1,Bladerunner improv march 22,3/22/2024,,,,,,,,,#N/A
 3/29/2024,55,1,268,https://youtu.be/brtK3KrZ6Io?t=268,2,Forty Days,3/29/2024,,,,,,,,,#N/A
-3/29/2024,55,2,715,https://youtu.be/brtK3KrZ6Io?t=715,11,Estate,1/30/2026,,,,,,,,,TRUE
+3/29/2024,55,2,715,https://youtu.be/brtK3KrZ6Io?t=715,12,Estate,7/31/2026,,,,,,,,,TRUE
 3/29/2024,55,3,1158,https://youtu.be/brtK3KrZ6Io?t=1158,14,Angel Eyes,9/26/2025,,,,,,,,,TRUE
 3/29/2024,55,4,1533,https://youtu.be/brtK3KrZ6Io?t=1533,6,Just the Two of Us,7/10/2026,,,,,,,,,TRUE
 3/29/2024,55,5,1859,https://youtu.be/brtK3KrZ6Io?t=1859,3,Arpeggio Improv,3/29/2024,,,,,,,,,#N/A
 3/29/2024,55,6,2671,https://youtu.be/brtK3KrZ6Io?t=2671,18,Little Sunflower,5/8/2026,,,,,,,,,TRUE
 3/29/2024,55,7,2662,https://youtu.be/brtK3KrZ6Io?t=2662,16,Cold Duck Time,5/8/2026,,,,,,,,,TRUE
 3/29/2024,55,8,3023,https://youtu.be/brtK3KrZ6Io?t=3023,2,"My Lord, What a Morning",3/29/2024,,,,,,,,,#N/A
-4/5/2024,,1,,,6,Time After Time,3/14/2025,,,,,,,,,TRUE
+4/5/2024,,1,,,7,Time After Time,7/31/2026,,,,,,,,,TRUE
 4/5/2024,,2,,,5,With or Without You,4/5/2024,,,,,,,,,TRUE
 4/5/2024,,3,,,13,Coming Home,10/3/2025,,,,,,,,,TRUE
 4/5/2024,,4,,,5,Solsbury Hill,7/24/2026,,,,,,,,,TRUE
@@ -1701,7 +1701,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 4/19/2024,205,2,,,7,Chega de Saudade,11/7/2025,,,,,,,,,TRUE
 4/19/2024,205,3,,,13,This Can't be Love,4/17/2026,,,,,,,,,TRUE
 4/19/2024,205,4,,,6,Ternura,8/22/2025,,,,,,,,,TRUE
-4/19/2024,205,5,,,9,Some day My Prince will Come,2/6/2026,,,,,,,,,TRUE
+4/19/2024,205,5,,,10,Some day My Prince will Come,7/31/2026,,,,,,,,,TRUE
 4/19/2024,205,6,,,12,Caminhos Cruzados,7/3/2026,,,,,,,,,TRUE
 4/19/2024,205,7,,,4,Here Comes the Flood,4/19/2024,,,,,,,,,TRUE
 4/19/2024,205,8,,,1,Frisell VCV closer April 19,4/19/2024,,,,,,,,,#N/A
@@ -1747,7 +1747,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 5/24/2024,210,8,,,11,God Bless the Child,10/24/2025,,,,,,,,,TRUE
 5/24/2024,210,9,,,1,Improv Closer may 24,5/24/2024,,,,,,,,,#N/A
 5/31/2024,211,1,,,11,Days of Wine and Roses,12/5/2025,,,,,,,,,TRUE
-5/31/2024,211,2,,,13,O Cantador (Like a Lover),1/30/2026,,,,,,,,,TRUE
+5/31/2024,211,2,,,14,O Cantador (Like a Lover),7/31/2026,,,,,,,,,TRUE
 5/31/2024,211,3,,,14,What is this thing called love,5/29/2026,,,,,,,,,TRUE
 5/31/2024,211,4,,,14,Cissy Strut,6/5/2026,,,,,,,,,TRUE
 5/31/2024,211,5,,,13,Emily,1/23/2026,,,,,,,,,TRUE
@@ -1780,7 +1780,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 6/21/2024,214,6,,,14,So What,1/23/2026,,,,,,,,,TRUE
 6/21/2024,214,7,,,13,Watermelon Man,3/27/2026,,,,,,,,,TRUE
 6/21/2024,214,8,,,1,SNFC ambient one,6/21/2024,,,,,,,,,#N/A
-6/28/2024,215,1,,,13,Very Early,3/20/2026,,,,,,,,,TRUE
+6/28/2024,215,1,,,14,Very Early,7/31/2026,,,,,,,,,TRUE
 6/28/2024,215,2,,,12,Well You Needn’t,3/6/2026,,,,,,,,,TRUE
 6/28/2024,215,3,,,3,Love Boat,4/10/2026,,,,,,,,,TRUE
 6/28/2024,215,4,,,10,Close your Eyes,2/20/2026,,,,,,,,,TRUE
@@ -1854,7 +1854,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 8/23/2024,75,6,2222,https://youtu.be/wIeo7pq_84U?t=2222,15,There will never be another you,10/31/2025,,,,,,4,,nice blend of sounds,TRUE
 8/23/2024,75,7,2636,https://youtu.be/wIeo7pq_84U?t=2636,17,Impressions,7/17/2026,,,,,,4,,good change of energy levels,TRUE
 8/23/2024,75,8,3270,https://youtu.be/wIeo7pq_84U?t=3270,16,Look to the Sky,4/17/2026,,,,,,4,,"spontaneous arrangement ideas, nice",TRUE
-8/30/2024,222,1,,,9,Some day my Prince will Come,2/6/2026,,,,,,,,,TRUE
+8/30/2024,222,1,,,10,Some day my Prince will Come,7/31/2026,,,,,,,,,TRUE
 8/30/2024,222,2,,,17,My Little Suede Shoes,5/29/2026,,,,,,,,,TRUE
 8/30/2024,222,3,,,15,My Funny Valentine,3/6/2026,,,,,,,,,TRUE
 8/30/2024,222,4,,,13,Footprints,4/24/2026,,,,,,,,,TRUE
@@ -1863,14 +1863,14 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 8/30/2024,222,7,,,3,September,8/29/2025,,,,,,,,,TRUE
 8/30/2024,222,8,,,2,Feel like going home closer,8/29/2025,,,,,,,,,#N/A
 9/7/2024,223,1,,,14,Beautiful Love,4/10/2026,,,,,,,,,TRUE
-9/7/2024,223,2,,,11,Estate,1/30/2026,,,,,,,,,TRUE
+9/7/2024,223,2,,,12,Estate,7/31/2026,,,,,,,,,TRUE
 9/7/2024,223,3,,,12,Time Remembered,2/27/2026,,,,,,,,,TRUE
 9/7/2024,223,4,,,7,Chega de Saudade,11/7/2025,,,,,,,,,TRUE
 9/7/2024,223,5,,,11,Midnight,7/3/2026,,,,,,,,,TRUE
 9/7/2024,223,6,,,11,Lullaby of Birdland,5/8/2026,,,,,,,,,TRUE
-9/7/2024,223,7,,,11,Them Funky Changes,12/26/2025,,,,,,,,,TRUE
+9/7/2024,223,7,,,12,Them Funky Changes,7/31/2026,,,,,,,,,TRUE
 9/7/2024,223,8,,,1,Heather closer,9/7/2024,,,,,,,,,#N/A
-9/13/2024,224,1,,,8,It's only a paper moon,11/7/2025,,,,,,,,,TRUE
+9/13/2024,224,1,,,9,It's only a paper moon,7/31/2026,,,,,,,,,TRUE
 9/13/2024,224,2,,,13,Road Song,4/10/2026,,,,,,,,,TRUE
 9/13/2024,224,3,,,14,What is this thing called love,5/29/2026,,,,,,,,,TRUE
 9/13/2024,224,4,,,8,Sister Sadie,5/1/2026,,,,,,,,,TRUE
@@ -1981,7 +1981,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 12/13/2024,237,4,,,11,God Bless the Child,10/24/2025,,,,,,,,,TRUE
 12/13/2024,237,5,,,9,I Can't get started,2/20/2026,,,,,,,,,TRUE
 12/13/2024,237,6,,,13,Morning,4/17/2026,,,,,,,,,TRUE
-12/13/2024,237,7,,,13,O Cantador (Like a Lover),1/30/2026,,,,,,,,,TRUE
+12/13/2024,237,7,,,14,O Cantador (Like a Lover),7/31/2026,,,,,,,,,TRUE
 12/13/2024,237,8,,,1,closer dec 13,12/13/2024,,,,,,,,,#N/A
 12/20/2024,238,1,,,9,Have yourself a Merry Little Christmas,12/12/2025,,,,,,,,,TRUE
 12/20/2024,238,2,,,12,Well You Needn’t,3/6/2026,,,,,,,,,TRUE
@@ -2012,8 +2012,8 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 1/3/2025,241,2,,,13,Dindi,1/23/2026,,,,,,,,,TRUE
 1/3/2025,241,3,,,15,Fly me to the moon,5/22/2026,,,,,,,,,TRUE
 1/3/2025,241,4,,,9,Georgia on my Mind,1/2/2026,,,,,,,,,TRUE
-1/3/2025,241,5,,,13,Very Early,3/20/2026,,,,,,,,,TRUE
-1/3/2025,241,6,,,11,Them Funky Changes,12/26/2025,,,,,,,,,TRUE
+1/3/2025,241,5,,,14,Very Early,7/31/2026,,,,,,,,,TRUE
+1/3/2025,241,6,,,12,Them Funky Changes,7/31/2026,,,,,,,,,TRUE
 1/3/2025,241,7,,,1,Birding Down Under Soundtrack,1/3/2025,,,,,,,,,#N/A
 1/10/2025,242,1,,,15,If I were a bell,3/27/2026,,,,,,,,,TRUE
 1/10/2025,242,2,,,12,Axel F,3/27/2026,,,,,,,,,TRUE
@@ -2034,7 +2034,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 1/24/2025,243,1,,,9,Bossa Antigua,6/12/2026,,,,,,,,,TRUE
 1/24/2025,243,2,,,9,Minor Swing,5/29/2026,,,,,,,,,TRUE
 1/24/2025,243,3,,,6,Ternura,8/22/2025,,,,,,,,,TRUE
-1/24/2025,243,4,,,9,Some day my Prince will Come,2/6/2026,,,,,,,,,TRUE
+1/24/2025,243,4,,,10,Some day my Prince will Come,7/31/2026,,,,,,,,,TRUE
 1/24/2025,243,5,,,11,Midnight,7/3/2026,,,,,,,,,TRUE
 1/24/2025,243,6,,,9,They Can't Take that Away from Me,6/12/2026,,,,,,,,,TRUE
 1/24/2025,243,7,,,4,Viva La Money,6/5/2026,,,,,,,,,TRUE
@@ -2069,7 +2069,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 2/21/2025,247,3,,,8,My Favorite Things,6/12/2026,,,,,,,,,TRUE
 2/21/2025,247,4,,,15,Samba e Amor,3/27/2026,,,,,,,,,TRUE
 2/21/2025,247,5,,,14,Bluesette,4/24/2026,,,,,,,,,TRUE
-2/21/2025,247,6,,,11,Estate,1/30/2026,,,,,,,,,TRUE
+2/21/2025,247,6,,,12,Estate,7/31/2026,,,,,,,,,TRUE
 2/21/2025,247,7,,,11,Frog,2/13/2026,,,,,,,,,TRUE
 2/21/2025,247,8,,,1,We'll be together again closer,2/21/2025,,,,,,,,,#N/A
 2/28/2025,248,1,,,16,Look to the Sky,4/17/2026,,,,,,,,,TRUE
@@ -2093,7 +2093,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 3/14/2025,249,3,,,13,Sugar,7/17/2026,,,,,,,,,TRUE
 3/14/2025,249,4,,,15,Swim Shebang,3/13/2026,,,,,,,,,TRUE
 3/14/2025,249,5,,,6,Up Jumped Spring,5/15/2026,,,,,,,,,TRUE
-3/14/2025,249,6,,,6,Time after time,3/14/2025,,,,,,,,,TRUE
+3/14/2025,249,6,,,7,Time after time,7/31/2026,,,,,,,,,TRUE
 3/14/2025,249,7,,,8,Agua de Beber,11/7/2025,,,,,,,,,TRUE
 3/14/2025,249,8,,,12,Caminhos Cruzados,7/3/2026,,,,,,,,,TRUE
 3/21/2025,,1,,,13,A Foggy Day (in London Town),5/15/2026,,,,,,,,,TRUE
@@ -2120,7 +2120,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 4/4/2025,127,3,,,10,Close your eyes,2/20/2026,,,,,,,,,TRUE
 4/4/2025,127,4,,,15,Stolen Moments,4/10/2026,,,,,,,,,TRUE
 4/4/2025,127,5,,,15,Alberta,5/1/2026,,,,,,,,,TRUE
-4/4/2025,127,6,,,13,O Cantador (Like a Lover),1/30/2026,,,,,,,,,TRUE
+4/4/2025,127,6,,,14,O Cantador (Like a Lover),7/31/2026,,,,,,,,,TRUE
 4/4/2025,127,7,,,6,Umbrella,8/29/2025,,,,,,,,,TRUE
 4/4/2025,127,8,,,2,Closer Aug 19,4/4/2025,,,,,,,,,#N/A
 4/11/2025,251,1,,,11,Lullaby of Birdland,5/8/2026,,,,,,,,,TRUE
@@ -2155,7 +2155,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 5/9/2025,255,5,,,17,Impressions,7/17/2026,,,,,,,,,TRUE
 5/9/2025,255,6,,,16,Montara,10/3/2025,,,,,,,,,TRUE
 5/9/2025,255,7,,,12,Monkey Pants,6/26/2026,,,,,,,,,TRUE
-5/9/2025,255,8,,,9,Some Day My Prince will Come,2/6/2026,,,,,,,,,TRUE
+5/9/2025,255,8,,,10,Some Day My Prince will Come,7/31/2026,,,,,,,,,TRUE
 5/9/2025,255,9,,,15,Sunny,4/24/2026,,,,,,,,,TRUE
 5/9/2025,255,10,,,12,Mo Better Blues,6/26/2026,,,,,,,,,TRUE
 5/16/2025,256,1,,,8,Girl Talk,6/5/2026,,,,,,,,,TRUE
@@ -2171,7 +2171,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 5/23/2025,257,3,,,4,Killer Joe,4/17/2026,,,,,,,,,TRUE
 5/23/2025,257,4,,,10,Mas Que Nada,1/30/2026,,,,,,,,,TRUE
 5/23/2025,257,5,,,9,Bossa Antigua,6/12/2026,,,,,,,,,TRUE
-5/23/2025,257,6,,,8,It's only a paper Moon,11/7/2025,,,,,,,,,TRUE
+5/23/2025,257,6,,,9,It's only a paper Moon,7/31/2026,,,,,,,,,TRUE
 5/23/2025,257,7,,,10,Root Down (and Get it),4/24/2026,,,,,,,,,TRUE
 5/23/2025,257,8,,,1,ambient melodica closer,5/23/2025,,,,,,,,,#N/A
 5/30/2025,258,1,,,7,Bonita,4/24/2026,,,,,,,,,TRUE
@@ -2197,7 +2197,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 6/13/2025,260,5,,,13,How High the Moon,7/24/2026,,,,,,,,,TRUE
 6/13/2025,260,6,,,13,Septimus Prime,4/17/2026,,,,,,,,,TRUE
 6/13/2025,260,7,,,10,Song for my Father,1/9/2026,,,,,,,,,TRUE
-6/13/2025,260,8,,,13,Very Early,3/20/2026,,,,,,,,,TRUE
+6/13/2025,260,8,,,14,Very Early,7/31/2026,,,,,,,,,TRUE
 6/13/2025,260,9,,,13,Memories of Tomorrow,1/2/2026,,,,,,,,,TRUE
 6/13/2025,260,10,,,13,Some Other Funk,7/24/2026,,,,,,,,,TRUE
 6/13/2025,260,11,,,16,All Blues,7/3/2026,,,,,,,,,TRUE
@@ -2210,7 +2210,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 6/27/2025,262,4,,,13,So Nice,5/22/2026,,,,,,,,,TRUE
 6/27/2025,262,5,,,12,Freedom Jazz Dance,7/3/2026,,,,,,,,,TRUE
 6/27/2025,262,6,,,12,Stella by Starlight,1/2/2026,,,,,,,,,TRUE
-6/27/2025,262,7,,,11,Them Funky Changes,12/26/2025,,,,,,,,,TRUE
+6/27/2025,262,7,,,12,Them Funky Changes,7/31/2026,,,,,,,,,TRUE
 6/27/2025,262,8,,,1,Pack Ice Video,6/27/2025,,,,,,,,,#N/A
 7/4/2025,263,1,,,17,Poinciana,2/20/2026,,,,,,,,,TRUE
 7/4/2025,263,2,,,8,Sister Sadie,5/1/2026,,,,,,,,,TRUE
@@ -2220,7 +2220,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 7/4/2025,263,6,,,7,A Lotus on Irish Streams,4/17/2026,,,,,,,,,TRUE
 7/4/2025,263,7,,,11,Jean Pierre in Egypt,7/4/2025,,,,,,,,,TRUE
 7/4/2025,263,8,,,1,Tuvan robot closer,7/4/2025,,,,,,,,,#N/A
-7/11/2025,105,1,,,13,O Cantador (Like a Lover),1/30/2026,,,,,,,,,TRUE
+7/11/2025,105,1,,,14,O Cantador (Like a Lover),7/31/2026,,,,,,,,,TRUE
 7/11/2025,105,2,,,11,I Love Paris,1/30/2026,,,,,,,,,TRUE
 7/11/2025,105,3,,,14,Bluesette,4/24/2026,,,,,,,,,TRUE
 7/11/2025,105,4,,,18,Afro Blue,3/6/2026,,,,,,,,,TRUE
@@ -2278,7 +2278,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 8/22/2025,269,6,,,7,Bonita,4/24/2026,,,,,,,,,TRUE
 8/22/2025,269,7,,,9,Amphibious,5/15/2026,,,,,,,,,TRUE
 8/22/2025,269,8,,,10,De Volta Ao Samba,5/29/2026,,,,,,,,,TRUE
-8/29/2025,,1,,,9,Some day my Prince will Come,2/6/2026,,,,,,,,,TRUE
+8/29/2025,,1,,,10,Some day my Prince will Come,7/31/2026,,,,,,,,,TRUE
 8/29/2025,,2,,,17,My Little Suede Shoes,5/29/2026,,,,,,,,,TRUE
 8/29/2025,,3,,,15,My Funny Valentine,3/6/2026,,,,,,,,,TRUE
 8/29/2025,,4,,,13,Footprints,4/24/2026,,,,,,,,,TRUE
@@ -2301,7 +2301,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 9/12/2025,271,5,,,10,Trans Europe Express,5/1/2026,,,,,,,,,TRUE
 9/12/2025,271,6,,,13,Cantaloupe Island,4/17/2026,,,,,,,,,TRUE
 9/12/2025,271,7,,,1,DAWless closer,9/12/2025,,,,,,,,,#N/A
-9/19/2025,272,1,,,11,Estate,1/30/2026,,,,,,,,,TRUE
+9/19/2025,272,1,,,12,Estate,7/31/2026,,,,,,,,,TRUE
 9/19/2025,272,2,,,11,These Foolish Things remind me of you,6/26/2026,,,,,,,,,TRUE
 9/19/2025,272,3,,,12,So Danco Samba,7/3/2026,,,,,,,,,TRUE
 9/19/2025,272,4,,,15,Swim Shebang,3/13/2026,,,,,,,,,TRUE
@@ -2329,7 +2329,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 10/3/2025,,10,,,1,Modular Impov: Lento,10/3/2025,,,,,,,,,#N/A
 10/10/2025,274,1,,,8,Desafinado,3/20/2026,,,,,,,,,TRUE
 10/10/2025,274,2,,,13,Zero-Nineteen,3/20/2026,,,,,,,,,TRUE
-10/10/2025,274,3,,,13,Very Early,3/20/2026,,,,,,,,,TRUE
+10/10/2025,274,3,,,14,Very Early,7/31/2026,,,,,,,,,TRUE
 10/10/2025,274,4,,,17,Nardis,3/20/2026,,,,,,,,,TRUE
 10/10/2025,274,5,,,10,Avalon,3/20/2026,,,,,,,,,TRUE
 10/10/2025,274,6,,,17,"Camilla (The Old, Old Story)",3/20/2026,,,,,,,,,TRUE
@@ -2359,7 +2359,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 10/31/2025,277,6,,,6,Scottish Lament,10/31/2025,,,,,,,,,TRUE
 10/31/2025,277,7,,,4,People get Ready,7/3/2026,,,,,,,,,TRUE
 10/31/2025,277,8,,,1,Closer Oct 31,10/31/2025,,,,,,,,,#N/A
-11/7/2025,185,1,,,8,It's only a paper moon,11/7/2025,,,,,,,,,TRUE
+11/7/2025,185,1,,,9,It's only a paper moon,7/31/2026,,,,,,,,,TRUE
 11/7/2025,185,2,,,8,Seven Steps to Heaven,11/7/2025,,,,,,,,,TRUE
 11/7/2025,185,3,,,7,Chega de Saudade,11/7/2025,,,,,,,,,TRUE
 11/7/2025,185,4,,,18,Caravan,11/7/2025,,,,,,,,,TRUE
@@ -2417,7 +2417,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 12/19/2025,282,8,,,3,Some Children See Him,12/19/2025,,,,,,,,,#N/A
 12/26/2025,283,1,,,2,Let it Snow,12/26/2025,,,,,,,,,#N/A
 12/26/2025,283,2,,,3,Our Spanish Love Song,12/26/2025,,,,,,,,,TRUE
-12/26/2025,283,3,,,11,Them Funky Changes,12/26/2025,,,,,,,,,TRUE
+12/26/2025,283,3,,,12,Them Funky Changes,7/31/2026,,,,,,,,,TRUE
 12/26/2025,283,4,,,6,Once I Loved,6/12/2026,,,,,,,,,TRUE
 12/26/2025,283,5,,,8,Beat 70,12/26/2025,,,,,,,,,TRUE
 12/26/2025,283,6,,,5,Go Tell It on the Mountain,12/26/2025,,,,,,,,,TRUE
@@ -2447,15 +2447,15 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 1/23/2026,286,6,,,13,Emily,1/23/2026,,,,,,,,,
 1/23/2026,286,7,,,1,EMOM SC set,1/23/2026,,,,,,,,,
 1/30/2026,287,1,,,12,Also Sprach Zarathustra,5/22/2026,,,,,,,,,
-1/30/2026,287,2,,,13,O Cantador (Like a Lover),1/30/2026,,,,,,,,,
+1/30/2026,287,2,,,14,O Cantador (Like a Lover),7/31/2026,,,,,,,,,
 1/30/2026,287,3,,,2,"Gee Baby, Ain't I good to you",1/30/2026,,,,,,,,,
 1/30/2026,287,4,,,11,I Love Paris,1/30/2026,,,,,,,,,
 1/30/2026,287,5,,,11,The Touch of your Lips,6/5/2026,,,,,,,,,
-1/30/2026,287,6,,,11,Estate,1/30/2026,,,,,,,,,
+1/30/2026,287,6,,,12,Estate,7/31/2026,,,,,,,,,
 1/30/2026,287,7,,,10,Mas Que Nada,1/30/2026,,,,,,,,,
 1/30/2026,287,8,,,10,De Volta Ao Samba,5/29/2026,,,,,,,,,
 2/6/2026,288,1,,,10,New Day LoFi,2/6/2026,,,,,,,,,
-2/6/2026,288,2,,,9,Some day my Prince will Come,2/6/2026,,,,,,,,,
+2/6/2026,288,2,,,10,Some day my Prince will Come,7/31/2026,,,,,,,,,
 2/6/2026,288,3,,,1,Sertao Alagoano,2/6/2026,,,,,,,,,
 2/6/2026,288,4,,,7,Deacon Blues,7/10/2026,,,,,,,,,
 2/6/2026,288,5,,,6,Pentafunkular 5opolis,2/6/2026,,,,,,,,,
@@ -2503,7 +2503,7 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 3/13/2026,122,7,,,2,Closer July 15,3/13/2026,,,,,,,,,
 3/20/2026,274,1,,,8,Desafinado,3/20/2026,,,,,,,,,
 3/20/2026,274,2,,,13,Zero-Nineteen,3/20/2026,,,,,,,,,
-3/20/2026,274,3,,,13,Very Early,3/20/2026,,,,,,,,,
+3/20/2026,274,3,,,14,Very Early,7/31/2026,,,,,,,,,
 3/20/2026,274,4,,,17,Nardis,3/20/2026,,,,,,,,,
 3/20/2026,274,5,,,10,Avalon,3/20/2026,,,,,,,,,
 3/20/2026,274,6,,,17,"Camilla (The Old, Old Story)",3/20/2026,,,,,,,,,
@@ -2642,11 +2642,19 @@ Date,Epi #,Song #,offset,URL,Count,Name,Most Recent date,Year,Tempo,Composer,Sty
 7/17/2026,304,5,1896,https://youtu.be/BgzVVBcr0E0?t=1896,13,Sugar,7/17/2026,,,,,,,,,
 7/17/2026,304,6,2336,https://youtu.be/BgzVVBcr0E0?t=2336,17,Impressions,7/17/2026,,,,,,,,,
 7/17/2026,304,7,2941,https://youtu.be/BgzVVBcr0E0?t=2941,3,Some Other time,7/17/2026,,,,,,,,,
-7/24/2026,305,1,,,8,Look of Love,7/24/2026,,,,,,,,,
-7/24/2026,305,2,,,15,Softly as in a morning Sunrise,7/24/2026,,,,,,,,,
-7/24/2026,305,3,,,11,Brazil,7/24/2026,,,,,,,,,
-7/24/2026,305,4,,,13,How high the Moon,7/24/2026,,,,,,,,,
-7/24/2026,305,5,,,13,Some Other Funk,7/24/2026,,,,,,,,,
-7/24/2026,305,6,,,8,River Man,7/24/2026,,,,,,,,,
-7/24/2026,305,7,,,5,Solsbury Hill,7/24/2026,,,,,,,,,
-7/24/2026,305,8,,,6,Lawns,7/24/2026,,,,,,,,,
+7/24/2026,305,1,270,https://youtu.be/gg3hWvG5VEE?t=270,8,Look of Love,7/24/2026,,,,,,,,,
+7/24/2026,305,2,646,https://youtu.be/gg3hWvG5VEE?t=646,15,Softly as in a morning Sunrise,7/24/2026,,,,,,,,,
+7/24/2026,305,3,1081,https://youtu.be/gg3hWvG5VEE?t=1081,11,Brazil,7/24/2026,,,,,,,,,
+7/24/2026,305,4,1521,https://youtu.be/gg3hWvG5VEE?t=1521,13,How high the Moon,7/24/2026,,,,,,,,,
+7/24/2026,305,5,1839,https://youtu.be/gg3hWvG5VEE?t=1839,13,Some Other Funk,7/24/2026,,,,,,,,,
+7/24/2026,305,6,2268,https://youtu.be/gg3hWvG5VEE?t=2268,8,River Man,7/24/2026,,,,,,,,,
+7/24/2026,305,7,2720,https://youtu.be/gg3hWvG5VEE?t=2720,5,Solsbury Hill,7/24/2026,,,,,,,,,
+7/24/2026,305,8,3082,https://youtu.be/gg3hWvG5VEE?t=3082,6,Lawns,7/24/2026,,,,,,,,,
+7/31/2026,306,1,,,9,It's only a paper moon,7/31/2026,,,,,,,,,
+7/31/2026,306,2,,,14,O Cantador (Like a Lover),7/31/2026,,,,,,,,,
+7/31/2026,306,3,,,10,Some Day my Prince will Come,7/31/2026,,,,,,,,,
+7/31/2026,306,4,,,7,Time after Time,7/31/2026,,,,,,,,,
+7/31/2026,306,5,,,12,Them funky changes,7/31/2026,,,,,,,,,
+7/31/2026,306,6,,,14,Very Early,7/31/2026,,,,,,,,,
+7/31/2026,306,7,,,12,Estate,7/31/2026,,,,,,,,,
+7/31/2026,306,8,,,1,Euro Rack new kit for july 31,7/31/2026,,,,,,,,,

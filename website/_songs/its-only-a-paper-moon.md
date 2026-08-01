@@ -3,7 +3,7 @@ layout: song
 title: "It's only a paper moon"
 composer: "Harold Arlen"
 style: "Swing"
-play_count: 8
+play_count: 9
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -63,4 +63,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "7/31/2026"
+    url: ""
+    episode: "306"
+    episode_slug: "episode-306"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

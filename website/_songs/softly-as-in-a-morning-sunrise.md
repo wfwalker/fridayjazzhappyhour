@@ -106,7 +106,7 @@ performances:
     notes: ""
     rerun: false
   - date: "7/24/2026"
-    url: ""
+    url: "https://youtu.be/gg3hWvG5VEE?t=646"
     episode: "305"
     episode_slug: "episode-305"
     tempo: ""
