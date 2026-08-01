@@ -5,6 +5,7 @@ import os
 import sys
 import subprocess
 import argparse
+import re
 import numpy as np
 
 def fetch_songs_from_sheet(sheet_id, sheet_name=None):
@@ -270,9 +271,9 @@ def get_song_starts(segments, num_songs):
 
 def main():
     parser = argparse.ArgumentParser(description="Generate YouTube chapters from a Google Sheet (or CSV) and video recording.")
-    parser.add_argument("video_path", help="Path to the video/audio file of the live stream.")
+    parser.add_argument("video_path", nargs="?", default=None, help="Path to the video/audio file of the live stream (optional, auto-detected if omitted).")
     
-    group = parser.add_mutually_exclusive_group(required=True)
+    group = parser.add_mutually_exclusive_group(required=False)
     group.add_argument("--csv-path", help="Path to a local CSV file containing the songs.")
     group.add_argument("--sheet-id", help="Google Sheet ID.")
     
@@ -287,23 +288,92 @@ def main():
     
     args = parser.parse_args()
     
-    if not os.path.exists(args.video_path):
-        print(f"Error: Video file not found: {args.video_path}", file=sys.stderr)
+    video_path = args.video_path
+    target_date = args.date
+    
+    # 1. Auto-detect latest recording from Ecamm Live Recordings if video_path is omitted
+    if not video_path:
+        recordings_dir = "/Users/walker/Documents/Ecamm Live Recordings"
+        if not os.path.exists(recordings_dir):
+            print(f"Error: recordings directory not found: {recordings_dir}", file=sys.stderr)
+            sys.exit(1)
+            
+        try:
+            files = [f for f in os.listdir(recordings_dir) if f.startswith("Bill Walker on 2026") and f.endswith(".mov")]
+        except Exception as e:
+            print(f"Error reading recordings directory: {e}", file=sys.stderr)
+            sys.exit(1)
+            
+        if not files:
+            print(f"No recordings found starting with 'Bill Walker on 2026' in {recordings_dir}", file=sys.stderr)
+            sys.exit(1)
+            
+        files.sort() # Sorted alphabetically -> chronologically
+        latest_file = files[-1]
+        
+        print(f"\nLatest Ecamm recording found: '{latest_file}'")
+        choice = input("Confirm this file? [Y/n] (or enter index of other recent files): ").strip().lower()
+        
+        if choice in ("", "y", "yes"):
+            selected_file = latest_file
+        else:
+            # Let user choose from the last 5
+            recent_files = files[-5:]
+            print("\nRecent recordings:")
+            for idx, f in enumerate(reversed(recent_files), 1):
+                print(f"  [{idx}] {f}")
+            ans = input(f"Choose a file [1-{len(recent_files)}] (default 1): ").strip()
+            if not ans:
+                selected_file = recent_files[-1]
+            else:
+                try:
+                    selected_idx = int(ans)
+                    if 1 <= selected_idx <= len(recent_files):
+                        selected_file = recent_files[-selected_idx]
+                    else:
+                        print("Invalid selection index. Exiting.")
+                        sys.exit(1)
+                except ValueError:
+                    print("Invalid selection. Exiting.")
+                    sys.exit(1)
+                    
+        video_path = os.path.join(recordings_dir, selected_file)
+        
+    # Check if video_path exists
+    if not os.path.exists(video_path):
+        print(f"Error: Video file not found: {video_path}", file=sys.stderr)
         sys.exit(1)
         
-    if args.csv_path:
-        rows = read_songs_from_local_csv(args.csv_path)
-    else:
-        rows = fetch_songs_from_sheet(args.sheet_id, args.sheet_name)
+    # 2. Extract date from video filename if not specified
+    if not target_date:
+        filename = os.path.basename(video_path)
+        match = re.search(r"Bill Walker on (\d{4}-\d{2}-\d{2})", filename)
+        if match:
+            target_date = match.group(1)
+            print(f"Extracted target date from filename: '{target_date}'")
+        else:
+            print("Warning: Could not parse target date from filename. No date filtering will be applied unless specified via --date.")
+            
+    # 3. Resolve CSV path / Sheet ID (default to local FJHH songs - Songs.csv if neither is specified)
+    csv_path = args.csv_path
+    sheet_id = args.sheet_id
+    if not csv_path and not sheet_id:
+        csv_path = "FJHH songs - Songs.csv"
+        print(f"No CSV path or Sheet ID provided. Defaulting to local: '{csv_path}'")
         
-    target_songs = parse_song_list(rows, args.date)
+    if csv_path:
+        rows = read_songs_from_local_csv(csv_path)
+    else:
+        rows = fetch_songs_from_sheet(sheet_id, args.sheet_name)
+        
+    target_songs = parse_song_list(rows, target_date)
     
     if not target_songs:
         print("Error: No songs found matching the criteria.", file=sys.stderr)
         sys.exit(1)
         
     print(f"\nAnalyzing audio spectrum and energy patterns (method={args.method}, chunk size={args.chunk_size}s)...")
-    features, timestamps = extract_acoustic_features(args.video_path, chunk_size_sec=args.chunk_size)
+    features, timestamps = extract_acoustic_features(video_path, chunk_size_sec=args.chunk_size)
     
     if len(features) < 10:
         print("Error: Audio is too short to analyze.", file=sys.stderr)
