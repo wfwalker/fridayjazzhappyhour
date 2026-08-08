@@ -3,7 +3,7 @@ layout: song
 title: "Limehouse Blues"
 composer: "Furber and Braham"
 style: "Swing"
-play_count: 5
+play_count: 6
 hall_of_fame: true
 ready_rating: 1
 performances:
@@ -39,6 +39,13 @@ performances:
     url: ""
     episode: "297"
     episode_slug: "episode-297"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/7/2026"
+    url: ""
+    episode: "307"
+    episode_slug: "episode-307"
     tempo: ""
     notes: ""
     rerun: false

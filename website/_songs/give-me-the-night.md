@@ -3,7 +3,7 @@ layout: song
 title: "Give me the Night"
 composer: "Rod Temperton"
 style: "Funk"
-play_count: 9
+play_count: 10
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -67,6 +67,13 @@ performances:
     url: ""
     episode: "277"
     episode_slug: "episode-277"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/7/2026"
+    url: ""
+    episode: "307"
+    episode_slug: "episode-307"
     tempo: ""
     notes: ""
     rerun: false

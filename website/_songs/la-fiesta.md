@@ -3,7 +3,7 @@ layout: song
 title: "La Fiesta"
 composer: "Chick Corea"
 style: "Latin"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -88,6 +88,13 @@ performances:
     url: ""
     episode: "290"
     episode_slug: "episode-290"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/7/2026"
+    url: ""
+    episode: "307"
+    episode_slug: "episode-307"
     tempo: ""
     notes: ""
     rerun: false

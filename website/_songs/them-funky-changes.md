@@ -85,7 +85,7 @@ performances:
     notes: ""
     rerun: false
   - date: "7/31/2026"
-    url: ""
+    url: "https://youtu.be/7QlS51KD8Hw?t=1976"
     episode: "306"
     episode_slug: "episode-306"
     tempo: ""

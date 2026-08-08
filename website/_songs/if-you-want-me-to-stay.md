@@ -3,7 +3,7 @@ layout: song
 title: "If you want me to stay"
 composer: "Sly and the Family Stone"
 style: "Funk"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -81,6 +81,13 @@ performances:
     url: ""
     episode: "288"
     episode_slug: "episode-288"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/7/2026"
+    url: ""
+    episode: "307"
+    episode_slug: "episode-307"
     tempo: ""
     notes: ""
     rerun: false

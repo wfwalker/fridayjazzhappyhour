@@ -3,7 +3,7 @@ layout: song
 title: "O Barquinho"
 composer: "Roberto Menescal"
 style: "Bossa"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 0
 performances:
@@ -88,6 +88,13 @@ performances:
     url: ""
     episode: "292"
     episode_slug: "episode-292"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/7/2026"
+    url: ""
+    episode: "307"
+    episode_slug: "episode-307"
     tempo: ""
     notes: ""
     rerun: false
