@@ -9,7 +9,7 @@ rerun: false
 theme: ""
 shirt: ""
 tip_jar: ""
-notes: ""
+notes: "maybe"
 youtube_url: "https://youtu.be/MIwLmoFc8Dk"
 image: "/assets/images/title-slides/episode-176.jpg"
 setlist:
@@ -47,7 +47,7 @@ setlist:
     time: "25:33"
     style: "Swing"
     composer: ""
-    notes: ""
+    notes: "Remove"
     hof: true
   - song_num: "5"
     name: "Naima"

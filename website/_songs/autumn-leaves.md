@@ -3,7 +3,7 @@ layout: song
 title: "Autumn Leaves"
 composer: "Joseph Kosma"
 style: "Swing"
-play_count: 16
+play_count: 17
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -119,4 +119,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "8/28/2026"
+    url: ""
+    episode: "176"
+    episode_slug: "episode-176-rerun-8282026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

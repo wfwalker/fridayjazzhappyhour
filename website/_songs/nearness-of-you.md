@@ -3,7 +3,7 @@ layout: song
 title: "Nearness of you"
 composer: "Hoagy Carmichael"
 style: "Bossa"
-play_count: 15
+play_count: 16
 hall_of_fame: true
 ready_rating: 0
 performances:
@@ -109,6 +109,13 @@ performances:
     url: ""
     episode: "289"
     episode_slug: "episode-289"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/4/2026"
+    url: ""
+    episode: "309"
+    episode_slug: "episode-309"
     tempo: ""
     notes: ""
     rerun: false

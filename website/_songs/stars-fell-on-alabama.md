@@ -3,7 +3,7 @@ layout: song
 title: "Stars Fell on Alabama"
 composer: "Perkins and Parish"
 style: "Swing"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 0
 performances:
@@ -88,6 +88,13 @@ performances:
     url: ""
     episode: "275"
     episode_slug: "episode-275"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/4/2026"
+    url: ""
+    episode: "309"
+    episode_slug: "episode-309"
     tempo: ""
     notes: ""
     rerun: false

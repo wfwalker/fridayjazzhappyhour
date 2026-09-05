@@ -3,7 +3,7 @@ layout: song
 title: "Angel Eyes"
 composer: "Matt Dennis"
 style: "Swing"
-play_count: 14
+play_count: 15
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -102,6 +102,13 @@ performances:
     url: ""
     episode: "273"
     episode_slug: "episode-273"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/21/2026"
+    url: ""
+    episode: "308"
+    episode_slug: "episode-308"
     tempo: ""
     notes: ""
     rerun: false

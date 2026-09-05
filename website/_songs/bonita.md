@@ -3,7 +3,7 @@ layout: song
 title: "Bonita"
 composer: "Antônio Carlos Jobim"
 style: "Bossa"
-play_count: 7
+play_count: 8
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -56,4 +56,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "8/28/2026"
+    url: ""
+    episode: "176"
+    episode_slug: "episode-176-rerun-8282026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

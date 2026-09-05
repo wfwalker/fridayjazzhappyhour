@@ -3,7 +3,7 @@ layout: song
 title: "So What"
 composer: "Miles Davis"
 style: "Swing"
-play_count: 14
+play_count: 15
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -68,7 +68,7 @@ performances:
     episode: "176"
     episode_slug: "episode-176"
     tempo: ""
-    notes: ""
+    notes: "Remove"
     rerun: false
   - date: "2/16/2024"
     url: ""
@@ -105,4 +105,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "8/28/2026"
+    url: ""
+    episode: "176"
+    episode_slug: "episode-176-rerun-8282026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

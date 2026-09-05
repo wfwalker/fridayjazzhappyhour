@@ -3,7 +3,7 @@ layout: song
 title: "Nana"
 composer: "Moacir Santos"
 style: "Funk"
-play_count: 3
+play_count: 4
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -25,6 +25,13 @@ performances:
     url: ""
     episode: "291"
     episode_slug: "episode-291"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/21/2026"
+    url: ""
+    episode: "308"
+    episode_slug: "episode-308"
     tempo: ""
     notes: ""
     rerun: false

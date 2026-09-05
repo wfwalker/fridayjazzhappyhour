@@ -7,7 +7,7 @@
   slug: "accordion-ambient-closer"
   composer: ""
   style: ""
-  play_count: 2
+  play_count: 3
 - title: "Albatross at Night"
   slug: "albatross-at-night"
   composer: ""
@@ -67,12 +67,12 @@
   slug: "antelope-valley-closer"
   composer: ""
   style: ""
-  play_count: 1
+  play_count: 2
 - title: "Apollo 17"
   slug: "apollo-17"
   composer: ""
   style: ""
-  play_count: 1
+  play_count: 2
 - title: "April 11 closer"
   slug: "april-11-closer"
   composer: ""
@@ -217,7 +217,7 @@
   slug: "closer-aug-18"
   composer: ""
   style: ""
-  play_count: 1
+  play_count: 2
 - title: "Closer Aug 19"
   slug: "closer-aug-19"
   composer: ""
@@ -853,6 +853,11 @@
   composer: ""
   style: "Swing"
   play_count: 3
+- title: "Naima Closer Sept 4"
+  slug: "naima-closer-sept-4"
+  composer: ""
+  style: ""
+  play_count: 1
 - title: "Night Rhodes"
   slug: "night-rhodes"
   composer: ""
@@ -1063,11 +1068,6 @@
   composer: "Sammy Fein"
   style: "pop"
   play_count: 3
-- title: "Sertao Alagoano"
-  slug: "sertao-alagoano"
-  composer: ""
-  style: ""
-  play_count: 1
 - title: "Shake It Off"
   slug: "shake-it-off"
   composer: "Taylor Swift"
@@ -1082,7 +1082,7 @@
   slug: "shipping-news-ambient-closer-2"
   composer: ""
   style: ""
-  play_count: 1
+  play_count: 2
 - title: "Shipping News Closer"
   slug: "shipping-news-closer"
   composer: ""
@@ -1337,7 +1337,7 @@
   slug: "wwv"
   composer: ""
   style: ""
-  play_count: 1
+  play_count: 2
 - title: "Young and Foolish"
   slug: "young-and-foolish"
   composer: ""

@@ -3,7 +3,7 @@ layout: song
 title: "I Can't Get Started"
 composer: "Vernon Duke"
 style: "Swing"
-play_count: 9
+play_count: 10
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -70,4 +70,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "8/28/2026"
+    url: ""
+    episode: "176"
+    episode_slug: "episode-176-rerun-8282026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

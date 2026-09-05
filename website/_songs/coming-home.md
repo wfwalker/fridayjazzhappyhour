@@ -3,7 +3,7 @@ layout: song
 title: "Coming Home"
 composer: "Erik Turkman"
 style: "Pop"
-play_count: 13
+play_count: 14
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -98,4 +98,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "8/14/2026"
+    url: ""
+    episode: "227"
+    episode_slug: "episode-227-rerun-8142026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

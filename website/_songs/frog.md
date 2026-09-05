@@ -3,7 +3,7 @@ layout: song
 title: "Frog"
 composer: "João Donato"
 style: "Funk"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -81,6 +81,13 @@ performances:
     url: ""
     episode: "289"
     episode_slug: "episode-289"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/4/2026"
+    url: ""
+    episode: "309"
+    episode_slug: "episode-309"
     tempo: ""
     notes: ""
     rerun: false

@@ -3,7 +3,7 @@ layout: song
 title: "Pentafunkular 5opolis"
 composer: "Bill Walker"
 style: "Funk"
-play_count: 6
+play_count: 7
 hall_of_fame: true
 ready_rating: 2
 performances:
@@ -46,6 +46,13 @@ performances:
     url: ""
     episode: "288"
     episode_slug: "episode-288"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/21/2026"
+    url: ""
+    episode: "308"
+    episode_slug: "episode-308"
     tempo: ""
     notes: ""
     rerun: false

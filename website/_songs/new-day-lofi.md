@@ -3,7 +3,7 @@ layout: song
 title: "New Day LoFi"
 composer: "Bill Walker"
 style: "Downtempo"
-play_count: 10
+play_count: 11
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -74,6 +74,13 @@ performances:
     url: ""
     episode: "288"
     episode_slug: "episode-288"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/21/2026"
+    url: ""
+    episode: "308"
+    episode_slug: "episode-308"
     tempo: ""
     notes: ""
     rerun: false

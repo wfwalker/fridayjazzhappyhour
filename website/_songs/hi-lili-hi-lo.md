@@ -3,7 +3,7 @@ layout: song
 title: "Hi Lili, Hi Lo"
 composer: "Bronislaw Kaper"
 style: "Ballad"
-play_count: 8
+play_count: 9
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -60,6 +60,13 @@ performances:
     url: ""
     episode: "225"
     episode_slug: "episode-225"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "8/21/2026"
+    url: ""
+    episode: "308"
+    episode_slug: "episode-308"
     tempo: ""
     notes: ""
     rerun: false

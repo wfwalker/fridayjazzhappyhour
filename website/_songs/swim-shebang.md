@@ -3,7 +3,7 @@ layout: song
 title: "Swim Shebang"
 composer: "Bill Walker"
 style: "Funk"
-play_count: 15
+play_count: 16
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -109,6 +109,13 @@ performances:
     url: ""
     episode: "122"
     episode_slug: "episode-122-rerun-3132026"
+    tempo: ""
+    notes: ""
+    rerun: true
+  - date: "8/28/2026"
+    url: ""
+    episode: "176"
+    episode_slug: "episode-176-rerun-8282026"
     tempo: ""
     notes: ""
     rerun: true
