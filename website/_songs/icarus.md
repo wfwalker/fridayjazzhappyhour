@@ -3,7 +3,7 @@ layout: song
 title: "Icarus"
 composer: "Ralph Towner"
 style: "Latin"
-play_count: 13
+play_count: 14
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -95,6 +95,13 @@ performances:
     url: ""
     episode: "285"
     episode_slug: "episode-285"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/11/2026"
+    url: ""
+    episode: "310"
+    episode_slug: "episode-310"
     tempo: ""
     notes: ""
     rerun: false

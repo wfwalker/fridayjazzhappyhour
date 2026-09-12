@@ -3,7 +3,7 @@ layout: song
 title: "Desafinado"
 composer: "Jobim"
 style: "Bossa"
-play_count: 8
+play_count: 9
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -63,4 +63,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "9/11/2026"
+    url: ""
+    episode: "310"
+    episode_slug: "episode-310"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

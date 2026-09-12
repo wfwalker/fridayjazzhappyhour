@@ -3,7 +3,7 @@ layout: song
 title: "Days of Wine and Roses"
 composer: "Henry Mancini"
 style: "Swing"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -81,6 +81,13 @@ performances:
     url: ""
     episode: "280"
     episode_slug: "episode-280"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/11/2026"
+    url: ""
+    episode: "310"
+    episode_slug: "episode-310"
     tempo: ""
     notes: ""
     rerun: false

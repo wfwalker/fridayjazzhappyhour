@@ -3,7 +3,7 @@ layout: song
 title: "Stella by Starlight"
 composer: "Victor Young"
 style: "Swing"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 0
 performances:
@@ -88,6 +88,13 @@ performances:
     url: ""
     episode: "284"
     episode_slug: "episode-284"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/11/2026"
+    url: ""
+    episode: "310"
+    episode_slug: "episode-310"
     tempo: ""
     notes: ""
     rerun: false
