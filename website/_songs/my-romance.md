@@ -3,7 +3,7 @@ layout: song
 title: "My Romance"
 composer: "Rodgers and Hart"
 style: "Swing"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -88,6 +88,13 @@ performances:
     url: ""
     episode: "297"
     episode_slug: "episode-297"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/25/2026"
+    url: ""
+    episode: "312"
+    episode_slug: "episode-312"
     tempo: ""
     notes: ""
     rerun: false

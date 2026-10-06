@@ -3,7 +3,7 @@ layout: song
 title: "Avalon"
 composer: "Al Jolson"
 style: "Swing"
-play_count: 10
+play_count: 11
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -77,4 +77,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "9/18/2026"
+    url: ""
+    episode: "311"
+    episode_slug: "episode-311"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

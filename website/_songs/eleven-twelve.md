@@ -3,7 +3,7 @@ layout: song
 title: "Eleven Twelve"
 composer: "Bill Walker"
 style: "Funk"
-play_count: 16
+play_count: 17
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -116,6 +116,13 @@ performances:
     url: ""
     episode: "282"
     episode_slug: "episode-282"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/18/2026"
+    url: ""
+    episode: "311"
+    episode_slug: "episode-311"
     tempo: ""
     notes: ""
     rerun: false

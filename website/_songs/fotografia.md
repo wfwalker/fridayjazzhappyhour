@@ -3,7 +3,7 @@ layout: song
 title: "Fotografia"
 composer: "Antônio Carlos Jobim"
 style: "Bossa"
-play_count: 15
+play_count: 16
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -109,6 +109,13 @@ performances:
     url: ""
     episode: "289"
     episode_slug: "episode-289"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/25/2026"
+    url: ""
+    episode: "312"
+    episode_slug: "episode-312"
     tempo: ""
     notes: ""
     rerun: false

@@ -3,7 +3,7 @@ layout: song
 title: "Pick up the Pieces"
 composer: "Average White Band"
 style: "Funk"
-play_count: 13
+play_count: 14
 hall_of_fame: true
 ready_rating: 0
 performances:
@@ -95,6 +95,13 @@ performances:
     url: ""
     episode: "284"
     episode_slug: "episode-284"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/18/2026"
+    url: ""
+    episode: "311"
+    episode_slug: "episode-311"
     tempo: ""
     notes: ""
     rerun: false

@@ -3,7 +3,7 @@ layout: song
 title: "Samba e Amor"
 composer: "Chico Buarque"
 style: "Samba"
-play_count: 15
+play_count: 16
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -109,6 +109,13 @@ performances:
     url: ""
     episode: "292"
     episode_slug: "episode-292"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/25/2026"
+    url: ""
+    episode: "312"
+    episode_slug: "episode-312"
     tempo: ""
     notes: ""
     rerun: false

@@ -3,7 +3,7 @@ layout: song
 title: "Caminhos Cruzados"
 composer: "Jobim"
 style: "Bossa"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -88,6 +88,13 @@ performances:
     url: "https://youtu.be/kdS6Kai4KFk?t=2892"
     episode: "303"
     episode_slug: "episode-303"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/18/2026"
+    url: ""
+    episode: "311"
+    episode_slug: "episode-311"
     tempo: ""
     notes: ""
     rerun: false

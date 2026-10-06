@@ -3,7 +3,7 @@ layout: song
 title: "My Funny Valentine"
 composer: "Rogers and Hart"
 style: "Swing"
-play_count: 15
+play_count: 16
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -109,6 +109,13 @@ performances:
     url: ""
     episode: "73"
     episode_slug: "episode-73-rerun-362026"
+    tempo: ""
+    notes: ""
+    rerun: true
+  - date: "10/2/2026"
+    url: ""
+    episode: "137"
+    episode_slug: "episode-137-rerun-1022026"
     tempo: ""
     notes: ""
     rerun: true

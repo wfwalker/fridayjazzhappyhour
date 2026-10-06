@@ -3,7 +3,7 @@ layout: song
 title: "Little Sunflower"
 composer: "Freddie Hubbard"
 style: "Techno"
-play_count: 18
+play_count: 19
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -130,6 +130,13 @@ performances:
     url: ""
     episode: "23"
     episode_slug: "episode-23-rerun-582026"
+    tempo: ""
+    notes: ""
+    rerun: true
+  - date: "10/2/2026"
+    url: ""
+    episode: "137"
+    episode_slug: "episode-137-rerun-1022026"
     tempo: ""
     notes: ""
     rerun: true

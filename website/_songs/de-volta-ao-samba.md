@@ -3,7 +3,7 @@ layout: song
 title: "De Volta Ao Samba"
 composer: "Chico Buarque"
 style: "Bossa"
-play_count: 10
+play_count: 11
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -74,6 +74,13 @@ performances:
     url: ""
     episode: "299"
     episode_slug: "episode-299"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "9/25/2026"
+    url: ""
+    episode: "312"
+    episode_slug: "episode-312"
     tempo: ""
     notes: ""
     rerun: false

@@ -3,7 +3,7 @@ layout: song
 title: "Samba de Orfeu"
 composer: "Luiz Bonfa"
 style: "Samba"
-play_count: 18
+play_count: 19
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -133,4 +133,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "9/25/2026"
+    url: ""
+    episode: "312"
+    episode_slug: "episode-312"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

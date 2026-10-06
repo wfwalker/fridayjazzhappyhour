@@ -3,7 +3,7 @@ layout: song
 title: "Rise"
 composer: "Herb Alpert"
 style: "Funk"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -84,4 +84,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "10/2/2026"
+    url: ""
+    episode: "137"
+    episode_slug: "episode-137-rerun-1022026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---
