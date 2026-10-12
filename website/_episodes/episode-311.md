@@ -10,7 +10,7 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/TYQTG8pIblI"
 image: "/assets/images/title-slides/episode-311.jpg"
 setlist:
   - song_num: "1"

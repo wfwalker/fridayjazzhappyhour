@@ -10,7 +10,7 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/P2i4KegZgDY"
 image: "/assets/images/title-slides/episode-310.jpg"
 setlist:
   - song_num: "1"

@@ -10,7 +10,7 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/tUF3glUfFdQ"
 setlist:
   - song_num: "1"
     name: "I Mean You"

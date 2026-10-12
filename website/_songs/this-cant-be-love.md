@@ -3,7 +3,7 @@ layout: song
 title: "This Can't Be Love"
 composer: "Rodgers and Hart"
 style: "Swing"
-play_count: 13
+play_count: 14
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -95,6 +95,13 @@ performances:
     url: ""
     episode: "295"
     episode_slug: "episode-295"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/9/2026"
+    url: ""
+    episode: "313"
+    episode_slug: "episode-313"
     tempo: ""
     notes: ""
     rerun: false

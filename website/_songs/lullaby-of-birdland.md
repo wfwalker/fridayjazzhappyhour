@@ -3,7 +3,7 @@ layout: song
 title: "Lullaby of Birdland"
 composer: "George Shearing"
 style: "Swing"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -84,4 +84,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "10/9/2026"
+    url: ""
+    episode: "313"
+    episode_slug: "episode-313"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

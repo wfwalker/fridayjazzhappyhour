@@ -3,7 +3,7 @@ layout: song
 title: "Maiden Voyage"
 composer: "Herbie Hancock"
 style: "Techno"
-play_count: 17
+play_count: 18
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -126,4 +126,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "10/9/2026"
+    url: ""
+    episode: "313"
+    episode_slug: "episode-313"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---
