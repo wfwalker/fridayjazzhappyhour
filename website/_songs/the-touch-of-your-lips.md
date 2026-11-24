@@ -3,7 +3,7 @@ layout: song
 title: "The Touch of your Lips"
 composer: "Ray Noble"
 style: "Swing"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -84,4 +84,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "10/30/2026"
+    url: ""
+    episode: "316"
+    episode_slug: "episode-316"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

@@ -3,7 +3,7 @@ layout: song
 title: "Georgia on my Mind"
 composer: "Hoagy Carmichael"
 style: "Ballad"
-play_count: 9
+play_count: 10
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -67,6 +67,13 @@ performances:
     url: ""
     episode: "284"
     episode_slug: "episode-284"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/6/2026"
+    url: ""
+    episode: "317"
+    episode_slug: "episode-317"
     tempo: ""
     notes: ""
     rerun: false

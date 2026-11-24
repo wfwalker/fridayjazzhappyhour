@@ -3,7 +3,7 @@ layout: song
 title: "Killer Joe"
 composer: "Benny Golson"
 style: "Swing"
-play_count: 4
+play_count: 5
 hall_of_fame: true
 ready_rating: 0
 performances:
@@ -32,6 +32,13 @@ performances:
     url: ""
     episode: "295"
     episode_slug: "episode-295"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/16/2026"
+    url: ""
+    episode: "314"
+    episode_slug: "episode-314"
     tempo: ""
     notes: ""
     rerun: false

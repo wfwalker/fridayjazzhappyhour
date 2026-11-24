@@ -3,7 +3,7 @@ layout: song
 title: "God Bless the Child"
 composer: "Billie Holiday"
 style: "Funk"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -81,6 +81,13 @@ performances:
     url: ""
     episode: "276"
     episode_slug: "episode-276"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/16/2026"
+    url: ""
+    episode: "314"
+    episode_slug: "episode-314"
     tempo: ""
     notes: ""
     rerun: false

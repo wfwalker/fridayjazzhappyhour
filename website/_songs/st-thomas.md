@@ -3,7 +3,7 @@ layout: song
 title: "St. Thomas"
 composer: "Sonny Rollins"
 style: "Latin"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -88,6 +88,13 @@ performances:
     url: ""
     episode: "291"
     episode_slug: "episode-291"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/16/2026"
+    url: ""
+    episode: "314"
+    episode_slug: "episode-314"
     tempo: ""
     notes: ""
     rerun: false

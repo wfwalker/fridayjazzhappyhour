@@ -3,7 +3,7 @@ layout: song
 title: "They Can't Take that away from me"
 composer: "George and Ira Gerswhin"
 style: "Swing"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -88,6 +88,13 @@ performances:
     url: ""
     episode: "299B"
     episode_slug: "episode-299b"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/23/2026"
+    url: ""
+    episode: "315"
+    episode_slug: "episode-315"
     tempo: ""
     notes: ""
     rerun: false

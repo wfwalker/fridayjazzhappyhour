@@ -3,7 +3,7 @@ layout: song
 title: "Memories of Tomorrow"
 composer: "Keith Jarrett"
 style: "Pop"
-play_count: 13
+play_count: 14
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -95,6 +95,13 @@ performances:
     url: ""
     episode: "284"
     episode_slug: "episode-284"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/20/2026"
+    url: ""
+    episode: "318"
+    episode_slug: "episode-318"
     tempo: ""
     notes: ""
     rerun: false

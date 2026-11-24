@@ -3,7 +3,7 @@ layout: song
 title: "Watermelon Man"
 composer: "Herbie Hancock"
 style: "Latin"
-play_count: 13
+play_count: 14
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -98,4 +98,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "11/13/2026"
+    url: ""
+    episode: "245"
+    episode_slug: "episode-245-rerun-11132026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

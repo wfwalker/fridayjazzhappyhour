@@ -3,7 +3,7 @@ layout: song
 title: "Beautiful Love"
 composer: "Wayne King"
 style: "Swing"
-play_count: 14
+play_count: 15
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -105,4 +105,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "11/13/2026"
+    url: ""
+    episode: "245"
+    episode_slug: "episode-245-rerun-11132026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

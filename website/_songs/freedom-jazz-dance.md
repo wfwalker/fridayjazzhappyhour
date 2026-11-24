@@ -3,7 +3,7 @@ layout: song
 title: "Freedom Jazz Dance"
 composer: "Eddie Harris"
 style: "Funk"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -88,6 +88,13 @@ performances:
     url: "https://youtu.be/kdS6Kai4KFk?t=2030"
     episode: "303"
     episode_slug: "episode-303"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/6/2026"
+    url: ""
+    episode: "317"
+    episode_slug: "episode-317"
     tempo: ""
     notes: ""
     rerun: false

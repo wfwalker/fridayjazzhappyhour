@@ -3,7 +3,7 @@ layout: song
 title: "Scottish Lament"
 composer: "Bill Walker"
 style: "Downtempo"
-play_count: 6
+play_count: 7
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -46,6 +46,13 @@ performances:
     url: ""
     episode: "277"
     episode_slug: "episode-277"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/30/2026"
+    url: ""
+    episode: "316"
+    episode_slug: "episode-316"
     tempo: ""
     notes: ""
     rerun: false

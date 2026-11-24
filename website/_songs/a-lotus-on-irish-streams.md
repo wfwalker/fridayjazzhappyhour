@@ -3,7 +3,7 @@ layout: song
 title: "A Lotus on Irish Streams"
 composer: "John McLaughlin"
 style: "Ballad"
-play_count: 8
+play_count: 9
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -63,4 +63,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "11/13/2026"
+    url: ""
+    episode: "245"
+    episode_slug: "episode-245-rerun-11132026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

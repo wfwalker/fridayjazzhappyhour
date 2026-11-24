@@ -3,7 +3,7 @@ layout: song
 title: "TSOP"
 composer: "MFSB"
 style: "Funk"
-play_count: 5
+play_count: 6
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -39,6 +39,13 @@ performances:
     url: ""
     episode: "274"
     episode_slug: "episode-274"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/6/2026"
+    url: ""
+    episode: "317"
+    episode_slug: "episode-317"
     tempo: ""
     notes: ""
     rerun: false

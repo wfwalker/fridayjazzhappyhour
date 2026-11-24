@@ -3,7 +3,7 @@ layout: song
 title: "Chega de Saudade"
 composer: "Antônio Carlos Jobim"
 style: "Bossa"
-play_count: 7
+play_count: 8
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -56,4 +56,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "11/20/2026"
+    url: ""
+    episode: "318"
+    episode_slug: "episode-318"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

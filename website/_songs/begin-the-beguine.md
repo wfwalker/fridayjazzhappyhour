@@ -3,7 +3,7 @@ layout: song
 title: "Begin the Beguine"
 composer: "Cole Porter"
 style: "Bossa"
-play_count: 6
+play_count: 7
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -49,4 +49,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "10/16/2026"
+    url: ""
+    episode: "314"
+    episode_slug: "episode-314"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

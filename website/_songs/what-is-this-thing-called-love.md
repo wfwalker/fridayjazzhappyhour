@@ -3,7 +3,7 @@ layout: song
 title: "What is this thing called love"
 composer: "Cole Porter"
 style: "Swing"
-play_count: 14
+play_count: 15
 hall_of_fame: true
 ready_rating: 0
 performances:
@@ -102,6 +102,13 @@ performances:
     url: ""
     episode: "299"
     episode_slug: "episode-299"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/20/2026"
+    url: ""
+    episode: "318"
+    episode_slug: "episode-318"
     tempo: ""
     notes: ""
     rerun: false

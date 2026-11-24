@@ -3,7 +3,7 @@ layout: song
 title: "Root Down (and Get it)"
 composer: "Jimmy Smith"
 style: "Funk"
-play_count: 10
+play_count: 11
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -74,6 +74,13 @@ performances:
     url: ""
     episode: "296"
     episode_slug: "episode-296"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/20/2026"
+    url: ""
+    episode: "318"
+    episode_slug: "episode-318"
     tempo: ""
     notes: ""
     rerun: false

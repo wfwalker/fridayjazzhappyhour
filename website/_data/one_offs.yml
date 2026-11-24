@@ -63,6 +63,11 @@
   composer: ""
   style: ""
   play_count: 1
+- title: "Angel Eyes closer oct 30"
+  slug: "angel-eyes-closer-oct-30"
+  composer: ""
+  style: ""
+  play_count: 1
 - title: "Antelope Valley closer"
   slug: "antelope-valley-closer"
   composer: ""
@@ -443,6 +448,11 @@
   composer: "Chick Corea"
   style: "ballad"
   play_count: 3
+- title: "Da Licenca"
+  slug: "da-licenca"
+  composer: ""
+  style: ""
+  play_count: 1
 - title: "DAWless closer"
   slug: "dawless-closer"
   composer: ""
@@ -540,6 +550,11 @@
   play_count: 1
 - title: "EuroRack Piano 3"
   slug: "eurorack-piano-3"
+  composer: ""
+  style: ""
+  play_count: 1
+- title: "eurorack sampler closer"
+  slug: "eurorack-sampler-closer"
   composer: ""
   style: ""
   play_count: 1
@@ -763,6 +778,11 @@
   composer: "Bill Walker"
   style: ""
   play_count: 1
+- title: "Lazy Song"
+  slug: "lazy-song"
+  composer: ""
+  style: ""
+  play_count: 1
 - title: "Lean on Me"
   slug: "lean-on-me"
   composer: "Bill Withers"
@@ -883,6 +903,11 @@
   composer: ""
   style: ""
   play_count: 3
+- title: "O Magnum Mysterium Nov 20"
+  slug: "o-magnum-mysterium-nov-20"
+  composer: ""
+  style: ""
+  play_count: 1
 - title: "O Nosso Amor"
   slug: "o-nosso-amor"
   composer: ""
@@ -975,6 +1000,11 @@
   play_count: 1
 - title: "piano and pad and euclid sequence"
   slug: "piano-and-pad-and-euclid-sequence"
+  composer: ""
+  style: ""
+  play_count: 1
+- title: "Piano Closer Oct 24"
+  slug: "piano-closer-oct-24"
   composer: ""
   style: ""
   play_count: 1
@@ -1182,7 +1212,7 @@
   slug: "surf-the-fog"
   composer: ""
   style: ""
-  play_count: 1
+  play_count: 2
 - title: "Surrey with the Fringe on Top"
   slug: "surrey-with-the-fringe-on-top"
   composer: "Hammerstein"

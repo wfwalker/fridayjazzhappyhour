@@ -3,7 +3,7 @@ layout: song
 title: "Here's that Rainy Day"
 composer: "Jimmy Van Heusen"
 style: "Ballad"
-play_count: 6
+play_count: 7
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -49,4 +49,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "11/13/2026"
+    url: ""
+    episode: "245"
+    episode_slug: "episode-245-rerun-11132026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

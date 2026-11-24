@@ -3,7 +3,7 @@ layout: song
 title: "Zero-Nineteen"
 composer: "Bill Walker"
 style: "Techno"
-play_count: 13
+play_count: 14
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -98,4 +98,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "10/23/2026"
+    url: ""
+    episode: "315"
+    episode_slug: "episode-315"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

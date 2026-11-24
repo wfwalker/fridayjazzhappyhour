@@ -3,7 +3,7 @@ layout: song
 title: "Saga of Harrison Crabfeathers"
 composer: "Steve Kuhn"
 style: "Swing"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -84,4 +84,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: false
+  - date: "11/13/2026"
+    url: ""
+    episode: "245"
+    episode_slug: "episode-245-rerun-11132026"
+    tempo: ""
+    notes: ""
+    rerun: true
 ---

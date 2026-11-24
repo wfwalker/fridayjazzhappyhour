@@ -3,7 +3,7 @@ layout: song
 title: "Poinciana"
 composer: "Nat Simon"
 style: "Techno"
-play_count: 17
+play_count: 18
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -123,6 +123,13 @@ performances:
     url: ""
     episode: "290"
     episode_slug: "episode-290"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/30/2026"
+    url: ""
+    episode: "316"
+    episode_slug: "episode-316"
     tempo: ""
     notes: ""
     rerun: false

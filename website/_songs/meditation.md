@@ -3,7 +3,7 @@ layout: song
 title: "Meditation"
 composer: "Antônio Carlos Jobim"
 style: "Latin"
-play_count: 9
+play_count: 10
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -70,4 +70,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "11/6/2026"
+    url: ""
+    episode: "317"
+    episode_slug: "episode-317"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

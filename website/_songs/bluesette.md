@@ -3,7 +3,7 @@ layout: song
 title: "Bluesette"
 composer: "Toots Thielemans"
 style: "Swing"
-play_count: 14
+play_count: 15
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -102,6 +102,13 @@ performances:
     url: ""
     episode: "296"
     episode_slug: "episode-296"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/30/2026"
+    url: ""
+    episode: "316"
+    episode_slug: "episode-316"
     tempo: ""
     notes: ""
     rerun: false

@@ -3,7 +3,7 @@ layout: song
 title: "Nightingale Sang in Berkeley Square"
 composer: "Maschwitz and Sherwin"
 style: "Ballad"
-play_count: 8
+play_count: 9
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -60,6 +60,13 @@ performances:
     url: ""
     episode: "291"
     episode_slug: "episode-291"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/23/2026"
+    url: ""
+    episode: "315"
+    episode_slug: "episode-315"
     tempo: ""
     notes: ""
     rerun: false

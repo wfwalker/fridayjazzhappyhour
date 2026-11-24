@@ -3,7 +3,7 @@ layout: song
 title: "People get Ready"
 composer: "Curtis Mayfield"
 style: "Pop"
-play_count: 4
+play_count: 5
 hall_of_fame: true
 ready_rating: 2
 performances:
@@ -32,6 +32,13 @@ performances:
     url: "https://youtu.be/kdS6Kai4KFk?t=2475"
     episode: "303"
     episode_slug: "episode-303"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/20/2026"
+    url: ""
+    episode: "318"
+    episode_slug: "episode-318"
     tempo: ""
     notes: ""
     rerun: false

@@ -3,7 +3,7 @@ layout: song
 title: "Soul Sauce"
 composer: "Cal Tjader"
 style: "Latin"
-play_count: 8
+play_count: 9
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -63,4 +63,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "10/16/2026"
+    url: ""
+    episode: "314"
+    episode_slug: "episode-314"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

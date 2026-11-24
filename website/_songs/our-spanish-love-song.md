@@ -3,7 +3,7 @@ layout: song
 title: "Our Spanish Love Song"
 composer: "Charlie Haden"
 style: "Latin"
-play_count: 3
+play_count: 4
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -25,6 +25,13 @@ performances:
     url: ""
     episode: "283"
     episode_slug: "episode-283"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/23/2026"
+    url: ""
+    episode: "315"
+    episode_slug: "episode-315"
     tempo: ""
     notes: ""
     rerun: false

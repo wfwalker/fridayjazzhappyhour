@@ -3,7 +3,7 @@ layout: song
 title: "Mo Better Blues"
 composer: "Branford Marsalis"
 style: "Pop"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -88,6 +88,13 @@ performances:
     url: ""
     episode: "299D"
     episode_slug: "episode-299d"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/6/2026"
+    url: ""
+    episode: "317"
+    episode_slug: "episode-317"
     tempo: ""
     notes: ""
     rerun: false

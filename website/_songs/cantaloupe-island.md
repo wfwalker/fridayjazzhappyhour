@@ -3,7 +3,7 @@ layout: song
 title: "Cantaloupe Island"
 composer: "Herbie Hancock"
 style: "Funk"
-play_count: 13
+play_count: 14
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -95,6 +95,13 @@ performances:
     url: ""
     episode: "295"
     episode_slug: "episode-295"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/30/2026"
+    url: ""
+    episode: "316"
+    episode_slug: "episode-316"
     tempo: ""
     notes: ""
     rerun: false

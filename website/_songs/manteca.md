@@ -3,7 +3,7 @@ layout: song
 title: "Manteca"
 composer: "Dizzy Gillespie"
 style: "Latin"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -91,4 +91,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "10/30/2026"
+    url: ""
+    episode: "316"
+    episode_slug: "episode-316"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

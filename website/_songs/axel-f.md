@@ -3,7 +3,7 @@ layout: song
 title: "Axel F"
 composer: "Harold Faltermeyer"
 style: "Funk"
-play_count: 12
+play_count: 13
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -88,6 +88,13 @@ performances:
     url: ""
     episode: "292"
     episode_slug: "episode-292"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "10/30/2026"
+    url: ""
+    episode: "316"
+    episode_slug: "episode-316"
     tempo: ""
     notes: ""
     rerun: false

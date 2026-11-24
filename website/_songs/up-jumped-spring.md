@@ -3,7 +3,7 @@ layout: song
 title: "Up Jumped Spring"
 composer: "Freddie Hubbard"
 style: "Swing"
-play_count: 6
+play_count: 7
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -46,6 +46,13 @@ performances:
     url: ""
     episode: "298"
     episode_slug: "episode-298"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/20/2026"
+    url: ""
+    episode: "318"
+    episode_slug: "episode-318"
     tempo: ""
     notes: ""
     rerun: false
