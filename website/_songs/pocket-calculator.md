@@ -3,7 +3,7 @@ layout: song
 title: "Pocket Calculator"
 composer: "Kraftwerk"
 style: "Techno"
-play_count: 13
+play_count: 14
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -98,4 +98,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "11/27/2026"
+    url: ""
+    episode: "319"
+    episode_slug: "episode-319"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

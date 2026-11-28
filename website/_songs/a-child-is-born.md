@@ -3,7 +3,7 @@ layout: song
 title: "A Child is Born"
 composer: "Thad Jones"
 style: "Latin"
-play_count: 11
+play_count: 12
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -81,6 +81,13 @@ performances:
     url: ""
     episode: "292"
     episode_slug: "episode-292"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/27/2026"
+    url: ""
+    episode: "319"
+    episode_slug: "episode-319"
     tempo: ""
     notes: ""
     rerun: false

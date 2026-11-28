@@ -3,7 +3,7 @@ layout: song
 title: "How Deep is the Ocean"
 composer: "Irving Berlin"
 style: "Ballad"
-play_count: 14
+play_count: 15
 hall_of_fame: true
 ready_rating: 5
 performances:
@@ -105,4 +105,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "11/27/2026"
+    url: ""
+    episode: "319"
+    episode_slug: "episode-319"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

@@ -3,7 +3,7 @@ layout: song
 title: "Viva La Money"
 composer: "Allen Toussaint"
 style: "Funk"
-play_count: 4
+play_count: 5
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -35,4 +35,11 @@ performances:
     tempo: ""
     notes: ""
     rerun: true
+  - date: "11/27/2026"
+    url: ""
+    episode: "319"
+    episode_slug: "episode-319"
+    tempo: ""
+    notes: ""
+    rerun: false
 ---

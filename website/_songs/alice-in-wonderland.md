@@ -3,7 +3,7 @@ layout: song
 title: "Alice in Wonderland"
 composer: "Sammy Fein"
 style: "Swing"
-play_count: 15
+play_count: 16
 hall_of_fame: true
 ready_rating: 4
 performances:
@@ -109,6 +109,13 @@ performances:
     url: ""
     episode: "299"
     episode_slug: "episode-299"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/27/2026"
+    url: ""
+    episode: "319"
+    episode_slug: "episode-319"
     tempo: ""
     notes: ""
     rerun: false

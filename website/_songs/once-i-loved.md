@@ -3,7 +3,7 @@ layout: song
 title: "Once I Loved"
 composer: "Antônio Carlos Jobim"
 style: "Bossa"
-play_count: 6
+play_count: 7
 hall_of_fame: true
 ready_rating: 3
 performances:
@@ -46,6 +46,13 @@ performances:
     url: ""
     episode: "299B"
     episode_slug: "episode-299b"
+    tempo: ""
+    notes: ""
+    rerun: false
+  - date: "11/27/2026"
+    url: ""
+    episode: "319"
+    episode_slug: "episode-319"
     tempo: ""
     notes: ""
     rerun: false
